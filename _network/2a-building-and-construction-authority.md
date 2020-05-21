@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Building & Construction Authority (BCA)
-permalink: /network/building&consutrction-authority
-breadcrumb: Network / Building & Construction Authority (BCA)
+title: Building & Construction Authority
+permalink: /network/building-construction-authority
+breadcrumb: Network / Building & Construction Authority
 collection_name: network
 second_nav_title: Public Agencies
 ---
@@ -12,4 +12,4 @@ second_nav_title: Public Agencies
 
 BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. Together with our partners, we work towards realising our vision of an advanced and integrated built environment sector, with widespread adoption of leading technologies, led by progressive and collaborative firms, offering good jobs for Singaporeans.
 
-[Learn more](http://www.bca.gov.sg/researchinnovation/BEAMP.html){:target="_blank"}
+[Learn more](https://www1.bca.gov.sg){:target="_blank"}

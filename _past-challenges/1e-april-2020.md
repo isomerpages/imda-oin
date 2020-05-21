@@ -6,6 +6,7 @@ breadcrumb: Past Challenges / April 2020
 collection_name: past-challenges
 second_nav_title: Past Challenges
 ---
+
 #### Decarbonizing Shipping Challenge 
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Cargill, DNV GL, Hafnia, Inmarsat, MC Shipping, Mitsubushi Corporation, Vale, Wilhelmsen</b></font>
