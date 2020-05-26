@@ -34,3 +34,4 @@ resources-subtitle: Insights
 resources-title: Stay updated on the latest Open Innovation happenings
 resources-more-button: Learn more
 resources-more-button-url: /insights/
+exclude: /insights/upcoming-events/
