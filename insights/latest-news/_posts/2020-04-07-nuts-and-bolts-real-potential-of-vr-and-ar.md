@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuts & Bolts—The Real Potential of Virtual and Augmented Reality  
+title: Nuts & Bolts — The real potential of virtual and augmented reality  
 date: 2020-04-07
 permalink: /insights/latest-news/real-potential-of-vr-ar/
 ---

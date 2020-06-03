@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cashing In On Singapore's Sustainability Technology Sector  
+title: Cashing in on Singapore's sustainability technology sector  
 date: 2020-03-13
 permalink: /insights/latest-news/cashing-in-on-singapores-sustainability-tech/
 ---

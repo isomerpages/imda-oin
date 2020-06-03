@@ -39,6 +39,6 @@ The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness 
 <b>Application Open Dates: 20 Sep 2019 to 31 Jan 2020</b>
 <font color="#a9a9a9"><b>HATCH</b></font>
 
-The Aquaculture Innovation Challenge organised by HATCH and Entreprise Singapore brings together industry partners, universities, government agencies and innovators to find technology solutions for key aquaculture problems. It aims to catapult Singapore to the forefront of tropical aquaculture innovation.
+The Aquaculture Innovation Challenge organised by HATCH and Enterprise Singapore brings together industry partners, universities, government agencies and innovators to find technology solutions for key aquaculture problems. It aims to catapult Singapore to the forefront of tropical aquaculture innovation.
 
 [Learn more](https://www.aic-singapore.com/){:target="_blank"}
