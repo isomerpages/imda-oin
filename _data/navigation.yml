@@ -32,8 +32,8 @@
     url: /insights/latest-news/
   - title: Upcoming Events
     url: /insights/upcoming-events/
-  - title: Success Stories
-    url: /insights/success-stories/
+- title: Success Stories
+  url: /insights/success-stories/
 - title: Resources
   url: /resources-main/
   sub-links: 
