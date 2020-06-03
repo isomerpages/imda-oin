@@ -29,14 +29,6 @@ info-sections:
     section-more-button-url: /ongoing-innovation-challenges/
     section-image-path: /images/ongoinginnovationcalls_2.jpg
     
-  - section-title: 
-    section-subtitle: Lorem ipsum dolor sit amet
-    section-description:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id faucibus magna. Duis pulvinar sit amet nisl non pellentesque. Nunc a imperdiet massa. Nulla sagittis odio leo, id ornare enim convallis id. Mauris eget accumsan lectus. Pellentesque nibh quam, aliquam vitae feugiat quis, hendrerit a odio. Morbi laoreet lorem sit amet est fermentum blandit.
-    section-more-button: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    external: false
-    section-more-button-url: /ongoing-innovation-challenges/
-    section-image-path: /images/professionalism.png
-    
 
 # Resources Section 
 resources-subtitle: Insights
