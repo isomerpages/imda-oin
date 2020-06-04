@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Energy Market Authority
+title: EMA
 permalink: /network/energy-market-authority
 breadcrumb: Network / Energy Market Authority
 collection_name: network
