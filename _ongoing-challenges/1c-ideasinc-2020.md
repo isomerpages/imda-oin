@@ -16,12 +16,10 @@ second_nav_title: Ongoing Challenges
 **Application Open Dates: 4 June 2020 to 10 August 2020**<br>
 <font color=" #a9a9a9"><b>NTUitive Pte Ltd</b></font>
 
-Challenge Description 	Ideasinc 2020 strives to be: 
+<b>Challenge Description 	Ideasinc 2020 strives to be: </b>
  
 •	a nationwide start-up challenge to groom promising ideas into viable businesses which addresses real market needs; 
-
 •	a major partner in the nation’s effort to promote and develop an entrepreneurial environment that will bring about significant economic and social development in Singapore though the success of homegrown enterprises; and<br>
-
 •platform for job creations and imparting of entrepreneurship skillsets
  
 <b>About the challenge this year</b>
