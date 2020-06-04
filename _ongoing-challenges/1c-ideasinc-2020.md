@@ -18,7 +18,7 @@ second_nav_title: Ongoing Challenges
 
 <b>Challenge Description 	Ideasinc 2020 strives to be: </b>
  
-•	a nationwide start-up challenge to groom promising ideas into viable businesses which addresses real market needs; 
+•	a nationwide start-up challenge to groom promising ideas into viable businesses which addresses real market needs;<br>
 •	a major partner in the nation’s effort to promote and develop an entrepreneurial environment that will bring about significant economic and social development in Singapore though the success of homegrown enterprises; and<br>
 •platform for job creations and imparting of entrepreneurship skillsets
  
