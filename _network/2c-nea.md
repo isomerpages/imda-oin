@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: National Environment Agency
+title: NEA
 permalink: /network/national-environment-agency
 breadcrumb: Network / National Environment Agency
 collection_name: network
