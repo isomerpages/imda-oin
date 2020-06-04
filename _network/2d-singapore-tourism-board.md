@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Singapore Tourism Board
+title: STB
 permalink: /network/singapore-tourism-board
 breadcrumb: Network / Singapore Tourism Board
 collection_name: network
