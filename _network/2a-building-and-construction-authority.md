@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Building & Construction Authority
+title: BCA
 permalink: /network/building-construction-authority
 breadcrumb: Network / Building & Construction Authority
 collection_name: network
