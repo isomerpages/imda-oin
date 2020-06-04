@@ -11,7 +11,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): -</b></font>
 
-[![1](/images/ongoing-challenges/IDEASINC-BANNER.jpg)](ttps://ideasinc.sg/)
+[![1](/images/ongoing-challenges/IDEASINC-BANNER.jpg)](https://ideasinc.sg/)
 
 **Application Open Dates: 4 June 2020 to 10 August 2020**<br>
 <font color=" #a9a9a9"><b>NTUitive Pte Ltd</b></font>
