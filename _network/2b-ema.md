@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Public Agencies
 ---
 
-<img src= "/images/partners/EMA_Logo.jpg" alt="1" style="width:400px;height:160.5px;margin-left:140px">
+<img src= "/images/partners/EMA_Logo.jpg" alt="1" style="width:400px;height:246px;">
 
 <h3>Energy Market Authority (EMA)</h3>
 
