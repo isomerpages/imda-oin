@@ -6,7 +6,10 @@ breadcrumb: Network / Padang & Co
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
+
+<a href="http://www.padang.co">
 <img src="/images/partners/padang&co logo_colour.png" alt="1" style="width:400px;height:175px">
+</a>
 
 <h3>Padang & Co</h3>
 

@@ -10,7 +10,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): K Line, Hapag-Lloyd, Ocean Network Express, Yusen Logistics</b></font>
 
-![1](/images/ongoing-challenges/O3 updated banner.png)
+[![1](/images/ongoing-challenges/O3 updated banner.png)](http://www.ooo.sg)
 
 **Application Open Dates: 26 February 2020 to 10 June 2020**<br>
 <font color="#a9a9a9"><b>Symphony Creative Solutions, NUS Enterprise, Padang & Co</b></font>

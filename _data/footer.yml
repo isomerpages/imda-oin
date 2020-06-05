@@ -26,20 +26,8 @@
 - title: Resources
   url: /resources-main/
   sub-links: 
-  - title: Centers of Innovation
-    url: /centers-of-innovation/
-  - title: Global Innovation Alliance
-    url: /global-innovation-alliance/
-  - title: Intellectual Property Office of Singapore
-    url: /intellectual-property-office-of-singapore/
-  - title: International Co-Innovation Programmes
-    url: /international-co-innovation-programmes/
-  - title: IPI Tech Marketplace
-    url: /ipi-tech-marketplace/
-  - title: Startup SG
-    url: /startup-sg/
-- title:   
-  url: 
+  - title: Network
+    url: /network/
 - title: Insights
   url: /insights/
   sub-links: 
@@ -49,6 +37,4 @@
     url: /insights/upcoming-events/
   - title: Success Stories
     url: /insights/success-stories/
-- title: Network
-  url: /network/
-  
+

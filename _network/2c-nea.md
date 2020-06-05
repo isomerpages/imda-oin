@@ -7,7 +7,9 @@ collection_name: network
 second_nav_title: Public Agencies
 ---
 
+<a href="https://www.nea.gov.sg/">
 <img src="/images/network/NEA Logo.jpg" alt="1" style="width:400px;height:160.5px;margin-left:140px">
+</a>
 
 <h3>National Environment Agency (NEA)</h3>
 

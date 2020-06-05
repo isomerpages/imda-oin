@@ -7,7 +7,9 @@ collection_name: network
 second_nav_title: Public Agencies
 ---
 
+<a href="https://www.tech.gov.sg">
 <img src= "/images/partners/GovTech-Logo.jpg" alt="1" style="width:400px;height:240x">
+</a>
 
 <h3>Government Technology Agency of Singapore (GovTech)</h3>
 
