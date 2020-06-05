@@ -10,6 +10,7 @@ second_nav_title: Ongoing Challenges
 #### AWS Hackdays Online 2020
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Amazon Web Services</b></font>
+
 [![1](/images/ongoing-challenges/AWS online_banner_desktop_main.png)](https://aws.agorize.com/en/challenges/singapore-2020)
 
 **Application Open Dates: 24 April 2020 to 19 July 2020**<br>
