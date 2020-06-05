@@ -6,7 +6,7 @@ breadcrumb: Network / Agorize
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
-<a href="https://www.agorize.com/en" target="_blank">
+<a href="https://www.agorize.com/en">
 <img src="/images/partners/Agorize Logo.png" alt="1" style="width:450px;height:120px">
 </a>
 
