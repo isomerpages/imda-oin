@@ -11,7 +11,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Energy Market Authority, Korea Institute of Energy Technology Evaluation and Planning</b></font>
 
-![1](/images/ongoing-challenges/EMA-Ketep.png)
+[![1](/images/ongoing-challenges/EMA-Ketep.png)](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf)
 
 
 **Application Open Dates: 8 May 2020 to 8 July 2020**<br>
