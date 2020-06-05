@@ -14,7 +14,7 @@ second_nav_title: Ongoing Challenges
 [![1](/images/ongoing-challenges/AppChallenge2020.png)](https://appchallenge.singaporeair.com/en/challenges/startup?lang=en)
 
 **Application Open Dates: 1 June 2020 to 12 July 2020**<br>
-<font color=" #a9a9a9"><b>Singapore Airlines</b></font>
+<font color=" #a9a9a9"><b>Agorize</b></font>
 
 The Singapore Airlines AppChallenge is back with its 6th edition! With 10 challenge statements across 6 themes featured this year, the airline is inviting innovators from all over the world to join forces with, to lead the change in the aviation and travel industry.
 

@@ -9,20 +9,12 @@ second_nav_title: Ongoing Challenges
 
 #### ideasinc 2020
 
-<font color="#a9a9a9"><b>Challenge Owner(s): -</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s): NTUitive </b></font>
 
 [![1](/images/ongoing-challenges/IDEASINC-BANNER.jpg)](https://ideasinc.sg/)
 
 **Application Open Dates: 4 June 2020 to 10 August 2020**<br>
 <font color=" #a9a9a9"><b>NTUitive Pte Ltd</b></font>
-
-<b>Challenge Description 	Ideasinc 2020 strives to be: </b>
- 
-•	a nationwide start-up challenge to groom promising ideas into viable businesses which addresses real market needs;<br>
-•	a major partner in the nation’s effort to promote and develop an entrepreneurial environment that will bring about significant economic and social development in Singapore though the success of homegrown enterprises; and<br>
-•platform for job creations and imparting of entrepreneurship skillsets
- 
-<b>About the challenge this year</b>
 
 Sustainable development is at the heart of the Singapore story and Singapore is often held up as an example of the plucky nation that survived and thrived despite having minimal resources. The tenacity of our people and steadfast thought-leadership is often cited as the reasons for our success.
 
