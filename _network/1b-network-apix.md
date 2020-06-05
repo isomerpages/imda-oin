@@ -6,6 +6,8 @@ breadcrumb: Network / APIX
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
+
+
 <a href="http://www.apixplatform.com/">
 <img src="/images/partners/APIX logo.JPG" alt="1" style="width:262px;height:265px">
 </a>
