@@ -26,6 +26,8 @@
 - title: Resources
   url: /resources-main/
   sub-links: 
+  - title: Network
+    url: /network/
   - title: Centers of Innovation
     url: /centers-of-innovation/
   - title: Global Innovation Alliance
@@ -49,6 +51,4 @@
     url: /insights/upcoming-events/
   - title: Success Stories
     url: /insights/success-stories/
-- title: Network
-  url: /network/
-  
+
