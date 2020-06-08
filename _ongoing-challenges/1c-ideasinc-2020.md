@@ -20,7 +20,7 @@ Sustainable development is at the heart of the Singapore story and Singapore is 
 
 Singapore was built by resilient and industrious people and our response to COVID-19 has demonstrated this. Businesses need to innovate to continue functioning in challenging circumstances. Work needs to be reimagined and reinvented using contemporary technologies.
 
- Inspired by the [United Nations Sustainable Development Goals](https://sustainabledevelopment.un.org/), ideasinc 2020 looks for challenges and solutions in the areas of crisis prevention, building a city of resilience and/or environmental sustainability. <br><br>
+ Inspired by the United Nations Sustainable Development Goals (https://sustainabledevelopment.un.org/), ideasinc 2020 looks for challenges and solutions in the areas of crisis prevention, building a city of resilience and/or environmental sustainability. <br><br>
 This is an excellent opportunity for budding entrepreneurs and companies to find ways to accelerate their growth and development as they seek profitable solutions to tackle issues faced by our nation and to scale their ideas and products to new markets.
  
 
