@@ -14,8 +14,8 @@ second_nav_title: Ongoing Challenges
 [![1](/images/ongoing-challenges/SPC2020.jpg)](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities)
 
 **Application Open Dates: 4 June 2020 to 10 August 2020**<br>
-<font color=" #a9a9a9"><b>Pier 71</b></font>
+<font color=" #a9a9a9"><b>PIER71</b></font>
 
- 17 innovation opportunities that address areas such as port operations, sea space and marine traffic management, fleet operations, maritime safety and security, as well as sustainability.
+17 innovation opportunities that address areas such as port operations, sea space and marine traffic management, fleet operations, maritime safety and security, as well as sustainability.
 
 [Learn more](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities){:target="_blank"}
