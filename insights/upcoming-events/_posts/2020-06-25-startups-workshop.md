@@ -4,14 +4,10 @@ title: "The Insider by 500 Startups: The CVC Way to Evaluating and Selecting the
 date: 2020-06-25
 permalink: /the-insider-by-500startups/
 ---
-
+<h3>The CVC Way to Evaluating and Selecting the Right Startups</h3><br>
 <a href="https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg">
 <img src="/images/success-stories/500startups workshop.jpg" alt="1" style="width:709px;height:354px;">
 </a>
-
-<h3>The CVC Way to Evaluating and Selecting the Right Startups</h3><br>
-
-
 <p align="justify"><b>On June 25th at 9am (GMT +8), hear first hand from our 500 Startups' experts on how to evaluate and select startups.</b><br><br>
 
 We will be sharing:
