@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Singapore Biggest Business, Tech & Entrepreneur Professional Network Soiree 
-date: 2020-02-18
-permalink: /the-insider-by-500startups
+title: "The Insider by 500 Startups:<br> The CVC Way to Evaluating and Selecting the Right Startups" 
+date: 2020-06-25
+permalink: /the-insider-by-500startups/
 ---
 
 <a href="https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg">
