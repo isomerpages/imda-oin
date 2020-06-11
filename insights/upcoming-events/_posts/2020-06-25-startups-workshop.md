@@ -20,4 +20,4 @@ We will be sharing:
 
 (2) How you too can use similar methods to conduct due diligence on startups who either want to partner with as a corporate innovation team, or invest in as a CVC.</p>
 
-[Learn more](https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg)
+[Learn more](https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg){:target="_blank"}
