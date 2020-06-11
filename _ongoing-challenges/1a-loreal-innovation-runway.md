@@ -10,8 +10,9 @@ second_nav_title: Ongoing Challenges
 #### L'Oréal Innovation Runway 2020
 
 <font color="#a9a9a9"><b>Challenge Owner(s): L'Oréal
+  
+[![1](/images/ongoing-challenges/SPC2020.jpg)](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities)
 
-[![1](/images/loreal banner.jpg)]
 
 **Application Open Dates: 8 June 2020 to 24 August 2020**<br>
 <font color=" #a9a9a9"><b>Agorize</b></font>
