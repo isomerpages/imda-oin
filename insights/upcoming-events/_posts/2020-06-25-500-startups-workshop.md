@@ -5,7 +5,7 @@ date: 2020-06-25
 permalink: /the-insider-by-500startups/
 ---
 
-<a href="https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg">
+<a href="https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg"
 <img src="/images/success-stories/500startups workshop.jpg" alt="1" style="width:709px;height:354px;">
 </a>
 
@@ -20,4 +20,4 @@ We will be sharing:
 
 (2) How you too can use similar methods to conduct due diligence on startups who either want to partner with as a corporate innovation team, or invest in as a CVC.</p>
 
-[Learn More](https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg){:target="_blank"}
+[Learn more](https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg){:target="_blank"}
