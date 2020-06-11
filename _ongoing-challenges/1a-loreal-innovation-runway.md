@@ -11,7 +11,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): L'Oréal
 
-![1](/images/loreal banner.jpg)
+[![1](/images/loreal banner.jpg)]
 
 **Application Open Dates: 8 June 2020 to 24 August 2020**<br>
 <font color=" #a9a9a9"><b>Agorize</b></font>
