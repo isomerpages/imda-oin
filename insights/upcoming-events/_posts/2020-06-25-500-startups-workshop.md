@@ -1,3 +1,10 @@
+---
+layout: post
+title: Singapore Biggest Business, Tech & Entrepreneur Professional Network Soiree 
+date: 2020-02-18
+permalink: /the-insider-by-500startups
+---
+
 <a href="https://us02web.zoom.us/webinar/register/7515918512435/WN_1sUimD6fQSaUxnL77OTlYg">
 <img src="/images/success-stories/500startups workshop.jpg" alt="1" style="width:709px;height:354px;">
 </a>
