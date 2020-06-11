@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: L'Oréal Innovation Runway 2020
+title: LOreal Innovation Runway 2020
 permalink: /loreal-innovation-runway-2020/
-breadcrumb: Ongoing Challenges / L'Oréal Innovation Runway 2020
+breadcrumb: Ongoing Challenges / LOreal Innovation Runway 2020
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
