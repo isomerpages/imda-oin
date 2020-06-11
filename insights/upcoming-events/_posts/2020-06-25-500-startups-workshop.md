@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Insider by 500 Startups:<br> The CVC Way to Evaluating and Selecting the Right Startups" 
+title: "The Insider by 500 Startups:<br>The CVC Way to Evaluating and Selecting the Right Startups" 
 date: 2020-06-25
 permalink: /the-insider-by-500startups/
 ---
