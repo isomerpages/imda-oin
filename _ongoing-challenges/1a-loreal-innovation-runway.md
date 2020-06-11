@@ -11,7 +11,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): L'Oréal
   
-[![1](/images/loreal banner.jpg)](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities)
+[![1](/images/loreal banner.jpg)](https://slingshot.agorize.com/en/challenges/lorealinnovationrunway)
 
 
 **Application Open Dates: 8 June 2020 to 24 August 2020**<br>
