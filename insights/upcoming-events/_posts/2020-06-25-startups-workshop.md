@@ -12,7 +12,7 @@ permalink: /the-insider-by-500startups/
 <h3>The CVC Way to Evaluating and Selecting the Right Startups</h3><br>
 
 
-<p align="justify"><b>On June 25th at 9am (GMT +8), hear first hand from our 500 Startups' experts on how to evaluate and select startups.</b>
+<p align="justify"><b>On June 25th at 9am (GMT +8), hear first hand from our 500 Startups' experts on how to evaluate and select startups.</b><br><br>
 
 We will be sharing:
 
