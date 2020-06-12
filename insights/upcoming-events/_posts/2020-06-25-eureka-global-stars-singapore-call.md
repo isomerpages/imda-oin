@@ -31,8 +31,9 @@ This year, the 2nd call will be open to all sectors, in order to support all goo
 
 
 <h4>ABOUT THE SPEAKERS</h4>
-<p align="justify">
+
 <b>Dora Meredith, Europe & Global Portfolio Manager, Innovate UK</b><br>
+<p align="justify">
 Dora works works closely with the European institutions to shape the future orientations of the EU’s innovation policy and programmes. She was also the call coordinator for the 2019 EUREKA GlobalStars-Singapore Call. Prior to this role, Dora worked for the Research Councils in the UK. 
 </p>
   
