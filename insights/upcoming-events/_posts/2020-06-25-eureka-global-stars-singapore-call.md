@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2nd EUREKA GlobalStars-Singapore Call<br>[Information Webinar]"
+title: 2nd EUREKA GlobalStars-Singapore Call<br>[Information Webinar]
 date: 2020-06-25
 permalink: /eureka-globalstars-singapore-call/
 ---
@@ -41,7 +41,7 @@ Ming Khai is responsible for developing platforms to promote collaborations betw
 Jonathan strengthens linkages and partnerships with leading global innovation hubs around the world. He was previously with the Ministry of Education, where he was instrumental in the start-up of the Singapore Institute of Technology.</p>
 
 <h2>FIND YOUR EUREKA PROJECT PARTNER</h2>
-
+<p align="justify">
 [EUREKA GlobalStars-Singapore Call – Virtual Marketplace](https://eureka-globalstars-singapore-open-competition.b2match.io)<br>
 If you would like to seek a Singapore/EUREKA project partner for this call, please visit the EUREKA GlobalStars-Singapore Call - Virtual Marketplace to post and search for project opportunities and connect with like-minded companies. B2B video meetings can be arranged between interested parties on the same platform. Click [here](https://eureka-globalstars-singapore-open-competition.b2match.io/signup) to sign up.
  
@@ -50,5 +50,5 @@ Check out some of the opportunities on the IPI Online Marketplace, subject to th
  
 [Enterprise Europe Network (EEN)](https://een.ec.europa.eu/partners)<br>
 Where available, country-specific technology partnership opportunities can also be found on [Enterprise Europe Network](https://een.ec.europa.eu/partners), subject to the eligibility criteria under the GlobalStars call.
-
+</p>
 [Learn more](https://register.gotowebinar.com/register/5652407166787516941){:target="_blank"}
