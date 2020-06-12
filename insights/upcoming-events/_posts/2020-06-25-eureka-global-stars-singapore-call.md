@@ -14,7 +14,7 @@ permalink: /eureka-globalstars-singapore-call/
 
 Are you keen to co-innovate and develop a new product or solution with strong market potential? 
 
-The [2nd EUREKA GlobalStars-Singapore Call](https://www.eurekanetwork.org/Singapore-Globalstars-call-project-2020) offers Singapore companies the opportunity to collaborate with companies from 14 EUREKA countries – Austria, Belgium, Canada, Estonia, Hungary, Netherlands, Poland, South Africa, South Korea, Spain, Switzerland, Turkey, the UK, and Ukraine – on joint innovation projects. As the world's largest network for international cooperation in research and development (R&D) and innovation, EUREKA aims to support market-oriented R&D and innovation projects across all technological sectors
+The ["2nd EUREKA GlobalStars-Singapore Call"](https://www.eurekanetwork.org/Singapore-Globalstars-call-project-2020) offers Singapore companies the opportunity to collaborate with companies from 14 EUREKA countries – Austria, Belgium, Canada, Estonia, Hungary, Netherlands, Poland, South Africa, South Korea, Spain, Switzerland, Turkey, the UK, and Ukraine – on joint innovation projects. As the world's largest network for international cooperation in research and development (R&D) and innovation, EUREKA aims to support market-oriented R&D and innovation projects across all technological sectors
 
 In 2019, the inaugural EUREKA GlobalStars-Singapore call funded a total of 17 projects, making it the most successful GlobalStars call out of the seven previous editions with other countries. 
 
@@ -42,13 +42,13 @@ Jonathan strengthens linkages and partnerships with leading global innovation hu
 
 <h2>FIND YOUR EUREKA PROJECT PARTNER</h2>
 
-[EUREKA GlobalStars-Singapore Call – Virtual Marketplace](https://eureka-globalstars-singapore-open-competition.b2match.io)
+[EUREKA GlobalStars-Singapore Call – Virtual Marketplace](https://eureka-globalstars-singapore-open-competition.b2match.io)<br>
 If you would like to seek a Singapore/EUREKA project partner for this call, please visit the EUREKA GlobalStars-Singapore Call - Virtual Marketplace to post and search for project opportunities and connect with like-minded companies. B2B video meetings can be arranged between interested parties on the same platform. Click [here](https://eureka-globalstars-singapore-open-competition.b2match.io/signup) to sign up.
  
-[IPI Online Marketplace](http://www.ipi-singapore.org/)
+[IPI Online Marketplace](http://www.ipi-singapore.org/)<br>
 Check out some of the opportunities on the IPI Online Marketplace, subject to the eligibility criteria. You can also [register](https://www.ipi-singapore.org/user/register) for a free IPI online account and login to submit your [tech offer](https://www.ipi-singapore.org/node/add/technology-offers) or [tech need](https://www.ipi-singapore.org/node/add/technology-needs) to post your technology partnership opportunity.
  
-[Enterprise Europe Network (EEN)](https://een.ec.europa.eu/partners)
+[Enterprise Europe Network (EEN)](https://een.ec.europa.eu/partners)<br>
 Where available, country-specific technology partnership opportunities can also be found on [Enterprise Europe Network](https://een.ec.europa.eu/partners), subject to the eligibility criteria under the GlobalStars call.
 
 [Learn more](https://register.gotowebinar.com/register/5652407166787516941){:target="_blank"}
