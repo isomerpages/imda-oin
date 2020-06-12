@@ -25,7 +25,7 @@ Eligibility, funding support details and application process for this call
 The EUREKA GlobalStars-Singapore Call’s Virtual Marketplace and business matching process</p>
 
 <h2>ABOUT THE SPEAKERS</h2>
-
+<p align="justify">
 <b>Dora Meredith, Europe & Global Portfolio Manager, Innovate UK</b><br>
 Dora works works closely with the European institutions to shape the future orientations of the EU’s innovation policy and programmes. She was also the call coordinator for the 2019 EUREKA GlobalStars-Singapore Call. Prior to this role, Dora worked for the Research Councils in the UK. 
   
