@@ -54,18 +54,20 @@ Jonathan strengthens linkages and partnerships with leading global innovation hu
 <h4>FIND YOUR EUREKA PROJECT PARTNER</h4>
 
 <p align="justify">
-<a href="https://eureka-globalstars-singapore-open-competition.b2match.io">EUREKA GlobalStars-Singapore Call Virtual Marketplace</a>
-<br>
+<b><a href="https://eureka-globalstars-singapore-open-competition.b2match.io">EUREKA GlobalStars-Singapore Call Virtual Marketplace</a>
+  </b><br>
 If you would like to seek a Singapore/EUREKA project partner for this call, please visit the EUREKA GlobalStars-Singapore Call - Virtual Marketplace to post and search for project opportunities and connect with like-minded companies. B2B video meetings can be arranged between interested parties on the same platform. Click <a href="https://eureka-globalstars-singapore-open-competition.b2match.io/signup">here</a> to sign up.
 </p>
 
 <p align="justify">
-<a href="http://www.ipi-singapore.org/">IPI Online Marketplace</a><br>
+  <b><a href="http://www.ipi-singapore.org/">IPI Online Marketplace</a></b>
+<br>
 Check out some of the opportunities on the IPI Online Marketplace, subject to the eligibility criteria. You can also <a href="https://www.ipi-singapore.org/user/register">register</a> for a free IPI online account and login to submit your <a href="https://www.ipi-singapore.org/node/add/technology-offers">tech offer</a> or <a href="https://www.ipi-singapore.org/node/add/technology-needs">tech need</a> to post your technology partnership opportunity.
 </p>
 
 <p align="justify">
-<a href="https://een.ec.europa.eu/partners">Enterprise Europe Network (EEN)</a><br>
+  <b><a href="https://een.ec.europa.eu/partners">Enterprise Europe Network (EEN)</a></b>
+  <br>
 Where available, country-specific technology partnership opportunities can also be found on <a href="https://een.ec.europa.eu/partners">Enterprise Europe Network</a>, subject to the eligibility criteria under the GlobalStars call.
 </p>
 
