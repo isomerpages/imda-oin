@@ -28,16 +28,16 @@ The EUREKA GlobalStars-Singapore Call’s Virtual Marketplace and business match
 
 <h2>ABOUT THE SPEAKERS</h2>
 
-<p align="justify"><img src="/images/Dora Meredith.jpg" alt="1" width="250" height="250">Dora Meredith, Europe & Global Portfolio Manager, Innovate UK
+<b>Dora Meredith, Europe & Global Portfolio Manager, Innovate UK</b><br>
 Dora works works closely with the European institutions to shape the future orientations of the EU’s innovation policy and programmes. She was also the call coordinator for the 2019 EUREKA GlobalStars-Singapore Call. Prior to this role, Dora worked for the Research Councils in the UK. 
-
-<img src="/images/Mike Timmermans.jpg" alt="1" width="250" height="250">Mike Timmermans, EUREKA NPC Chair (2019-2020), Netherlands Enterprise Agency
+  
+<b>Mike Timmermans, EUREKA NPC Chair (2019-2020), Netherlands Enterprise Agency</b><br>
 Mike Timmermans is NPC Chairman of the EUREKA network for innovation cooperation, consisting of 45 countries and the European Commission. He is the manager for international research and innovation cooperation of Netherlands Enterprise Agency. 
 
-<img src="/images/Lim Ming Khai.png" alt="1" width="250" height="250">Lim Ming Khai, Deputy Director, Intellectual Property Intermediary (IPI)
+<b>Lim Ming Khai, Deputy Director, Intellectual Property Intermediary (IPI)</b><br>
 Ming Khai is responsible for developing platforms to promote collaborations between technology seekers and technology providers through open innovation. He seeks partnerships with innovation networks and international marketplaces to expand IPI’s network.
 
-<img src="/images/Jonathan Lim.jpg" alt="1" width="250" height="250">Jonathan Lim, Director, Global Innovation Network, Enterprise Singapore
+<b>Jonathan Lim, Director, Global Innovation Network, Enterprise Singapore</b><br>
 Jonathan strengthens linkages and partnerships with leading global innovation hubs around the world. He was previously with the Ministry of Education, where he was instrumental in the start-up of the Singapore Institute of Technology.</p>
 
 
