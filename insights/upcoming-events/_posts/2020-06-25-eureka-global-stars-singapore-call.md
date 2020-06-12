@@ -42,6 +42,7 @@ Jonathan strengthens linkages and partnerships with leading global innovation hu
 
 <h2>FIND YOUR EUREKA PROJECT PARTNER</h2>
 <p align="justify">
+  
 [EUREKA GlobalStars-Singapore Call – Virtual Marketplace](https://eureka-globalstars-singapore-open-competition.b2match.io)<br>
 If you would like to seek a Singapore/EUREKA project partner for this call, please visit the EUREKA GlobalStars-Singapore Call - Virtual Marketplace to post and search for project opportunities and connect with like-minded companies. B2B video meetings can be arranged between interested parties on the same platform. Click [here](https://eureka-globalstars-singapore-open-competition.b2match.io/signup) to sign up.
  
