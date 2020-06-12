@@ -9,7 +9,7 @@ second_nav_title: Open Innovation Intermediaries
 
 
 <a href="http://www.hatch.blue/">
-<img src="/images/partners/HATCH Aquaculture Accelerator Logo.png" alt="1" style="width:450px;height:144px">
+<img src="/images/partners/HATCH Aquaculture Accelerator Logo.png" alt="1" style="width:819px;height:262px">
 </a>
 
 <h3>HATCH Aquaculture Accelerator</h3>
