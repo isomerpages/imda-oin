@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2nd EUREKA GlobalStars-Singapore Call [Information Webinar]
+title: "2nd EUREKA GlobalStars-Singapore Call [Information Webinar]"
 date: 2020-06-25
 permalink: /eureka-globalstars-singapore-call/
 ---
@@ -11,6 +11,7 @@ permalink: /eureka-globalstars-singapore-call/
 <p align="justify">
 Are you keen to co-innovate and develop a new product or solution with strong market potential? 
 <br>
+
 The [2nd EUREKA GlobalStars-Singapore Call](https://www.eurekanetwork.org/singapore-globalstars-call-project-2020) offers Singapore companies the opportunity to collaborate with companies from 14 EUREKA countries – Austria, Belgium, Canada, Estonia, Hungary, Netherlands, Poland, South Africa, South Korea, Spain, Switzerland, Turkey, the UK, and Ukraine – on joint innovation projects. As the world's largest network for international cooperation in research and development (R&D) and innovation, EUREKA aims to support market-oriented R&D and innovation projects across all technological sectors
 
 In 2019, the inaugural EUREKA GlobalStars-Singapore call funded a total of 17 projects, making it the most successful GlobalStars call out of the seven previous editions with other countries. 
