@@ -2,7 +2,7 @@
 layout: post
 title: "2nd EUREKA GlobalStars-Singapore Call [Webinar]"
 date: 2020-06-25
-permalink: /the-insider-by-500startups/
+permalink: /eureka-globalstars-singapore-call/
 ---
 <h3>EUREKA GlobalStars-Singapore Call </h3><br>
 
