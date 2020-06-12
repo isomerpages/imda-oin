@@ -58,4 +58,5 @@ Check out some of the opportunities on the IPI Online Marketplace, subject to th
 [Enterprise Europe Network (EEN)](https://een.ec.europa.eu/partners)<br>
 Where available, country-specific technology partnership opportunities can also be found on [Enterprise Europe Network](https://een.ec.europa.eu/partners), subject to the eligibility criteria under the GlobalStars call.
 </p>
+
 [Learn more](https://register.gotowebinar.com/register/5652407166787516941){:target="_blank"}
