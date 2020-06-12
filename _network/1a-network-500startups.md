@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
 <a href="https://ecosystems.500.co/">
-<img src="/images/partners/500.png" alt="1" style="width:176px;height:176px">
+<img src="/images/partners/500.png" alt="1" style="width:262px;height:262px">
 </a>
 
 <h3>500 Startups</h3> 
