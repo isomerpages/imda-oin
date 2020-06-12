@@ -20,7 +20,7 @@ In 2019, the inaugural EUREKA GlobalStars-Singapore call funded a total of 17 pr
 This year, the 2nd call will be open to all sectors, in order to support all good quality bottom-up joint innovation projects.
 </p>
 
-<h2>WEBINAR HIGHLIGHTS</h2>
+<h4>WEBINAR HIGHLIGHTS</h4>
 
 <p align="justify">
   <ul>
@@ -31,7 +31,7 @@ This year, the 2nd call will be open to all sectors, in order to support all goo
 </p>
 
 
-<h2>ABOUT THE SPEAKERS</h2>
+<h4>ABOUT THE SPEAKERS</h4>
 <p align="justify">
 <b>Dora Meredith, Europe & Global Portfolio Manager, Innovate UK</b><br>
 Dora works works closely with the European institutions to shape the future orientations of the EU’s innovation policy and programmes. She was also the call coordinator for the 2019 EUREKA GlobalStars-Singapore Call. Prior to this role, Dora worked for the Research Councils in the UK. 
@@ -45,7 +45,7 @@ Ming Khai is responsible for developing platforms to promote collaborations betw
 <b>Jonathan Lim, Director, Global Innovation Network, Enterprise Singapore</b><br>
 Jonathan strengthens linkages and partnerships with leading global innovation hubs around the world. He was previously with the Ministry of Education, where he was instrumental in the start-up of the Singapore Institute of Technology.</p>
 
-<h2>FIND YOUR EUREKA PROJECT PARTNER</h2>
+<h4>FIND YOUR EUREKA PROJECT PARTNER</h4>
   
 <a href="https://eureka-globalstars-singapore-open-competition.b2match.io">EUREKA GlobalStars-Singapore Call Virtual Marketplace</a>
 <p align="justify">
