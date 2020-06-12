@@ -34,14 +34,20 @@ This year, the 2nd call will be open to all sectors, in order to support all goo
 <p align="justify">
 <b>Dora Meredith, Europe & Global Portfolio Manager, Innovate UK</b><br>
 Dora works works closely with the European institutions to shape the future orientations of the EU’s innovation policy and programmes. She was also the call coordinator for the 2019 EUREKA GlobalStars-Singapore Call. Prior to this role, Dora worked for the Research Councils in the UK. 
+</p>
   
 <b>Mike Timmermans, EUREKA NPC Chair (2019-2020), Netherlands Enterprise Agency</b><br>
+<p align="justify">
 Mike Timmermans is NPC Chairman of the EUREKA network for innovation cooperation, consisting of 45 countries and the European Commission. He is the manager for international research and innovation cooperation of Netherlands Enterprise Agency. 
+</p>
 
 <b>Lim Ming Khai, Deputy Director, Intellectual Property Intermediary (IPI)</b><br>
+<p align="justify">
 Ming Khai is responsible for developing platforms to promote collaborations between technology seekers and technology providers through open innovation. He seeks partnerships with innovation networks and international marketplaces to expand IPI’s network.
+</p>
 
 <b>Jonathan Lim, Director, Global Innovation Network, Enterprise Singapore</b><br>
+<p align="justify">
 Jonathan strengthens linkages and partnerships with leading global innovation hubs around the world. He was previously with the Ministry of Education, where he was instrumental in the start-up of the Singapore Institute of Technology.</p>
 
 <h4>FIND YOUR EUREKA PROJECT PARTNER</h4>
