@@ -24,7 +24,7 @@ This year, the 2nd call will be open to all sectors, in order to support all goo
 
 <p align="justify">
   <ul>
-  <li>More about the growing collaboration between EUREKA and Singapore/li>
+  <li>More about the growing collaboration between EUREKA and Singapore</li>
   <li>Eligibility, funding support details and application process for this call</li>
   <li>The EUREKA GlobalStars-Singapore Call’s Virtual Marketplace and business matching process</li>
   </ul>
