@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2nd EUREKA GlobalStars-Singapore Call" <br> "[Information Webinar]"
+title: "2nd EUREKA GlobalStars-Singapore Call<br>[Information Webinar]"
 date: 2020-06-25
 permalink: /eureka-globalstars-singapore-call/
 ---
