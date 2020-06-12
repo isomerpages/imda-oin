@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 
 <a href="https://epic.ace.org.sg/ien">
-<img src="/images/partners/IEN by ACE.JPG" alt="1" style="width:450px;height:178px">
+<img src="/images/partners/IEN by ACE.JPG" alt="1" style="width:662px;height:262px">
 </a>
 
 <h3>Innovation Enablers Network by ACE</h3>

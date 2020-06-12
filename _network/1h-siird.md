@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 
 <a href="https://www.siird.com">
-<img src="/images/partners/SIIRD Logo.jpg" alt="1" style="width:450px;height:211px">
+<img src="/images/partners/SIIRD Logo.jpg" alt="1" style="width:558px;height:262px">
 </a>
 
 <h3>Singapore-Israel Industrial R&D Foundation (SIIRD)</h3>
