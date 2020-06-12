@@ -5,12 +5,10 @@ date: 2020-06-25
 permalink: /eureka-globalstars-singapore-call/
 ---
 <h3>EUREKA GlobalStars-Singapore Call</h3><br>
-
 <a href="https://register.gotowebinar.com/register/5652407166787516941">
 <img src="/images/2nd Eureka Globalstars-Singapore Call.png" alt="1" style="width:1000px;height:562px;">
-</a><br>
-
-<p align="justify"><b>Enterprise Singapore will be organising an information webinar on Thursday, 25 June 2020 from 4:00pm to 5:30pm (SG time) to share more information about this call, including details on funding support and how you can find project partners. Companies from Singapore and all 14 participating EUREKA countries are welcome to attend.</b><br><br>
+</a>
+<p align="justify"><b>Enterprise Singapore will be organising an information webinar on Thursday, 25 June 2020 from 4:00pm to 5:30pm (SG time) to share more information about this call, including details on funding support and how you can find project partners. Companies from Singapore and all 14 participating EUREKA countries are welcome to attend.</b><br>
 
 Are you keen to co-innovate and develop a new product or solution with strong market potential? 
 
