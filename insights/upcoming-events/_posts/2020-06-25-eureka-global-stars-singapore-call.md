@@ -8,21 +8,28 @@ permalink: /eureka-globalstars-singapore-call/
 <a href="https://register.gotowebinar.com/register/5652407166787516941">
 <img src="/images/2nd Eureka Globalstars-Singapore Call.png" alt="1" style="width:1000px;height:562px;">
 </a><b>Enterprise Singapore will be organising an information webinar on Thursday, 25 June 2020 from 4:00pm to 5:30pm (SG time) to share more information about this call, including details on funding support and how you can find project partners. Companies from Singapore and all 14 participating EUREKA countries are welcome to attend.</b><br>
-<p align="justify">
-Are you keen to co-innovate and develop a new product or solution with strong market potential? 
-<br>
 
+<h4>Are you keen to co-innovate and develop a new product or solution with strong market potential?</h4>
+
+<p align="justify">
+  
 The [2nd EUREKA GlobalStars-Singapore Call](https://www.eurekanetwork.org/singapore-globalstars-call-project-2020) offers Singapore companies the opportunity to collaborate with companies from 14 EUREKA countries – Austria, Belgium, Canada, Estonia, Hungary, Netherlands, Poland, South Africa, South Korea, Spain, Switzerland, Turkey, the UK, and Ukraine – on joint innovation projects. As the world's largest network for international cooperation in research and development (R&D) and innovation, EUREKA aims to support market-oriented R&D and innovation projects across all technological sectors
 
 In 2019, the inaugural EUREKA GlobalStars-Singapore call funded a total of 17 projects, making it the most successful GlobalStars call out of the seven previous editions with other countries. 
 
-This year, the 2nd call will be open to all sectors, in order to support all good quality bottom-up joint innovation projects.</p>
+This year, the 2nd call will be open to all sectors, in order to support all good quality bottom-up joint innovation projects.
+</p>
 
 <h2>WEBINAR HIGHLIGHTS</h2>
 
-<p align="justify">More about the growing collaboration between EUREKA and Singapore.
-Eligibility, funding support details and application process for this call
-The EUREKA GlobalStars-Singapore Call’s Virtual Marketplace and business matching process</p>
+<p align="justify">
+  <ul>
+  <li>More about the growing collaboration between EUREKA and Singapore/li>
+  <li>Eligibility, funding support details and application process for this call</li>
+  <li>The EUREKA GlobalStars-Singapore Call’s Virtual Marketplace and business matching process</li>
+  </ul>
+</p>
+
 
 <h2>ABOUT THE SPEAKERS</h2>
 <p align="justify">
@@ -39,6 +46,7 @@ Ming Khai is responsible for developing platforms to promote collaborations betw
 Jonathan strengthens linkages and partnerships with leading global innovation hubs around the world. He was previously with the Ministry of Education, where he was instrumental in the start-up of the Singapore Institute of Technology.</p>
 
 <h2>FIND YOUR EUREKA PROJECT PARTNER</h2>
+
 <p align="justify">
   
 [EUREKA GlobalStars-Singapore Call – Virtual Marketplace](https://eureka-globalstars-singapore-open-competition.b2match.io)<br>
