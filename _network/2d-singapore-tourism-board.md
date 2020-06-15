@@ -8,7 +8,7 @@ second_nav_title: Public Agencies
 ---
 
 <a href="http://www.sgtourismaccelerator.com/">
-<img src="/images/partners/STB logo high res.png" alt="1" style="width:338px;height:263px">
+<img src="/images/partners/STB logo.png" alt="1" style="width:338px;height:263px">
 </a>
 
 <h3>Singapore Tourism Board (STB)</h3>
