@@ -13,7 +13,7 @@ second_nav_title: Ongoing Challenges
 
 [![1](/images/ongoing-challenges/IDEASINC-BANNER.jpg)](https://ideasinc.sg/)
 
-**Application Open Dates: 4 June 2020 to 10 August 2020**<br>
+**Application Open Dates: 26 May 2020 to 20 July 2020**<br>
 <font color=" #a9a9a9"><b>NTUitive Pte Ltd</b></font>
 
 Sustainable development is at the heart of the Singapore story and Singapore is often held up as an example of the plucky nation that survived and thrived despite having minimal resources. The tenacity of our people and steadfast thought-leadership is often cited as the reasons for our success.
