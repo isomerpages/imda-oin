@@ -9,7 +9,7 @@ second_nav_title: Open Innovation Intermediaries
 
 <a href="www.apac-summit.com">
 <img src="/images/partners/Plug and Play.png
-" alt="1" style="width:1530px;height:200px">
+" alt="1" style="width:505px;height:66px">
 </a>
 
 <h3>Plug and Play</h3>
