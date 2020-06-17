@@ -20,7 +20,8 @@ The MAS Global FinTech Hackcelerator seeks innovative solutions for real-life bu
 
 (i) Responding to a global pandemic;<br>
 (ii) Green finance solutions;<br>
-(iii) Green finance enablers; and (iv) Sustainability<br>
+(iii) Green finance enablers; and<br>
+(iv)Sustainability<br>
 
 If your solution might be able to address one or more of the published problem statements, please send in your application by 30 June 2020.
 
