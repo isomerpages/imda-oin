@@ -14,5 +14,5 @@ second_nav_title: Open Innovation Intermediaries
 
 <h3>Plug and Play</h3>
 
-At Plug and Play, our core objective is to catalyze technological advancement. Over the past 12 years, we have built the largest innovation platform on the planet, bringing together startups, investors, and blue-chip corporations. We are now active in more than 30 locations globally, including U.S., China, Japan, France, Germany, The Netherlands, Singapore, Indonesia, and Thailand. We are experts in facilitating meaningful introductions, investing in startups, and bringing together key stakeholders into one world-changing network. 
+At Plug and Play, our core objective is to catalyze technological advancement. Over the past 12 years, we have built the largest innovation platform on the planet, bringing together startups, investors, and blue-chip corporations. We are now active in more than 30 locations globally, including U.S., China, Japan, France, Germany, The Netherlands, Singapore, Indonesia, and Thailand. We are experts in facilitating meaningful introductions, investing in startups, and bringing together key stakeholders into one world-changing network. <br>
 [Learn more](http://www.apac-summit.com){:target="_blank"}
