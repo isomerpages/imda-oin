@@ -20,11 +20,10 @@ In the context of the COVID-19 pandemic, the critical importance of financial he
 
 The UN Capital Development Fund (UNCDF) and MetLife Foundation, in partnership with the Singapore FinTech Festival, launched the COVID-19 Financial Health Challenge—a global initiative to help improve financial health and resilience during the current COVID-19 pandemic and beyond.
 
-The COVID-19 Financial Health Challenge invites digital innovation and solutions to improve financial health during the pandemic from companies all over the world. Shortlisted applicants in the Challenge will be invited to participate in a six-week programme. At the end of the programme, winning participants could expect to receive:
-•	financial support up to $110,000
-•	Technical assistance & mentors 
-•	The opportunity to present on a global platform 
-•	Assistance to piloting their product in China and Malaysia 
-
+The COVID-19 Financial Health Challenge invites digital innovation and solutions to improve financial health during the pandemic from companies all over the world. Shortlisted applicants in the Challenge will be invited to participate in a six-week programme. At the end of the programme, winning participants could expect to receive:<br>
+•	financial support up to $110,000<br>
+•	Technical assistance & mentors <br>
+•	The opportunity to present on a global platform <br>
+•	Assistance to piloting their product in China and Malaysia <br>
 
 [Learn more](https://hackathon.apixplatform.com/financialhealthchallenge/landing){:target="_blank"}
