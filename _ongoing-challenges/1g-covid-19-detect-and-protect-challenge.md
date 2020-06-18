@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: COVID19 Detect and Protect Challenge
+title: COVID-19 Detect and Protect Challenge
 permalink: /COVID-19-Detect-&-Protect-Challenge/
 breadcrumb: Ongoing Challenges / COVID19 Detect and Protect Challenge
 collection_name: ongoing-challenges
