@@ -4,7 +4,6 @@ title: Open Innovation Challenges
 permalink: /ongoing-innovation-challenges/
 breadcrumb: Ongoing Challenges
 collection_name: ongoing-national-innovation-challenges
-
 ---
 
 Looking for problem statements to address? Check out the ongoing open innovation challenges and stand a chance to testbed and validate your proposals with challenge owners within and beyond Singapore. 
