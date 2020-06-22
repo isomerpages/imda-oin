@@ -3,8 +3,8 @@ layout: leftnav-page-content
 title:  National Innovation Challenge 1
 permalink: /national-innovation-challenge-1/
 breadcrumb: National Innovation Challenge / National Innovation Challenge 1
-collection: ongoing-national-innovation-challenges
 second_nav_title: "National Innovation Challenges"
+collection: ongoing-national-innovation-challenges
 ---
 
 #### National Innovation Challenge #1
