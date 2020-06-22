@@ -49,5 +49,7 @@ collections:
     output: true
   network:
     output: true
+  ongoing-national-innovation-challenges:
+    output: true
 
 resources_name: insights
