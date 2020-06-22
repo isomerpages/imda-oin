@@ -13,6 +13,15 @@
     url: /about-esg-imda-collaboration/
   - title: Why Open Innovation?
     url: /why-open-innovation/
+# Test NIC
+- title:
+  url: /National Innovation Challenges/
+  sub-links: 
+    - title: Ongoing National Innovation Challenges
+      url: /ongoing-national-innovation-challenges/
+    - title: Past National Innovation Challenges
+      url: /past-national-innovation-challenges/
+# End Test NIC
 - title: Innovation Challenges
   url: /ongoing-innovation-challenges/
   sub-links: 
