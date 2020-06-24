@@ -35,17 +35,17 @@ Through our support, companies can defray development costs, reduce business ris
  
 <b>Automation and Productivity</b><br>
 <div id="problemstatement">
-<p><b>Challenge Statement 1 <br>Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</b><br>
+<p><b>Challenge Statement 1: <br>Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</b><br>
 </p>
 </div>
 
 <div id="problemstatement">
-<p><b>Challenge statement 2 <br>Extending productive hours for construction sites</b><br>
+<p><b>Challenge statement 2: <br>Extending productive hours for construction sites</b><br>
 </p>
 </div>
 
 <div id="problemstatement">
-<p><b>Challenge statement 3 <br>Augmenting safety inspections for building and/or infrastructure construction sites</b><br>
+<p><b>Challenge statement 3: <br>Augmenting safety inspections for building and/or infrastructure construction sites</b><br>
 </p>
 </div>
 
