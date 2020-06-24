@@ -298,30 +298,33 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $secondary;
 	}
+}
 	
 // Test Code
-	#problemstatement {
-		display: block;
-		border-width: 10px;
-		border-style: outset;
-		border-color: $secondary;
-		border-radius: 40px 0px 40px 0px;
-		box-sizing: content-box;
-		margin: 1.5rem auto;
-		width: 90%
-		
-		p { 
-		padding:2rem;
-		}
+.content #problemstatement {
+	display: block;
+	border-width: 10px;
+	border-style: outset;
+	border-color: $secondary;
+	border-radius: 40px 0px 40px 0px;
+	box-sizing: content-box;
+	margin: 1.5rem auto;
+	width: 90%
 			
-		&:hover {
-            	border-color: darken($secondary, 10%);
+	&:hover {
+		border-color: darken($secondary, 10%);
 		}
+		
+	p {
+	padding: 2rem;
 	}
+		
+}
+
 	
 // End Test Code
 	
-}
+
 
 // Media category buttons - not used now but will be used in the future
 
