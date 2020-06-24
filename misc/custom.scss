@@ -304,7 +304,7 @@ $desktop: 960px + (2 * $gap) !default;
 		display: block;
 		border-width: 10px;
 		border-style: outset;
-		border-color: #1C6EA4;
+		border-color: $secondary;
 		border-radius: 40px 0px 40px 0px;
 		box-sizing: content-box;
 		margin: 2rem auto;
@@ -314,7 +314,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 			
 		&:hover {
-            border-color: $secondary;
+            border-color: lighten($secondary, 10%);
 		}
 	}
 	
