@@ -1,4 +1,4 @@
-<!---
+
 ---
 layout: leftnav-page-content
 title: Challenge Title
@@ -22,5 +22,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 [Learn more](https://www.openinnovationnetwork.sg){:target="_blank"}
-
--->
