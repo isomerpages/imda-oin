@@ -11,7 +11,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): </b>Challenge Owner 1, Challenge Owner 2</font>
 
-[![1](/images/ongoing-challenges/OIN-logo.jpg)](https://www.openinnovationnetwork.sg)
+[![1](/images/OIN-logo.jpg)](https://www.openinnovationnetwork.sg)
 
 **Application Open Dates: 00 Month 2020 to 00 Month 2020**<br>
 
