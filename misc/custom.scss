@@ -298,10 +298,8 @@ $desktop: 960px + (2 * $gap) !default;
 	blockquote > ul {
 		color: $secondary;
 	}
-}
-	
 // Test Code
-.content #problemstatement {
+	#problemstatement {
 	display: block;
 	border-width: 10px;
 	border-style: outset;
@@ -310,10 +308,25 @@ $desktop: 960px + (2 * $gap) !default;
 	box-sizing: content-box;
 	margin: 1.5rem auto;
 	width: 90%
+	}
+// End of Test Code
+	
+}
+	
+// Test Code
+// .content #problemstatement {
+// 	display: block;
+// 	border-width: 10px;
+// 	border-style: outset;
+// 	border-color: $secondary;
+// 	border-radius: 40px 0px 40px 0px;
+// 	box-sizing: content-box;
+// 	margin: 1.5rem auto;
+// 	width: 90%
 			
-	&:hover {
-		border-color: darken($secondary, 10%);
-		}
+// 	&:hover {
+// 		border-color: darken($secondary, 10%);
+// 		}
 		
 }
 
