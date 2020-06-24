@@ -39,7 +39,7 @@ Through our support, companies can defray development costs, reduce business ris
 <p><b>Challenge Statement 1: <br>
 <a href="https://gov-pact.ipi-singapore.org/sites/default/files/Automation%20Statement%201_Inspection%20for%20Estate%20asset%20%28VISION%29_0.pdf">
 Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</b>
-</p></a>
+</a></p>
 </div>
   
 
