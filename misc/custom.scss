@@ -307,14 +307,14 @@ $desktop: 960px + (2 * $gap) !default;
 		border-color: $secondary;
 		border-radius: 40px 0px 40px 0px;
 		box-sizing: content-box;
-		margin: 2rem auto;
-		width: 80%;
+		margin: 1.5rem auto;
+		width: 90%;
 		
 		p { padding:2rem;
 		}
 			
 		&:hover {
-            border-color: darken($secondary, 20%);
+            border-color: darken($secondary, 10%);
 		}
 	}
 	
