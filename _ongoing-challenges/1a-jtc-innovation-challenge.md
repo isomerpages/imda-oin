@@ -15,7 +15,7 @@ second_nav_title: Ongoing Challenges
 
 **Application Open Dates: 23 June 2020 to 03 August 2020**<br>
 
-<font color=" #a9a9a9"><b>ESG</b></font>
+<font color=" #a9a9a9"><b>ESG, JTC</b></font>
 
 The COVID-19 pandemic has pushed businesses to pivot in order to adapt and evolve. Given the scale of infrastructure projects, the built environment industry is in a great position to tap on new solutions to transform. If you have fresh solutions to build smarter, faster and greener – JTC wants you!
 
