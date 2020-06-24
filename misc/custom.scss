@@ -308,7 +308,8 @@ $desktop: 960px + (2 * $gap) !default;
 		border-radius: 40px 0px 40px 0px;
 		box-sizing: content-box;
 		margin: 1.5rem auto;
-		width: 90%
+		width: 90%;
+		min-height: 3.5rem
 		
 		p { padding:2rem;
 		}
