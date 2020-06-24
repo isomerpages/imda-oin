@@ -318,10 +318,9 @@ $desktop: 960px + (2 * $gap) !default;
  		border-color: darken($secondary, 10%)
 		}
 	}
-	a.nostyle:link {
-   	text-decoration: inherit;
-  	color: inherit;
-  	cursor: auto;
+	
+	a{
+   	text-decoration: none;
 	}
 	
 // End of Test Code
