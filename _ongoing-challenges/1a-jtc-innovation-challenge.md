@@ -32,20 +32,19 @@ Through our support, companies can defray development costs, reduce business ris
   <li>Digitalisation of the build environment, easing the transition into using Building Information Mangement (BIM) Models and developing BIM-based solutions that address construction painpoints</li>
   <li>Sustainability and resilience, to reduce our carbon impact on the environment and improve our resilience to supply chain disruptions</li>
 </ul>
-
-
-<b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
  
 <b>Automation and Productivity</b><br>
 <div id="problemstatement">
 <p><b>Challenge Statement 1: Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</b><br>
-1. Viable solution that increases manpower productivity and
-safety – A solution that captures images/ shapes/ contours, identify
-and flag out fault conditions and automatically generating alerts and
-reports.
-2. Quick and accurate detection of faults and response time – The
-system shall reduce the reaction time between fault identification
-and rectification. </p>
+1.Estate inspection or fault identification currently requires manual
+scanning of assets conditions during drive through. The current
+inspection process is manual and labourious.
+When a fault is spotted, the officer has to look for a nearby safe spot to
+stop and park the vehicle before he/ she is able to conduct a more
+detailed assessment of the fault. After the drive through, the officer has
+to manually upload the photos, compile a report and send it to the
+respective coordinating agency. The process is time consuming and
+turnaround time to generate the report is rather long.</p>
 </div>
 
 <div id="problemstatement">
@@ -67,5 +66,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
 
 Briefing day 7 July 2020, 0900H to 1100H. [Register](https://form.gov.sg/5edf7083ea153a0011efd59d) your interest for the briefing 3 working days before the briefing , first come first served basis. 
+
+<b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge){:target="_blank"}
