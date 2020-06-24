@@ -313,14 +313,16 @@ $desktop: 960px + (2 * $gap) !default;
 	p {
 	padding: 2rem;
 		}
+	
+	a {
+	color: inherit;
+   	text-decoration: none;
+	}
+		
 		
 	&:hover {
  		border-color: darken($secondary, 10%)
 		}
-	}
-	
-	a{
-   	text-decoration: none;
 	}
 	
 // End of Test Code
