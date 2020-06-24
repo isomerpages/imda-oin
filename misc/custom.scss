@@ -301,13 +301,14 @@ $desktop: 960px + (2 * $gap) !default;
 	
 // Test Code
 	#problemstatement {
+		display: block;
 		border-width: 10px;
 		border-style: outset;
 		border-color: #1C6EA4;
 		border-radius: 40px 0px 40px 0px;
 		box-sizing: content-box;
 		width: 80%;
-		margin: 2rem
+		margin: 2rem auto
 		
 		p { padding:2rem;
 		}
