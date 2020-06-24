@@ -37,19 +37,21 @@ Through our support, companies can defray development costs, reduce business ris
 
 <div id="problemstatement">
   
-<p><b><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual">Challenge Statement 1: <br>
-Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)
+<p><b><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual">
+  Challenge Statement 1: <br>Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)
 </a></b></p>
 </div>
   
 <div id="problemstatement">
-<p><b>Challenge statement 2: <br>Extending productive hours for construction sites</b>
-</p>
+<p><b><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-extending-productive-hours-construction-sites">
+  Challenge statement 2: <br>Extending productive hours for construction sites
+</a></b></p>
 </div>
 
 <div id="problemstatement">
-<p><b>Challenge statement 3: <br>Augmenting safety inspections for building and/or infrastructure construction sites</b>
-</p>
+<p><b><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure">
+  Challenge statement 3: <br>Augmenting safety inspections for building and/or infrastructure construction sites
+</a></b></p>
 </div>
 
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
