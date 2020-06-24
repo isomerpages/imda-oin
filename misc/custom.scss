@@ -301,6 +301,10 @@ $desktop: 960px + (2 * $gap) !default;
 	
 	// Test Code
 	span {
+	border-width: 10px;
+	border-style: outset;
+	border-color: #1C6EA4;
+	border-radius: 40px 0px 40px 0px;
 		&:hover {
             border-color: $secondary;
             color: $secondary;
