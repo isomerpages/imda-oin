@@ -36,31 +36,17 @@ Through our support, companies can defray development costs, reduce business ris
 <b>Automation and Productivity</b><br>
 <div id="problemstatement">
 <p><b>Challenge Statement 1: Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</b><br>
-1.Estate inspection or fault identification currently requires manual
-scanning of assets conditions during drive through. The current
-inspection process is manual and labourious.
-When a fault is spotted, the officer has to look for a nearby safe spot to
-stop and park the vehicle before he/ she is able to conduct a more
-detailed assessment of the fault. After the drive through, the officer has
-to manually upload the photos, compile a report and send it to the
-respective coordinating agency. The process is time consuming and
-turnaround time to generate the report is rather long.</p>
+</p>
 </div>
 
 <div id="problemstatement">
-<p><b>Challenge Statement 2: Extending Productive Hours for Construction Sites</b><br>
-  
-1. There are many construction equipment and machinery that generates loud noises and also dust throughout the day such as hacking machines, concrete vibrators, electric generators, etc. Therefore, the productive hours of construction are limited to the day time to ensure nuisance is not caused to nearby neighbourhoods.
-2. Working extended hours (i.e. during the night) also poses safety hazards to workers. Safety monitoring tends to be more difficult and response to emergencies are slower in comparison to day operations.
-3. Continuing works after the usual hours in construction is expensive considering that the tasks are manpower-dependent hence costly.
-4. Robots may be a possible solution to overcome dependency on manpower during afterhours at site. Challenges in robot deployment on site includes human safety when working with robots, the dynamic environment of construction sites, and the lack of supporting infrastructure for construction robotics.
-5. The industry currently has low adoption of automated solutions due to cost and its complexity to deploy.</p>
+<p><b>Challenge statement 2: Extending productive hours for construction sites</b><br>
+</p>
 </div>
 
 <div id="problemstatement">
-<p><b>Problem Statement 2: Title 2</b><br>
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+<p><b>Challenge statement 3: Augmenting safety inspections for building and/or infrastructure construction sites</b><br>
+</p>
 </div>
 
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
