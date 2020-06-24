@@ -309,6 +309,9 @@ $desktop: 960px + (2 * $gap) !default;
 	margin: 1.5rem auto;
 	width: 90%;
 	
+	p {
+	padding: 2rem;
+		}
 	&:hover {
  		border-color: darken($secondary, 10%)
 		}
