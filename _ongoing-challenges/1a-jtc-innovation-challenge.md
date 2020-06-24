@@ -36,7 +36,7 @@ Through our support, companies can defray development costs, reduce business ris
 <b>Automation and Productivity</b><br>
 
 <div id="problemstatement">
-<p><b>Challenge Statement 1: <br>Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</b>
+<p><b>[Challenge Statement 1: <br>Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)](https://gov-pact.ipi-singapore.org/sites/default/files/Automation%20Statement%201_Inspection%20for%20Estate%20asset%20%28VISION%29_0.pdf)</b>
 </p>
 </div>
 
