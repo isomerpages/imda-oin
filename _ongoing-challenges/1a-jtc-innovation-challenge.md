@@ -37,6 +37,33 @@ Through our support, companies can defray development costs, reduce business ris
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
  
 <b>Automation and Productivity</b><br>
+<div id="problemstatement">
+<p><b>Challenge Statement 1: Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</b><br>
+1. Viable solution that increases manpower productivity and
+safety – A solution that captures images/ shapes/ contours, identify
+and flag out fault conditions and automatically generating alerts and
+reports.
+2. Quick and accurate detection of faults and response time – The
+system shall reduce the reaction time between fault identification
+and rectification. </p>
+</div>
+
+<div id="problemstatement">
+<p><b>Challenge Statement 2: Extending Productive Hours for Construction Sites</b><br>
+  
+1. There are many construction equipment and machinery that generates loud noises and also dust throughout the day such as hacking machines, concrete vibrators, electric generators, etc. Therefore, the productive hours of construction are limited to the day time to ensure nuisance is not caused to nearby neighbourhoods.
+2. Working extended hours (i.e. during the night) also poses safety hazards to workers. Safety monitoring tends to be more difficult and response to emergencies are slower in comparison to day operations.
+3. Continuing works after the usual hours in construction is expensive considering that the tasks are manpower-dependent hence costly.
+4. Robots may be a possible solution to overcome dependency on manpower during afterhours at site. Challenges in robot deployment on site includes human safety when working with robots, the dynamic environment of construction sites, and the lack of supporting infrastructure for construction robotics.
+5. The industry currently has low adoption of automated solutions due to cost and its complexity to deploy.</p>
+</div>
+
+<div id="problemstatement">
+<p><b>Problem Statement 2: Title 2</b><br>
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
+</div>
+
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
 
 Briefing day 7 July 2020, 0900H to 1100H. [Register](https://form.gov.sg/5edf7083ea153a0011efd59d) your interest for the briefing 3 working days before the briefing , first come first served basis. 
