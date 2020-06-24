@@ -307,6 +307,7 @@ $desktop: 960px + (2 * $gap) !default;
 		border-color: #1C6EA4;
 		border-radius: 40px 0px 40px 0px;
 		box-sizing: content-box;
+		margin: 0 auto;
 		width: 80%;
 		
 		p { padding:2rem;
