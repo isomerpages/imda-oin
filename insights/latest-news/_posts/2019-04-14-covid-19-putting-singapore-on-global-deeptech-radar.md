@@ -2,5 +2,5 @@
 layout: post
 title: Covid-19 putting Singapore on global deeptech radar
 date: 2020-04-14
-permalink: "https://www.bloomberg.com/news/articles/2020-06-20/singapore-plans-more-than-14-billion-to-super-charge-innovation"
+permalink: "https://www.edb.gov.sg/en/news-and-events/insights/innovation/covid-19-putting-singapore-on-global-deeptech-radar.html"
 ---
