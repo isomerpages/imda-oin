@@ -20,6 +20,17 @@ second_nav_title: Ongoing Challenges
 
 Under Singapore’s ongoing collaboration with the Republic of Korea to pursue and promote partnerships in the areas of smart grids and energy technologies, EMA and KETEP have launched the second EMA-KETEP Joint Grant Call. The problem statements under this grant call are: 
 
+
+<div id="problemstatement"><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual">
+<p><b>Challenge Statement 1: Enabling the use of hydrogen for power generation in Singapore and Korea.</b><br>
+The proposed solution, where applicable, shall address one or more of the following sub-problem statements:<br>
+i.	Safe and cost-effective technologies for storage, transportation and/or fuel delivery of hydrogen gas; and/or <br>
+ii.	Energy-efficient emissions-free pathways for hydrogen production, e.g. methane pyrolysis and water electrolysis.
+
+</p></a>
+</div>
+
+
 <b>a)	Enabling the use of hydrogen for power generation in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
 
 i.	Safe and cost-effective technologies for storage, transportation and/or fuel delivery of hydrogen gas; and/or <br>
