@@ -9,13 +9,13 @@ second_nav_title: Ongoing Challenges
 
 #### JTC Innovation Challenge
 
-<font color="#a9a9a9"><b>Challenge Owner(s): </b>JTC Corporation</font>
+<font color="#a9a9a9"><b>Challenge Owner(s): </b>JTC Corporation(JTC)</font>
 
 [![1](/images/ongoing-challenges/JTC-Innovation-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge)
 
 **Application Open Dates: 23 June 2020 to 03 August 2020**<br>
 
-<font color=" #a9a9a9"><b>Enterprise Singapore, JTC Corporation</b></font>
+<font color=" #a9a9a9"><b>Enterprise Singapore(ESG), JTC Corporation(JTC)</b></font>
 
 The COVID-19 pandemic has pushed businesses to pivot in order to adapt and evolve. Given the scale of infrastructure projects, the built environment industry is in a great position to tap on new solutions to transform. If you have fresh solutions to build smarter, faster and greener – JTC wants you!
 
