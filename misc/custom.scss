@@ -310,14 +310,15 @@ $desktop: 960px + (2 * $gap) !default;
 	width: 90%;
 	
 	p {
-	margin:auto 0;
+	margin:2rem 0 2rem 0;
+	padding: 0;
+	display: block;
 	min-height:6rem;
 		}
 	
 	a {
 	color: inherit;
    	text-decoration: none;
-	display: block
 	}
 		
 		
