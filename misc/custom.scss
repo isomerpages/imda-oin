@@ -309,10 +309,13 @@ $desktop: 960px + (2 * $gap) !default;
 	margin: 1.5rem auto;
 	width: 90%;
 	
+	
 	p {
 	margin:auto 0;
 	padding: 2rem;
+	min-height: 6rem;
 	display: block;
+	box-sizing: content-box;
 		}
 	
 	a {
