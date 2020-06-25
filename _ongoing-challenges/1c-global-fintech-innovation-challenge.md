@@ -15,7 +15,7 @@ Amundi, ANZ Singapore, Aviva Investors, AXA Insurance, AXA Investment Managers, 
 [![1](/images/ongoing-challenges/MAS-Global-Fintech-Innovation-Challenge.jpg)](https://hackathon.apixplatform.com/globalfintechhackcelerator/landing)
 
 **Application Open Dates: 8 June 2020 to 30 June 2020**<br>
-<font color=" #a9a9a9"><b>APIX</b></font>
+<font color=" #a9a9a9"><b>APIX,Monetary Authority of Singapore(MAS)</b></font>
 
 The MAS Global FinTech Hackcelerator seeks innovative solutions for real-life business challenges. This year, MAS has published 107 problem statements collected from the global financial sector across 4 categories: 
 
