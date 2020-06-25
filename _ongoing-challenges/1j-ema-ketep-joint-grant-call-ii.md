@@ -31,7 +31,8 @@ ii.	Energy-efficient emissions-free pathways for hydrogen production, e.g. metha
 </div>
 
 <div id="problemstatement"><a href="https://researchgrant.gov.sg/Pages/GrantCallDetailDocs.aspx">
-<p><b>Challenge Statement 2:<br>Facilitating the deployment of solar PV in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
+<p><b>Challenge Statement 2:<br>Facilitating the deployment of solar PV in Singapore and Korea.</b><br>
+The proposed solution, where applicable, shall address one or more of the following sub-problem statements:
 i.	Cost-effective grid integrated solar PV systems, e.g. portable PV; and/or<br>
 ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integrated/building-applied PV. 
 </p></a>
