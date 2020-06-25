@@ -23,18 +23,13 @@ Under Singapore’s ongoing collaboration with the Republic of Korea to pursue a
 
 <div id="problemstatement"><a href="https://researchgrant.gov.sg/Pages/GrantCallDetailDocs.aspx">
 <p><b>Challenge Statement 1:<br> Enabling the use of hydrogen for power generation in Singapore and Korea.</b><br>
-The proposed solution, where applicable, shall address one or more of the following sub-problem statements:<br>
-i.	Safe and cost-effective technologies for storage, transportation and/or fuel delivery of hydrogen gas; and/or <br>
-ii.	Energy-efficient emissions-free pathways for hydrogen production, e.g. methane pyrolysis and water electrolysis.
 
 </p></a>
 </div>
 
 <div id="problemstatement"><a href="https://researchgrant.gov.sg/Pages/GrantCallDetailDocs.aspx">
 <p><b>Challenge Statement 2:<br>Facilitating the deployment of solar PV in Singapore and Korea.</b><br>
-The proposed solution, where applicable, shall address one or more of the following sub-problem statements:<br>
-i.	Cost-effective grid integrated solar PV systems, e.g. portable PV; and/or<br>
-ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integrated/building-applied PV. 
+
 </p></a>
 </div>
 
