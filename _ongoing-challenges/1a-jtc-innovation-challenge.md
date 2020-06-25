@@ -43,11 +43,12 @@ Through our support, companies can defray development costs, reduce business ris
 </div>
  
 <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-extending-productive-hours-construction-sites">
-<div id="problemstatement">
-<p><b>
+  <div id="problemstatement">
+    <p><b>
   Challenge statement 2: <br>Extending productive hours for construction sites
-</b></p>
-</div></a>
+    </b></p>
+  </div>
+</a>
 
 <div id="problemstatement">
 <p><b><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure">
