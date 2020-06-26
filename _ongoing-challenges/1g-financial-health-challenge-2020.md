@@ -13,7 +13,7 @@ second_nav_title: Ongoing Challenges
 
 [![Financial Health Challenge](/images/ongoing-challenges/Financial-Health-Challenge.png)](https://hackathon.apixplatform.com/financialhealthchallenge/landing)
 
-**Application Open Dates: 29 May 2020 to 26 June 2020**<br>
+**Application Open Dates: 29 May 2020 to 04 Jul 2020**<br>
 <font color=" #a9a9a9"><b>APIX</b></font>
 
 In the context of the COVID-19 pandemic, the critical importance of financial health has become much more evident as the pandemic exposes and exacerbates the economic vulnerabilities of underserved communities in developing nations, and in particular the world’s least developed countries. 
