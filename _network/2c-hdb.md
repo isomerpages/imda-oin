@@ -8,7 +8,7 @@ second_nav_title: Public Agencies
 ---
 
 <a href="https://www.hdb.gov.sg/cs/infoweb/about-us/research-and-innovation/cool-ideas/cool-ideas-enterprise">
-<img src= "/images/partners/HDB-logo.jpg" alt="1" style="width:900px;height:219px;">
+<img src= "/images/partners/HDB-logo.jpg" alt="1" style="width:800px;height:195px;">
 </a>
 
 <h3>Housing & Development Board (HDB)</h3>
