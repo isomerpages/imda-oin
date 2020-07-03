@@ -18,10 +18,10 @@ second_nav_title: Public Agencies
 <br>
 HDB welcomes ideas from aspiring entrepreneurs and enterprises through Cool Ideas Enterprise, an open innovation platform for innovators to co-develop solutions that improve the living environment and residents' quality of life. We are interested in solutions in these areas: 
 <ul>
-  <li>Energy 
-  <li>Urban Greenery 
-  <li>Living Environment 
-  <li>Waste and Water 
-  <li>Building Technology  
+ <li>Energy</li>
+ <li>Urban Greenery</li> 
+ <li>Living Environment </li>
+ <li>Waste and Water </li>
+ <li>Building Technology </li> 
 </ul>
 [Learn more](https://www.hdb.gov.sg/cs/infoweb/about-us/research-and-innovation/cool-ideas/cool-ideas-enterprise){:target="_blank"}
