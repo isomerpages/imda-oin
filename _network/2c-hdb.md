@@ -14,7 +14,7 @@ second_nav_title: Public Agencies
 <h3>Housing & Development Board (HDB)</h3>
 
 The Housing & Development Board (HDB) is Singapore's public housing authority. We plan and develop Singapore's housing estates; building homes and transforming towns to create a quality living environment for all. We provide various commercial, recreational, and social amenities in our towns for our residents’ convenience. 
-<br>
+<br><br>
 HDB welcomes ideas from aspiring entrepreneurs and enterprises through Cool Ideas Enterprise, an open innovation platform for innovators to co-develop solutions that improve the living environment and residents' quality of life. We are interested in solutions in these areas: 
 <ul>
  <li>Energy</li>
