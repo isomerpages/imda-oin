@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Projects Opportunities Pitching Session:2nd GlobalStars-Singapore Call"
+title: "Projects Opportunities Pitching Session: 2nd EUREKA GlobalStars-Singapore Call"
 date: 2020-07-15
 permalink: /eureka-globalstars-singapore-call-pitching-session/
 ---
