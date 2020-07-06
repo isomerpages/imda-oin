@@ -20,7 +20,7 @@ Opportunities pitching by Singapore companies<br>
 Opportunities pitching by companies from the 14 participating countries.<br></p>
   <p style="text-align:center;">     
 If you are interested to participate in the pitching or listen to the pitches, please register via the respective links below:<br></p>
-  <p style="text-align:center;margin:auto;"> 
+  <p style="text-align:left;margin:auto;"> 
 •	Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSfuGCqmYF3P2imWU0I4out-3rMlfEas2KCvZH-p_CPVYzaBGQ/viewform">HERE</a> to pitch.<br>
 •	Register  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTtHXgWnXspwBTgrADpUxskSNiIGD1DvMN2WcD-Csae84FAg/viewform">HERE</a> attend the pitching sessions. <br>
  
