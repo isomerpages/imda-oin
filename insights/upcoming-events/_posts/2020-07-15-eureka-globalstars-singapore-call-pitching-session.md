@@ -6,7 +6,7 @@ permalink: /eureka-globalstars-singapore-call-pitching-session/
 ---
 <h3>EUREKA GlobalStars-Singapore Call</h3>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfTtHXgWnXspwBTgrADpUxskSNiIGD1DvMN2WcD-Csae84FAg/viewform">
-<img src="/images/GlobalStars-Singapore.jpg" alt="1" style="width:1000px;height:562px;">
+<img src="/images/GlobalStars-Singapore.jpg" alt="1" style="width:1027px;height:404px;">
 </a><b>Participate in the EUREKA GlobalStars-Singapore Call</b>
 <h4>Opportunities Pitching Sessions to find your Project Partner! </h4>
 
