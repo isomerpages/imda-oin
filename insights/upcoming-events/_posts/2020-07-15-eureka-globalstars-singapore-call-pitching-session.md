@@ -10,7 +10,7 @@ permalink: /eureka-globalstars-singapore-call-pitching-session/
 </a><b>Participate in the EUREKA GlobalStars-Singapore Call</b>
 <h4>Opportunities Pitching Sessions to find your Project Partner! </h4>
 
-<p align="justify">
+<p>
 To promote further matching beyond the EUREKA GlobalStars-Singapore Call <a href="https://eureka-globalstars-singapore-open-competition.b2match.io">Virtual Marketplace</a>, IPI, Enterprise Singapore, RTC North and partnering organisations will be organising the following online pitching sessions for companies that would like to seek a technology partner to collaborate with under this call. <br>
 •	15 July, Wed, 1600-1730 SGT / 1000-1130 CEST<br>
 Opportunities pitching by Singapore companies<br>
