@@ -15,7 +15,7 @@ google-analytics: UA-150355070-1
 # Hero Banner
 hero-title: Open Innovation Network
 hero-subtitle: Gateway to innovation challenges and latest happenings in Singapore
-hero-banner: /images/NIC-KV1.jpg
+hero-banner: /images/main-banner.jpg
 #Call to Action Button
 
     
@@ -35,7 +35,7 @@ info-sections:
     section-more-button: More About National Innovation Challenges
     external: false
     section-more-button-url: /ongoing-national-innovation-challenges/
-    section-image-path: /images/national-innovation-challenge-banner.jpg
+    section-image-path: /images/NIC-KV_2nd-cut-1.jpg
 # NIC Update
 
 # Resources Section 
