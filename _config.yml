@@ -26,7 +26,9 @@ future: true
 
 # Homepage sections
 homepage_hero_i_want_to: false
+homepage_programmes: true
 homepage_resources: true
+
 
 # Feedback Form URL
 feedback_form_url: "https://form.gov.sg/5dafaccfb9af8a0012722588"
