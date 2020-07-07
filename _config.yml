@@ -26,7 +26,6 @@ future: true
 
 # Homepage sections
 homepage_hero_i_want_to: false
-homepage_programmes: true
 homepage_resources: true
 
 
