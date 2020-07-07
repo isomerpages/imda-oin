@@ -5,3 +5,6 @@ description: Open Innovation Network (OIN) - Singapore's national gateway to ope
 permalink: /
 ---
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
+
+<!-- NIC Update -->
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt. for more information regarding National Innovation Challenges, please visit https://imda-oin-staging.netlify.app/ongoing-national-innovation-challenges/{:target="_blanck"}.
