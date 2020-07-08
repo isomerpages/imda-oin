@@ -29,13 +29,13 @@ info-sections:
     section-more-button-url: /ongoing-innovation-challenges/
     section-image-path: /images/ongoinginnovationcalls_2.jpg
 # NIC Update
-#   - section-title: 
-#     section-subtitle: National Innovation Challenge
-#     section-description:  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-#     section-more-button: More About National Innovation Challenges
-#     external: false
-#     section-more-button-url: /ongoing-national-innovation-challenges/
-#     section-image-path: /images/NIC-KV-Text.jpg
+  - section-title: 
+    section-subtitle: National Innovation Challenge
+    section-description:  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+    section-more-button: More About National Innovation Challenges
+    external: false
+    section-more-button-url: /ongoing-national-innovation-challenges/
+    section-image-path: /images/NIC-KV-Text.jpg
 # NIC Update
 
 # Resources Section 
