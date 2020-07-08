@@ -22,16 +22,16 @@ hero-banner: /images/NIC-KV-Text.jpg
 #   - text: National<br>Innovation Challenge
 #     url: /ongoing-national-innovation-challenges/
 
-key-highlights:
-  - title: National Innovation Challenge
-    url: /ongoing-national-innovation-challenges/
-    external: false
-  - title: Innovation Challenge
-    url: /ongoing-national-innovation-challenges/
-    external: false
-  - title: Frequently Asked Questions
-    url: /national-innovation-challenge-faq/
-    external: false
+# key-highlights:
+#   - title: National Innovation Challenge
+#     url: /ongoing-national-innovation-challenges/
+#     external: false
+#   - title: Innovation Challenge
+#     url: /ongoing-national-innovation-challenges/
+#     external: false
+#   - title: Frequently Asked Questions
+#     url: /national-innovation-challenge-faq/
+#     external: false
     
 # Info Sections
 info-sections:
