@@ -13,8 +13,8 @@ agency-logo: /images/OIN-logo.jpg
 google-analytics: UA-150355070-1
 
 # Hero Banner
-hero-title: 
-hero-subtitle: 
+hero-title: ""
+hero-subtitle: ""
 # hero-title: Open Innovation Network
 # hero-subtitle: Gateway to innovation challenges and latest happenings in Singapore
 hero-banner: /images/NIC-KV-Text.jpg
