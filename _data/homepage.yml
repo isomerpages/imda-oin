@@ -23,9 +23,9 @@ hero-banner: /images/main-banner.jpg
 #     url: /ongoing-national-innovation-challenges/
 
 key-highlights:
-  - title: National<br>Innovation Challenge
+  - title: National Innovation Challenge
     url: /ongoing-national-innovation-challenges/
-    external: true
+    external: false
 
     
 # Info Sections
