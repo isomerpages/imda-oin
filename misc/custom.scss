@@ -393,7 +393,7 @@ $desktop: 960px + (2 * $gap) !default;
 // NIC Update Remove Grey Overlay
 
 .bp-hero-body {
-    background: rgba(0,0,0,1);
+    background: rgba(0,0,0,0);
 }
 // NIC Update
 .is-centered {
