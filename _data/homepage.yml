@@ -18,9 +18,15 @@ hero-subtitle: Gateway to innovation challenges and latest happenings in Singapo
 hero-banner: /images/main-banner.jpg
 
 #Call to Action Button
-button:
-  - text: National<br>Innovation Challenge
+# button:
+#   - text: National<br>Innovation Challenge
+#     url: /ongoing-national-innovation-challenges/
+
+key-highlights:
+  - title: National<br>Innovation Challenge
     url: /ongoing-national-innovation-challenges/
+    external: true
+
     
 # Info Sections
 info-sections:
