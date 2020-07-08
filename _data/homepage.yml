@@ -13,11 +13,18 @@ agency-logo: /images/OIN-logo.jpg
 google-analytics: UA-150355070-1
 
 #Hero Banner
-hero-title: Open Innovation Network
-hero-subtitle: Gateway to innovation challenges and latest happenings in Singapore
-hero-banner: /images/NIC-KV_2nd-cut-1.jpg
-hero-button: National Innovation Challenge
-hero-url: /ongoing-national-innovation-challenges/
+- hero:
+    title: Open Innovation Network
+    subtitle: Gateway to innovation challenges and latest happenings in Singapore
+    background: /images/NIC-KV_2nd-cut-1.jpg
+    url: /ongoing-national-innovation-challenges/
+    button: National Innovation Challenge
+    
+# hero-title: Open Innovation Network
+# hero-subtitle: Gateway to innovation challenges and latest happenings in Singapore
+# hero-banner: /images/NIC-KV_2nd-cut-1.jpg
+# hero-button: National Innovation Challenge
+# hero-url: /ongoing-national-innovation-challenges/
 #Call to Action Button
 
     
