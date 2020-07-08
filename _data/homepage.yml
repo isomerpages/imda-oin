@@ -19,7 +19,7 @@ hero-banner: /images/NIC-KV_2nd-cut-1.jpg
 
 #Call to Action Button
 button:
-  - text: National Innovation Challenge
+  - text: National<br>Innovation Challenge
     url: /ongoing-national-innovation-challenges/
     
 # Info Sections
