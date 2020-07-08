@@ -25,11 +25,11 @@ hero-banner: /images/NIC-KV_2nd-cut-1.jpg
 key-highlights:
   - title: National Innovation Challenge
     url: /ongoing-national-innovation-challenges/
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     external: false
   - title: Innovation Challenge
     url: /ongoing-national-innovation-challenges/
-    subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     external: false
   - title: Frequently Asked Questions
     url: /national-innovation-challenge-faq/
