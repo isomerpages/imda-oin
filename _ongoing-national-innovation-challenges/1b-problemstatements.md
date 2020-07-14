@@ -18,10 +18,8 @@ ul{
   margin: 0;
   padding: 0;
 }
-label:hover{
-  background-color: darken(#E7131A, 10%);
-  
-}
+
+
 label{
   display: block;
   cursor: pointer;
