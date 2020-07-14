@@ -11,9 +11,6 @@ second_nav_title: Problem Statements
 .wrapper{
   margin: 10% auto;
   width: 400px;
-  color: #ffffff;
-  border-radius: 10px;
-  border: 2px solid #000000;
 }
 
 ul{
@@ -28,25 +25,19 @@ label{
   padding: 10px;
   border: 1px solid #fff;
   border-bottom: none;
+  background: #26C281
 }
 
-label:hover{
-  background-color: darken(#E7131A, 10%)
-}
 
 label.last{
   border-bottom: 1px solid #fff;
 }
 
 ul ul li{
-  list-style: none;
   padding: 10px;
-  background: #59ABE3;
+  background: #ffffff;
 }
 
-input[type="checkbox"]:not(:checked) ~ ul{
-  background: #E7131A;
-}
 
 input[type="checkbox"]{
   position: absolute;
@@ -69,6 +60,7 @@ input[type="checkbox"]:checked + label{
   background: #26C281;
   border-bottom: 1px solid #fff;
 }
+
 
 
 
