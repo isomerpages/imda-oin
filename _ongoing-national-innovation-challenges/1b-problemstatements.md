@@ -86,18 +86,14 @@ input[type="checkbox"]:checked + label{
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
     <ul>
-      <li>Open Sans</li>
-      <li>Roboto</li>
-      <li>Lato</li>
-      <li>Stabo</li>
-      <li>Oswald</li>
+      <li>Company Name</li>
+      <li>Description:</li>
     </ul>
-    
-    
-<!--   </li>
+   </li>
+  
   <li>
     <input type="checkbox" id="list-item-3">
-    <label for="list-item-3" class="last">Monospace</label>
+    <label for="list-item-3" class="last">Third PS</label>
     <ul>
       <li>Inconsolata</li>
       <li>Source Code Pro</li>
@@ -105,8 +101,7 @@ input[type="checkbox"]:checked + label{
       <li>Ubuntu Mono</li>
       <li>Cousine</li>
     </ul>
-  </li> -->
-    
-    
+  </li>
+  
 </ul>
 </div>
