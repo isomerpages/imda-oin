@@ -44,6 +44,9 @@ ul ul li{
   background: #59ABE3;
 }
 
+input[type="checkbox"]:not(:checked) ~ ul{
+  background: #E7131A;
+}
 
 input[type="checkbox"]{
   position: absolute;
