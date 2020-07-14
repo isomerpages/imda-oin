@@ -66,17 +66,13 @@ input[type="checkbox"]:checked + label{
   border-bottom: 1px solid #fff;
   
 }
-
-
-
-
 </style>
 
 <div class="wrapper">
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Automated Inspection of Shipping Containers at Container Depots</label>
+    <label for="list-item-1" class="first">Serif</label>
     <ul>
       <li>Slabo</li>
       <li>Droid Serif</li>
@@ -87,16 +83,18 @@ input[type="checkbox"]:checked + label{
   </li>
   <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
+    <label for="list-item-2">Sans Serif</label>
     <ul>
-      <li>Company Name</li>
-      <li>Description:</li>
+      <li>Open Sans</li>
+      <li>Roboto</li>
+      <li>Lato</li>
+      <li>Stabo</li>
+      <li>Oswald</li>
     </ul>
-   </li>
-  
+  </li>
   <li>
     <input type="checkbox" id="list-item-3">
-    <label for="list-item-3" class="last">Third PS</label>
+    <label for="list-item-3" class="last">Monospace</label>
     <ul>
       <li>Inconsolata</li>
       <li>Source Code Pro</li>
@@ -105,6 +103,5 @@ input[type="checkbox"]:checked + label{
       <li>Cousine</li>
     </ul>
   </li>
-  
 </ul>
 </div>
