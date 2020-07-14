@@ -7,10 +7,6 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Problem Statements
 ---
 <style>
-body{
-  color: #fff;
-  background: #3498db;
-}
 
 .wrapper{
   margin: 10% auto;
