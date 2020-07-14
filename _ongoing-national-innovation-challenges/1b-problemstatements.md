@@ -56,6 +56,7 @@ input[type="checkbox"] ~ ul{
 
 input[type="checkbox"]:checked ~ ul{
   height: 100%;
+  border-style: 2px solid;
   transform-origin: top;
   transition: transform .2s ease-out;
   transform: scaleY(1); 
