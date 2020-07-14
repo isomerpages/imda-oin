@@ -13,6 +13,8 @@ second_nav_title: Problem Statements
   width: 400px;
   background-color: $secondary;
   color: #ffffff;
+  border-radius: 10px;
+  border: 2px solid #000000;
 }
 
 ul{
