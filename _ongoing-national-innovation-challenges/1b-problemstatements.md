@@ -11,7 +11,7 @@ second_nav_title: Problem Statements
 .wrapper{
   margin: 10% auto;
   width: 400px;
-  background-color: $secondary;
+  background-color: #E7131A;
   color: #ffffff;
   border-radius: 10px;
   border: 2px solid #000000;
@@ -32,7 +32,7 @@ label{
 }
 
 label:hover{
-  background-color: darken($secondary, 10%)
+  background-color: darken(#E7131A, 10%)
 }
 
 label.last{
