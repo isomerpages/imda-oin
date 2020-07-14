@@ -9,10 +9,8 @@ second_nav_title: Problem Statements
 <style>
 
 .wrapper{
-  color: #ffffff;
   margin: 10% auto;
-  background: #E7131A;
-  border: 2px solid;
+  width: 400px;
 }
 
 ul{
@@ -29,13 +27,17 @@ label{
   border-bottom: none;
 }
 
+label:hover{
+  background: #26C281;
+}
+
 label.last{
   border-bottom: 1px solid #fff;
 }
 
 ul ul li{
-  list-style-type: none;
   padding: 10px;
+  background: #59ABE3;
 }
 
 
@@ -60,6 +62,7 @@ input[type="checkbox"]:checked + label{
   background: #26C281;
   border-bottom: 1px solid #fff;
 }
+
 
 </style>
 
