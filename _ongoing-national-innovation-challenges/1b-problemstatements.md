@@ -9,6 +9,7 @@ second_nav_title: Problem Statements
 <style>
 
 .wrapper{
+  list-style: none;
   margin: auto;
   width: 400px;
 }
