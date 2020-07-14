@@ -37,6 +37,7 @@ label.last{
 }
 
 ul ul li{
+  list-style-type:none;
   padding: 10px;
   background: #ffffff;
 }
