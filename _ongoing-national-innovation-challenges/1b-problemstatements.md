@@ -78,7 +78,7 @@ input[type="checkbox"]:checked + label{
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Serif</label>
+    <label for="list-item-1" class="first">Automated Inspection of Shipping Containers at Container Depots</label>
     <ul>
       <li>Slabo</li>
       <li>Droid Serif</li>
@@ -89,7 +89,7 @@ input[type="checkbox"]:checked + label{
   </li>
   <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Sans Serif</label>
+    <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
     <ul>
       <li>Open Sans</li>
       <li>Roboto</li>
@@ -97,7 +97,9 @@ input[type="checkbox"]:checked + label{
       <li>Stabo</li>
       <li>Oswald</li>
     </ul>
-  </li>
+    
+    
+<!--   </li>
   <li>
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3" class="last">Monospace</label>
@@ -108,6 +110,8 @@ input[type="checkbox"]:checked + label{
       <li>Ubuntu Mono</li>
       <li>Cousine</li>
     </ul>
-  </li>
+  </li> -->
+    
+    
 </ul>
 </div>
