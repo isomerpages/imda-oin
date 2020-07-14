@@ -28,7 +28,7 @@ label{
 }
 
 label:hover{
-  background: #26C281;
+  background: #E7131A;
 }
 
 label.last{
@@ -36,8 +36,8 @@ label.last{
 }
 
 ul ul li{
+  list-style-type: none;
   padding: 10px;
-  background: #59ABE3;
 }
 
 
