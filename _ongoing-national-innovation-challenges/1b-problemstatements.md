@@ -11,7 +11,6 @@ second_nav_title: Problem Statements
 .wrapper{
   color: #ffffff;
   margin: 10% auto;
-  width: 80%;
   background: #E7131A;
   border: 2px solid;
 }
