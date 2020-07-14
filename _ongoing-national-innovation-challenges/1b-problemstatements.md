@@ -41,6 +41,7 @@ label.last{
 ul ul li{
   list-style:none;
   padding: 10px;
+  color:#000000;
   background: #ffffff;
 }
 
