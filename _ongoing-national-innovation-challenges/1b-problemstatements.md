@@ -57,7 +57,7 @@ input[type="checkbox"] ~ ul{
 
 input[type="checkbox"]:checked ~ ul{
   height: 100%;
-  border-style: 2px solid;
+  border: 1px solid #fff;
   transform-origin: top;
   transition: transform .2s ease-out;
   transform: scaleY(1); 
@@ -66,6 +66,7 @@ input[type="checkbox"]:checked ~ ul{
 input[type="checkbox"]:checked + label{
   background: #E7131A;
   border-bottom: 1px solid #fff;
+  
 }
 
 
