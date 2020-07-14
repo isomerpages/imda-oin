@@ -72,18 +72,15 @@ input[type="checkbox"]:checked + label{
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Serif</label>
+    <label for="list-item-1" class="first">Problem statement 1</label>
     <ul>
       <li>Slabo</li>
-      <li>Droid Serif</li>
-      <li>Roboto Serif</li>
-      <li>Lora</li>
-      <li>Meriweather</li>
+
     </ul>
   </li>
   <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Sans Serif</label>
+    <label for="list-item-2">Problem statement 2</label>
     <ul>
       <li>Open Sans</li>
       <li>Roboto</li>
@@ -94,7 +91,7 @@ input[type="checkbox"]:checked + label{
   </li>
   <li>
     <input type="checkbox" id="list-item-3">
-    <label for="list-item-3" class="last">Monospace</label>
+    <label for="list-item-3" class="last">Problem statement 3</label>
     <ul>
       <li>Inconsolata</li>
       <li>Source Code Pro</li>
