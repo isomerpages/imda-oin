@@ -9,7 +9,7 @@ second_nav_title: Problem Statements
 <style>
 
 .wrapper{
-  margin: 10% auto;
+  margin: auto;
   width: 400px;
   color:#ffffff;
 }
