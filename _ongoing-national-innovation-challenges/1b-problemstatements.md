@@ -18,14 +18,17 @@ ul{
   margin: 0;
   padding: 0;
 }
-
+label:hover{
+  background-color: darken(#E7131A, 10%);
+  
+}
 label{
   display: block;
   cursor: pointer;
   padding: 10px;
   border: 1px solid #fff;
   border-bottom: none;
-  background: #26C281
+  background: #E7131A
 }
 
 
@@ -57,7 +60,7 @@ input[type="checkbox"]:checked ~ ul{
 }
 
 input[type="checkbox"]:checked + label{
-  background: #26C281;
+  background: #E7131A;
   border-bottom: 1px solid #fff;
 }
 
