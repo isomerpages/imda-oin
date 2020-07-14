@@ -9,13 +9,12 @@ second_nav_title: Problem Statements
 <style>
 
 .wrapper{
-  list-style: none;
   margin: auto;
   width: 400px;
 }
 
 ul{
-  list-style: none;
+  list-style-type: none;
   margin: 0;
   padding: 0;
 }
@@ -37,7 +36,7 @@ label.last{
 }
 
 ul ul li{
-  list-style:none;
+  list-style-type: none;
   padding: 10px;
   color:#000000;
   background: #ffffff;
