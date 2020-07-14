@@ -9,8 +9,11 @@ second_nav_title: Problem Statements
 <style>
 
 .wrapper{
+  color: #ffffff;
   margin: 10% auto;
-  width: 400px;
+  width: 80%;
+  background: #E7131A;
+  border: 2px solid;
 }
 
 ul{
@@ -25,10 +28,6 @@ label{
   padding: 10px;
   border: 1px solid #fff;
   border-bottom: none;
-}
-
-label:hover{
-  background: #E7131A;
 }
 
 label.last{
