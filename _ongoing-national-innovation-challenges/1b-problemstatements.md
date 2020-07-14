@@ -11,7 +11,6 @@ second_nav_title: Problem Statements
 .wrapper{
   margin: 10% auto;
   width: 400px;
-  background-color: #E7131A;
   color: #ffffff;
   border-radius: 10px;
   border: 2px solid #000000;
@@ -40,6 +39,7 @@ label.last{
 }
 
 ul ul li{
+  list-style: none;
   padding: 10px;
   background: #59ABE3;
 }
@@ -66,6 +66,7 @@ input[type="checkbox"]:checked + label{
   background: #26C281;
   border-bottom: 1px solid #fff;
 }
+
 
 
 </style>
