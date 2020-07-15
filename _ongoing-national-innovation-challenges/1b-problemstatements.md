@@ -40,9 +40,10 @@ Ever since the first cave paintings, buildings have also become objects or canva
 As more trees are planted in our garden city, more resources are required to maintain them. Thus, a solution is sought to safely and efficiently prune trees within our urban environment.
 <br><br>
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
+</li>
     </ul>
   </li>
-  <li>
+    <li>
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3" class="last">Reducing (Some problem statement) about Planes</label>
     <ul>
