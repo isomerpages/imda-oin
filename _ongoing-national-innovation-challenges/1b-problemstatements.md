@@ -7,6 +7,9 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
 ## Powered by National Innovation Challenge
+[![1](/images/TCC2019.jpg)](https://www.openinnovationnetwork.sg)
+
+TCC2019 calls to all local and foreign registered start-ups, SMEs, and students from local and foreign tertiary institutions eager to showcase innovation aimed at trade, logistics, supply chain and transport covering themes ranging from blockchain, resource optimisation, artificial intelligence and fintech.
 
 <div id="wrapper">
 <ul>
