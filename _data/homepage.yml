@@ -45,12 +45,12 @@ info-sections:
 # NIC Update
   - section-title: 
     section-subtitle: National Innovation Challenge
-    section-description:  The National Innovation Challenge (NIC) harnesses Singapore’s innovation capabilities to help businesses adapt to the New Normal. Building on existing innovation efforts from Enterprise Singapore’s Open Innovation Network (OIN), IMDA’s Open Innovation Platform (OIP) and the National Research Foundation, the NIC initiative provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment.
+    section-description:  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
     section-more-button: More About National Innovation Challenges
     external: false
     section-more-button-url: /ongoing-national-innovation-challenges/
     section-image-path: /images/NIC-Landing-page-banner.jpg
-    
+
  # NIC Update
 # Resources Section 
 resources-subtitle: Insights
