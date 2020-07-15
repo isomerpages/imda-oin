@@ -1,3 +1,4 @@
+<!--
 ---
 layout: leftnav-page-content
 title: IMDA Open Innovation Platform
@@ -47,4 +48,4 @@ Why blockchain? Blockchain may be viewed as a secondary source of funds. It is d
       </ul>
     </li>
   </ul>
-</div>
+</div> -->
