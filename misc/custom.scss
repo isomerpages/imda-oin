@@ -302,6 +302,7 @@ $desktop: 960px + (2 * $gap) !default;
 	p{
 	text-align: justify;
 	}
+	
 	#problemstatement {
 	display: block;
 	border-width: 10px;
@@ -342,6 +343,7 @@ $desktop: 960px + (2 * $gap) !default;
 		list-style-type: none;
 		margin: 0;
 		padding: 0;
+		text-align: justify;
 		}
 
 		label{
@@ -366,6 +368,7 @@ $desktop: 960px + (2 * $gap) !default;
 		color:#000000;
 		background: #ffffff;
 		padding: 3rem 1.5rem;
+		text-align: justify;
 		}
 		
 
