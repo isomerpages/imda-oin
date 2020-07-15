@@ -17,7 +17,7 @@ second_nav_title: Ongoing Challenges
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?</label>
     <ul>
-      <li><h4>IMDA</h4><br><b>What We Are Looking For</b>
+      <li><h4>Infocomm Media Development Authority(IMDA)</h4><br><b>What We Are Looking For</b>
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
@@ -29,16 +29,16 @@ The system should make provision for – a seamless check-in module and a real-t
   </li>
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Reducing (Some problem statement) about Buildings</label>
+    <label for="list-item-2">DIGITAL TOOL TO FACILITATE A COVID-SAFE, SMART AND INTEGRATED MANAGEMENT OF WORKSITE AND WORKFORCE</label>
     <ul>
-      <li><h4>  Dolor Sit Amet Pte Ltd (DSA Pte Ltd)</h4>A building, or edifice, is a structure with a roof and[1] walls standing more or less permanently in one place, such as a house or factory.[1] Buildings come in a variety of sizes, shapes, and functions, and have been adapted throughout history for a wide number of factors, from building materials available, to weather conditions, land prices, ground conditions, specific uses, and aesthetic reasons. To better understand the term building compare the list of nonbuilding structures.
+      <li><h4>Infocomm Media Development Authority(IMDA)</h4><b>WHAT ARE WE LOOKING FOR</b>
+A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: <br>
 
-Buildings serve several societal needs – primarily as shelter from weather, security, living space, privacy, to store belongings, and to comfortably live and work. A building as a shelter represents a physical division of the human habitat (a place of comfort and safety) and the outside (a place that at times may be harsh and harmful).
+•	Workforce management platform:<br>
+o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure<br>
+•	Operational planning platform:<br>
+o	This platform should be able to utilise input based on workforce availability status, on-site supply status to aid construction work planning in situations where there are potential disruptions.
 
-Ever since the first cave paintings, buildings have also become objects or canvasses of much artistic expression. In recent years, interest in sustainable planning and building practices has also become an intentional part of the design process of many new buildings.
-<br><br>
-
-As more trees are planted in our garden city, more resources are required to maintain them. Thus, a solution is sought to safely and efficiently prune trees within our urban environment.
 <br><br>
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
 </li>
