@@ -12,6 +12,7 @@ second_nav_title: Ongoing Challenges
 
 Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects startups with corporates to address challenges and showcase innovation in the aviation, maritime, land mobility, logistics and trade sectors. For this year’s TCC  several problem statements with wider industry relevance will be part of the newly launched National Innovation Challenge, which aims to help companies emerge stronger and address mid to longer term sectoral challenges in the post-COVID era. 
 <div id="wrapper">
+  <h4> Challenge Statements </h4>
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
