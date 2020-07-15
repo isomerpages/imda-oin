@@ -352,7 +352,6 @@ $desktop: 960px + (2 * $gap) !default;
 		padding: 10px;
 		border-bottom: none;
 		background-color: #E7131A;
-		border: 2px solid #a9a9a9;
 			
 			&:hover {
   			background-color: darken(#E7131A, 10%);
@@ -370,6 +369,7 @@ $desktop: 960px + (2 * $gap) !default;
 		background: #ffffff;
 		padding: 3rem 1.5rem;
 		text-align: justify;
+		border: 2px solid #a9a9a9;
 		}
 		
 
