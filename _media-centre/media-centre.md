@@ -1,6 +1,8 @@
 ---
-title: Media Centre
-permalink: /national-innovation-challenge-media-centre/
+title: Open Innovation Challenges
+permalink: /ongoing-innovation-challenges/
+breadcrumb: Ongoing Challenges
+collection_name: ongoing-challenges
 ---
 
 ## FAQ 
