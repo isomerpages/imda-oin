@@ -10,17 +10,6 @@ second_nav_title: Ongoing Challenges
 ## Powered by National Innovation Challenge
 [![1](/images/TCC2019.jpg)](https://www.openinnovationnetwork.sg)
 <br>
-The spread of Covid-19 has undoubtedly change the way that MICE events are organised. The introduction of social distancing measures, blanket regulation to cancel all mass gatherings and other necessary processes to ensure the safety of exhibitors and attendees, has negatively impacted MICE industry. Given how the MICE industry has always placed the safety and security of visitors, as well as the occupational safety and health of exhibitions during the planning and staging of events, it is imperative that the MICE industry is thus, given the security of planning to re-open in a phased manner, to reconnect and rebuild the businesses in this period of economic stagnation.
-
-There is an urgent need to come up with solutions that place an over and above measures, that will allow MICE events to still carry on safely in a post Covid-19 world, taking into consideration the comfort and experience of the end user. In particular, being able to ensure a safe environment via a robust and seamless check-in process that facilitates information capture for future contact tracing, an integrated communications platform and a real-time density detection system, is key to build customer confidence and bring back international visitors. 
-
-Exhibitions and events industry bring people together to do business. They are the marketplaces, the meeting places for entire industries – regionally, nationally, and internationally, to do business, build connections and grow sales channels. 
-
-Thus, SACEOS is looking to quickly build and deploy a control platform that will address the key safety criteria for events to be trusted and held responsibly, thereby re-attracting visitors for tradeshows, conferences, business and consumer events. The platform should integrate a seamless screening process during check-in of registered guests with relevant data captured for future contact tracing and employ real-time density detection and alert features to ensure social-distancing is kept, so as to minimise crowding at hot spots, in particular at food lines, keynote halls, workshop areas, etc. It should also remove or minimise the burden of data protection and create a manipulation-proof list of participants, when required. 
-
-In doing so, it hopes to position Singapore as a safe place to conduct business and build confidence in the local and international community to go for events in Singapore. It also hopes to spark a revival of the events industry and its value chain and potentially contribute to a common standard for MICE businesses to align to around safety regulations & best practices with regards to Covid-19.
-
-This challenge is supported by SACEOS, the trade association of the meetings, incentives, conventions and exhibitions (MICE) industry in Singapore. Its mission includes setting the direction for the growth and development of the MICE industry, promoting best practices and standards and enhancing the infrastructure and capabilities of the MICE industry in Singapore. The role of SACEOS in bringing together industry members to re-think how MICE events are conducted, is especially critical today as many MICE businesses look for solutions to adapt to a post Covid-19 world. 
 
 <div id="wrapper">
 <ul>
@@ -33,18 +22,8 @@ A prototype solution to create a control system for MICE event organisers that w
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
 <br><br>
-        <b>Check-in Module</b><br><br>
-The check-in module aims to safely screen all participants at a MICE event, ensuring as much as possible that those who are present are well and do not carry the Corona virus or are symptomatic. The system should also facilitate the provision of necessary information to the relevant authorities to aid in contact tracing should the need arises. 
-<br><br>
-The solution should consider for the following factors in proposing the solution:<br>
-•	Event organiser is able to monitor registration of all participants and cap and control attendance when necessary. The system should be able to generate a manipulation-proof list of participants, ensuring credibility of its data. <br>
-•	Event organiser is able to set up external and internal checkpoints to manage flow and density of visitors. Besides controlling access at the entrance/exit, the system should also cater for check-in/ check/out functions at internal rooms and spaces.<br>
-•	Event organiser is able to use the system for incident handling and reporting<br>
-•	Event participant can register for an event online and seamlessly provide the necessary details for contact tracing purposes. At key pre-determined areas in the event space (E.g., workshop rooms), the system automatically detects when check-in and check-out happens. This data needs to be easily extractable and in a rapid way, to inform any action that is necessary. <br>
-•	Event participants (visitor and exhibitor) receive guidance and assurance about control measures upon registration and are reminded during check-in.<br>
-•	Push registration - log into the system
-<br><br>
-<a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
+
+<a href="/national-innovation-challenge/imda-national-innovation-challenge/problem-statement-1" target="_blank" >Learn More</a>
 </li>
     </ul>
   </li>
