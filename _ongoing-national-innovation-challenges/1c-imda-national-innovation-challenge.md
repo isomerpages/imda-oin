@@ -35,7 +35,7 @@ The system should make provision for – a seamless check-in module and a real-t
     <ul>
       <li><h4>Building and Construction Authority (BCA), KAJIMA Group</h4><br>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <br><br><b>What We Are Looking For</b><br><br>
 A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: 
-
+<br>
 •	Workforce management platform:<br>
 o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure<br>
 •	Operational planning platform:<br>
