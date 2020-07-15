@@ -6,67 +6,7 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
 #### Trade & Connectivity Challenge 2020
-<style>
-.wrapper{
-  margin: auto;
-  width: 800px;
-  color:#ffffff;
-}
 
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-
-label{
-  display: block;
-  cursor: pointer;
-  padding: 10px;
-  border: 1px solid #fff;
-  border-bottom: none;
-  background: #E7131A
-}
-
-
-label.last{
-  border-bottom: 1px solid #fff;
-}
-
-ul ul li{
-  list-style-type: none;
-  padding: 0;
-  color:#000000;
-  background: #ffffff;
-  margin:0;
-}
-
-
-input[type="checkbox"]{
-  position: absolute;
-  left: -9999px;
-}
-
-input[type="checkbox"] ~ ul{
-  height: 0;
-  transform: scaleY(0);
-}
-
-input[type="checkbox"]:checked ~ ul{
-  height: 100%;
-  border: 1px solid #fff;
-  transform-origin: top;
-  transition: transform .2s ease-out;
-  transform: scaleY(1); 
-}
-
-input[type="checkbox"]:checked + label{
-  background: #E7131A;
-  border-bottom: 1px solid #fff;
-  
-}
-</style>
 
 <div class="wrapper">
 <ul>
