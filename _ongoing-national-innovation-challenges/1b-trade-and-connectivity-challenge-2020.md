@@ -29,21 +29,21 @@ Other challenges include inspection of the undersides of container surfaces whic
 The solution sought should be able to inspect the container autonomously or remotely, effectively detect, assess and classify the defects on containers and tag the findings to the containers based on their identification numbers. Ideally, the number of surveyors required per inspection yard should be reduced to 1 – 2. 
 <br><br>
 <a href="/national-innovation-challenge/imda-national-innovation-challenge/problem-statement-1" target="_blank" >Learn More</a>
-</li>
-    </ul>
-  </li>
+      </li>
+     </ul>
+   </li>
     <li>
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
-    <ul>
-      <li><b><h4>GeTS Asia Pte Ltd</h4><h4>What We Are Looking For</h4></b>
+      <ul>
+        <li><b><h4>GeTS Asia Pte Ltd</h4><h4>What We Are Looking For</h4></b>
 GeTS support the digital logistics space for Small & Medium Enterprises (SMEs) and Freight Forwarders (FFs). We aim to cover the purchasing and financing segment of the supply chain, and automate this segment with blockchain.
 <br><br>
 Why blockchain? Blockchain may be viewed as a secondary source of funds. It is decentralized, transparent, and it has smart contracts to enable auto-disbursements. Global trade financing is a wide and massive market, however it is highly dependent on human intervention and is not yet technologically advanced. It is not uncommon to find a long wait of customers often encountering rejection or no-response. It is largely a traditional industry, held back by slow and manual processes.
 <br><br>
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
-</li>
-    </ul>
-  </li>
+        </li>
+      </ul>
+    </li>
   </ul>
 </div>
