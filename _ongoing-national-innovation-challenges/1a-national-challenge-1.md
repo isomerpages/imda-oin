@@ -42,7 +42,6 @@ Through our support, companies can defray development costs, reduce business ris
         <ul>
           <li><b><h4>JTC Corporation (JTC)</h4></b>Estate inspection or fault identification currently requires manual scanning of assets conditions during drive through. The current inspection process is manual and laborious. When a fault is spotted, the officer has to look for a nearby safe spot to stop and park the vehicle before he/ she is able to conduct a more detailed assessment of the fault. After the drive through, the officer has to manually upload the photos, compile a report and send it to the respective coordinating agency. The process is time consuming and turnaround time to generate the report is rather long.
 <h5>What We Are Looking For</h5>
-
 1. Viable solution that increases manpower productivity and safety – A solution that captures images/ shapes/ contours, identify and flag out fault conditions and automatically generating alerts and reports.<br>
 2. Quick detection of faults and response time – The system shall reduce the reaction time between fault identification and rectification.<br><br>
 
@@ -55,7 +54,7 @@ Through our support, companies can defray development costs, reduce business ris
     <label for="list-item-2">Augmenting safety inspections for building and/or infrastructure construction sites</label>
       <ul>
         <li><b><h4>JTC Corporation (JTC)</h4></b>Noise restrictions, for workers’ welfare and nuisance control, limit the operating hours on a construction site. By exploring solutions that enable remote controlled or highly automated operations of various quiet construction tasks, construction can continue within the restricted noise levels after the traditional “noisy hours”. The construction site productivity can be improved without compromising worker welfare and affecting nearby users/residents.
-          <h5>What We Are Looking For</h5>
+<h5>What We Are Looking For</h5>
 1. Construction site can continue to be productive afterhours while ensuring minimal noise and dust generation.<br>
 2. Increase manpower productivity by at least 100% or reduce labour reliance by 50% during afterhours work at the construction site.<br>
 3. Proposed solution is cost effective in comparison to conventional methods.<br>
@@ -70,10 +69,8 @@ Through our support, companies can defray development costs, reduce business ris
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3">Augmenting safety inspections for building and/or infrastructure construction sites</label>
       <ul>
-        <li><b><h4>JTC Corporation (JTC)</h4></b>Construction industry is one of the most high-risk work environment, with higher fatality rate than most industries. According to the published Workplace Safety and Health Report from MOM, 13 workplace fatal injuries and 596 major injuries occurred in the Construction Industry in 2019.
-          
-          <h5>What We Are Looking For</h5>
-          
+        <li><b><h4>JTC Corporation (JTC)</h4></b>Construction industry is one of the most high-risk work environment, with higher fatality rate than most industries. According to the published Workplace Safety and Health Report from MOM, 13 workplace fatal injuries and 596 major injuries occurred in the Construction Industry in 2019.  
+<h5>What We Are Looking For</h5>      
 We envision an affordable cloud-based AI-enabled computer vision empowered cameras to identify and flag out potential safety hazards by providing predictive and timely alerts to the relevant construction sites’ stakeholders. The stakeholders would be able to assign the most appropriate response party to intervene and take appropriate actions to remove or mitigate the potential threats.<br><br>
 
 
