@@ -1,5 +1,4 @@
-<!--
----
+
 layout: leftnav-page-content
 title: IMDA Open Innovation Platform
 permalink: /national-innovation-challenge/imda-open-innovation-platform
@@ -48,4 +47,3 @@ o	This platform should be able to utilise input based on workforce availability 
     </li>
 </ul>
 </div>
--->
