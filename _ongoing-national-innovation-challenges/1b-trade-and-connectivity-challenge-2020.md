@@ -17,7 +17,7 @@ Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects s
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">Automated Inspection of Shipping Containers at Container Depots</label>
     <ul>
-      <li><b><h4>Container Depot & Logistics Association of Singapore (CDAS)</h4><h4>What We Are Looking For</h4></b>
+      <li><b><h4>Container Depot & Logistics Association of Singapore (CDAS)</h4><h5>What We Are Looking For</h5></b>
 There are around 11 shipping container depot operators in Singapore, operating ~20 container depot yards. At each of these yards, the inspection of containers (20ft and 40ft) for defects is carried out manually by a surveyor, in accordance to standards such as the Technical Reference Standard 39 (TR39, developed by the Singapore Standards Council, Logistics Technical Committee), Cargo Worthy Standards by Shipping Lines or IICL Standards (Institute of International Container Lessors). Around 3 – 5 surveyors are deployed at each of the container inspection yard.
 <br><br>
 Existing Process
@@ -37,7 +37,7 @@ The solution sought should be able to inspect the container autonomously or remo
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
       <ul>
-        <li><b><h4>GeTS Asia Pte Ltd</h4><h4>What We Are Looking For</h4></b>
+        <li><b><h4>GeTS Asia Pte Ltd</h4><h5>What We Are Looking For</h5></b>
 GeTS support the digital logistics space for Small & Medium Enterprises (SMEs) and Freight Forwarders (FFs). We aim to cover the purchasing and financing segment of the supply chain, and automate this segment with blockchain.
 <br><br>
 Why blockchain? Blockchain may be viewed as a secondary source of funds. It is decentralized, transparent, and it has smart contracts to enable auto-disbursements. Global trade financing is a wide and massive market, however it is highly dependent on human intervention and is not yet technologically advanced. It is not uncommon to find a long wait of customers often encountering rejection or no-response. It is largely a traditional industry, held back by slow and manual processes.
