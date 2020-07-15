@@ -347,12 +347,7 @@ $desktop: 960px + (2 * $gap) !default;
 		padding: 10px;
 		border: 1px solid #fff;
 		border-bottom: none;
-		background: #E7131A
-			
-			&:hover {
- 		background: darken(#E7131A, 10%)
-		}
-			
+		background: #E7131A	
 		}
 
 		label.last{
