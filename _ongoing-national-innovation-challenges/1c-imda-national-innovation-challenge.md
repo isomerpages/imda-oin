@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">An Integrated Control Systen for Visitors and Exhibitors of MICE Events to Facilitate Effective Screening, Contact Tracing and Crowd Density Detection</label>
     <ul>
-      <li><b><h4>SACEOS</h4>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<br>><h4>What We Are Looking For</h4></b>
+      <li><b><h4>SACEOS</h4>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<h4>What We Are Looking For</h4></b>
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
@@ -33,7 +33,7 @@ The system should make provision for – a seamless check-in module and a real-t
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Digital Tool to Facilitate a Covid-Safe, Smart and Integrated Management of Worksite and Workforce</label>
     <ul>
-      <li><b><h4>Building and Construction Authority (BCA), KAJIMA Group</h4><br>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <br><br><h4>What We Are Looking For</h4></b><br><br>
+      <li><b><h4>Building and Construction Authority (BCA), KAJIMA Group</h4>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <h4>What We Are Looking For</h4></b>
 A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: 
 <br>
 •	Workforce management platform:<br>
