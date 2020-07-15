@@ -5,7 +5,6 @@ permalink: /national-innovation-challenge-media-centre/
 ---
 
 ## FAQ 
-### General
 
 #### **1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform? **
 
