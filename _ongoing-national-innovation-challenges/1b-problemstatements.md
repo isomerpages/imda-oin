@@ -8,7 +8,6 @@ second_nav_title: Ongoing Challenges
 ---
 ## Powered by National Innovation Challenge
 
-
 <div id="wrapper">
 <ul>
   <li>
