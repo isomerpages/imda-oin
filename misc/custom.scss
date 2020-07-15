@@ -358,6 +358,10 @@ $desktop: 960px + (2 * $gap) !default;
 		color:#000000;
 		background: #ffffff;
 		}
+		
+		li{
+		padding: 2rem;
+		}
 
 		input[type="checkbox"]{
 		position: absolute;
