@@ -5,14 +5,14 @@ permalink: /national-innovation-challenge-media-centre/
 ---
 
 ## FAQ 
-
-#### **1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform? **
+#### **What is Isomer?**
+#### **1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?**
 
 The National Innovation Challenges (NIC) initiative aims to drive industry-led innovation calls to help companies address mid- to longer-term sectoral challenges and emerge stronger in the post-COVID era. To hasten the pace of innovation to commercialisation beyond the proof-of-concept stage, the government will provide support for prototype and product development, as well as incentivise demand-side stakeholders to accelerate deployment and scaled adoption. 
 
 The NIC initiative builds on existing innovation efforts, such as Enterprise Singapore’s open innovation challenges, including Gov-PACT, and IMDA’s Open Innovation Platform (OIP).
 
-#### **2.	What is the difference between OIN and OIP? **
+#### **2.	What is the difference between OIN and OIP?**
 
 Open Innovation Network (OIN) is an online directory that will serve as a national gateway to feature open innovation challenges happening island-wide.  This is jointly administered by Enterprise Singapore and IMDA. 
 
