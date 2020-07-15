@@ -1,4 +1,3 @@
-
 ---
 title: Media Centre
 permalink: /national-innovation-challenge-media-centre/
