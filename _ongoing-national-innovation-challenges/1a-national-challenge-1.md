@@ -44,7 +44,7 @@ Through our support, companies can defray development costs, reduce business ris
 <h5>What We Are Looking For</h5>
 
 1. Viable solution that increases manpower productivity and safety – A solution that captures images/ shapes/ contours, identify and flag out fault conditions and automatically generating alerts and reports.<br>
-2. Quick detection of faults and response time – The system shall reduce the reaction time between fault identification and rectification.
+2. Quick detection of faults and response time – The system shall reduce the reaction time between fault identification and rectification.<br><br>
 
 <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual" >Learn More</a>
           </li>
@@ -76,7 +76,7 @@ Through our support, companies can defray development costs, reduce business ris
           
           <h5>What We Are Looking For</h5>
           
-We envision an affordable cloud-based AI-enabled computer vision empowered cameras to identify and flag out potential safety hazards by providing predictive and timely alerts to the relevant construction sites’ stakeholders. The stakeholders would be able to assign the most appropriate response party to intervene and take appropriate actions to remove or mitigate the potential threats.
+We envision an affordable cloud-based AI-enabled computer vision empowered cameras to identify and flag out potential safety hazards by providing predictive and timely alerts to the relevant construction sites’ stakeholders. The stakeholders would be able to assign the most appropriate response party to intervene and take appropriate actions to remove or mitigate the potential threats.<br><br>
 
 
 <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure" >Learn More</a>
