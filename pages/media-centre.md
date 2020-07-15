@@ -14,7 +14,7 @@ The NIC initiative builds on existing innovation efforts, such as Enterprise Sin
 
 #### 2.	What is the difference between OIN and OIP? 
 
-Open Innovation Network (OIN) is an online directory (www.openinnovationnetwork.sg) that will serve as a national gateway to feature open innovation challenges happening island-wide.  This is jointly administered by Enterprise Singapore and IMDA. 
+Open Innovation Network (OIN) is an online directory that will serve as a national gateway to feature open innovation challenges happening island-wide.  This is jointly administered by Enterprise Singapore and IMDA. 
 
 OIN aggregates all ongoing innovation calls launching in Singapore from existing open innovation challenge platforms in Singapore and features them on  the single interface. Through OIN, users will be re-directed to the host open innovation platforms where they can find more information about each specific innovation calls and how they can participate. Open Innovation Platform (OIP) is one of these platforms, led by IMDA. OIP’s fifth innovation call, with 35 problem statements with over S$1M prize monies, for example, is listed on OIN.
 
@@ -38,7 +38,7 @@ A total of $40m will be set aside for the NIC, and up to $2m will be allocated t
 
 #### 7.	How can I access these problem statements? 
 
-Enterprise Singapore and IMDA launched the Open Innovation Network (www.openinnovationnetwork.sg) last year, a national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address demand-led challenges that require collaboration in Singapore and beyond.
+Enterprise Singapore and IMDA launched the Open Innovation Network last year, a national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address demand-led challenges that require collaboration in Singapore and beyond.
 
 #### 8.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? How much is the government spending to support this initiative?
 
