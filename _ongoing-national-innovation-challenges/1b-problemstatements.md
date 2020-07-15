@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: TCC
-permalink: /nic-test/
-breadcrumb: problem statements / test
+title: National Innovation Challenge
+permalink: /nic-jtc-innovation-challenge-2020/
+breadcrumb: National Innovation Challenges / JTC Innovation Challenge
 collection_name: ongoing-national-innovation-challenges
-second_nav_title: Problem Statements
+second_nav_title: Ongoing Challenges
 ---
 #### Trade & Connectivity Challenge 2020
 <style>
