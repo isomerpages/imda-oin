@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: National Innovation Challenge
+title: National Innovrgf
 permalink: /nic-jtc-innovation-challenge-2020/
 breadcrumb: National Innovation Challenges / Trade & Connectivity Challenge 2020
 collection_name: ongoing-national-innovation-challenges
