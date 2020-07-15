@@ -7,7 +7,7 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
 
-#### IMDA Open Innovation Platform
+#### **IMDA Open Innovation Platform**
 <font color="#a9a9a9"><b>Powered by National Innovation Challenge</b></font>
 [![3](/images/ongoing-challenges/call6_open_main_v2.png)](https://www.openinnovation.sg/about)
 
