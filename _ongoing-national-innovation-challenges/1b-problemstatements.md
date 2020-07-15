@@ -8,7 +8,6 @@ second_nav_title: Ongoing Challenges
 ---
 #### Trade & Connectivity Challenge 2020
 
-
 <div class="wrapper">
 <ul>
   <li>
