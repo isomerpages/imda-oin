@@ -32,8 +32,6 @@ Through our support, companies can defray development costs, reduce business ris
   <li>Digitalisation of the build environment, easing the transition into using Building Information Mangement (BIM) Models and developing BIM-based solutions that address construction painpoints</li>
   <li>Sustainability and resilience, to reduce our carbon impact on the environment and improve our resilience to supply chain disruptions</li>
 </ul>
- 
-<b>Automation and Productivity</b><br>
 
 <div id="wrapper">
     <h4> Challenge Statements </h4>
