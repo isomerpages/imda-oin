@@ -33,15 +33,15 @@ A prototype solution to create a control system for MICE event organisers that w
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
 <br><br>
-Check-in Module<br><br>
+        <b>Check-in Module</b><br><br>
 The check-in module aims to safely screen all participants at a MICE event, ensuring as much as possible that those who are present are well and do not carry the Corona virus or are symptomatic. The system should also facilitate the provision of necessary information to the relevant authorities to aid in contact tracing should the need arises. 
 <br><br>
-The solution should consider for the following factors in proposing the solution:
-•	Event organiser is able to monitor registration of all participants and cap and control attendance when necessary. The system should be able to generate a manipulation-proof list of participants, ensuring credibility of its data. 
-•	Event organiser is able to set up external and internal checkpoints to manage flow and density of visitors. Besides controlling access at the entrance/exit, the system should also cater for check-in/ check/out functions at internal rooms and spaces.
-•	Event organiser is able to use the system for incident handling and reporting
-•	Event participant can register for an event online and seamlessly provide the necessary details for contact tracing purposes. At key pre-determined areas in the event space (E.g., workshop rooms), the system automatically detects when check-in and check-out happens. This data needs to be easily extractable and in a rapid way, to inform any action that is necessary. 
-•	Event participants (visitor and exhibitor) receive guidance and assurance about control measures upon registration and are reminded during check-in.
+The solution should consider for the following factors in proposing the solution:<br>
+•	Event organiser is able to monitor registration of all participants and cap and control attendance when necessary. The system should be able to generate a manipulation-proof list of participants, ensuring credibility of its data. <br>
+•	Event organiser is able to set up external and internal checkpoints to manage flow and density of visitors. Besides controlling access at the entrance/exit, the system should also cater for check-in/ check/out functions at internal rooms and spaces.<br>
+•	Event organiser is able to use the system for incident handling and reporting<br>
+•	Event participant can register for an event online and seamlessly provide the necessary details for contact tracing purposes. At key pre-determined areas in the event space (E.g., workshop rooms), the system automatically detects when check-in and check-out happens. This data needs to be easily extractable and in a rapid way, to inform any action that is necessary. <br>
+•	Event participants (visitor and exhibitor) receive guidance and assurance about control measures upon registration and are reminded during check-in.<br>
 •	Push registration - log into the system
 <br><br>
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
