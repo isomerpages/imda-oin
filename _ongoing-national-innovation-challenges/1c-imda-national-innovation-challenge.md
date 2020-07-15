@@ -28,12 +28,12 @@ This challenge is supported by SACEOS, the trade association of the meetings, in
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?</label>
     <ul>
-      <li><h4>IMDA</h4>WHAT ARE WE LOOKING FOR 
+      <li><h4>IMDA</h4><b>What We Are Looking For</b><br><br>
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
 <br><br>
-Check-in Module<br>
+Check-in Module<br><br>
 The check-in module aims to safely screen all participants at a MICE event, ensuring as much as possible that those who are present are well and do not carry the Corona virus or are symptomatic. The system should also facilitate the provision of necessary information to the relevant authorities to aid in contact tracing should the need arises. 
 <br><br>
 The solution should consider for the following factors in proposing the solution:
