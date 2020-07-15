@@ -55,7 +55,8 @@ The Wright brothers invented and flew the first airplane in 1903, recognized as 
 As more trees are planted in our garden city, more resources are required to maintain them. Thus, a solution is sought to safely and efficiently prune trees within our urban environment.
 <br><br>
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
+</li>
     </ul>
   </li>
-</ul>
+  </ul>
 </div>
