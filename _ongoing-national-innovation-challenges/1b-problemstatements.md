@@ -25,7 +25,7 @@ The existing inspection process is a visual one, and the estimated time taken to
 <br><br>
 Other challenges include inspection of the undersides of container surfaces which may be obscured from view unless the surveyor access from under the trailer chassis.
 <br><br>
-The solution sought should be able to inspect the container autonomously or remotely, effectively detect, assess and classify the defects on containers and tag the findings to the containers based on their identification numbers. Ideally, the number of surveyors required per inspection yard should be reduced to 1 – 2. 
+The solution sought should be able to inspect the container autonomously or remotely, effectively detect, assess and classify the defects on containers and tag the findings to the containers based on their identification numbers. Ideally, the number of surveyors required per inspection yard should be reduced to 1 – 2. <br>
 <a href="www.openinnovationnetwork.sg">Learn More</a>
 </li>
     </ul>
