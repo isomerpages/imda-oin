@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 ## Powered by National Innovation Challenge
 
 
-<div class="wrapper">
+<div id="wrapper">
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
