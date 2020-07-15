@@ -330,63 +330,60 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	
 	#wrapper{
-  margin: auto;
-  width: 800px;
-  color:#ffffff;
+	margin: auto;
+	width: 800px;
+	color:#ffffff;
 
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
+		ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		}
 
+		label{
+		display: block;
+		cursor: pointer;
+		padding: 10px;
+		border: 1px solid #fff;
+		border-bottom: none;
+		background: #E7131A
+		}
 
-label{
-  display: block;
-  cursor: pointer;
-  padding: 10px;
-  border: 1px solid #fff;
-  border-bottom: none;
-  background: #E7131A
-}
+		label.last{
+		border-bottom: 1px solid #fff;
+		}
 
+		ul ul li{
+		list-style-type: none;
+		padding: 0;
+		color:#000000;
+		background: #ffffff;
+		margin: 0;
+		}
 
-label.last{
-  border-bottom: 1px solid #fff;
-}
+		input[type="checkbox"]{
+		position: absolute;
+		left: -9999px;
+		}
 
-ul ul li{
-  list-style-type: none;
-  padding: 0;
-  color:#000000;
-  background: #ffffff;
-  margin: 0;
-}
+		input[type="checkbox"] ~ ul{
+		height: 0;
+		transform: scaleY(0);
+		}
 
+		input[type="checkbox"]:checked ~ ul{
+		height: 100%;
+		border: 1px solid #fff;
+		transform-origin: top;
+		transition: transform .2s ease-out;
+		transform: scaleY(1); 
+		}
 
-input[type="checkbox"]{
-  position: absolute;
-  left: -9999px;
-}
+		input[type="checkbox"]:checked + label{
+		background: #E7131A;
+		border-bottom: 1px solid #fff;
 
-input[type="checkbox"] ~ ul{
-  height: 0;
-  transform: scaleY(0);
-}
-
-input[type="checkbox"]:checked ~ ul{
-  height: 100%;
-  border: 1px solid #fff;
-  transform-origin: top;
-  transition: transform .2s ease-out;
-  transform: scaleY(1); 
-}
-
-input[type="checkbox"]:checked + label{
-  background: #E7131A;
-  border-bottom: 1px solid #fff;
-  
-}
+		}
 	}
 // End of Test
 	
