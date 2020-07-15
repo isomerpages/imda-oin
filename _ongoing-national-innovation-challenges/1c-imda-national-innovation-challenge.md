@@ -33,8 +33,14 @@ The system should make provision for – a seamless check-in module and a real-t
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Digital Tool to Facilitate a Covid-Safe, Smart and Integrated Management of Worksite and Workforce</label>
     <ul>
-      <li><h4>Infocomm Media Development Authority(IMDA)</h4><br><b>What We Are Looking For</b><br>
-How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? 
+      <li><h4>Infocomm Media Development Authority(IMDA)</h4><br>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <br><br><b>What We Are Looking For</b><br><br>
+A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: 
+
+•	Workforce management platform:
+o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure
+•	Operational planning platform:
+o	This platform should be able to utilise input based on workforce availability status, on-site supply status to aid construction work planning in situations where there are potential disruptions.
+ 
 
 <br><br>
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
