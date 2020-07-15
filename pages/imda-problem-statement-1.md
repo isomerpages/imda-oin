@@ -5,10 +5,10 @@ permalink: /national-innovation-challenge/imda-national-innovation-challenge/pro
 ---
 
 
-## AN INTEGRATED CONTROL SYSTEM FOR VISITORS AND EXHIBITORS OF MICE EVENTS TO FACILITATE EFFECTIVE SCREENING, CONTACT TRACING AND CROWD DENSITY DETECTION
+### **AN INTEGRATED CONTROL SYSTEM FOR VISITORS AND EXHIBITORS OF MICE EVENTS TO FACILITATE EFFECTIVE SCREENING, CONTACT TRACING AND CROWD DENSITY DETECTION**
 
 
-### CONTEXT 
+#### **CONTEXT**
 The spread of Covid-19 has undoubtedly change the way that MICE events are organised. The introduction of social distancing measures, blanket regulation to cancel all mass gatherings and other necessary processes to ensure the safety of exhibitors and attendees, has negatively impacted MICE industry. Given how the MICE industry has always placed the safety and security of visitors, as well as the occupational safety and health of exhibitions during the planning and staging of events, it is imperative that the MICE industry is thus, given the security of planning to re-open in a phased manner, to reconnect and rebuild the businesses in this period of economic stagnation.
 
 There is an urgent need to come up with solutions that place an over and above measures, that will allow MICE events to still carry on safely in a post Covid-19 world, taking into consideration the comfort and experience of the end user. In particular, being able to ensure a safe environment via a robust and seamless check-in process that facilitates information capture for future contact tracing, an integrated communications platform and a real-time density detection system, is key to build customer confidence and bring back international visitors. 
@@ -22,15 +22,15 @@ In doing so, it hopes to position Singapore as a safe place to conduct business 
 This challenge is supported by SACEOS, the trade association of the meetings, incentives, conventions and exhibitions (MICE) industry in Singapore. Its mission includes setting the direction for the growth and development of the MICE industry, promoting best practices and standards and enhancing the infrastructure and capabilities of the MICE industry in Singapore. The role of SACEOS in bringing together industry members to re-think how MICE events are conducted, is especially critical today as many MICE businesses look for solutions to adapt to a post Covid-19 world. 
 
 
-### PROBLEM STATEMENT 
+#### **PROBLEM STATEMENT**
 How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?
 
-### WHAT ARE WE LOOKING FOR 
+#### **WHAT ARE WE LOOKING FOR**
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
 
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
 
-### Check-in Module
+#### **Check-in Module**
 The check-in module aims to safely screen all participants at a MICE event, ensuring as much as possible that those who are present are well and do not carry the Corona virus or are symptomatic. The system should also facilitate the provision of necessary information to the relevant authorities to aid in contact tracing should the need arises. 
 
 The solution should consider for the following factors in proposing the solution:
@@ -42,7 +42,7 @@ The solution should consider for the following factors in proposing the solution
 •	Push registration - log into the system
  
 
-### Real-time Density Detection Module
+#### **Real-time Density Detection Module**
 The real-time density detection module works hand-in-hand with the check-in module to create a safe environment for visitors and exhibitors. It should be able to provide event organisers with an overview of the real-time situation on the ground and push selected information to visitors, empowering them to make decisions on where are the safe areas and which zones they should potentially avoid. 
 
 The solution should consider for the following factors in proposing the solution:
@@ -54,7 +54,7 @@ The solution should consider for the following factors in proposing the solution
 •	The system should incorporate some form of visualisation dashboard to aid event organisers in having an overall picture of the situation and also a way for visitors to track where the hot spots and cool zones are.
  
 
-### Overall Performance Requirements
+#### **Overall Performance Requirements**
 The problem solver should meet the following performance criteria in their proposal:
 •	Data security is critical. The solution must protect personal data, and be trusted by people in Singapore, and internationally.
 •	The solution should bring data together to give a strategic/ operation picture - creating a data sharing platform.
@@ -75,7 +75,7 @@ The problem solver should meet the following performance criteria in their propo
 -	Support and integrate physical or virtual events with immersive technologies, such as AR/VR, mixed reality, etc.
 There are no restrictions on the geographic location of the problem solvers who may choose to apply to this challenge. However, the prototype needs to be demonstrated in Singapore within three months. 
 
-### POSSIBLE USE CASE
+#### **POSSIBLE USE CASE**
 
 On registration for an event, visitors and exhibitors are required to provide information that is required to facilitate effective contact tracing. This information is easily revised to include the latest updates in regulations and advisories.  Event visitors and exhibitors are also made aware of the measures that have been put in place to ensure their safety and what the important points they should take note for the event.
 During the event, the check-in process screens off visitors who do not meet the safety criteria. This is done in an effective but non-intrusive way to maintain a pleasant customer experience. 
@@ -83,14 +83,14 @@ Upon entering the event space, visitors have access to an additional layer of in
 At the same time, event organisers have a real-time overview of the crowd density situation on the ground and are alerted whenever hot spots appear. They are able to take action and activate the necessary means to disperse crowds when required. This is done in a way that maintains a smooth and pleasant customer experience. 
 Post event, information collected is held securely and rapidly made available to the authorities should contact tracing be required. There is also a way of contacting and informing international visitors who might have be affected.
 
-### WHAT’S IN IT FOR YOU 
+#### **WHAT’S IN IT FOR YOU**
 •	SGD $50,000 of prize money for each winner of this challenge (see Award Model)
 •	If successful, opportunity to pilot solution with SACEOS members on creating a solution that will have wide-spread impact on tourism businesses locally and regionally
 •	Gain access to IMDA’s technology resources and facility for prototype
 •	Post-Prototype support by SACEOS and members in commercialising the solution
 
 
-### EVALUATION CRITERIA
+#### **EVALUATION CRITERIA**
 The Applicants shall be evaluated in accordance with the evaluation criteria set out below.
 Solution Fit	To what extent does the proposed solution address the problem statement effectively?
 Solution Readiness	How ready is the proposed solution to go to the market?
@@ -100,12 +100,12 @@ Company Profile	Does the product have user and revenue traction?
 Do the team members possess strong scientific/technical background?
 
 
-### AWARD MODEL 
+#### **AWARD MODEL**
 30% of the prize money will be awarded to each selected finalist at the start of the prototype development process, with the remainder 70% to be awarded during the prototype development process, based on milestones agreed between SACEOS and the solver. 
 
 Note that a finalist who is selected to undertake the prototype development process will be required to:
 •	Enter into an agreement with SACEOS that will include more detailed conditions pertaining to the prototype development;
 •	Complete an application form with IMDA that will require more financial and other related documents for the co-funding support. 
 
-### DEADLINE
+#### **DEADLINE**
 All submissions must be made by 21 August 2020, 1600 hours (SGT/GMT +8). SACEOS and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.
