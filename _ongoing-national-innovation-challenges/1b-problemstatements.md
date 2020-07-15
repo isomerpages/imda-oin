@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: National Innovation Challenge
 permalink: /nic-jtc-innovation-challenge-2020/
-breadcrumb: National Innovation Challenges / JTC Innovation Challenge
+breadcrumb: National Innovation Challenges / Trade & Connectivity Challenge 2020
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
@@ -10,7 +10,7 @@ second_nav_title: Ongoing Challenges
 <style>
 .wrapper{
   margin: auto;
-  width: 400px;
+  width: 800px;
   color:#ffffff;
 }
 
