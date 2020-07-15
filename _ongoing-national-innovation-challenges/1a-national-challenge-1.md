@@ -35,26 +35,58 @@ Through our support, companies can defray development costs, reduce business ris
  
 <b>Automation and Productivity</b><br>
 
-<div id="problemstatement">
-  <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual">
-<p><b>
-  Challenge Statement 1: <br>Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)
-</b></p></a>
-</div>
- 
-  <div id="problemstatement"><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-extending-productive-hours-construction-sites">
-<p><b>
-  Challenge statement 2: <br>Extending productive hours for construction sites
-    </b></p></a>
-  </div>
+<div id="wrapper">
+    <h4> Challenge Statements </h4>
+<ul>
+    <li>
+    <input type="checkbox" id="list-item-1">
+    <label for="list-item-1" class="first">Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</label>
+        <ul>
+          <li><b><h4>JTC Corporation (JTC)</h4>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<h5>What We Are Looking For</h5></b>
+A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
+<br><br>
+The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
+<br><br>
 
-
-<div id="problemstatement">
-  <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure">
-<p><b>
-  Challenge statement 3: <br>Augmenting safety inspections for building and/or infrastructure construction sites
-</b></p></a>
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual" >Learn More</a>
+          </li>
+        </ul>
+      </li>
+     <li>
+    <input type="checkbox" id="list-item-2">
+    <label for="list-item-2">Extending productive hours for construction sites</label>
+      <ul>
+        <li><b><h4>JTC Corporation (JTC)</h4>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <h5>What We Are Looking For</h5></b>
+A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: 
+<br>
+•	Workforce management platform:<br>
+o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure<br>
+•	Operational planning platform:<br>
+o	This platform should be able to utilise input based on workforce availability status, on-site supply status to aid construction work planning in situations where there are potential disruptions.
+<br><br>
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-extending-productive-hours-construction-sites" >Learn More</a>
+        </li>
+       </ul>
+    </li>
+    <li>
+    <input type="checkbox" id="list-item-2">
+    <label for="list-item-2">Augmenting safety inspections for building and/or infrastructure construction sites</label>
+      <ul>
+        <li><b><h4>JTC Corporation (JTC)</h4>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <h5>What We Are Looking For</h5></b>
+A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: 
+<br>
+•	Workforce management platform:<br>
+o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure<br>
+•	Operational planning platform:<br>
+o	This platform should be able to utilise input based on workforce availability status, on-site supply status to aid construction work planning in situations where there are potential disruptions.
+<br><br>
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure" >Learn More</a>
+        </li>
+       </ul>
+    </li>
+</ul>
 </div>
+
 
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
 
