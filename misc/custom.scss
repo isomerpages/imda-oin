@@ -333,6 +333,7 @@ $desktop: 960px + (2 * $gap) !default;
 	margin: auto;
 	width: 800px;
 	color:#ffffff;
+	width: 90%;
 
 		ul{
 		list-style-type: none;
@@ -347,6 +348,11 @@ $desktop: 960px + (2 * $gap) !default;
 		border: 1px solid #fff;
 		border-bottom: none;
 		background: #E7131A
+			
+			&:hover {
+ 		background: darken(#E7131A, 10%)
+		}
+			
 		}
 
 		label.last{
@@ -384,6 +390,7 @@ $desktop: 960px + (2 * $gap) !default;
 		border-bottom: 1px solid #fff;
 
 		}
+		
 	}
 // End of Test
 	
