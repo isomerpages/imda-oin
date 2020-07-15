@@ -7,7 +7,8 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
 ## Trade & Connectivity Challenge 2020
-###Powered by National Innovation Challenge
+### Powered by National Innovation Challenge
+
 
 <div class="wrapper">
 <ul>
