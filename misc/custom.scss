@@ -334,6 +334,10 @@ $desktop: 960px + (2 * $gap) !default;
 	color:#ffffff;
 	width: 95%;
 	margin: 3rem auto;
+		
+		p{
+		text-align: justify;
+		}
 
 		ul{
 		list-style-type: none;
