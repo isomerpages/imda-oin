@@ -37,9 +37,10 @@ label.last{
 
 ul ul li{
   list-style-type: none;
-  padding: 10px;
+  padding: 0;
   color:#000000;
   background: #ffffff;
+  margin:0;
 }
 
 
