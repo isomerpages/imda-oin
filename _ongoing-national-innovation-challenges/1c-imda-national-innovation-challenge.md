@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 
 ## Powered by National Innovation Challenge
 [![1](/images/TCC2019.jpg)](https://www.openinnovationnetwork.sg)
-
+<br>
 The spread of Covid-19 has undoubtedly change the way that MICE events are organised. The introduction of social distancing measures, blanket regulation to cancel all mass gatherings and other necessary processes to ensure the safety of exhibitors and attendees, has negatively impacted MICE industry. Given how the MICE industry has always placed the safety and security of visitors, as well as the occupational safety and health of exhibitions during the planning and staging of events, it is imperative that the MICE industry is thus, given the security of planning to re-open in a phased manner, to reconnect and rebuild the businesses in this period of economic stagnation.
 
 There is an urgent need to come up with solutions that place an over and above measures, that will allow MICE events to still carry on safely in a post Covid-19 world, taking into consideration the comfort and experience of the end user. In particular, being able to ensure a safe environment via a robust and seamless check-in process that facilitates information capture for future contact tracing, an integrated communications platform and a real-time density detection system, is key to build customer confidence and bring back international visitors. 
