@@ -17,9 +17,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?</label>
+    <label for="list-item-1" class="first">AN INTEGRATED CONTROL SYSTEM FOR VISITORS AND EXHIBITORS OF MICE EVENTS TO FACILITATE EFFECTIVE SCREENING, CONTACT TRACING AND CROWD DENSITY DETECTION</label>
     <ul>
-      <li><h4>Infocomm Media Development Authority(IMDA)</h4><br><b>What We Are Looking For</b><br>
+      <li><h4>Infocomm Media Development Authority(IMDA)</h4><br>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<br><b>What We Are Looking For</b><br>
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
