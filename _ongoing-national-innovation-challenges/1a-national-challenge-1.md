@@ -55,9 +55,7 @@ Through our support, companies can defray development costs, reduce business ris
     <label for="list-item-2">Augmenting safety inspections for building and/or infrastructure construction sites</label>
       <ul>
         <li><b><h4>JTC Corporation (JTC)</h4></b>Noise restrictions, for workers’ welfare and nuisance control, limit the operating hours on a construction site. By exploring solutions that enable remote controlled or highly automated operations of various quiet construction tasks, construction can continue within the restricted noise levels after the traditional “noisy hours”. The construction site productivity can be improved without compromising worker welfare and affecting nearby users/residents.
-          
           <h5>What We Are Looking For</h5>
-          
 1. Construction site can continue to be productive afterhours while ensuring minimal noise and dust generation.<br>
 2. Increase manpower productivity by at least 100% or reduce labour reliance by 50% during afterhours work at the construction site.<br>
 3. Proposed solution is cost effective in comparison to conventional methods.<br>
