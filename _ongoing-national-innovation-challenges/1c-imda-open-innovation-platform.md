@@ -1,3 +1,4 @@
+<!--
 ---
 layout: leftnav-page-content
 title: IMDA Open Innovation Platform
@@ -47,3 +48,4 @@ o	This platform should be able to utilise input based on workforce availability 
     </li>
 </ul>
 </div>
+-->
