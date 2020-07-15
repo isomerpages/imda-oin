@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">AN INTEGRATED CONTROL SYSTEM FOR VISITORS AND EXHIBITORS OF MICE EVENTS TO FACILITATE EFFECTIVE SCREENING, CONTACT TRACING AND CROWD DENSITY DETECTION</label>
+    <label for="list-item-1" class="first">An Integrated Control Systen for Visitors and Exhibitors of MICE Events to Facilitate Effective Screening, Contact Tracing and Crowd Density Detection</label>
     <ul>
       <li><h4>SACEOS</h4><br>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<br><b>What We Are Looking For</b><br>
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
