@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: IMDA National Innovation Challenge
-permalink: /nic-test/
+permalink: /national-innovation-challenge/imda-national-innovation-challenge
 breadcrumb: Ongoing Challenges / IMDA National Innovation Challenge
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
