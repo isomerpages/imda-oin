@@ -40,11 +40,11 @@ Through our support, companies can defray development costs, reduce business ris
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</label>
         <ul>
-          <li><b><h4>JTC Corporation (JTC)</h4>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<h5>What We Are Looking For</h5></b>
-A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
-<br><br>
-The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
-<br><br>
+          <li><b><h4>JTC Corporation (JTC)</h4></b>Estate inspection or fault identification currently requires manual scanning of assets conditions during drive through. The current inspection process is manual and laborious. When a fault is spotted, the officer has to look for a nearby safe spot to stop and park the vehicle before he/ she is able to conduct a more detailed assessment of the fault. After the drive through, the officer has to manually upload the photos, compile a report and send it to the respective coordinating agency. The process is time consuming and turnaround time to generate the report is rather long.
+<h5>What We Are Looking For</h5>
+
+1.Viable solution that increases manpower productivity and safety – A solution that captures images/ shapes/ contours, identify and flag out fault conditions and automatically generating alerts and reports.<br>
+2.Quick detection of faults and response time – The system shall reduce the reaction time between fault identification and rectification.
 
 <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual" >Learn More</a>
           </li>
@@ -67,7 +67,7 @@ o	This platform should be able to utilise input based on workforce availability 
        </ul>
     </li>
     <li>
-    <input type="checkbox" id="list-item-2">
+    <input type="checkbox" id="list-item-3">
     <label for="list-item-2">Augmenting safety inspections for building and/or infrastructure construction sites</label>
       <ul>
         <li><b><h4>JTC Corporation (JTC)</h4>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <h5>What We Are Looking For</h5></b>
