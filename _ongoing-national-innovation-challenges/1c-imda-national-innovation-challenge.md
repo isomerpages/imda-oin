@@ -31,7 +31,7 @@ The system should make provision for – a seamless check-in module and a real-t
   </li>
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">DIGITAL TOOL TO FACILITATE A COVID-SAFE, SMART AND INTEGRATED MANAGEMENT OF WORKSITE AND WORKFORCE</label>
+    <label for="list-item-2">Digital Tool to Facilitate a Covid-Safe, Smart and Integrated Management of Worksite and Workforce</label>
     <ul>
       <li><h4>Infocomm Media Development Authority(IMDA)</h4><br><b>What We Are Looking For</b><br>
 A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: <br>
