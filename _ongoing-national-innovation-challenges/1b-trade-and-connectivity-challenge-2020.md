@@ -40,10 +40,10 @@ The solution sought should be able to inspect the container autonomously or remo
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
       <ul>
-        <li><b><h4>GeTS Asia Pte Ltd</h4><h5>What We Are Looking For</h5></b>
-GeTS support the digital logistics space for Small & Medium Enterprises (SMEs) and Freight Forwarders (FFs). We aim to cover the purchasing and financing segment of the supply chain, and automate this segment with blockchain.
-<br><br>
-Why blockchain? Blockchain may be viewed as a secondary source of funds. It is decentralized, transparent, and it has smart contracts to enable auto-disbursements. Global trade financing is a wide and massive market, however it is highly dependent on human intervention and is not yet technologically advanced. It is not uncommon to find a long wait of customers often encountering rejection or no-response. It is largely a traditional industry, held back by slow and manual processes.
+        <li><b><h4>GeTS Asia Pte Ltd</h4></b>
+        We currently have a cloud-based machine-learning AI financing platform CALISTA, that enables automated financing, payment, and remittance. It handles ‘Know Your Customer’ (KYC) and audit checks and assessment of company credit applications, for fund disbursement. This includes a blockchain-enabled web and mobile application on Android and iOS, for trade financing. This application uses blockchain to prove ownership in the pledging of assets as collateral. The platform is implementing IMDA’s TradeTrust which is a framework that facilitates the interoperability of electronic trade documents exchanged between different digital ecosystems.
+        <h5>What We Are Looking For</h5>
+We are seeking collaborators to improve upon our current Blockchain solution, specifically in the following areas:
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
         </li>
