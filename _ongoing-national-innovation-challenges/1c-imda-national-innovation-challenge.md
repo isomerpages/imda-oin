@@ -7,10 +7,12 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
 
-## Powered by National Innovation Challenge
+#### IMDA Open Innovation Platform
+
+<font color="#a9a9a9"><b>Powered by National Innovation Challenge</b></font>
 [![1](/images/TCC2019.jpg)](https://www.openinnovationnetwork.sg)
 <br>
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <div id="wrapper">
 <ul>
   <li>
