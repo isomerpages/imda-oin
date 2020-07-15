@@ -36,27 +36,10 @@ The system should make provision for – a seamless check-in module and a real-t
       <li><h4>Infocomm Media Development Authority(IMDA)</h4><br>How might we leverage a digital platform to facilitate an integrated management system of both worksite and workforce to ensure a Covid-safe work environment that will help the construction industry resume work with confidence, as well as mitigate both manpower and supply chain risks in order to secure business continuity in the future? <br><br><b>What We Are Looking For</b><br><br>
 A prototype solution that fully integrates a workforce management platform with an operational planning platform to enable work continuity on the construction worksites: 
 
-•	Workforce management platform:
-o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure
-•	Operational planning platform:
+•	Workforce management platform:<br>
+o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure<br>
+•	Operational planning platform:<br>
 o	This platform should be able to utilise input based on workforce availability status, on-site supply status to aid construction work planning in situations where there are potential disruptions.
- 
-
-<br><br>
-<a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
-</li>
-    </ul>
-  </li>
-    <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3" class="last">Reducing (Some problem statement) about Planes</label>
-    <ul>
-      <li><h4> Consectetur</h4>An airplane or aeroplane (informally plane) is a powered, fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller or rocket engine. Airplanes come in a variety of sizes, shapes, and wing configurations. The broad spectrum of uses for airplanes includes recreation, transportation of goods and people, military, and research. Worldwide, commercial aviation transports more than four billion passengers annually on airliners[1] and transports more than 200 billion tonne-kilometers[2] of cargo annually, which is less than 1% of the world's cargo movement.[3] Most airplanes are flown by a pilot on board the aircraft, but some are designed to be remotely or computer-controlled such as drones.
-
-The Wright brothers invented and flew the first airplane in 1903, recognized as "the first sustained and controlled heavier-than-air powered flight".[4] They built on the works of George Cayley dating from 1799, when he set forth the concept of the modern airplane (and later built and flew models and successful passenger-carrying gliders).[5] Between 1867 and 1896, the German pioneer of human aviation Otto Lilienthal also studied heavier-than-air flight. Following its limited use in World War I, aircraft technology continued to develop. Airplanes had a presence in all the major battles of World War II. The first jet aircraft was the German Heinkel He 178 in 1939. The first jet airliner, the de Havilland Comet, was introduced in 1952. The Boeing 707, the first widely successful commercial jet, was in commercial service for more than 50 years, from 1958 to at least 2013.
-<br><br>
-
-As more trees are planted in our garden city, more resources are required to maintain them. Thus, a solution is sought to safely and efficiently prune trees within our urban environment.
 <br><br>
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
 </li>
