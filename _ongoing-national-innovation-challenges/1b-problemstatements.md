@@ -12,7 +12,7 @@ second_nav_title: Ongoing Challenges
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Automated Inspection of Shipping Containers at Container Depots test</label>
+    <label for="list-item-1" class="first">Automated Inspection of Shipping Containers at Container Depots</label>
     <ul>
       <li>There are around 11 shipping container depot operators in Singapore, operating ~20 container depot yards. At each of these yards, the inspection of containers (20ft and 40ft) for defects is carried out manually by a surveyor, in accordance to standards such as the Technical Reference Standard 39 (TR39, developed by the Singapore Standards Council, Logistics Technical Committee), Cargo Worthy Standards by Shipping Lines or IICL Standards (Institute of International Container Lessors). Around 3 – 5 surveyors are deployed at each of the container inspection yard.<br><br>
 
