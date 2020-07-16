@@ -25,7 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
-<br><br>
+<h5>DEADLINE</h5>
+All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. SACEOS and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
 <a href="/national-innovation-challenge/imda-national-innovation-challenge/problem-statement-1" target="_blank" >Learn More</a>
           </li>
@@ -42,7 +43,9 @@ A prototype solution that fully integrates a workforce management platform with 
 o	This platform should be able to provide a robust monitoring system both on-site and offsite to manage the workforce-readiness status and enable movement control on-site to minimise the risk exposure<br>
 •	Operational planning platform:<br>
 o	This platform should be able to utilise input based on workforce availability status, on-site supply status to aid construction work planning in situations where there are potential disruptions.
-<br><br>
+<h5>DEADLINE</h5>
+All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. BCA, Kajima Group and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
+
 <a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
         </li>
        </ul>
@@ -64,7 +67,10 @@ The solution should include the following capabilities:<br>
 •	Enhanced live events functionality: The solution should offer the capabilities of transforming the 3D environment into an online event space. Corporate businesses, social groups or public agencies should be able to easily organise a virtual event and manage the logistics such as ticketing, attendance, scheduling and advertising with ease. <br>
 •	Social interaction platform: The virtual experience should be enriched by an accompanying social experience. Users should be able to interact with fellow users exploring the virtual cultural precinct. They should also be able to interact in real time and talk to community members of the precinct such as the shop owners and tour guides.<br>
 •	In-platform commercial activities: Users should be able to browse products and shop in participating stores in the precinct. This should be a seamless end-to-end transaction experience that includes a payment and delivery system. This solution could be via external links to the businesses own existing e-commerce platforms. <br>
-•	Crowdsourced content creation: The solution should offer a way for businesses and users to create their own content in the platform. Users should be able to easily upload their content in pre-set formats that will allow for consistency in the quality of content. <br><br>
+•	Crowdsourced content creation: The solution should offer a way for businesses and users to create their own content in the platform. Users should be able to easily upload their content in pre-set formats that will allow for consistency in the quality of content. 
+
+<h5>DEADLINE</h5>
+All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. NHB and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
         </li>
@@ -93,7 +99,8 @@ PSA is seeking a prototype solution, demonstrating an effective system for manag
 The solution should be designed with the needs of the foreign worker in ports in mind (usability being paramount for a busy and harsh environment workforce).
 <br><br>
 There are no restrictions on the geographic location of the problem solvers who may choose to apply to this challenge. However, the prototype needs to be demonstrated in Singapore.
-
+<h5>DEADLINE</h5>
+All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. PSA and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
         </li>
