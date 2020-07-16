@@ -37,7 +37,7 @@ hero-banner: /images/NIC-KV_1920x720.jpg
 info-sections:
   - section-title: 
     section-subtitle: 
-    section-description: "<h3>About Open Innovation Network</h3> Keen to solve problem statements across industries and markets? <br>Open Innovation Network (OIN) is the national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address complex challenges that require collaboration in Singapore and beyond." 
+    section-description: "<h3>About Open Innovation Network</h3> Keen to solve problem statements across industries and markets? Open Innovation Network (OIN) is the national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address complex challenges that require collaboration in Singapore and beyond." 
     section-more-button: More About Ongoing Innovation Challenges
     external: false
     section-more-button-url: /ongoing-innovation-challenges/
@@ -45,7 +45,7 @@ info-sections:
 # NIC Update
   - section-title: 
     section-subtitle: National Innovation Challenge
-    section-description:  The National Innovation Challenge (NIC) harnesses Singapore’s innovation capabilities to help businesses adapt to the New Normal. Building on existing innovation efforts from Enterprise Singapore’s Open Innovation Network (OIN), IMDA’s Open Innovation Platform (OIP) and the National Research Foundation, the NIC initiative provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment.
+    section-description:  "The National Innovation Challenge (NIC) harnesses Singapore’s innovation capabilities to help businesses adapt to the New Normal.<br>NIC problem statements are a new category of open innovation challenges that focus on developing industry-led solutions to challenges that all businesses grapple with. It provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment."
     section-more-button: More About National Innovation Challenges
     external: false
     section-more-button-url: /ongoing-national-innovation-challenges/
