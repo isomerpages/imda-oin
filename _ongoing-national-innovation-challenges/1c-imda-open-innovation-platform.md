@@ -9,10 +9,10 @@ second_nav_title: Ongoing Challenges
 
 #### **IMDA Open Innovation Platform**
 <font color="#a9a9a9"><b>Powered by National Innovation Challenge</b></font>
-[![3](/images/ongoing-challenges/call6_open_main_v2.png)](https://www.openinnovation.sg/about)
+[![3](/images/oip_banner_nic.png)](https://www.openinnovation.sg/about)
 
 <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. As part of the first call of National Innovation Challenges, the OIP is hosting 4 challenge statements aimed at enabling key industries, such as construction, maritime, MICE and tourism, driving Singapore’s economy to emerge stronger from Covid-19.
 
 <div id="wrapper">
     <h4> Challenge Statements </h4>
