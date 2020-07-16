@@ -11,7 +11,10 @@ second_nav_title: Ongoing Challenges
 [![1](/images/TCC2019.jpg)](http://tradeandconnectivity.innovation-challenge.sg)
 
 Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects startups with corporates to address challenges and showcase innovation in the aviation, maritime, land mobility, logistics and trade sectors. For this year’s TCC  several problem statements with wider industry relevance will be part of the newly launched National Innovation Challenge, which aims to help companies emerge stronger and address mid to longer term sectoral challenges in the post-COVID era. 
-<div id="wrapper">
+
+<!-- start of wrapper div -->
+        <!-- start of first drop down box -->
+<div id="wrapper"> 
   <h4> Challenge Statements </h4>
 <ul>
   <li>
@@ -33,6 +36,8 @@ The solution sought should be able to inspect the container autonomously or remo
       </li>
      </ul>
    </li>
+  <!-- end of first drop down box -->
+  <!-- start of first drop down box -->
     <li>
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
@@ -46,5 +51,7 @@ We are seeking collaborators to improve upon our current Blockchain solution, sp
         </li>
       </ul>
     </li>
+  <!-- end of second drop down box -->
   </ul>
 </div>
+<!-- end of wrapper div -->
