@@ -21,14 +21,7 @@ Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects s
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">Automated Inspection of Shipping Containers at Container Depots</label>
         <ul>
-          <li><b><h4>Container Depot & Logistics Association of Singapore (CDAS)</h4></b> There are around 11 shipping container depot operators in Singapore, operating ~20 container depot yards. At each of these yards, the inspection of containers (20ft and 40ft) for defects is carried out manually by a surveyor, in accordance to standards such as the Technical Reference Standard 39 (TR39, developed by the Singapore Standards Council, Logistics Technical Committee), Cargo Worthy Standards by Shipping Lines or IICL Standards (Institute of International Container Lessors). Around 3 – 5 surveyors are deployed at each of the container inspection yard.
-<br><br>
-Existing Process
-On average, about 100 to 200 containers are inspected daily for defects or damages. Generally, about 30 to 40% of the containers are expected to have some form of defects or damages that should be detected and identified [Refer to supporting document for typical defects/damages].
-<br><br>
-The existing inspection process is a visual one, and the estimated time taken to inspect each container may range from 5-10 mins (no defects), 20 minutes (minor defects) and up to around 40 minutes (serious defects). Inspection is typically carried out in the day with containers mounted on trailers. As the inspection may include some work at heights, the appropriate safety considerations for fall prevention would have to be put in place.
-<br><br>
-Other challenges include inspection of the undersides of container surfaces which may be obscured from view unless the surveyor access from under the trailer chassis.
+          <li><b><h4>Container Depot & Logistics Association of Singapore (CDAS)</h4>How might we reduce the time taken and the reliance on manual labour to improve productivity for the container inspection process and eliminate risky activities such as working at height?</b>
             <h5>What We Are Looking For</h5>
 The solution sought should be able to inspect the container autonomously or remotely, effectively detect, assess and classify the defects on containers and tag the findings to the containers based on their identification numbers. Ideally, the number of surveyors required per inspection yard should be reduced to 1 – 2. 
 <br><br>
@@ -40,12 +33,13 @@ The solution sought should be able to inspect the container autonomously or remo
 <!-- start of first drop down box -->
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Seeking Collaborators to Disrupt Global Trade Financing via Blockchain</label>
+    <label for="list-item-2">RFID Tagged Airfreight Shipments – Industry Use of RFID Printed Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
       <ul>
-        <li><b><h4>GeTS Asia Pte Ltd</h4></b>
-        We currently have a cloud-based machine-learning AI financing platform CALISTA, that enables automated financing, payment, and remittance. It handles ‘Know Your Customer’ (KYC) and audit checks and assessment of company credit applications, for fund disbursement. This includes a blockchain-enabled web and mobile application on Android and iOS, for trade financing. This application uses blockchain to prove ownership in the pledging of assets as collateral. The platform is implementing IMDA’s TradeTrust which is a framework that facilitates the interoperability of electronic trade documents exchanged between different digital ecosystems.
+        <li><b><h4>SATS</h4>
+       How might we develop a cost-effective RFID tagging solution for the tracking and tracing of air cargo?</b>
         <h5>What We Are Looking For</h5>
-We are seeking collaborators to improve upon our current Blockchain solution, specifically in the following areas:
+•	Outcome 1: To move Singapore airfreight industry towards a common AWB labelling standard with the use of RFID-embedded printed label or tag, and where the piece level of the cargo is also associated to a RFID-tagged unit load device (ULD).<br>
+•	Outcome 2: To the shipper, GHA & carrier, provide visibility for track and trace of the shipment at every stage of the shipment including the handling in the warehouse, until uplift or arrival. The benefit of using RFID systems is that it does not rely on a line-of-sight to identify an item and hence the use of RFID readers will facilitate operational efficiency and replace manual scanning or manual recording of AWB. The International Air Transport Association (IATA) has since announced in 2018 that all passenger bags must be tracked by RFID & airports must move towards implementation of RFID readers. This concept could be applied to air-cargo and Singapore airport can be the first mover with the joint-industry effort.
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
         </li>
