@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Trade and Connectivity Challenge 2020
+title: Trade and Connectivity Challenge
 permalink: /national-innovation-challenge/trade-and-connectivity-challenge-2020
 breadcrumb: Ongoing Challenges / Trade and Connectivity Challenge 2020
 collection_name: ongoing-national-innovation-challenges
