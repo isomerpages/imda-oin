@@ -37,7 +37,7 @@ hero-banner: /images/NIC-KV_1920x720.jpg
 info-sections:
   - section-title: 
     section-subtitle: 
-    section-description: "<b>About Open Innovation Network</b>- Keen to solve problem statements across industries and markets? Open Innovation Network (OIN) is the national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address complex challenges that require collaboration in Singapore and beyond." 
+    section-description: "<h3>About Open Innovation Network</h3>- Keen to solve problem statements across industries and markets? Open Innovation Network (OIN) is the national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address complex challenges that require collaboration in Singapore and beyond." 
     section-more-button: More About Ongoing Innovation Challenges
     external: false
     section-more-button-url: /ongoing-innovation-challenges/
