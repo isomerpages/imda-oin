@@ -52,7 +52,7 @@ o	This platform should be able to utilise input based on workforce availability 
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3">5G-Enabled Virtual Platform For Novel and Immersive Tourism, Heritage and Cultural Eexperience </label>
       <ul>
-        <li><b><h4>GeTS Asia Pte Ltd</h4></b>
+        <li><b><h4>National Heritage Board (NHB)</h4></b>
         <b>How might we create an easy-to-use platform for people to remotely access and interact with, to have a compelling, emotionally engaging virtual experiences that can complement with the real-world experience?</b>
         <h5>What We Are Looking For</h5>
 A prototype of a virtual environment of any physical site, in this case, Kampong Glam precinct including the Malay Heritage Centre, that is enhanced with interesting engagement experiences for cultural and commercial consumption, enabled through 5G network technology. <br><br>
@@ -78,7 +78,7 @@ The solution should include the following capabilities:<br>
     <input type="checkbox" id="list-item-4">
     <label for="list-item-4">Track and Trace Health of Ports Worker to Better Manage, Monitor and Act on Covid Risk </label>
       <ul>
-        <li><b><h4>GeTS Asia Pte Ltd</h4></b>
+        <li><b><h4>Port of Singapore Authority (PSA)</h4></b>
         <b>How might we develop an integrated track and trace system for effective Covid risk control, mitigation and intervention, with minimal manpower for supervision?</b>
         <h5>What We Are Looking For</h5>
 PSA is seeking a prototype solution, demonstrating an effective system for managing the risk of coronavirus and other hazards for port workers within the port environment. The solution should include the following capabilities:<br><br>
