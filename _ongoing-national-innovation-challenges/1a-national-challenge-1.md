@@ -1,3 +1,4 @@
+<!--
 ---
 layout: leftnav-page-content
 title: JTC Innovation Challenge
@@ -89,3 +90,4 @@ Briefing day 7 July 2020, 0900H to 1100H. [Register](https://form.gov.sg/5edf708
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge){:target="_blank"}
+-->
