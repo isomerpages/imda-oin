@@ -471,4 +471,12 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
+
+	#test for h1 size on mobile
+	
+	h1{
+		font-size: 1.5rem;
+	}
+	
+	#end of test
 }
