@@ -27,6 +27,11 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
     	@content
+	// test
+	p{
+		font-size: 1rem;
+		}
+	// end of test
 	}
 }
 
