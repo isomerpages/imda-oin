@@ -480,6 +480,7 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	p, ul, li{
 		font-size:1rem;
+		text-align: left;
 	}
 	
 #wrapper{
