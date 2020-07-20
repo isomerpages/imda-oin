@@ -28,8 +28,8 @@ $desktop: 960px + (2 * $gap) !default;
 	@media screen and (max-width: $desktop - 1px){
     	@content
 	// test
-	p{
-		font-size: 1rem;
+	p h1 h2{
+		font-size: 0rem;
 		}
 	// end of test
 	}
