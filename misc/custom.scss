@@ -475,23 +475,25 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Test for responsive web design
 @media only screen and (max-width: 768px)  {
+	
 	h1, h2, h3, h4{
 		font-size: 1.5rem;
-	}
+		}
 	p, ul, li{
 		font-size:1rem;
-	}
-.content #wrapper { 
-	
-		ul ul li {
-		padding: 3rem 0rem;
 		}
 	
-		label{
-		font-size: 1rem;
+	.content #wrapper { 
+
+			ul ul li {
+			padding: 3rem 0rem;
+			}
+
+			label{
+			font-size: 1rem;
+			}
+
 		}
-	
-	}
 	
 }
 
