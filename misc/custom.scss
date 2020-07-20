@@ -481,23 +481,17 @@ $desktop: 960px + (2 * $gap) !default;
 	p, ul, li{
 		font-size:1rem;
 	}
+.content #wrapper { 
 	
-	#wrapper{
-			label{
-				font-size: 1rem;
-			}
-
-			ul li{
-				padding: 0rem;
-				text-align: left;
-			}
-		
-			ul ul li{
-				padding: 3rem 0rem;
-			}
-		
+		ul ul li {
+		padding: 3rem 0rem;
 		}
 	
+		label{
+		font-size: 1rem;
+		}
+	
+	}
 	
 }
 
