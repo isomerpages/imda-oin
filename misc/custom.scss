@@ -27,11 +27,6 @@ $desktop: 960px + (2 * $gap) !default;
 @mixin touch() {
 	@media screen and (max-width: $desktop - 1px){
     	@content
-	// test
-	p h1 h2{
-		font-size: 0rem;
-		}
-	// end of test
 	}
 }
 
@@ -484,4 +479,10 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	
 	//end of test
+}
+
+@media only screen and (max-width: 768px)  {
+	p{
+		font-size:1rem;
+	}
 }
