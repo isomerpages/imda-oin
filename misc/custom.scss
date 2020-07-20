@@ -491,6 +491,11 @@ $desktop: 960px + (2 * $gap) !default;
 				padding: 0rem;
 				text-align: left;
 			}
+		
+			ul ul li{
+				padding: 3rem 0rem;
+			}
+		
 		}
 	
 	
