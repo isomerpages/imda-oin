@@ -72,8 +72,7 @@ Through our support, companies can defray development costs, reduce business ris
 
 
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
-
-Briefing day 7 July 2020, 0900H to 1100H [Video Link](https://www.youtube.com/watch?v=BSAGySacgFs&feature=youtu.be).
+JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.com/watch?v=BSAGySacgFs&feature=youtu.be) - Automation & Productivity
 
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
