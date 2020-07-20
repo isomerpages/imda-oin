@@ -471,16 +471,9 @@ $desktop: 960px + (2 * $gap) !default;
   @include touch() {
     width: 100%;
   }
-
-	//test for h1 size on mobile
-	
-	h1{
-		font-size: 1.5rem;
-	}
-	
-	//end of test
 }
 
+// Test for responsive web design
 @media only screen and (max-width: 768px)  {
 	h1, h2, h3, h4{
 		font-size: 1.5rem;
@@ -488,4 +481,15 @@ $desktop: 960px + (2 * $gap) !default;
 	p{
 		font-size:1rem;
 	}
+	
+#wrapper{
+	label{
+		font-size: 1.5rem;
+	}
+	
+	}
+	
+	
 }
+
+// End of test
