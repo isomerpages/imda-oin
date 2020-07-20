@@ -28,7 +28,7 @@ The system should make provision for – a seamless check-in module and a real-t
 <h5>DEADLINE</h5>
 All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. SACEOS and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="/national-innovation-challenge/imda-national-innovation-challenge/problem-statement-1" target="_blank" >Learn More</a>
+<a href="https://www.openinnovation.sg/about" target="_blank" >Learn More</a>
           </li>
         </ul>
       </li>
@@ -72,7 +72,7 @@ The solution should include the following capabilities:<br>
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. NHB and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
+<a href="https://www.openinnovation.sg/about" target="_blank" >Learn More</a>
         </li>
       </ul>
     </li>
@@ -102,7 +102,7 @@ There are no restrictions on the geographic location of the problem solvers who 
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. PSA and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.
 <br><br>
-<a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
+<a href="https://www.openinnovation.sg/about" target="_blank" >Learn More</a>
         </li>
       </ul>
     </li>
