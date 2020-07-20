@@ -484,11 +484,14 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 	
 #wrapper{
-	label{
-		font-size: 1rem;
-	
-	}
-	
+		label{
+			font-size: 1rem;
+
+		}
+
+		ul ul li{
+			padding: 3rem 0rem;
+		}
 	}
 	
 	
