@@ -1,3 +1,4 @@
+<!--
 ---
 layout: leftnav-page-content
 title: FAQ
@@ -109,3 +110,6 @@ The NIC provides funding for development, deployment and adoption for solutions,
 MOF currently allows agencies to use spiral contracting, which allows projects to proceed in stages. There is no need for agencies to call for a tender to development the prototype or for pilot deployment as the NIC already has elements of open procurement with clear and objective outcomes. The NIC will also provide funding for the development and prototyping phase.
 
 For deployment, agencies can then go through their own procurement process to purchase the solution, using their own funds.
+
+
+-->
