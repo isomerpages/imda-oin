@@ -35,7 +35,7 @@ The solution sought should be able to inspect the container autonomously or remo
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">RFID Tagged Airfreight Shipments – Industry Use of RFID Printed Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
       <ul>
-        <li><b><h4>SATS</h4>
+        <li><b><h4>SATs Ltd</h4>
        How might we develop a cost-effective RFID tagging solution for the tracking and tracing of air cargo?</b>
         <h5>What We Are Looking For</h5>
 •	Outcome 1: To move Singapore airfreight industry towards a common AWB labelling standard with the use of RFID-embedded printed label or tag, and where the piece level of the cargo is also associated to a RFID-tagged unit load device (ULD).<br>
