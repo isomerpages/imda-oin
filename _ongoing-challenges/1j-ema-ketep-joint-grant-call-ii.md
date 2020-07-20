@@ -43,10 +43,10 @@ ii. Energy-efficient emissions-free pathways for hydrogen production, e.g. metha
 i. Cost-effective grid integrated solar PV systems, e.g. portable PV;<br>
 and/or<br>
 ii. Creative deployment of solar PV in an urbanised context, e.g. building-integrated/building-applied PV.<br> 
-.<br><br>
+<br>
 
 
-<a href="href="https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf" >Learn More</a>
+<a href="https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf" >Learn More</a>
         </li>
        </ul>
     </li>
