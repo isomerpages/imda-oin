@@ -67,19 +67,6 @@ Through our support, companies can defray development costs, reduce business ris
         </li>
        </ul>
     </li>
-    <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">Augmenting safety inspections for building and/or infrastructure construction sites</label>
-      <ul>
-        <li><b><h4>JTC Corporation (JTC)</h4></b>Construction industry is one of the most high-risk work environment, with higher fatality rate than most industries. According to the published Workplace Safety and Health Report from MOM, 13 workplace fatal injuries and 596 major injuries occurred in the Construction Industry in 2019.  
-<h5>What We Are Looking For</h5>      
-We envision an affordable cloud-based AI-enabled computer vision empowered cameras to identify and flag out potential safety hazards by providing predictive and timely alerts to the relevant construction sites’ stakeholders. The stakeholders would be able to assign the most appropriate response party to intervene and take appropriate actions to remove or mitigate the potential threats.<br><br>
-
-
-<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure" >Learn More</a>
-        </li>
-       </ul>
-    </li>
 </ul>
 </div>
 
