@@ -35,30 +35,58 @@ Through our support, companies can defray development costs, reduce business ris
  
 <b>Automation and Productivity</b><br>
 
-<div id="problemstatement">
-  <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual">
-<p><b>
-  Challenge Statement 1: <br>Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)
-</b></p></a>
-</div>
- 
-  <div id="problemstatement"><a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-extending-productive-hours-construction-sites">
-<p><b>
-  Challenge statement 2: <br>Extending productive hours for construction sites
-    </b></p></a>
-  </div>
+<div id="wrapper">
+    <h4> Challenge Statements </h4>
+<ul>
+    <li>
+    <input type="checkbox" id="list-item-1">
+    <label for="list-item-1" class="first">Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</label>
+        <ul>
+          <li><b><h4>JTC Corporation (JTC)</h4></b>Estate inspection or fault identification currently requires manual scanning of assets conditions during drive through. The current inspection process is manual and laborious. When a fault is spotted, the officer has to look for a nearby safe spot to stop and park the vehicle before he/ she is able to conduct a more detailed assessment of the fault. After the drive through, the officer has to manually upload the photos, compile a report and send it to the respective coordinating agency. The process is time consuming and turnaround time to generate the report is rather long.
+<h5>What We Are Looking For</h5>
+1. Viable solution that increases manpower productivity and safety – A solution that captures images/ shapes/ contours, identify and flag out fault conditions and automatically generating alerts and reports.<br>
+2. Quick detection of faults and response time – The system shall reduce the reaction time between fault identification and rectification.<br><br>
+
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual" >Learn More</a>
+          </li>
+        </ul>
+      </li>
+     <li>
+    <input type="checkbox" id="list-item-2">
+    <label for="list-item-2">Augmenting safety inspections for building and/or infrastructure construction sites</label>
+      <ul>
+        <li><b><h4>JTC Corporation (JTC)</h4></b>Noise restrictions, for workers’ welfare and nuisance control, limit the operating hours on a construction site. By exploring solutions that enable remote controlled or highly automated operations of various quiet construction tasks, construction can continue within the restricted noise levels after the traditional “noisy hours”. The construction site productivity can be improved without compromising worker welfare and affecting nearby users/residents.
+<h5>What We Are Looking For</h5>
+1. Construction site can continue to be productive afterhours while ensuring minimal noise and dust generation.<br>
+2. Increase manpower productivity by at least 100% or reduce labour reliance by 50% during afterhours work at the construction site.<br>
+3. Proposed solution is cost effective in comparison to conventional methods.<br>
+4. Ensures safety of workers during the afterhours work.<br><br>
 
 
-<div id="problemstatement">
-  <a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure">
-<p><b>
-  Challenge statement 3: <br>Augmenting safety inspections for building and/or infrastructure construction sites
-</b></p></a>
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-extending-productive-hours-construction-sites" >Learn More</a>
+        </li>
+       </ul>
+    </li>
+    <li>
+    <input type="checkbox" id="list-item-3">
+    <label for="list-item-3">Augmenting safety inspections for building and/or infrastructure construction sites</label>
+      <ul>
+        <li><b><h4>JTC Corporation (JTC)</h4></b>Construction industry is one of the most high-risk work environment, with higher fatality rate than most industries. According to the published Workplace Safety and Health Report from MOM, 13 workplace fatal injuries and 596 major injuries occurred in the Construction Industry in 2019.  
+<h5>What We Are Looking For</h5>      
+We envision an affordable cloud-based AI-enabled computer vision empowered cameras to identify and flag out potential safety hazards by providing predictive and timely alerts to the relevant construction sites’ stakeholders. The stakeholders would be able to assign the most appropriate response party to intervene and take appropriate actions to remove or mitigate the potential threats.<br><br>
+
+
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-augmenting-safety-inspections-building-andor-infrastructure" >Learn More</a>
+        </li>
+       </ul>
+    </li>
+</ul>
 </div>
+
 
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
 
-Briefing day 7 July 2020, 0900H to 1100H. [Register](https://form.gov.sg/5edf7083ea153a0011efd59d) your interest for the briefing 3 working days before the briefing , first come first served basis. 
+Briefing day 7 July 2020, 0900H to 1100H. [Video Link](https://www.youtube.com/watch?v=BSAGySacgFs&feature=youtu.be).
 
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
