@@ -45,7 +45,7 @@ info-sections:
 # NIC Update
   - section-title: 
     section-subtitle: 
-    section-description: "<h3>National Innovation Challenge</h3><br>The National Innovation Challenge (NIC) harnesses Singapore’s innovation capabilities to help businesses adapt to the New Normal. NIC problem statements are a new category of open innovation challenges that focus on developing industry-led solutions to challenges that all businesses grapple with. It provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment."
+    section-description: "<h3>National Innovation Challenges</h3><br>The National Innovation Challenges (NIC) harnesses Singapore’s innovation capabilities to help businesses adapt to the New Normal. NIC problem statements are a new category of open innovation challenges that focus on developing industry-led solutions to challenges that all businesses grapple with. It provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment."
     section-more-button: More About National Innovation Challenges
     external: false
     section-more-button-url: /national-innovation-challenges/
