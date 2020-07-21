@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
 title: Trade and Connectivity Challenge
-permalink: /national-innovation-challenge/trade-and-connectivity-challenge-2020
+permalink: /national-innovation-challenges/trade-and-connectivity-challenge-2020
 breadcrumb: Ongoing Challenges / Trade and Connectivity Challenge 2020
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
 #### Trade and Connectivity Challenge 2020
-<font color="#a9a9a9"><b>Powered by National Innovation Challenge</b></font>
+<font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![1](/images/tcc2020_banner.jpg)](http://tradeandconnectivity.innovation-challenge.sg)
 
 **Application Open Dates: 22 July 2020 to 1 October 2020**<br>
