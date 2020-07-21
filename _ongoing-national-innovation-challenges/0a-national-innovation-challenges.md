@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: National Innovation Challenges
 permalink: /national-innovation-challenges/
-breadcrumb: National Innovation Challenges / Overview
+breadcrumb: National Innovation Challenges / L'Oréal Innovation Runway 2020
 collection_name: ongoing-national-innovation-challenges
 ---
 ![1](/images/NIC-banner-1200x630.jpg)
