@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: IMDA Open Innovation Platform
-permalink: /national-innovation-challenges/imda-open-innovation-platform
+title: IMDA Open Innovation Challenges
+permalink: /national-innovation-challenges/imda-open-innovation-Challenges
 breadcrumb: ""
 collection_name: ongoing-national-innovation-challenges
 ---
 
-#### **IMDA Open Innovation Platform**
+#### **IMDA Open Innovation Challenges**
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/oip_banner_nic.png)](https://www.openinnovation.sg/about)
 
