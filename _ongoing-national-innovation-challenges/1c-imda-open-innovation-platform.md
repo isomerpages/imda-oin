@@ -4,7 +4,6 @@ title: IMDA Open Innovation Platform
 permalink: /national-innovation-challenges/imda-open-innovation-platform
 breadcrumb: IMDA Open Innovation Platform
 collection_name: ongoing-national-innovation-challenges
-second_nav_title: Ongoing Challenges
 ---
 
 #### **IMDA Open Innovation Platform**
