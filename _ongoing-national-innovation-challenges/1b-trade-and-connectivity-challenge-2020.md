@@ -38,10 +38,8 @@ To develop an autonomous or remote inspection solution that can effectively dete
     <label for="list-item-2">Dynamic Resource Planning Solution to Optimise Productivity in a post-COVID 19 work setting</label>
       <ul>
         <li><b><h4>YCH Group</h4></b>
-      How might we develop a cost-effective and user-friendly AI/ML-enabled resource management and planning solution which enables measurement and optimisation of productivity with regard to manpower and equipment utilisation? This solution should cater to post-COVID 19 work settings, where operations has to factor in Business Continuity Planning (BCP) requirements, social distancing and workforce segregation
-          
-      <br><br>
-      
+      How might we develop a cost-effective and user-friendly AI/ML-enabled resource management and planning solution which enables measurement and optimisation of productivity with regard to manpower and equipment utilisation? This solution should cater to post-COVID 19 work settings, where operations has to factor in Business Continuity Planning (BCP) requirements, social distancing and workforce segregation.
+     
 <h5>What We Are Looking For</h5>
 
 The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br><br>
