@@ -2,7 +2,7 @@
 ---
 layout: leftnav-page-content
 title: JTC Innovation Challenge
-permalink: /nic-jtc-innovation-challenge-2020/
+permalink: /national-innovation-challenges/jtc-innovation-challenge-2020/
 breadcrumb: Ongoing Challenges / JTC Innovation Challenge
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
