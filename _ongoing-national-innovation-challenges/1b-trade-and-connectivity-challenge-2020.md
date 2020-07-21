@@ -37,14 +37,14 @@ The solution sought should be able to inspect the container autonomously or remo
       <ul>
         <li><b><h4>YCH Group</h4></b>
       The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br>
-Interoperable Solutioning: This solution should be able to integrate with our existing software solutions including enterprise resource planning (ERP) and warehouse management systems (WMS)<br>
-Managing Staffing Requirements: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised.<br><br>In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example<br><br>
+          <b>Interoperable Solutioning</b>: This solution should be able to integrate with our existing software solutions including enterprise resource planning (ERP) and warehouse management systems (WMS)<br>
+          <b>Managing Staffing Requirements</b>: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised.<br><br>In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example<br><br>
       
-Possible methods of tracking include, but not limited to:
-<ul>
-  <li>Wearables</li>
-  <li>Computer Vision</li>
-</ul>
+Possible methods of tracking include, but not limited to:<br>
+
+• Wearables<Br>
+• Computer Vision<br>
+
   
 
         <h5>What We Are Looking For</h5>
@@ -55,17 +55,15 @@ Based on the data collected, the solution should be able to calculate the predic
 The system should be able to calculate the gaps between order to fulfil and total predicted productivity. It should be able to recommend any additional manpower required to cover bottleneck activity and identify the suitable worker who is available and at the appropriate location to carry out the task.
 <br><br>
 Warehousing activities include:
-<ul>
-<li>Inbound – Unloading container</li>
-<li>Inbound – Receiving (gantry & scanner)</li>
-<li>Inbound – Put away (automated guided vehicle (AGV))</li>
-<li>Storage (automated storage and retrieval system (ASRS))</li>
-<li>Outbound – Process Order (WMS)</li>
-<li>Outbound – Staging (AGV)</li>
-<li>Outbound – Picking (robotic arms & scanner)</li>
-<li>Outbound – Shrink Wrap (wrapping machine)</li>
-<li>Outbound – Loading container</li>
-</ul>
+•	Inbound – Unloading container<br>
+•	Inbound – Receiving (gantry & scanner)<br>
+•	Inbound – Put away (automated guided vehicle (AGV))<br>
+•	Storage (automated storage and retrieval system (ASRS))<br>
+•	Outbound – Process Order (WMS)<br>
+•	Outbound – Staging (AGV)<br>
+•	Outbound – Picking (robotic arms & scanner)<br>
+•	Outbound – Shrink Wrap (wrapping machine)<br>
+•	Outbound – Loading container
 
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
