@@ -9,8 +9,6 @@ collection_name: ongoing-national-innovation-challenges
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![1](/images/tcc2020_banner.jpg)](http://tradeandconnectivity.innovation-challenge.sg)
 
-<br>
-
 Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects startups with corporates to address challenges and showcase innovation in the aviation, maritime, land mobility, logistics and trade sectors. Several of this year's TCC problem statements with wider industry relevance will be part of the National Innovation Challenges, which aim to help companies emerge stronger and address mid to longer term sectoral challenges in the post-COVID era. 
 
 <!-- start of wrapper div -->
