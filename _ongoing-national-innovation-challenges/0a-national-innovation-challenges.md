@@ -9,7 +9,7 @@ collection_name: ongoing-national-innovation-challenges
 <br>
 The National Innovation Challenges (NIC) harness Singapore’s innovation capabilities to help businesses adapt to the New Normal.
 <br><br>
-Building on existing open innovation efforts from Enterprise Singapore’s GovPACT, IMDA’s [Open Innovation Platform](https://www.openinnovation.sg/about) (OIP) and the [National Research Foundation](https://www.nrf.gov.sg), the NIC initiative provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment.
+Building on existing open innovation efforts from Enterprise Singapore’s [GovPACT](https://gov-pact.ipi-singapore.org), IMDA’s [Open Innovation Platform](https://www.openinnovation.sg/about) (OIP) and the [National Research Foundation](https://www.nrf.gov.sg), the NIC initiative provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment.
 <br><br>
 NIC problem statements are a new category of open innovation challenges that focus on developing industry-led solutions to challenges that all businesses grapple with. Starting areas of focus include how we can reopen Singapore safely – to achieve safe workplaces, homes, schools and commuting.
 <br><br>
