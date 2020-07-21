@@ -4,7 +4,7 @@ title: MOHT
 permalink: /network/moh-office-for-healthcare-transformation
 breadcrumb: Network / MOH Office for Healthcare Transformation
 collection_name: network
-second_nav_title: Open Innovation Intermediaries
+second_nav_title: Public Agencies
 ---
 
 <a href="https://www.moht.com.sg/design4impacto">
