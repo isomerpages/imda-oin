@@ -27,7 +27,7 @@ Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects s
             <h5>What We Are Looking For</h5>
 To develop an autonomous or remote inspection solution that can effectively detect, assess and classify defects on containers and tag findings to respective containers. The solution should improve container depots’ handling capacity. This will increase the sector’s productivity and reduce reliance on manual labour. Remote inspection capability will also make the sector more attractive to locals. The capability could be exported to other foreign container depots to improve productivity.
 <br><br>
-<a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
+<a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Apply Here</a>
       </li>
      </ul>
    </li>
@@ -48,7 +48,7 @@ The platform is envisaged to be powered by IoT devices and machine learning capa
 <br><br>
 
 <br><br>
-<a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
+<a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
