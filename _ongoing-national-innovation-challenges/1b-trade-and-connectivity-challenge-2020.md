@@ -12,7 +12,7 @@ second_nav_title: Ongoing Challenges
 
 **Application Open Dates: 22 July 2020 to 1 October 2020**<br>
 
-Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects startups with corporates to address challenges and showcase innovation in the aviation, maritime, land mobility, logistics and trade sectors. For this year’s TCC  several problem statements with wider industry relevance will be part of the newly launched National Innovation Challenges, which aims to help companies emerge stronger and address mid to longer term sectoral challenges in the post-COVID era. 
+Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects startups with corporates to address challenges and showcase innovation in the aviation, maritime, land mobility, logistics and trade sectors. Several of this year's TCC problem statements with wider industry relevance will be part of the newly launched National Innovation Challenges, which aim to help companies emerge stronger and address mid to longer term sectoral challenges in the post-COVID era. 
 
 <!-- start of wrapper div -->
 <!-- start of first drop down box -->
@@ -35,26 +35,18 @@ To develop an autonomous or remote inspection solution that can effectively dete
 <!-- start of first drop down box -->
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Seeking Solutions for the Management and Dynamic Allocation of Resources in a Post-COVID 19 Work Setting</label>
+    <label for="list-item-2">Dynamic Resource Planning Solution to Optimise Productivity in a post-COVID 19 work setting</label>
       <ul>
         <li><b><h4>YCH Group</h4></b>
-      The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br><br>
-          <b>Interoperable Solutioning</b>: This solution should be able to integrate with our existing software solutions including enterprise resource planning (ERP) and warehouse management systems (WMS)<br><br>
-          <b>Managing Staffing Requirements</b>: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised.<br><br>In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example.<br><br>
+      How might we develop a cost-effective and user-friendly AI/ML-enabled resource management and planning solution which enables measurement and optimisation of productivity with regard to manpower and equipment utilisation? This solution should cater to post-COVID 19 work settings, where operations has to factor in Business Continuity Planning (BCP) requirements, social distancing and workforce segregation
+          
+      <br><br>
       
-Possible methods of tracking include, but not limited to:<br>
-
-• Wearables<Br>
-• Computer Vision<br>
-
-  
-
 <h5>What We Are Looking For</h5>
-•	Outcome 1: The solution we are seeking should be able to cater to the multiple skills possessed by our employees, and be able to optimally allocate resources to the task at hand, without overburdening the employee.<br><br>
-•	Outcome 2: The solution should be able to track the utilisation of equipment, such as forklifts and reach trucks.<br><br>
-      
-Based on the data collected, the solution should be able to calculate the predicted level of productivity for each day, based on the number of employees available and their individual productivity level. Such calculations may be used to provide recommendations for optimal resource allocation, in fulfilling the total number of orders for the day.
-The system should be able to calculate the gaps between order to fulfil and total predicted productivity. It should be able to recommend any additional manpower required to cover bottleneck activity and identify the suitable worker who is available and at the appropriate location to carry out the task.
+
+The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br><br>
+          <b>Interoperable Solutioning</b>: This solution should be able to integrate with our existing software solutions including enterprise resource planning (ERP) and warehouse management systems (WMS)<br><br>
+          <b>Managing Staffing Requirements</b>: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised.<br><br>In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example.
 <br><br>
 
 <br><br>
