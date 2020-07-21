@@ -7,7 +7,7 @@ collection_name: ongoing-national-innovation-challenges
 ---
 ![1](/images/NIC-banner-1200x630.jpg)
 <br>
-The National Innovation Challenges (NIC) harness Singapore’s innovation capabilities to help businesses adapt to the New Normal. 
+The National Innovation Challenges (NIC) harness Singapore’s innovation capabilities to help businesses adapt to the New Normal. S$40 million in funding has been dedicated to the NIC to ramp-up the development and adoption of solutions, where each challenge is allocated up to S$2 million.
 <br><br>
 Building on existing open innovation efforts from Enterprise Singapore’s GovPACT, IMDA’s Open Innovation Platform (OIP) and the National Research Foundation, the NIC initiative provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment.
 <br><br>
