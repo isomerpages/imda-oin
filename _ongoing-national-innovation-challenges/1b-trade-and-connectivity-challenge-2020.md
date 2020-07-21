@@ -23,7 +23,7 @@ Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects s
         <ul>
           <li><b><h4>Container Depot & Logistics Association of Singapore (CDAS)</h4>How might we reduce the time taken and the reliance on manual labour to improve productivity for the container inspection process and eliminate risky activities such as working at height?</b>
             <h5>What We Are Looking For</h5>
-The solution sought should be able to inspect the container autonomously or remotely, effectively detect, assess and classify the defects on containers and tag the findings to the containers based on their identification numbers. Ideally, the number of surveyors required per inspection yard should be reduced to 1 – 2. 
+To develop an autonomous or remote inspection solution that can effectively detect, assess and classify defects on containers and tag findings to respective containers. The solution should improve container depots’ handling capacity. This will increase the sector’s productivity and reduce reliance on manual labour. Remote inspection capability will also make the sector more attractive to locals. The capability could be exported to other foreign container depots to improve productivity.
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
       </li>
@@ -54,16 +54,6 @@ Possible methods of tracking include, but not limited to:<br>
 Based on the data collected, the solution should be able to calculate the predicted level of productivity for each day, based on the number of employees available and their individual productivity level. Such calculations may be used to provide recommendations for optimal resource allocation, in fulfilling the total number of orders for the day.
 The system should be able to calculate the gaps between order to fulfil and total predicted productivity. It should be able to recommend any additional manpower required to cover bottleneck activity and identify the suitable worker who is available and at the appropriate location to carry out the task.
 <br><br>
-Warehousing activities include:<br>
-•	Inbound – Unloading container<br>
-•	Inbound – Receiving (gantry & scanner)<br>
-•	Inbound – Put away (automated guided vehicle (AGV))<br>
-•	Storage (automated storage and retrieval system (ASRS))<br>
-•	Outbound – Process Order (WMS)<br>
-•	Outbound – Staging (AGV)<br>
-•	Outbound – Picking (robotic arms & scanner)<br>
-•	Outbound – Shrink Wrap (wrapping machine)<br>
-•	Outbound – Loading container
 
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
