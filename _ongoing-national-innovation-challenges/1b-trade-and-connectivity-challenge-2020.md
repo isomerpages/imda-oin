@@ -5,7 +5,7 @@ permalink: /national-innovation-challenges/trade-and-connectivity-challenge-2020
 breadcrumb: ""
 collection_name: ongoing-national-innovation-challenges
 ---
-#### Trade and Connectivity Challenge 2020
+#### **Trade and Connectivity Challenge 2020**
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![1](/images/tcc2020_banner.jpg)](http://tradeandconnectivity.innovation-challenge.sg)
 
