@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Smart Port Challenge 2020
+title: Smart Port Challenge 2020 test
 permalink: /smart-port-challenge-2020/
 breadcrumb: / test
 collection_name: ongoing-challenges
