@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: IMDA Open Innovation Platform
 permalink: /national-innovation-challenges/imda-open-innovation-platform
-breadcrumb: IMDA Open Innovation Platform
+breadcrumb: ""
 collection_name: ongoing-national-innovation-challenges
 ---
 
