@@ -28,6 +28,7 @@ future: true
 homepage_hero_i_want_to: false
 homepage_resources: true
 
+
 # Feedback Form URL
 feedback_form_url: "https://form.gov.sg/5dafaccfb9af8a0012722588"
 
@@ -52,6 +53,8 @@ collections:
   ongoing-national-innovation-challenges:
     output: true
   past-national-innovation-challenges:
+    output: true
+  media-centre:
     output: true
 
 

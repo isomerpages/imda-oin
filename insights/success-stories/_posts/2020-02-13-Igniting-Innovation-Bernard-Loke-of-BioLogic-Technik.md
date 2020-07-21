@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Igniting Innovation - Bernard Loke of BioLogic Technik
-date: 2020-02-13
-permalink: "https://www.ipi-singapore.org/innovation-insights/igniting-innovation-bernard-loke-biologic-technik"
+title: Singapore’s Shiok Meats Raises $3m in Bridge Funding
+date: 2020-06-25
+permalink: "https://www.dealstreetasia.com/stories/shiok-meats-bridge-funding-194322/"
 ---

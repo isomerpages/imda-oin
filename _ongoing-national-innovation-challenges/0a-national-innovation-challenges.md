@@ -1,14 +1,16 @@
-<!---
 ---
 layout: leftnav-page-content
 title: National Innovation Challenges
-permalink: /ongoing-national-innovation-challenges/
+permalink: /national-innovation-challenges/
 breadcrumb: National Innovation Challenges
 collection_name : ongoing-national-innovation-challenges
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
--->
-
+![1](/images/NIC-banner-1200x630.jpg)
+<br>
+The National Innovation Challenges (NIC) harness Singapore’s innovation capabilities to help businesses adapt to the New Normal. 
+<br><br>
+Building on existing open innovation efforts from Enterprise Singapore’s GovPACT, IMDA’s Open Innovation Platform (OIP) and the National Research Foundation, the NIC initiative provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment.
+<br><br>
+NIC problem statements are a new category of open innovation challenges that focus on developing industry-led solutions to challenges that all businesses grapple with. Starting areas of focus include how we can reopen Singapore safely – to achieve safe workplaces, homes, schools and commuting.
+<br><br>
+NIC provides a common open innovation platform for government agencies, Research Institutions, Trade Association & Chambers (TACs), corporates, SMEs and startups. Through NIC, challenge owners can gain access to a diverse pool of solvers with cross-industry expertise. Solution providers will also receive support and potential funding to develop and deploy their solutions into the market swiftly. 

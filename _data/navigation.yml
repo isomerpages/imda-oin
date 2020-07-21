@@ -14,13 +14,15 @@
   - title: Why Open Innovation?
     url: /why-open-innovation/
 # NIC Update
-# - title: National Innovation Challenges
-#   url: /ongoing-national-innovation-challenges/
-#   sub-links: 
-#     - title: Ongoing National Innovation Challenges
-#       url: /ongoing-national-innovation-challenges/
-#     - title: Past National Innovation Challenges
-#       url: /past-national-innovation-challenges/
+- title: National Innovation Challenges
+  url: /national-innovation-challenges/
+  sub-links: 
+  - title: Ongoing National Innovation Challenges
+    url: /national-innovation-challenges/
+#   - title: Past National Innovation Challenges
+#     url: /past-national-innovation-challenges/
+#  - title: Media Centre
+#    url: /national-innovation-challenge/media-centre/
 # NIC Update
 - title: Innovation Challenges
   url: /ongoing-innovation-challenges/
@@ -39,8 +41,8 @@
     url: /insights/latest-news/
   - title: Upcoming Events
     url: /insights/upcoming-events/
-- title: Success Stories
-  url: /insights/success-stories/
+  - title: Success Stories
+    url: /insights/success-stories/
 - title: Resources
   url: /resources-main/
   sub-links: 

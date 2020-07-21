@@ -12,32 +12,46 @@ agency-logo: /images/OIN-logo.jpg
 
 google-analytics: UA-150355070-1
 
-# Hero Banner
-hero-title: Open Innovation Network
-hero-subtitle: Gateway to innovation challenges and latest happenings in Singapore
-hero-banner: /images/main-banner.jpg
-#Call to Action Button
+#Hero Banner
+# hero-title: Open Innovation Network
+# hero-subtitle: Gateway to innovation challenges and latest happenings in Singapore
+hero-banner: /images/NIC-KV_1920x720.jpg
 
+#Call to Action Button
+# button:
+#   - text: National<br>Innovation Challenge
+#     url: /ongoing-national-innovation-challenges/
+
+# key-highlights:
+#   - title: National Innovation Challenge
+#     url: /ongoing-national-innovation-challenges/
+#     external: false
+#   - title: Innovation Challenge
+#     url: /ongoing-national-innovation-challenges/
+#     external: false
+#   - title: Frequently Asked Questions
+#     url: /national-innovation-challenge-faq/
+#     external: false
     
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: About Open Innovation Network
-    section-description:  Keen to solve problem statements across industries and markets? Open Innovation Network (OIN) is the national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address complex challenges that require collaboration in Singapore and beyond. 
+    section-subtitle: 
+    section-description: "<h3>About Open Innovation Network</h3><br>Keen to solve problem statements across industries and markets? Open Innovation Network (OIN) is the national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address complex challenges that require collaboration in Singapore and beyond."
     section-more-button: More About Ongoing Innovation Challenges
     external: false
     section-more-button-url: /ongoing-innovation-challenges/
-    section-image-path: /images/ongoinginnovationcalls_2.jpg   
+    section-image-path: /images/ongoinginnovationcalls_2.jpg
 # NIC Update
-#  - section-title: 
-#    section-subtitle: National Innovation Challenge
-#    section-description:  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-#    section-more-button: More About National Innovation Challenges
-#    external: false
-#    section-more-button-url: /ongoing-national-innovation-challenges/
-#    section-image-path: /images/national-innovation-challenge-banner.jpg
-# NIC Update
+  - section-title: 
+    section-subtitle: 
+    section-description: "<h3>National Innovation Challenges</h3><br>The National Innovation Challenges (NIC) harness Singapore’s innovation capabilities to help businesses adapt to the New Normal. NIC problem statements are a new category of open innovation challenges that focus on developing industry-led solutions to challenges that all businesses grapple with. It provides support for the development, deployment and scaled adoption of solutions to address nationwide challenges, as well as medium- to long-term solutions for businesses to emerge stronger in the post-COVID environment."
+    section-more-button: More About National Innovation Challenges
+    external: false
+    section-more-button-url: /national-innovation-challenges/
+    section-image-path: /images/ongoinginnovationcalls_5.jpg
 
+# NIC Update
 # Resources Section 
 resources-subtitle: Insights
 resources-title: Stay updated on the latest Open Innovation happenings

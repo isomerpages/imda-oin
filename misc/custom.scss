@@ -225,14 +225,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	background-color: $secondary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken($secondary,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			border-top:1px solid darken($secondary,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			background-color: darken($secondary,10%);
 		}
 	}
 }
@@ -299,6 +299,10 @@ $desktop: 960px + (2 * $gap) !default;
 		color: $secondary;
 	}
 // Test
+	p{
+	text-align: justify;
+	}
+	
 	#problemstatement {
 	display: block;
 	border-width: 10px;
@@ -316,7 +320,7 @@ $desktop: 960px + (2 * $gap) !default;
 	padding: 2rem;
 	display: block;
 	box-sizing: content-box;
-		}
+	}
 	
 	a {
 	color: inherit;
@@ -329,11 +333,73 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	}
 	
-// End of Test
-	
-}
-	
+	#wrapper{
+	padding: 4rem auto;
+	color:#ffffff;
+	width: 95%;
+	margin: 3rem auto;
 
+		ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		text-align: justify;
+		}
+
+		label{
+		display: block;
+		cursor: pointer;
+		padding: 10px;
+		border-bottom: none;
+		background-color: #E7131A;
+			
+			&:hover {
+  			background-color: darken(#E7131A, 10%);
+			}
+			
+		}
+
+		label.last{
+		border-bottom: 1px solid #fff;
+		}
+
+		ul ul li{
+		list-style-type: none;
+		color:#000000;
+		background: #ffffff;
+		padding: 3rem 1.5rem;
+		text-align: justify;
+		}
+		
+
+		input[type="checkbox"]{
+		position: absolute;
+		left: -9999px;
+		}
+
+		input[type="checkbox"] ~ ul{
+		height: 0;
+		transform: scaleY(0);
+		}
+
+		input[type="checkbox"]:checked ~ ul{
+		height: 100%;
+		border: 1px solid #fff;
+		transform-origin: top;
+		transition: transform .2s ease-out;
+		transform: scaleY(1); 
+		}
+
+		input[type="checkbox"]:checked + label{
+		background: #E7131A;
+		border-bottom: 1px solid #fff;
+
+		}
+	}
+
+}
+
+// End of Test
 	
 
 
@@ -390,6 +456,12 @@ $desktop: 960px + (2 * $gap) !default;
   padding-bottom: 1.75rem;
 }
 
+// NIC Update Remove Grey Overlay
+
+.bp-hero-body {
+    background: rgba(0,0,0,0);
+}
+// NIC Update
 .is-centered {
   margin: auto;
 }
@@ -400,3 +472,29 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+// Test for responsive web design
+@media only screen and (max-width: 768px)  {
+	
+	h1, h2, h3, h4{
+		font-size: 1.5rem;
+		}
+	p, ul, li{
+		font-size:1rem;
+		}
+	
+	.content #wrapper { 
+
+			ul ul li {
+			padding: 3rem 0rem;
+			}
+
+			label{
+			font-size: 1rem;
+			}
+
+		}
+	
+}
+
+// End of test

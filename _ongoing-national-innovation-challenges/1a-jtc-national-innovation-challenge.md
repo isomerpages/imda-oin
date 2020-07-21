@@ -1,9 +1,10 @@
+<!--
 ---
 layout: leftnav-page-content
 title: JTC Innovation Challenge
-permalink: /jtc-innovation-challenge-2020/
+permalink: /nic-jtc-innovation-challenge-2020/
 breadcrumb: Ongoing Challenges / JTC Innovation Challenge
-collection_name: ongoing-challenges
+collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing Challenges
 ---
 
@@ -32,8 +33,6 @@ Through our support, companies can defray development costs, reduce business ris
   <li>Digitalisation of the build environment, easing the transition into using Building Information Mangement (BIM) Models and developing BIM-based solutions that address construction painpoints</li>
   <li>Sustainability and resilience, to reduce our carbon impact on the environment and improve our resilience to supply chain disruptions</li>
 </ul>
- 
-<b>Automation and Productivity</b><br>
 
 <div id="wrapper">
     <h4> Challenge Statements </h4>
@@ -72,8 +71,10 @@ Through our support, companies can defray development costs, reduce business ris
 
 
 Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
-JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.com/watch?v=BSAGySacgFs&feature=youtu.be) - Automation & Productivity
+
+Briefing day 7 July 2020, 0900H to 1100H. [Video Link](https://www.youtube.com/watch?v=BSAGySacgFs&feature=youtu.be).
 
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge){:target="_blank"}
+-->
