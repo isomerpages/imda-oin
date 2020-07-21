@@ -32,7 +32,7 @@ To develop an autonomous or remote inspection solution that can effectively dete
 <!-- start of first drop down box -->
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Dynamic Resource Planning Solution to Optimise Productivity in a post-COVID 19 work setting</label>
+    <label for="list-item-2">Management and Dynamic Allocation of Resources in a post-COVID 19 work setting</label>
       <ul>
         <li><b><h4>YCH Group</h4>
       How might we develop a cost-effective and user-friendly AI/ML-enabled resource management and planning solution which enables measurement and optimisation of productivity with regard to manpower and equipment utilisation? This solution should cater to post-COVID 19 work settings, where operations has to factor in Business Continuity Planning (BCP) requirements, social distancing and workforce segregation.</b>
