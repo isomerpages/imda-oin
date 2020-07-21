@@ -2,8 +2,8 @@
 layout: leftnav-page-content
 title: National Innovation Challenges
 permalink: /national-innovation-challenges/
-breadcrumb: National Innovation Challenges
-collection_name : ongoing-national-innovation-challenges
+breadcrumb: National Innovation Challenges / Overview
+collection_name: ongoing-national-innovation-challenges
 ---
 ![1](/images/NIC-banner-1200x630.jpg)
 <br>

@@ -1,14 +1,13 @@
 ---
 layout: leftnav-page-content
-title: IMDA Open Innovation Platform
-permalink: /national-innovation-challenge/imda-open-innovation-platform
-breadcrumb: Ongoing Challenges / IMDA Open Innovation Platform
+title: IMDA Open Innovation Challenges
+permalink: /national-innovation-challenges/imda-open-innovation-Challenges
+breadcrumb: ""
 collection_name: ongoing-national-innovation-challenges
-second_nav_title: Ongoing Challenges
 ---
 
-#### **IMDA Open Innovation Platform**
-<font color="#a9a9a9"><b>Powered by National Innovation Challenge</b></font>
+#### *IMDA Open Innovation Challenges*
+<font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/oip_banner_nic.png)](https://www.openinnovation.sg/about)
 
 <br>
@@ -28,7 +27,7 @@ The system should make provision for – a seamless check-in module and a real-t
 <h5>DEADLINE</h5>
 All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. SACEOS and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="https://www.openinnovation.sg/about" target="_blank" >Learn More</a>
+<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
           </li>
         </ul>
       </li>
@@ -46,7 +45,7 @@ o	This platform should be able to utilise input based on workforce availability 
 <h5>DEADLINE</h5>
 All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. BCA, Kajima Group and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="www.openinnovationnetwork.sg" target="_blank" >Learn More</a>
+<a href="www.openinnovationnetwork.sg" target="_blank" >Apply Here</a>
         </li>
        </ul>
     </li>
@@ -72,7 +71,7 @@ The solution should include the following capabilities:<br>
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. NHB and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="https://www.openinnovation.sg/about" target="_blank" >Learn More</a>
+<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -102,7 +101,7 @@ There are no restrictions on the geographic location of the problem solvers who 
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. PSA and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.
 <br><br>
-<a href="https://www.openinnovation.sg/about" target="_blank" >Learn More</a>
+<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
