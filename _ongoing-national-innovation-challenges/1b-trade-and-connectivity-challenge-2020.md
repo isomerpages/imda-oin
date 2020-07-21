@@ -4,7 +4,7 @@ title: Trade and Connectivity Challenge
 permalink: /national-innovation-challenges/trade-and-connectivity-challenge-2020
 breadcrumb: Trade and Connectivity Challenge 2020
 collection_name: ongoing-national-innovation-challenges
-second_nav_title: Ongoing Challenges
+<!--second_nav_title: Ongoing Challenges -->
 ---
 #### Trade and Connectivity Challenge 2020
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
