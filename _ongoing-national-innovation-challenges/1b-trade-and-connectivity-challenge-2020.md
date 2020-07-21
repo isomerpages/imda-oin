@@ -33,13 +33,40 @@ The solution sought should be able to inspect the container autonomously or remo
 <!-- start of first drop down box -->
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">RFID Tagged Airfreight Shipments – Industry Use of RFID Printed Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
+    <label for="list-item-2">Seeking Solutions for the Management and Dynamic Allocation of Resources in a Post-COVID 19 Work Setting</label>
       <ul>
-        <li><b><h4>SATs Ltd</h4>
-       How might we develop a cost-effective RFID tagging solution for the tracking and tracing of air cargo?</b>
+        <li><b><h4>YCH Group</h4></b>
+      The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br>
+Interoperable Solutioning: This solution should be able to integrate with our existing software solutions including enterprise resource planning (ERP) and warehouse management systems (WMS)<br>
+Managing Staffing Requirements: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised.<br><br>In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example<br><br>
+      
+Possible methods of tracking include, but not limited to:
+<ul>
+  <li>Wearables</li>
+  <li>Computer Vision</li>
+</ul>
+  
+
         <h5>What We Are Looking For</h5>
-•	Outcome 1: To move Singapore airfreight industry towards a common AWB labelling standard with the use of RFID-embedded printed label or tag, and where the piece level of the cargo is also associated to a RFID-tagged unit load device (ULD).<br>
-•	Outcome 2: To the shipper, GHA & carrier, provide visibility for track and trace of the shipment at every stage of the shipment including the handling in the warehouse, until uplift or arrival. The benefit of using RFID systems is that it does not rely on a line-of-sight to identify an item and hence the use of RFID readers will facilitate operational efficiency and replace manual scanning or manual recording of AWB. The International Air Transport Association (IATA) has since announced in 2018 that all passenger bags must be tracked by RFID & airports must move towards implementation of RFID readers. This concept could be applied to air-cargo and Singapore airport can be the first mover with the joint-industry effort.
+•	Outcome 1: The solution we are seeking should be able to cater to the multiple skills possessed by our employees, and be able to optimally allocate resources to the task at hand, without overburdening the employee.<br>
+•	Outcome 2: The solution should be able to track the utilisation of equipment, such as forklifts and reach trucks.<br>
+      
+Based on the data collected, the solution should be able to calculate the predicted level of productivity for each day, based on the number of employees available and their individual productivity level. Such calculations may be used to provide recommendations for optimal resource allocation, in fulfilling the total number of orders for the day.
+The system should be able to calculate the gaps between order to fulfil and total predicted productivity. It should be able to recommend any additional manpower required to cover bottleneck activity and identify the suitable worker who is available and at the appropriate location to carry out the task.
+<br><br>
+Warehousing activities include:
+<ul>
+<li>Inbound – Unloading container</li>
+<li>Inbound – Receiving (gantry & scanner)</li>
+<li>Inbound – Put away (automated guided vehicle (AGV))</li>
+<li>Storage (automated storage and retrieval system (ASRS))</li>
+<li>Outbound – Process Order (WMS)</li>
+<li>Outbound – Staging (AGV)</li>
+<li>Outbound – Picking (robotic arms & scanner)</li>
+<li>Outbound – Shrink Wrap (wrapping machine)</li>
+<li>Outbound – Loading container</li>
+</ul>
+
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Learn More</a>
         </li>
