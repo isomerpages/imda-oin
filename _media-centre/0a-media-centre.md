@@ -31,7 +31,7 @@ collection_name: media-centre
 
 9. Four challenge statements will be hosted on IMDA’s <a href="https://www.openinnovation.sg/about">OIP</a>. These statements seek to address challenges across different sectors from tourism, the MICE sector, to construction. These challenges aim to position Singapore as a safe place to conduct business among the local and international community, while helping to spark a revival of the events and construction sectors post-COVID.<br>
  
-10. All challenges under the NICs will be hosted on the <a href="www.openinnovationnetwork.sg/national-innovation-challenges/">Open Innovation Network</a> (OIN), the national gateway to all open innovation challenges and activities in Singapore. Through OIN, users will be able to find out more information about each innovation call and how they can participate. The next round of NICs is expected to launch in Q4.
+10. All challenges under the NICs will be hosted on the <a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/">Open Innovation Network</a> (OIN), the national gateway to all open innovation challenges and activities in Singapore. Through OIN, users will be able to find out more information about each innovation call and how they can participate. The next round of NICs is expected to launch in Q4.
 
 #### For media enquiries, please contact:<br>
 <b>Cassandra Wong</b><br>
