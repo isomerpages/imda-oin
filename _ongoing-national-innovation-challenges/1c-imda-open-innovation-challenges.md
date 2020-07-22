@@ -81,7 +81,7 @@ All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. 
 
    <li>
     <input type="checkbox" id="list-item-4">
-    <label for="list-item-4">Track and Trace Health of Ports Worker to Better Manage, Monitor and Act on Pandemic Risk </label>
+    <label for="list-item-4">Track and Trace Health of Port Workers to Better Manage, Monitor and Act on Pandemic Risk </label>
       <ul>
         <li><b><h4>Port of Singapore Authority (PSA)</h4></b>
         <b>How might we develop an integrated track and trace system for effective Covid risk control, mitigation and intervention, with minimal manpower for supervision?</b>
