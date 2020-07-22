@@ -23,7 +23,7 @@ collection_name: media-centre
 
 6. Companies will also get opportunities to tap into the latest cutting-edge research from RIs and IHLs, which in turn, ensures academic ideas are grounded with industry relevance and experience. This way, companies will be able to enhance their processes and operations using advanced technologies that will enhance their resilience as the economy safely reopens. <br>
 
-7. Professor Low Teck Seng, Chief Executive Officer, NRF, said, “This series of National Innovation Challenges creates synergies between industry, academia and government agencies, which is a hallmark of translational research excellence. It will facilitate the exchange of fresh ideas from a diverse range of capabilities that we have built up across our research institutions with our past R&D investments. It is now more important than ever to pool our resources to develop innovative solutions that help strengthen communities, support job creation, enhance industry processes, and build a stronger Singapore.”
+7. Professor Low Teck Seng, Chief Executive Officer, NRF, said, “This series of National Innovation Challenges create synergies between industry, academia and government agencies, which is a hallmark of translational research excellence. It will facilitate the exchange of fresh ideas from a diverse range of capabilities that we have built up across our research institutions with our past R&D investments. It is now more important than ever to pool our resources to develop innovative solutions that help strengthen communities, support job creation, enhance industry processes, and build a stronger Singapore.”
 
 #### NIC challenge statements 
 
