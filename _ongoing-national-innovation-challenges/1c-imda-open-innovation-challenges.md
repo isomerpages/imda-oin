@@ -6,19 +6,19 @@ breadcrumb: ""
 collection_name: ongoing-national-innovation-challenges
 ---
 
-#### *IMDA Open Innovation Challenges*
+#### **IMDA Open Innovation Challenges**
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/oip_banner_nic.png)](https://www.openinnovation.sg/about)
 
 <br>
-IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. As part of the first call of National Innovation Challenges, IMDA OIP is hosting 4 challenge statements aimed at enabling key industries, such as construction, maritime, events and tourism, driving Singapore’s economy to emerge stronger from Covid-19.
+IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. As part of the first call of National Innovation Challenges, IMDA OIP is hosting 4 challenge statements aimed at enabling key industries, such as construction, maritime, events and tourism, which drives Singapore's economy to emerge stronger from Covid-19.
 
 <div id="wrapper">
     <h4> Challenge Statements </h4>
 <ul>
     <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">An Integrated Control Systen for Visitors and Exhibitors of Events to Facilitate Effective Screening, Contact Tracing and Crowd Density Detection</label>
+    <label for="list-item-1" class="first">An Integrated Control System for Visitors and Exhibitors of Events to Facilitate Effective Screening, Contact Tracing and Crowd Density Detection</label>
         <ul>
           <li><b><h4>SACEOS</h4>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<h5>What We Are Looking For</h5></b>
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
@@ -81,7 +81,7 @@ All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. 
 
    <li>
     <input type="checkbox" id="list-item-4">
-    <label for="list-item-4">Track and Trace Health of Ports Worker to Better Manage, Monitor and Act on Pandemic </label>
+    <label for="list-item-4">Track and Trace Health of Ports Worker to Better Manage, Monitor and Act on Pandemic Risk </label>
       <ul>
         <li><b><h4>Port of Singapore Authority (PSA)</h4></b>
         <b>How might we develop an integrated track and trace system for effective Covid risk control, mitigation and intervention, with minimal manpower for supervision?</b>
