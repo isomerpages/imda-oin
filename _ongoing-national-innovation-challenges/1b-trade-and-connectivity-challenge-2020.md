@@ -43,7 +43,7 @@ This solution should cater to post-COVID 19 work settings, where operations has 
 
 The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br><br>
           <b>Interoperable Solutioning</b>: This solution should be able to integrate with our existing software solutions including enterprise resource planning (ERP) and warehouse management systems (WMS)<br><br>
-          <b>Managing Staffing Requirements</b>: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised.<br><br>In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example.
+          <b>Managing Staffing Requirements</b>: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised. In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example.
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Apply Here</a>
         </li>
