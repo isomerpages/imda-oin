@@ -108,7 +108,7 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
 <!-- end of drop down box -->
   </ul>
 </div>
-
+<br><br>
 <div id="faqwrapper"> 
   <h4><b>For Problem Owners and Problem Solvers</b></h4>
  <!-- Start of Drop down box -->
@@ -231,7 +231,7 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
 <!-- end of drop down box -->
   </ul>
 </div>
-
+<br><br>
 <div id="faqwrapper"> 
   <h4><b>For Interested Government Agencies</b></h4>
  <!-- Start of Drop down box -->
