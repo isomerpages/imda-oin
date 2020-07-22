@@ -44,7 +44,6 @@ Gov-PACT, led by ESG, has launched more than 140 challenge statements and awarde
   </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3" class="first">3.	How frequent will the National Innovation Challenges (NICs) be called?</label>
@@ -56,7 +55,6 @@ Gov-PACT, led by ESG, has launched more than 140 challenge statements and awarde
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-4">
     <label for="list-item-4" class="first">4.	When will the challenges be launched? Is there a maximum time period for the solution to be developed and adopted? </label>
@@ -70,13 +68,11 @@ https://www.openinnovationnetwork.sg/nationalinnovationchallenge.
 Subsequent problem statements will be launched in the later part of 2020. 
 
 While we aim to accelerate the solution to market, we are aware that solutions for different challenges operate on different timelines. For example, digital solutions that are more software based may take less than 6 months to be developed, while a robotics solution with AI might take more than a year to be ready for commercial use.
-
       </li>
      </ul>
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-5">
     <label for="list-item-5" class="first">5.	How much funding will ESG, IMDA and NRF provide for the NICs?</label>
@@ -91,7 +87,6 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-6">
     <label for="list-item-6" class="first">6.	How can I access these problem statements? </label>
@@ -102,7 +97,6 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-7">
     <label for="list-item-7" class="first">7.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? </label>
@@ -112,7 +106,6 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
      </ul>
    </li>
 <!-- end of drop down box -->
-
   </ul>
 </div>
 
@@ -124,6 +117,7 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">9.	Who is eligible to apply for the NICs as a Problem Solver?</label>
         <ul>
+          <li>
 Unless otherwise indicated in individual challenge briefs, the NICs are open to both Singapore-based enterprises and public research performers. The latter is required to collaborate with at least one company and submit a joint proposal. The development activities of both enterprises and research performers should be carried out in Singapore.
 
 Public research performers include A*STAR Research Entities, local public healthcare institutions, Institutes of Higher Learning, CREATE entities and SGInnovate.
@@ -132,7 +126,6 @@ Public research performers include A*STAR Research Entities, local public health
 </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2" class="first">10.	Who is eligible to apply for the NICs as Problem Owners? </label>
@@ -146,7 +139,6 @@ For problem statements that do not meet the NIC criteria, Problem Owners can sti
   </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3" class="first">11.	What is the difference between digital and non-digital challenges?</label>
@@ -158,20 +150,17 @@ For problem statements that do not meet the NIC criteria, Problem Owners can sti
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-4">
     <label for="list-item-4" class="first">12.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?</label>
         <ul>
           <li>
            The NIC team will guide the Problem Owners throughout the innovation journey, from providing resources such as problem framing and refinement support, assisting in proposal shortlisting/assessment, marketing activities to drive proposal submissions from potential solvers through our networks. 
-
       </li>
      </ul>
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-5">
     <label for="list-item-5" class="first">13.	Who owns the solution IP? </label>
@@ -181,7 +170,6 @@ For problem statements that do not meet the NIC criteria, Problem Owners can sti
 In cases where the solution has nationwide impact, we encourage the Problem Owner to allow the solver to proliferate the solution developed to a wider segment of the industry. 
 
 For public research performers, all IP howsoever arising from the project shall, at the first instance, be the property of the institutions in such proportions as they may determine.
-
       </li>
      </ul>
    </li>
@@ -201,7 +189,6 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-7">
     <label for="list-item-7" class="first">15.	Is there any limit to the number of problem statements we can submit?</label>
@@ -212,7 +199,6 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
    </li>
 <!-- end of drop down box -->
  <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-8">
     <label for="list-item-8" class="first">17.	How will Problem Owners’ expectations be communicated to potential Problem Solvers? Will ESG/IMDA facilitate sharing sessions?
@@ -225,7 +211,6 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
    </li>
 <!-- end of drop down box -->
  <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-9">
     <label for="list-item-9" class="first">18.	Who sieves through the problem statements to see if off-the-shelf solutions are already available? </label>
@@ -255,7 +240,6 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2" class="first">20.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
@@ -267,7 +251,6 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
   </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3" class="first">21.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
