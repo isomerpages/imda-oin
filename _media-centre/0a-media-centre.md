@@ -6,7 +6,7 @@ breadcrumb: Media Centre
 collection_name: media-centre
 ---
 ## **Media Centre** 
-#### **ESG, IMDA and NRF commit S$40 million to National Innovation Challenges to help companies emerge stronger post-COVID **
+#### ESG, IMDA and NRF commit S$40 million to National Innovation Challenges to help companies emerge stronger post-COVID
 
 <font color=" #a9a9a9"><b>MR No.: 057/20<br>Singapore, Wednesday, 22 July 2020 </b></font>
 
