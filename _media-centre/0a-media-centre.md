@@ -7,7 +7,7 @@ collection_name: media-centre
 ---
 ## **Media Centre** 
 #### **ESG, IMDA and NRF commit S$40 million to National Innovation Challenges to help companies emerge stronger post-COVID**
-<br>
+
 <font color=" #a9a9a9"><b>MR No.: 057/20<br>Singapore, Wednesday, 22 July 2020 </b></font>
 
 1. <a href="https://www.enterprisesg.gov.sg/">Enterprise Singapore</a> (ESG), the <a href="https://www.imda.gov.sg/">Infocomm Media Development Authority</a> (IMDA) and the <a href="https://www.nrf.gov.sg">National Research Foundation Singapore</a> (NRF) launched a series of seven National Innovation Challenges (NICs) today to accelerate innovation efforts and help enterprises develop solutions to overcome challenges in the post-COVID world. As announced by Deputy Prime Minister Heng Swee Keat in the Fortitude Budget, the NICs seek to catalyse partnerships across the economy by providing a platform for enterprises, government agencies, Research Institutions (RIs), Institutes of Higher Learning (IHLs), and Trade Associations & Chambers (TACs) to co-innovate and tackle immediate needs for safe reopening. Through open innovation calls, the cross-industry collaborations will also address mid- and long-term sectoral challenges to help companies emerge stronger in the new future. <br>
