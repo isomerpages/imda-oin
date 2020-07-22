@@ -114,8 +114,8 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
  <!-- Start of Drop down box -->
 <ul>
   <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">9.	Who is eligible to apply for the NICs as a Problem Solver?</label>
+    <input type="checkbox" id="list-item-8">
+    <label for="list-item-8" class="first">8.	Who is eligible to apply for the NICs as a Problem Solver?</label>
         <ul>
           <li>
 Unless otherwise indicated in individual challenge briefs, the NICs are open to both Singapore-based enterprises and public research performers. The latter is required to collaborate with at least one company and submit a joint proposal. The development activities of both enterprises and research performers should be carried out in Singapore.
@@ -127,8 +127,8 @@ Public research performers include A*STAR Research Entities, local public health
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-2">
-    <label for="list-item-2" class="first">10.	Who is eligible to apply for the NICs as Problem Owners? </label>
+    <input type="checkbox" id="list-item-9">
+    <label for="list-item-9" class="first">9.	Who is eligible to apply for the NICs as Problem Owners? </label>
         <ul>
           <li>
           The NICs are open to all agencies and enterprises to participate as Problem Owners. However, only problem statements that meet NIC criteria (such as solution impacting a wide segment of the market, addressing challenges faced by Singapore in the reopening and recovery from current COVID-19 situation, accelerated development cycle to adoption, etc.) will receive NIC funding support. 
@@ -140,8 +140,8 @@ For problem statements that do not meet the NIC criteria, Problem Owners can sti
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3" class="first">11.	What is the difference between digital and non-digital challenges?</label>
+    <input type="checkbox" id="list-item-10">
+    <label for="list-item-10" class="first">10.	What is the difference between digital and non-digital challenges?</label>
         <ul>
           <li>
           “Digital Challenges” are challenges that source for digital solutions to address the problem statements. “Non-digital Challenges” involve technologies beyond digital development and are typically more complex as they may require additional knowledge in areas such as hardware design, materials applications, energy transmission/storage, etc. All NIC interest will be centrally managed and the team will channel the interests/challenges for follow up accordingly.
@@ -151,8 +151,8 @@ For problem statements that do not meet the NIC criteria, Problem Owners can sti
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-4">
-    <label for="list-item-4" class="first">12.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?</label>
+    <input type="checkbox" id="list-item-11">
+    <label for="list-item-11" class="first">11.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?</label>
         <ul>
           <li>
            The NIC team will guide the Problem Owners throughout the innovation journey, from providing resources such as problem framing and refinement support, assisting in proposal shortlisting/assessment, marketing activities to drive proposal submissions from potential solvers through our networks. 
@@ -162,8 +162,8 @@ For problem statements that do not meet the NIC criteria, Problem Owners can sti
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-5">
-    <label for="list-item-5" class="first">13.	Who owns the solution IP? </label>
+    <input type="checkbox" id="list-item-12">
+    <label for="list-item-12" class="first">12.	Who owns the solution IP? </label>
         <ul>
           <li>The Problem Owner should indicate their preferred IP arrangement for their specific challenge and agree on the IP arrangement with the solver upfront. Otherwise, the default IP ownership should be based on inventorship.
 
@@ -176,8 +176,8 @@ For public research performers, all IP howsoever arising from the project shall,
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-6">
-    <label for="list-item-6" class="first">14.	Whose onus is it to check that solutions do not infringe on existing IPs?</label>
+    <input type="checkbox" id="list-item-13">
+    <label for="list-item-13" class="first">114.	Whose onus is it to check that solutions do not infringe on existing IPs?</label>
         <ul>
           <li>It will depend on whether Problem Owner is the IP owner. If the Problem Owner owns the IP, then it is their responsibility to ensure that there is no infringement, to the extent that they are able to do so.
 
@@ -189,8 +189,8 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-7">
-    <label for="list-item-7" class="first">15.	Is there any limit to the number of problem statements we can submit?</label>
+    <input type="checkbox" id="list-item-14">
+    <label for="list-item-14" class="first">14.	Is there any limit to the number of problem statements we can submit?</label>
         <ul>
           <li>There is no limit to the number of problem statements you can submit. We will prioritise problem statements for each call based on readiness for publication and impact.
       </li>
@@ -199,8 +199,8 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
 <!-- end of drop down box -->
  <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-8">
-    <label for="list-item-8" class="first">17.	How will Problem Owners’ expectations be communicated to potential Problem Solvers? Will ESG/IMDA facilitate sharing sessions?
+    <input type="checkbox" id="list-item-15">
+    <label for="list-item-15" class="first">15.	How will Problem Owners’ expectations be communicated to potential Problem Solvers? Will ESG/IMDA facilitate sharing sessions?
 
 </label>
         <ul>
@@ -211,8 +211,8 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
 <!-- end of drop down box -->
  <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-9">
-    <label for="list-item-9" class="first">18.	Who sieves through the problem statements to see if off-the-shelf solutions are already available? </label>
+    <input type="checkbox" id="list-item-16">
+    <label for="list-item-16" class="first">16.	Who sieves through the problem statements to see if off-the-shelf solutions are already available? </label>
         <ul>
           <li>Problem Owners should first assess if off-the-shelf solutions are available to meet their needs. We will also help to assess the draft problem statements to see if new/ready solutions are available as we are interested in developing innovative solutions that are not readily available today.
       </li>
@@ -227,8 +227,8 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
  <!-- Start of Drop down box -->
 <ul>
   <li>
-    <input type="checkbox" id="list-item-19">
-    <label for="list-item-19" class="first">19.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
+    <input type="checkbox" id="list-item-17">
+    <label for="list-item-17" class="first">17.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
         <ul><li>
 
 
@@ -240,8 +240,8 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-20">
-    <label for="list-item-20" class="first">20.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
+    <input type="checkbox" id="list-item-18">
+    <label for="list-item-18" class="first">18.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
         <ul>
           <li>
            ESG, IMDA and NRF will provide funding support for development, deployment and adoption for solutions under the NICs, so that the industry is more willing and able to adopt. Generally, we do not expect agencies to roll out solutions on their own, but to work with IMDA and ESG to drive adoption throughout the industry. 
@@ -251,8 +251,8 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-21">
-    <label for="list-item-21" class="first">21.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
+    <input type="checkbox" id="list-item-19">
+    <label for="list-item-19" class="first">19.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
         <ul>
           <li>
           MOF already allows agencies to use spiral contracting under the outcome-based procurement approach, which allows innovation projects to proceed in stages from prototype to pilot deployment within a single tender exercise.  With spiral contracting, there is no need for agencies to call separate tenders to develop the prototype or for pilot deployment.
