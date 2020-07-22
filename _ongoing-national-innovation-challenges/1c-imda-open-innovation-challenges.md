@@ -11,7 +11,7 @@ collection_name: ongoing-national-innovation-challenges
 [![3](/images/oip_banner_nic.png)](https://www.openinnovation.sg/about)
 
 <br>
-IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. As part of the first call of National Innovation Challenges, IMDA OIP is hosting 4 challenge statements aimed at enabling key industries, such as construction, maritime, events and tourism, driving Singapore’s economy to emerge stronger from Covid-19.
+IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. As part of the first call of National Innovation Challenges, IMDA OIP is hosting 4 challenge statements aimed at enabling key industries, such as construction, maritime, events and tourism, which drives Singapore's economy to emerge stronger from Covid-19.
 
 <div id="wrapper">
     <h4> Challenge Statements </h4>
