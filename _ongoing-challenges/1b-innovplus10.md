@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 
 #### InnovPlus Round 10 Challenge
 
-<font color="#a9a9a9"><b>Challenge Owner(s): In.Labs* </b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s): iN.LAB </b></font>
 
 [![1](/images/ongoing-challenges/200504-InnovPLUS-2020_Desktop-1750-x-560px_v1.jpg)](https://www.ial.edu.sg/start-learning-innovation/in-lab/innovation-activities/innovplus-2020-november.html)
 
