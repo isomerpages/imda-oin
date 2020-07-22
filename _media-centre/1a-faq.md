@@ -227,8 +227,8 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
  <!-- Start of Drop down box -->
 <ul>
   <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">19.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
+    <input type="checkbox" id="list-item-19">
+    <label for="list-item-19" class="first">19.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
         <ul><li>
 
 
@@ -240,8 +240,8 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-2">
-    <label for="list-item-2" class="first">20.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
+    <input type="checkbox" id="list-item-20">
+    <label for="list-item-20" class="first">20.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
         <ul>
           <li>
            ESG, IMDA and NRF will provide funding support for development, deployment and adoption for solutions under the NICs, so that the industry is more willing and able to adopt. Generally, we do not expect agencies to roll out solutions on their own, but to work with IMDA and ESG to drive adoption throughout the industry. 
@@ -251,8 +251,8 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3" class="first">21.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
+    <input type="checkbox" id="list-item-21">
+    <label for="list-item-21" class="first">21.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
         <ul>
           <li>
           MOF already allows agencies to use spiral contracting under the outcome-based procurement approach, which allows innovation projects to proceed in stages from prototype to pilot deployment within a single tender exercise.  With spiral contracting, there is no need for agencies to call separate tenders to develop the prototype or for pilot deployment.
