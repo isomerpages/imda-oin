@@ -9,7 +9,7 @@ collection_name: media-centre
 ## FAQ 
 <b><a href="#1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a></b><br>
 <b><a href="#2">2.	What is the difference between OIN and OIP?</a></b><br>
-<b><a href="#3">3.	How frequent will the National Innovation Challenges (NIC) be called?</a></b></a></b><br>
+<b><a href="#3">3.	How frequent will the National Innovation Challenges (NIC) be called?</a></b><br>
 <b><a href="#4">4.	How would we measure the success of NIC?</a></b><br>
 <b><a href="#5">5.	When will the challenges be launched, and when launched, how fast should the prototype, deployment and adoption be completed?</a></b><br>
 <b><a href="#6">6.	How much funding will IMDA, ESG and NRF provide for each NIC stage?</a></b><br>
