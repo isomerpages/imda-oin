@@ -45,7 +45,7 @@ o	This platform should be able to utilise input based on workforce availability 
 <h5>DEADLINE</h5>
 All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. BCA, Kajima Group and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="www.openinnovationnetwork.sg" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
         </li>
        </ul>
     </li>

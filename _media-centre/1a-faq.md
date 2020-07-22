@@ -63,7 +63,7 @@ Gov-PACT, led by ESG, has launched more than 140 challenge statements and awarde
            The first seven problem statements were launched on 22 July 2020, spanning the transport, logistics, built environment, MICE, arts & culture and maritime sectors. 
 
 For the full list of problem statements, please visit 
-<a href="https://www.openinnovationnetwork.sg/nationalinnovationchallenge">https://www.openinnovationnetwork.sg/nationalinnovationchallenge</a>
+<a href="https://www.openinnovationnetwork.sg/nationalinnovationchallenge">https://www.openinnovationnetwork.sg/national-innovation-challenges/.</a>
 
 Subsequent problem statements will be launched in the later part of 2020. 
 
@@ -182,7 +182,6 @@ For public research performers, all IP howsoever arising from the project shall,
           <li>It will depend on whether Problem Owner is the IP owner. If the Problem Owner owns the IP, then it is their responsibility to ensure that there is no infringement, to the extent that they are able to do so.
 
 If the Problem Owner is only acting as the customer, and the IP is owned by the Problem Solver, then it becomes a commercial dispute between the problem solver and existing IP owner.
-
       </li>
      </ul>
    </li>
