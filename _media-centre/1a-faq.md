@@ -15,7 +15,8 @@ collection_name: media-centre
   <li>
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">1.	What are National Innovation Challenges (NICs)? Are they new? How do they differ from existing innovation platforms such as ESG’s Gov-PACT and IMDA’s Open Innovation Platform? </label>
-
+<ul>
+  <li>
 This series of National Innovation Challenges (NICs) announced by DPM during the Fortitude Budget (with the first round rolled out by Enterprise Singapore, IMDA and NRF on 22 Jul) aims to accelerate innovation efforts and help enterprises develop solutions to overcome mid- to longer-term sectoral challenges and emerge stronger the post-COVID world. The NICs will run on an accelerated cycle from prototype to deployment, with the three agencies involved providing support to drive adoption of solutions, including funding. Solution development will therefore be industry-led, and collaboration with public researchers will be encouraged to augment the innovative capabilities of enterprises.<br><br>
 
 Compared to existing open innovation platforms, the NICs rolled out on 22 Jul will be targeting problem statements with economy-wide and industry-wide impact, with close industry involvement. <br><br>
@@ -26,7 +27,6 @@ The NICs builds on existing innovation efforts, such as Enterprise Singapore’s
 </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2" class="first">What is the difference between OIN and OIP?</label>
