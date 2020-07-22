@@ -52,15 +52,15 @@ The platform is envisaged to be powered by IoT devices and machine learning capa
 <!-- end of second drop down box -->
 <!-- start of third drop down box -->
 <li>
-    <label for="list-item-1" class="first">Tagging Solution For Airfreight Shipments – Industry Use of Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
+    <label for="list-item-3" class="first">Tagging Solution For Airfreight Shipments – Industry Use of Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
         <ul>
           <li><b><h4>SATS Ltd</h4>
            How might we develop a cost-effective common tagging solution for the Singapore airfreight industry to track and trace air cargo and provide visibility at each stage of the handling process (e.g. warehouse handling, arrival, uplift onto aircraft)?</b>
 <br><br>
 <a href="http://tradeandconnectivity.innovation-challenge.sg" target="_blank" >Apply Here</a>
         </li>
-      </ul>
-    </li>
+     </ul>
+   </li>
     <!-- end of dropdown box 3 -->
   </ul>
 </div>
