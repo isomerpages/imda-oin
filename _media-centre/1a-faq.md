@@ -175,7 +175,6 @@ For public research performers, all IP howsoever arising from the project shall,
    </li>
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
-<ul>
   <li>
     <input type="checkbox" id="list-item-6">
     <label for="list-item-6" class="first">14.	Whose onus is it to check that solutions do not infringe on existing IPs?</label>
@@ -230,7 +229,7 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
   <li>
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1" class="first">19.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
-        <ul>
+        <ul><li>
 
 
 Yes. Outcome-based procurement can be used to procure emerging and innovative solutions through crowd-sourcing and an integrated procurement process, which allows Agencies to support POC through to full deployment without calling for additional tenders. IMDA’s Open Innovation Platform and ESG’s Gov-PACT are channels that support the outcome-based procurement approach.
@@ -264,4 +263,3 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 
   </ul>
 </div>
-
