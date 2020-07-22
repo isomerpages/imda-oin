@@ -30,7 +30,7 @@ collection_name: media-centre
 
 8. This series of NICs will host seven challenge statements. Three challenge statements involve addressing higher accuracy of shipping container inspections, more productive tracking and tracing of cargo and increasing productivity through AI. These will be launched in conjunction with the Trade and Connectivity Challenge  (TCC) today, which returns for the second year. <br><br>
 
-9. Four challenge statements will be hosted on IMDA’s OIP. These statements seek to address challenges across different sectors from tourism, the MICE sector, to construction. These challenges aim to position Singapore as a safe place to conduct business among the local and international community, while helping to spark a revival of the events and construction sectors post-COVID.<br><br>
+9. Four challenge statements will be hosted on IMDA’s <a href="https://www.openinnovation.sg/about">OIP</a>. These statements seek to address challenges across different sectors from tourism, the MICE sector, to construction. These challenges aim to position Singapore as a safe place to conduct business among the local and international community, while helping to spark a revival of the events and construction sectors post-COVID.<br><br>
  
 10. All challenges under the NICs will be hosted on the Open Innovation Network (OIN), the national gateway to all open innovation challenges and activities in Singapore <a href="www.openinnovationnetwork.sg/national-innovation-challenges/">(www.openinnovationnetwork.sg/national-innovation-challenges/)</a>. Through OIN, users will be able to find out more information about each innovation call and how they can participate. The next round of NICs is expected to launch in Q4.<br><br>
 
