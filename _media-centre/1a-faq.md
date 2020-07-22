@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: FAQ
+title: Frequently Asked Questions
 permalink: /national-innovation-challenges/media-centre/faq
 breadcrumb: Media Centre/ Faq
 collection_name: media-centre
