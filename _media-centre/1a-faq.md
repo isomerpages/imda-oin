@@ -7,7 +7,7 @@ collection_name: media-centre
 ---
 
 ## FAQ 
-<a href="#1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a><br>
+<b><a href="#1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a></b><br>
 2.	What is the difference between OIN and OIP?<br>
 3.	How frequent will the National Innovation Challenges (NIC) be called?<br>
 4.	How would we measure the success of NIC?<br>
