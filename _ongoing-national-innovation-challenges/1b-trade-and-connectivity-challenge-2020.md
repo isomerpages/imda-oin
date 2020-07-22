@@ -35,11 +35,13 @@ To develop an autonomous or remote inspection solution that can effectively dete
     <label for="list-item-2">Management and Dynamic Allocation of Resources in a Post-COVID 19 Work Setting</label>
       <ul>
         <li><b><h4>YCH Group</h4>
-      How might we develop a cost-effective and user-friendly AI/ML-enabled resource management and planning solution which enables measurement and optimisation of productivity with regard to manpower and equipment utilisation? </b>
+      How might we develop an effective, cost efficient and user-friendly resource management and planning solution which enables optimisation of productivity with regard to manpower and equipment utilisation? </b>
      
 <h5>What We Are Looking For</h5>
 
-This solution should cater to post-COVID 19 work settings, where operations has to factor in Business Continuity Planning (BCP) requirements, social distancing and workforce segregation. The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br><br>
+This solution should cater to post-COVID 19 work settings, where operations has to factor in Business Continuity Planning (BCP) requirements, social distancing and workforce segregation. 
+
+The platform is envisaged to be powered by IoT devices and machine learning capabilities. It should be able to provide value through tracking, visualisation, analysis, prediction and optimisation.<br><br>
           <b>Interoperable Solutioning</b>: This solution should be able to integrate with our existing software solutions including enterprise resource planning (ERP) and warehouse management systems (WMS)<br><br>
           <b>Managing Staffing Requirements</b>: Our distribution centre has many customers from different sectors, hence there are different peak-season period where resources are not being fully maximised.<br><br>In a post-COVID world scenario, there has to be granularity of data to allow for a “safe” workplace. Tracking the location of the individual is desirable, not necessarily to an exact location, but to that of the floor level for example.
 <br><br>
