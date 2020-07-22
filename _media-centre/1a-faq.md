@@ -233,7 +233,7 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
 </div>
 
 <div id="faqwrapper"> 
-  <h4><b>For interested government agencies</b></h4>
+  <h4><b>For Interested Government Agencies</b></h4>
  <!-- Start of Drop down box -->
 <ul>
   <li>
