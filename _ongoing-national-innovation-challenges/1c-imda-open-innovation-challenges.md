@@ -18,7 +18,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 <ul>
     <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">An Integrated Control Systen for Visitors and Exhibitors of Events to Facilitate Effective Screening, Contact Tracing and Crowd Density Detection</label>
+    <label for="list-item-1" class="first">An Integrated Control System for Visitors and Exhibitors of Events to Facilitate Effective Screening, Contact Tracing and Crowd Density Detection</label>
         <ul>
           <li><b><h4>SACEOS</h4>How might we create an integrated control system for visitors and exhibitors of MICE events to facilitate effective screening, contact tracing and crowd density detection, so as to ensure a safe environment that enhances the event experience?<h5>What We Are Looking For</h5></b>
 A prototype solution to create a control system for MICE event organisers that will facilitate safe entry, responsible interactions and fast incident response during and post events. This system could be a combination of software and hardware solutions and must take into consideration the seamless integration into the visitors’ experience. 
