@@ -344,6 +344,11 @@ $desktop: 960px + (2 * $gap) !default;
 		margin: 0;
 		padding: 0;
 		text-align: justify;
+			
+		}
+		ol>li, ul>li {
+		margin-top: 0rem;
+		margin-bottom: 0.5rem;
 		}
 
 		label{
