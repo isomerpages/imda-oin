@@ -101,7 +101,7 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
     <input type="checkbox" id="list-item-7" class="toggle">
     <label for="list-item-7" class="lbl-toggle">7.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? </label>
         <ul>
-          <li>Building on past Open Innovation challenges, the NIC platform enables collaboration across government agencies, public research performers, Trade Association & Chambers (TACs), corporates, SMEs and startups to co-innovate and tackle industry-wide challenges. The industry involvement in problem ownership and crowdsourcing approach will help quicken the pace of innovation, commercialisation and adoption of solutions. The three agencies will also be providing S$40 million in funding and  support to quicken industry deployment and adoption.</b>
+          <li>Building on past Open Innovation challenges, the NIC platform enables collaboration across government agencies, public research performers, Trade Association & Chambers (TACs), corporates, SMEs and startups to co-innovate and tackle industry-wide challenges. The industry involvement in problem ownership and crowdsourcing approach will help quicken the pace of innovation, commercialisation and adoption of solutions. The three agencies will also be providing S$40 million in funding and  support to quicken industry deployment and adoption.
       </li>
      </ul>
    </li>
