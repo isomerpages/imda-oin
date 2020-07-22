@@ -8,27 +8,27 @@ collection_name: media-centre
 
 ## FAQ 
 <b><a href="#1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a></b><br>
-2.	What is the difference between OIN and OIP?<br>
-3.	How frequent will the National Innovation Challenges (NIC) be called?<br>
-4.	How would we measure the success of NIC?<br>
-5.	When will the challenges be launched, and when launched, how fast should the prototype, deployment and adoption be completed?<br>
-6.	How much funding will IMDA, ESG and NRF provide for each NIC stage?<br>
-7.	How can I access these problem statements?<br>
-8.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? How much is the government spending to <br>support this initiative?<br>
-9.	How different is NIC from the current innovation challenges that ESG supports through Gov-PACT? Is the funding via Gov-PACT?<br>
-10.	How many challenges have Gov-PACT supported so far and what are the results?<br>
-11.	Are there any broad areas that the NIC is targeting to address? What if the problem is specific to my agency?<br>
-12.	What is the difference between digital and non-digital challenges?<br>
-13.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?<br>
-14.	Who owns the solution IP?<br>
-15.	Whose onus is it to check that solutions do not infringe on existing IPs?<br>
-16.	Is there any limit to the number of problem statements we can submit?<br>
-17.	What happens if two or more Problem Owners have a common interest in a problem statement?<br>
-18.	How will problem owners’ expectations be communicated to potential solution providers? Will IMDA facilitate sharing sessions?<br>
-19.	Who sieves through the problem statements to see if off-the-shelf solutions are already available?<br>
-20.	Could I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?<br>
-21.	What is the budget commitment for agencies participating in the NIC, and who provides the prize money / funding?<br>
-22.	If the agency wants to deploy a solution for its own needs, how can we push out large-scale deployment without contravening procurement rules?<br>
+<b><a href="#2">2.	What is the difference between OIN and OIP?</a></b><br>
+<b><a href="#3">3.	How frequent will the National Innovation Challenges (NIC) be called?</a></b></a></b><br>
+<b><a href="#4">4.	How would we measure the success of NIC?</a></b><br>
+<b><a href="#5">5.	When will the challenges be launched, and when launched, how fast should the prototype, deployment and adoption be completed?</a></b><br>
+<b><a href="#6">6.	How much funding will IMDA, ESG and NRF provide for each NIC stage?</a></b><br>
+<b><a href="#7">7.	How can I access these problem statements?</a></b><br>
+<b><a href="#8">8.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? How much is the government spending to support this initiative?</a></b><br>
+<b><a href="#9">9.	How different is NIC from the current innovation challenges that ESG supports through Gov-PACT? Is the funding via Gov-PACT</a></b>?<br>
+<b><a href="#10">10.	How many challenges have Gov-PACT supported so far and what are the results?</a></b><br>
+<b><a href="#11">11.	Are there any broad areas that the NIC is targeting to address? What if the problem is specific to my agency?</a></b><br>
+<b><a href="#12">12.	What is the difference between digital and non-digital challenges?</a></b><br>
+<b><a href="#13">13.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?</a></b><br>
+<b><a href="#14">14.	Who owns the solution IP?</a></b><br>
+<b><a href="#15">15.	Whose onus is it to check that solutions do not infringe on existing IPs?</a></b><br>
+<b><a href="#16">16.	Is there any limit to the number of problem statements we can submit?</a></b><br>
+<b><a href="#17">17.	What happens if two or more Problem Owners have a common interest in a problem statement?</a></b><br>
+<b><a href="#18">18.	How will problem owners’ expectations be communicated to potential solution providers? Will IMDA facilitate sharing sessions?</a></b><br>
+<b><a href="#19">19.	Who sieves through the problem statements to see if off-the-shelf solutions are already available?</a></b><br>
+<b><a href="#20">20.	Could I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</a></b><br>
+<b><a href="#21">21.	What is the budget commitment for agencies participating in the NIC, and who provides the prize money / funding?</a></b><br>
+<b><a href="#22">22.	If the agency wants to deploy a solution for its own needs, how can we push out large-scale deployment without contravening procurement rules?</a></b><br>
 
 <h4><a name="1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a></h4>
 #### **1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?**
