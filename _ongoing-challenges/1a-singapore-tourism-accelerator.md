@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 
 #### Singapore Tourism Accelerator
 
-<font color="#a9a9a9"><b>Challenge Owner(s): </b>Singapore Airlines, Changi Airport Group, Marina Bay Sands, Singapore Flyer, The Ritz-Carlton, Conrad Centennial Singapore, Capella Singapore, Sentosa, PARKROYAL COLLECTION Marina Bay, Regent Singapore, SingEx, Chan Brothers Travel Pte Ltd, Fairmont Singapore, Swissotel Merchant Court, Far East Hospitality, Urban Redevelopment Authority (URA), National Heritage Board (NHB), Millennium Hotels and Resorts, Resorts World Sentosa, Gardens by the Bay, Park Hotel Group, Shangri-La Group, Jewel Changi Airport, Informa Connect Singapore, Dynasty Travel International Pte Ltd, Wildlife Reserves Singapore, Global Travel Pte Ltd, Capri By Fraser</font>
+<font color="#a9a9a9"><b>Challenge Owner(s): Singapore Airlines, Changi Airport Group, Marina Bay Sands, Singapore Flyer, The Ritz-Carlton, Conrad Centennial Singapore, Capella Singapore, Sentosa, PARKROYAL COLLECTION Marina Bay, Regent Singapore, SingEx, Chan Brothers Travel Pte Ltd, Fairmont Singapore, Swissotel Merchant Court, Far East Hospitality, Urban Redevelopment Authority (URA), National Heritage Board (NHB), Millennium Hotels and Resorts, Resorts World Sentosa, Gardens by the Bay, Park Hotel Group, Shangri-La Group, Jewel Changi Airport, Informa Connect Singapore, Dynasty Travel International Pte Ltd, Wildlife Reserves Singapore, Global Travel Pte Ltd, Capri By Fraser</b></font>
 
 [![1](/images/ongoing-challenges/singapore-tourism-accelerator.jpg)](https://www.stb.gov.sg/content/stb/en/trade-events-and-resources/Singapore-Tourism-Accelerator.html)
 
