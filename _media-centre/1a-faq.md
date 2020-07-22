@@ -63,7 +63,7 @@ Gov-PACT, led by ESG, has launched more than 140 challenge statements and awarde
            The first seven problem statements were launched on 22 July 2020, spanning the transport, logistics, built environment, MICE, arts & culture and maritime sectors. 
 
 For the full list of problem statements, please visit 
-<a href="https://www.openinnovationnetwork.sg/nationalinnovationchallenge">https://www.openinnovationnetwork.sg/nationalinnovationchallenge</a>
+<a href="https://www.openinnovationnetwork.sg/nationalinnovationchallenge">https://www.openinnovationnetwork.sg/nationalinnovationchallenges.</a>
 
 Subsequent problem statements will be launched in the later part of 2020. 
 
