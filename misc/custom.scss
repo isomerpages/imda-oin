@@ -487,11 +487,10 @@ $desktop: 960px + (2 * $gap) !default;
 		
 		.lbl-toggle {
 		 display: block;
-		 padding: 1rem;
 		 color: #000;
+		 padding: 1rem;
 		 background: #fff;
 		 cursor: pointer;
-		 border-radius: 7px;
 		 transition: all 0.25s ease-out;
 		 }
 		
