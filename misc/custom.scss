@@ -401,6 +401,77 @@ $desktop: 960px + (2 * $gap) !default;
 
 		}
 	}
+	
+	#faqwrapper{
+	padding: 4rem auto;
+	color:#ffffff;
+	width: 95%;
+	margin: 3rem auto;
+
+		ul{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		text-align: justify;
+			
+		}
+		ol>li, ul>li {
+		margin-top: 0rem;
+		margin-bottom: 0.5rem;
+		}
+
+		label{
+		display: block;
+		cursor: pointer;
+		padding: 10px;
+		border-bottom: 1px solid #808080;
+		background-color: #fff;
+		color: #000;
+			
+			&:hover {
+  			background-color: darken(#808080, 10%);
+			}
+			
+		}
+
+		label.last{
+		border-bottom: 1px solid #fff;
+		}
+
+		ul ul li{
+		list-style-type: none;
+		color:#000;
+		background: #fff;
+		padding: 3rem 1.5rem;
+		text-align: justify;
+		}
+		
+
+		input[type="checkbox"]{
+		position: absolute;
+		left: -9999px;
+		}
+
+		input[type="checkbox"] ~ ul{
+		height: 0;
+		transform: scaleY(0);
+		}
+
+		input[type="checkbox"]:checked ~ ul{
+		height: 100%;
+		border: 1px solid #fff;
+		transform-origin: top;
+		transition: transform .2s ease-out;
+		transform: scaleY(1); 
+		}
+
+		input[type="checkbox"]:checked + label{
+		background: #fff;
+		border-bottom: 1px solid #000;
+
+		}
+	}
+	
 
 }
 
