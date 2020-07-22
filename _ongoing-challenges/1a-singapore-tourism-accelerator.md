@@ -15,7 +15,7 @@ second_nav_title: Ongoing Challenges
 
 **Application Closing Deadline: 30 July 2020**<br>
 
-<font color=" #a9a9a9"><b>Singapore Tourism Board(STB), Found8</b></font>
+<font color=" #a9a9a9"><b>Singapore Tourism Board (STB), Found8</b></font>
 
 The STA is looking for the very best in innovation and are particularly interested in companies that are developing solutions to future-proof the travel and tourism industry and help tourism companies thrive in the new normal brought about by COVID-19. Whether you already have some traction in the industry, or are looking to apply your solution to the industry for the first time, we want to hear from you.
 
