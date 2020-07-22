@@ -29,7 +29,7 @@ The NICs builds on existing innovation efforts, such as Enterprise Singapore’s
   <!-- Start of Drop down box -->
   <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2" class="first">What is the difference between OIN and OIP?</label>
+    <label for="list-item-2" class="first">2. What is the difference between OIN and OIP?</label>
         <ul>
           <li>
            Open Innovation Network (OIN) is an online directory (www.openinnovationnetwork.sg) that serves as a national gateway to feature open innovation challenges happening island-wide.  This is jointly administered by ESG and IMDA. 
