@@ -407,7 +407,6 @@ $desktop: 960px + (2 * $gap) !default;
 	color:#ffffff;
 	width: 95%;
 	margin: 3rem auto;
-	border-top: 2px solid #fff;
 
 		ul{
 		list-style-type: none;
@@ -426,7 +425,6 @@ $desktop: 960px + (2 * $gap) !default;
 		cursor: pointer;
 		padding: 10px;
 		border-bottom: 1px solid #808080;
-		border-top: 1px solid #808080;
 		background-color: #fff;
 		color: #000;
 			
