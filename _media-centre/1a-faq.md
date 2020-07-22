@@ -30,7 +30,7 @@ collection_name: media-centre
 <b><a href="#21">21.	What is the budget commitment for agencies participating in the NIC, and who provides the prize money / funding?</a></b><br>
 <b><a href="#22">22.	If the agency wants to deploy a solution for its own needs, how can we push out large-scale deployment without contravening procurement rules?</a></b><br>
 
-<h4><a name="1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a></h4>
+<h4 id="opening">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</h4>
 #### **1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?**
 
 The National Innovation Challenges (NIC) initiative aims to drive industry-led innovation calls to help companies address mid- to longer-term sectoral challenges and emerge stronger in the post-COVID era. To hasten the pace of innovation to commercialisation beyond the proof-of-concept stage, the government will provide support for prototype and product development, as well as incentivise demand-side stakeholders to accelerate deployment and scaled adoption. 
