@@ -8,7 +8,7 @@ collection_name: media-centre
 
 ## National Innovation Challenge FAQs
 
-<div id="wrapper"> 
+<div id="faqwrapper"> 
   <h4>General</h4>
  <!-- Start of Drop down box -->
 <ul>
@@ -109,7 +109,7 @@ More significantly, NICs also offer commercial opportunities for Problem Solvers
   </ul>
 </div>
 
-<div id="wrapper"> 
+<div id="faqwrapper"> 
   <h4>For Problem Owners and Problem Solvers</h4>
  <!-- Start of Drop down box -->
 <ul>
@@ -232,7 +232,7 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
   </ul>
 </div>
 
-<div id="wrapper"> 
+<div id="faqwrapper"> 
   <h4>For interested government agencies</h4>
  <!-- Start of Drop down box -->
 <ul>
