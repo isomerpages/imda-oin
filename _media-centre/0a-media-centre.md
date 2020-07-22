@@ -7,12 +7,12 @@ collection_name: media-centre
 ---
 ## **Media Centre** 
 #### **ESG, IMDA and NRF commit S$40 million to National Innovation Challenges to help companies emerge stronger post-COVID**
-<br>
-<font color=" #a9a9a9"><b>MR No.: 057/20<br>Singapore, Wednesday, 22 July 2020 </b></font>
 
+<font color=" #a9a9a9"><b>MR No.: 057/20<br>Singapore, Wednesday, 22 July 2020 </b></font>
+<br>
 1. <a href="https://www.enterprisesg.gov.sg/">Enterprise Singapore</a> (ESG), the <a href="https://www.imda.gov.sg/">Infocomm Media Development Authority</a> (IMDA) and the <a href="https://www.nrf.gov.sg">National Research Foundation Singapore</a> (NRF) launched a series of seven National Innovation Challenges (NICs) today to accelerate innovation efforts and help enterprises develop solutions to overcome challenges in the post-COVID world. As announced by Deputy Prime Minister Heng Swee Keat in the Fortitude Budget, the NICs seek to catalyse partnerships across the economy by providing a platform for enterprises, government agencies, Research Institutions (RIs), Institutes of Higher Learning (IHLs), and Trade Associations & Chambers (TACs) to co-innovate and tackle immediate needs for safe reopening. Through open innovation calls, the cross-industry collaborations will also address mid- and long-term sectoral challenges to help companies emerge stronger in the new future. <br>
 
-2. S$40 million in funding has been dedicated to the NICs to ramp-up the development and adoption of solutions, where each challenge is allocated up to S$2 million. The round of open innovation calls extends seven challenge statements across five sectors – transport and logistics, built environment, MICE (Meetings, Incentives, Conventions and Exhibitions), tourism, and maritime. By jointly analysing industry problem statements, and crowdsourcing for solutions, the NICs aim to quicken the pace of innovation, commercialisation, and adoption of innovations across industry sectors.<br>
+2. S$40 million in funding has been dedicated to the NICs to ramp-up the development and adoption of solutions, where each challenge is allocated up to S$2 million. The round of open innovation calls extends seven challenge statements across five sectors – transport and logistics, built environment, MICE (Meetings, Incentives, Conventions and Exhibitions), tourism, and maritime. By jointly analysing industry problem statements, and crowdsourcing for solutions, the NICs aim to quicken the pace of innovation, commercialisation, and adoption of innovations across industry sectors.
 
 #### NICs as a platform to encourage collaboration across private and public sectors
 
@@ -24,7 +24,7 @@ collection_name: media-centre
 
 6. Companies will also get opportunities to tap into the latest cutting-edge research from RIs and IHLs, which in turn, ensures academic ideas are grounded with industry relevance and experience. This way, companies will be able to enhance their processes and operations using advanced technologies that will enhance their resilience as the economy safely reopens. <br>
 
-7. Professor Low Teck Seng, Chief Executive Officer, NRF, said, “This series of National Innovation Challenges creates synergies between industry, academia and government agencies, which is a hallmark of translational research excellence. It will facilitate the exchange of fresh ideas from a diverse range of capabilities that we have built up across our research institutions with our past R&D investments. It is now more important than ever to pool our resources to develop innovative solutions that help strengthen communities, support job creation, enhance industry processes, and build a stronger Singapore.”<br>
+7. Professor Low Teck Seng, Chief Executive Officer, NRF, said, “This series of National Innovation Challenges creates synergies between industry, academia and government agencies, which is a hallmark of translational research excellence. It will facilitate the exchange of fresh ideas from a diverse range of capabilities that we have built up across our research institutions with our past R&D investments. It is now more important than ever to pool our resources to develop innovative solutions that help strengthen communities, support job creation, enhance industry processes, and build a stronger Singapore.”
 
 #### NIC challenge statements 
 
@@ -32,7 +32,7 @@ collection_name: media-centre
 
 9. Four challenge statements will be hosted on IMDA’s <a href="https://www.openinnovation.sg/about">OIP</a>. These statements seek to address challenges across different sectors from tourism, the MICE sector, to construction. These challenges aim to position Singapore as a safe place to conduct business among the local and international community, while helping to spark a revival of the events and construction sectors post-COVID.<br>
  
-10. All challenges under the NICs will be hosted on the <a href="www.openinnovationnetwork.sg/national-innovation-challenges/">Open Innovation Network</a> (OIN), the national gateway to all open innovation challenges and activities in Singapore. Through OIN, users will be able to find out more information about each innovation call and how they can participate. The next round of NICs is expected to launch in Q4.<br>
+10. All challenges under the NICs will be hosted on the <a href="www.openinnovationnetwork.sg/national-innovation-challenges/">Open Innovation Network</a> (OIN), the national gateway to all open innovation challenges and activities in Singapore. Through OIN, users will be able to find out more information about each innovation call and how they can participate. The next round of NICs is expected to launch in Q4.
 
 #### For media enquiries, please contact:<br>
 <b>Cassandra Wong</b><br>
