@@ -63,7 +63,7 @@ Gov-PACT, led by ESG, has launched more than 140 challenge statements and awarde
            The first seven problem statements were launched on 22 July 2020, spanning the transport, logistics, built environment, MICE, arts & culture and maritime sectors. 
 
 For the full list of problem statements, please visit 
-https://www.openinnovationnetwork.sg/nationalinnovationchallenge. 
+<a href="https://www.openinnovationnetwork.sg/nationalinnovationchallenge">https://www.openinnovationnetwork.sg/nationalinnovationchallenge</a>
 
 Subsequent problem statements will be launched in the later part of 2020. 
 
@@ -177,7 +177,7 @@ For public research performers, all IP howsoever arising from the project shall,
   <!-- Start of Drop down box -->
   <li>
     <input type="checkbox" id="list-item-13">
-    <label for="list-item-13" class="first">114.	Whose onus is it to check that solutions do not infringe on existing IPs?</label>
+    <label for="list-item-13" class="first">13.	Whose onus is it to check that solutions do not infringe on existing IPs?</label>
         <ul>
           <li>It will depend on whether Problem Owner is the IP owner. If the Problem Owner owns the IP, then it is their responsibility to ensure that there is no infringement, to the extent that they are able to do so.
 
@@ -197,14 +197,14 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
      </ul>
    </li>
 <!-- end of drop down box -->
- <!-- Start of Drop down box -->
+<!-- Start of Drop down box -->
   <li>
     <input type="checkbox" id="list-item-15">
-    <label for="list-item-15" class="first">15.	How will Problem Owners’ expectations be communicated to potential Problem Solvers? Will ESG/IMDA facilitate sharing sessions?
+    <label for="list-item-15" class="first">15.	What happens if two or more problem owners have a common interest in a problem statement?
 
 </label>
         <ul>
-          <li>We encourage Problem Owners to clearly state the problem statement and requirements as part of the challenge. ESG/IMDA will also facilitate sharing sessions between Problem Owners and interested Problem Solvers to provide greater clarity in the challenge. 
+          <li>We encourage problem owners to submit problem statements even if they are “generic” or sector-agnostic. Where there is overlapping interest, we will engage problem owners on the feasibility of putting out a joint problem statement, to generate greater interest and promote nationwide deployment.
       </li>
      </ul>
    </li>
@@ -212,7 +212,18 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
  <!-- Start of Drop down box -->
   <li>
     <input type="checkbox" id="list-item-16">
-    <label for="list-item-16" class="first">16.	Who sieves through the problem statements to see if off-the-shelf solutions are already available? </label>
+    <label for="list-item-16" class="first">16.	How will Problem Owners’ expectations be communicated to potential Problem Solvers? Will ESG/IMDA facilitate sharing sessions?</label>
+        <ul>
+          <li>We encourage Problem Owners to clearly state the problem statement and requirements as part of the challenge. ESG/IMDA will also facilitate sharing sessions between Problem Owners and interested Problem Solvers to provide greater clarity in the challenge. 
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+
+ <!-- Start of Drop down box -->
+  <li>
+    <input type="checkbox" id="list-item-17">
+    <label for="list-item-17" class="first">17.	Who sieves through the problem statements to see if off-the-shelf solutions are already available? </label>
         <ul>
           <li>Problem Owners should first assess if off-the-shelf solutions are available to meet their needs. We will also help to assess the draft problem statements to see if new/ready solutions are available as we are interested in developing innovative solutions that are not readily available today.
       </li>
@@ -227,8 +238,8 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
  <!-- Start of Drop down box -->
 <ul>
   <li>
-    <input type="checkbox" id="list-item-17">
-    <label for="list-item-17" class="first">17.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
+    <input type="checkbox" id="list-item-18">
+    <label for="list-item-18" class="first">18.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
         <ul><li>
 
 
@@ -240,8 +251,8 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-18">
-    <label for="list-item-18" class="first">18.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
+    <input type="checkbox" id="list-item-19">
+    <label for="list-item-19" class="first">19.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
         <ul>
           <li>
            ESG, IMDA and NRF will provide funding support for development, deployment and adoption for solutions under the NICs, so that the industry is more willing and able to adopt. Generally, we do not expect agencies to roll out solutions on their own, but to work with IMDA and ESG to drive adoption throughout the industry. 
@@ -251,8 +262,8 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
 <!-- end of drop down box -->
   <!-- Start of Drop down box -->
   <li>
-    <input type="checkbox" id="list-item-19">
-    <label for="list-item-19" class="first">19.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
+    <input type="checkbox" id="list-item-20">
+    <label for="list-item-20" class="first">20.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
         <ul>
           <li>
           MOF already allows agencies to use spiral contracting under the outcome-based procurement approach, which allows innovation projects to proceed in stages from prototype to pilot deployment within a single tender exercise.  With spiral contracting, there is no need for agencies to call separate tenders to develop the prototype or for pilot deployment.
