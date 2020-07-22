@@ -35,13 +35,13 @@ collection_name: media-centre
 10.All challenges under the NICs will be hosted on the Open Innovation Network (OIN), the national gateway to all open innovation challenges and activities in Singapore <a href="www.openinnovationnetwork.sg/national-innovation-challenges/">(www.openinnovationnetwork.sg/national-innovation-challenges/)</a>. Through OIN, users will be able to find out more information about each innovation call and how they can participate. The next round of NICs is expected to launch in Q4.<br><br>
 
 For media enquiries, please contact:<br>
-Cassandra Wong<br>
+<b>Cassandra Wong</b><br>
 Business Partner<br>
 Corporate Communications<br>
 Enterprise Singapore<br>
 T: +65 6433 4618<br>
 E: cassandra_wong@enterprisesg.gov.sg  <br><br>
-Patrick Lim<br>
+	<b>Patrick Lim</b><br>
 Assistant Manager<br>
 Communications<br>
 Infocomm Media Development Authority <br>
@@ -49,9 +49,9 @@ M: +65 6202 4469    <br>
 E: Patrick_John_LIM@imda.gov.sg<br><br>
  
 
-How Kay Lii <br>
+<b>How Kay Lii</b><br>
 Head<br>
-Corporate Communications 		<br>
+Corporate Communications<br>
 National Research Foundation <br>
 T: +65 9146 2984<br>
 E: HOW_Kay_Lii@nrf.gov.sg<br>
