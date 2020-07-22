@@ -6,130 +6,280 @@ breadcrumb: Media Centre/ Faq
 collection_name: media-centre
 ---
 
-## FAQ 
-<b><a href="#1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a></b><br>
-<b><a href="#2">2.	What is the difference between OIN and OIP?</a></b><br>
-<b><a href="#3">3.	How frequent will the National Innovation Challenges (NIC) be called?</a></b><br>
-<b><a href="#4">4.	How would we measure the success of NIC?</a></b><br>
-<b><a href="#5">5.	When will the challenges be launched, and when launched, how fast should the prototype, deployment and adoption be completed?</a></b><br>
-<b><a href="#6">6.	How much funding will IMDA, ESG and NRF provide for each NIC stage?</a></b><br>
-<b><a href="#7">7.	How can I access these problem statements?</a></b><br>
-<b><a href="#8">8.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? How much is the government spending to support this initiative?</a></b><br>
-<b><a href="#9">9.	How different is NIC from the current innovation challenges that ESG supports through Gov-PACT? Is the funding via Gov-PACT</a></b>?<br>
-<b><a href="#10">10.	How many challenges have Gov-PACT supported so far and what are the results?</a></b><br>
-<b><a href="#11">11.	Are there any broad areas that the NIC is targeting to address? What if the problem is specific to my agency?</a></b><br>
-<b><a href="#12">12.	What is the difference between digital and non-digital challenges?</a></b><br>
-<b><a href="#13">13.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?</a></b><br>
-<b><a href="#14">14.	Who owns the solution IP?</a></b><br>
-<b><a href="#15">15.	Whose onus is it to check that solutions do not infringe on existing IPs?</a></b><br>
-<b><a href="#16">16.	Is there any limit to the number of problem statements we can submit?</a></b><br>
-<b><a href="#17">17.	What happens if two or more Problem Owners have a common interest in a problem statement?</a></b><br>
-<b><a href="#18">18.	How will problem owners’ expectations be communicated to potential solution providers? Will IMDA facilitate sharing sessions?</a></b><br>
-<b><a href="#19">19.	Who sieves through the problem statements to see if off-the-shelf solutions are already available?</a></b><br>
-<b><a href="#20">20.	Could I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</a></b><br>
-<b><a href="#21">21.	What is the budget commitment for agencies participating in the NIC, and who provides the prize money / funding?</a></b><br>
-<b><a href="#22">22.	If the agency wants to deploy a solution for its own needs, how can we push out large-scale deployment without contravening procurement rules?</a></b><br>
+## National Innovation Challenge FAQs
 
-<h4 id="opening">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</h4>
-#### **1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?**
+<div id="wrapper"> 
+  <h4>General</h4>
+ <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-1">
+    <label for="list-item-1" class="first">1.	What are National Innovation Challenges (NICs)? Are they new? How do they differ from existing innovation platforms such as ESG’s Gov-PACT and IMDA’s Open Innovation Platform? </label>
+        <ul>
 
-The National Innovation Challenges (NIC) initiative aims to drive industry-led innovation calls to help companies address mid- to longer-term sectoral challenges and emerge stronger in the post-COVID era. To hasten the pace of innovation to commercialisation beyond the proof-of-concept stage, the government will provide support for prototype and product development, as well as incentivise demand-side stakeholders to accelerate deployment and scaled adoption. 
+This series of National Innovation Challenges (NICs) announced by DPM during the Fortitude Budget (with the first round rolled out by Enterprise Singapore, IMDA and NRF on 22 Jul) aims to accelerate innovation efforts and help enterprises develop solutions to overcome mid- to longer-term sectoral challenges and emerge stronger the post-COVID world. The NICs will run on an accelerated cycle from prototype to deployment, with the three agencies involved providing support to drive adoption of solutions, including funding. Solution development will therefore be industry-led, and collaboration with public researchers will be encouraged to augment the innovative capabilities of enterprises.<br><br>
 
-The NIC initiative builds on existing innovation efforts, such as Enterprise Singapore’s open innovation challenges, including Gov-PACT, and IMDA’s Open Innovation Platform (OIP).
+Compared to existing open innovation platforms, the NICs rolled out on 22 Jul will be targeting problem statements with economy-wide and industry-wide impact, with close industry involvement. <br><br>
 
-#### **2.	What is the difference between OIN and OIP?**
+The NICs builds on existing innovation efforts, such as Enterprise Singapore’s open innovation challenges, including Gov-PACT, and IMDA’s Open Innovation Platform (OIP). NRF also ran Innovation Challenges under the Research Innovation and Enterprise Plans 2015 and 2020 (RIE2015 and RIE2020) which aimed to harness multi-disciplinary research capabilities to develop solutions in the areas of energy, ageing, land and liveability. 
+  </li>
+ </ul>
+</li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-2">
+    <label for="list-item-2" class="first">What is the difference between OIN and OIP?</label>
+        <ul>
+          <li>
+           Open Innovation Network (OIN) is an online directory (www.openinnovationnetwork.sg) that serves as a national gateway to feature open innovation challenges happening island-wide.  This is jointly administered by ESG and IMDA. 
 
-Open Innovation Network (OIN) is an online directory that will serve as a national gateway to feature open innovation challenges happening island-wide.  This is jointly administered by Enterprise Singapore and IMDA. 
+OIN aggregates all ongoing innovation calls launching in Singapore from existing open innovation challenge platforms in Singapore and features them on the single interface. Through OIN, users will be re-directed to the host open innovation platforms where they can find more information about each specific innovation calls and how they can participate. <br><br>
 
-OIN aggregates all ongoing innovation calls launching in Singapore from existing open innovation challenge platforms in Singapore and features them on  the single interface. Through OIN, users will be re-directed to the host open innovation platforms where they can find more information about each specific innovation calls and how they can participate. Open Innovation Platform (OIP) is one of these platforms, led by IMDA. OIP’s fifth innovation call, with 35 problem statements with over S$1M prize monies, for example, is listed on OIN.
+Open Innovation Platform (OIP) is one of these platforms, led by IMDA. It is a virtual crowd-sourcing platform that bridges real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers.  Since 2018, OIP has hosted 129 challenges with S$3.7 million prize monies. <br><br>
 
-#### **3.	How frequent will the National Innovation Challenges (NIC) be called?**
+Gov-PACT, led by ESG, has launched more than 140 challenge statements and awarded S$10 million of project grants since 2017. 
+      </li>
+     </ul>
+  </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-3">
+    <label for="list-item-3" class="first">3.	How frequent will the National Innovation Challenges (NICs) be called?</label>
+        <ul>
+          <li>
+           NICs will be launched throughout the year, starting from July 2020. 
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-4">
+    <label for="list-item-4" class="first">4.	When will the challenges be launched? Is there a maximum time period for the solution to be developed and adopted? </label>
+        <ul>
+          <li>
+           The first seven problem statements were launched on 22 July 2020, spanning the transport, logistics, built environment, MICE, arts & culture and maritime sectors. 
 
-NIC will be launched throughout the year, starting from July 2020. 
-
-#### **4.	How would we measure the success of NIC?**
-
-#### **5.	When will the challenges be launched, and when launched, how fast should the prototype, deployment and adoption be completed?**
-
-The first six problem statements will span across the transport, logistics, built environment, MICE, arts & culture and maritime sectors, was launched on 22 July 2020. 
-
-For the full list of problem statements, please visit xxxxx. 
+For the full list of problem statements, please visit 
+https://www.openinnovationnetwork.sg/nationalinnovationchallenge. 
 
 Subsequent problem statements will be launched in the later part of 2020. 
 
-#### **6.	How much funding will IMDA, ESG and NRF provide for each NIC stage?**
+While we aim to accelerate the solution to market, we are aware that solutions for different challenges operate on different timelines. For example, digital solutions that are more software based may take less than 6 months to be developed, while a robotics solution with AI might take more than a year to be ready for commercial use.
 
-A total of $40m will be set aside for the NIC, and up to $2m will be allocated to support each challenge statement. The $2m will be split into $1m for Phase 1 (POC/prototyping) and Phase 2 (Deployment), and $1m for Phase 3 (Adoption). Co-funding of up to 70% will be provided for the three phases.
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-5">
+    <label for="list-item-5" class="first">5.	How much funding will ESG, IMDA and NRF provide for the NICs?</label>
+        <ul>
+          <li>A total of S$40 million will be set aside for the NICs. Each challenge is allocated up to S$2 million, from prototype, deployment to adoption. 
 
-#### **7.	How can I access these problem statements?**
+Public research performers will receive up to 100% funding for prototype and deployment phase, while qualifying enterprises will receive a co-funding of up to 70% for the three phases.
 
-Enterprise Singapore and IMDA launched the Open Innovation Network last year, a national gateway to open innovation challenges, upcoming activities, latest happenings, and resources. Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address demand-led challenges that require collaboration in Singapore and beyond.
+More significantly, NICs also offer commercial opportunities for Problem Solvers. Problem Owners (or their commercial partners) are potential first clients of Problem Solvers and can receive ESG’s or IMDA’s support for adoption. Commercial contracts with adopters will form good customer references for other clients facing similar challenges, locally or globally.
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-6">
+    <label for="list-item-6" class="first">6.	How can I access these problem statements? </label>
+        <ul>
+          <li>The problem statements can be assessed at the Open Innovation Network (www.openinnovationnetwork.sg). Through OIN, interested parties can work together with other entrepreneurs, innovators, and researchers to address demand-led challenges that require collaboration in Singapore and beyond.
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-7">
+    <label for="list-item-7" class="first">7.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? </label>
+        <ul>
+          <li>Building on past Open Innovation challenges, the NIC platform enables collaboration across government agencies, public research performers, Trade Association & Chambers (TACs), corporates, SMEs and startups to co-innovate and tackle industry-wide challenges. The industry involvement in problem ownership and crowdsourcing approach will help quicken the pace of innovation, commercialisation and adoption of solutions. The three agencies will also be providing S$40 million in funding and  support to quicken industry deployment and adoption.</b>
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
 
-#### **8.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? How much is the government spending to support this initiative?****
+  </ul>
+</div>
 
-Building on past Open Innovation challenges, the NIC platform enables collaboration across government agencies, Research Institutions, Trade Association & Chambers (TACs), corporates, SMEs and startups to co-innovate and tackle industry-wide challenges. The industry involvement in problem ownership and crowdsourcing approach will help quicken the pace of innovation, commercialisation and adoption of solutions. The three agencies will also be providing S$40M in funding and research support to quicken industry deployment and adoption.
+<div id="wrapper"> 
+  <h4>For Problem Owners and Problem Solvers</h4>
+ <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-1">
+    <label for="list-item-1" class="first">9.	Who is eligible to apply for the NICs as a Problem Solver?</label>
+        <ul>
+Unless otherwise indicated in individual challenge briefs, the NICs are open to both Singapore-based enterprises and public research performers. The latter is required to collaborate with at least one company and submit a joint proposal. The development activities of both enterprises and research performers should be carried out in Singapore.
 
-#### **9.	How different is NIC from the current innovation challenges that ESG supports through Gov-PACT? Is the funding via Gov-PACT?**
+Public research performers include A*STAR Research Entities, local public healthcare institutions, Institutes of Higher Learning, CREATE entities and SGInnovate.
+  </li>
+ </ul>
+</li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-2">
+    <label for="list-item-2" class="first">10.	Who is eligible to apply for the NICs as Problem Owners? </label>
+        <ul>
+          <li>
+          The NICs are open to all agencies and enterprises to participate as Problem Owners. However, only problem statements that meet NIC criteria (such as solution impacting a wide segment of the market, addressing challenges faced by Singapore in the reopening and recovery from current COVID-19 situation, accelerated development cycle to adoption, etc.) will receive NIC funding support. 
+
+For problem statements that do not meet the NIC criteria, Problem Owners can still launch them using existing platforms such as OIP or Gov-PACT, without NIC funding support.
+      </li>
+     </ul>
+  </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-3">
+    <label for="list-item-3" class="first">11.	What is the difference between digital and non-digital challenges?</label>
+        <ul>
+          <li>
+          “Digital Challenges” are challenges that source for digital solutions to address the problem statements. “Non-digital Challenges” involve technologies beyond digital development and are typically more complex as they may require additional knowledge in areas such as hardware design, materials applications, energy transmission/storage, etc. All NIC interest will be centrally managed and the team will channel the interests/challenges for follow up accordingly.
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-4">
+    <label for="list-item-4" class="first">12.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?</label>
+        <ul>
+          <li>
+           The NIC team will guide the Problem Owners throughout the innovation journey, from providing resources such as problem framing and refinement support, assisting in proposal shortlisting/assessment, marketing activities to drive proposal submissions from potential solvers through our networks. 
+
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-5">
+    <label for="list-item-5" class="first">13.	Who owns the solution IP? </label>
+        <ul>
+          <li>The Problem Owner should indicate their preferred IP arrangement for their specific challenge and agree on the IP arrangement with the solver upfront. Otherwise, the default IP ownership should be based on inventorship.
+
+In cases where the solution has nationwide impact, we encourage the Problem Owner to allow the solver to proliferate the solution developed to a wider segment of the industry. 
+
+For public research performers, all IP howsoever arising from the project shall, at the first instance, be the property of the institutions in such proportions as they may determine.
+
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-6">
+    <label for="list-item-6" class="first">14.	Whose onus is it to check that solutions do not infringe on existing IPs?</label>
+        <ul>
+          <li>It will depend on whether Problem Owner is the IP owner. If the Problem Owner owns the IP, then it is their responsibility to ensure that there is no infringement, to the extent that they are able to do so.
+
+If the Problem Owner is only acting as the customer, and the IP is owned by the Problem Solver, then it becomes a commercial dispute between the problem solver and existing IP owner.
+
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-7">
+    <label for="list-item-7" class="first">15.	Is there any limit to the number of problem statements we can submit?</label>
+        <ul>
+          <li>There is no limit to the number of problem statements you can submit. We will prioritise problem statements for each call based on readiness for publication and impact.
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+ <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-8">
+    <label for="list-item-8" class="first">17.	How will Problem Owners’ expectations be communicated to potential Problem Solvers? Will ESG/IMDA facilitate sharing sessions?
+
+</label>
+        <ul>
+          <li>We encourage Problem Owners to clearly state the problem statement and requirements as part of the challenge. ESG/IMDA will also facilitate sharing sessions between Problem Owners and interested Problem Solvers to provide greater clarity in the challenge. 
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+ <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-9">
+    <label for="list-item-9" class="first">18.	Who sieves through the problem statements to see if off-the-shelf solutions are already available? </label>
+        <ul>
+          <li>Problem Owners should first assess if off-the-shelf solutions are available to meet their needs. We will also help to assess the draft problem statements to see if new/ready solutions are available as we are interested in developing innovative solutions that are not readily available today.
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
+  </ul>
+</div>
+
+<div id="wrapper"> 
+  <h4>For interested government agencies</h4>
+ <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-1">
+    <label for="list-item-1" class="first">19.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</label>
+        <ul>
 
 
-#### **10.	How many challenges have Gov-PACT supported so far and what are the results?**
+Yes. Outcome-based procurement can be used to procure emerging and innovative solutions through crowd-sourcing and an integrated procurement process, which allows Agencies to support POC through to full deployment without calling for additional tenders. IMDA’s Open Innovation Platform and ESG’s Gov-PACT are channels that support the outcome-based procurement approach.
 
-For problem owners and solution providers
-#### **11.	Are there any broad areas that the NIC is targeting to address? What if the problem is specific to my agency?**
+  </li>
+ </ul>
+</li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-2">
+    <label for="list-item-2" class="first">20.	What is the budget commitment for agencies participating in the NICs, and who provides the prize money / funding?</label>
+        <ul>
+          <li>
+           ESG, IMDA and NRF will provide funding support for development, deployment and adoption for solutions under the NICs, so that the industry is more willing and able to adopt. Generally, we do not expect agencies to roll out solutions on their own, but to work with IMDA and ESG to drive adoption throughout the industry. 
+      </li>
+     </ul>
+  </li>
+<!-- end of drop down box -->
+  <!-- Start of Drop down box -->
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-3">
+    <label for="list-item-3" class="first">21.	If the agency wants to deploy a solution for its own needs, how can we do so without contravening procurement rules?</label>
+        <ul>
+          <li>
+          MOF already allows agencies to use spiral contracting under the outcome-based procurement approach, which allows innovation projects to proceed in stages from prototype to pilot deployment within a single tender exercise.  With spiral contracting, there is no need for agencies to call separate tenders to develop the prototype or for pilot deployment.
+      </li>
+     </ul>
+   </li>
+<!-- end of drop down box -->
 
-The National Innovation Challenges (NIC) initiative aims to drive industry-led innovation calls to help companies address mid- to longer-term sectoral challenges and emerge stronger in the post-COVID era.
+  </ul>
+</div>
 
-The NIC seeks to address challenges arising from the COVID-19 pandemic. The short term focus will target challenges of safe reopening, while the medium-to-long term focus seeks to tackle the new operating paradigms of the post-COVID-19 “new normal”, and solutions that will allow Singapore to take advantage of new opportunities and emerge stronger.
-
-The NIC is open to all agencies and enterprises to participate as Problem Owners. However, the problem statement will need to meet the NIC criteria. If not, Problem Owners can still submit problem statements in the existing OIP categories. However, these will not receive additional funding and support for deployment and adoption.
-
-#### **12.	What is the difference between digital and non-digital challenges?**
-
- “Digital Challenges” are challenges that source for digital solutions to address the problem statements. “Non-digital Challenges” involves technologies beyond digital development and are typically more complex as they may require additional knowledge in areas such as hardware design, materials applications, energy transmission/storage, etc. All NIC interest will be centrally managed and the team will channel the interests/challenges for follow up accordingly.
-
-#### **13.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?**
-
-The NIC team will guide the Problem Owners throughout the innovation journey, from providing resources such as problem framing and refinement support, assisting in joint proposal filtering/assessment, marketing activities to drive proposal submissions to actively curate potential solvers through our networks. 
-
-#### **14.	Who owns the solution IP?**
-
-Problem Owner can reflect their preferred IP arrangement for the specific challenge.
-
-In cases where the solution has nationwide impact, we recommend that the Problem Owner can own the IP, but publicly share it by making it almost free to use. In other cases, the IP can be owned by the solution provider. 
-
-#### **15.	Whose onus is it to check that solutions do not infringe on existing IPs?**
-
-It will depend on whether Problem Owner is the IP owner. If the Problem Owner owns the IP, then it is their responsibility to ensure that there is no infringement, to the extent that they are able to do so.
-
-If the Problem Owner is only acting as the customer, and the IP is owned by the problem solver, then it becomes a commercial dispute between the problem solver and existing IP owner.
-
-#### **16.	Is there any limit to the number of problem statements we can submit?**
-
-There are no limits to the number of problem statements you can submit. We will prioritise problem statements for each call based on readiness for publication and impact.
-
-#### **17.	What happens if two or more Problem Owners have a common interest in a problem statement?**
-
-We encourage Problem Owners to submit problem statements even if they are “generic” or sector-agnostic. Where there is overlapping interest, we will engage agencies on the feasibility of putting out a joint problem statement, to generate greater interest and promote nationwide deployment.
-
-#### **18.	How will problem owners’ expectations be communicated to potential solution providers? Will IMDA facilitate sharing sessions?**
-
-We encourage Problem Owners to clearly state the problem statement and requirements as part of the challenge. IMDA will also facilitate meetings between Problem Owners and interested problem solvers to clarify expectations.
-
-#### **19.	Who sieves through the problem statements to see if off-the-shelf solutions are already available?**
-
-The NIC team will assess the draft problem statements to see if solutions are already available for the problem. 
-
-For interested government agencies
-#### **20.	Could I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?**
-
-Yes. Outcome-based procurement can be used to procure emerging and innovative solutions through crowd-sourcing and an integrated procurement process, which allows Agencies to support POC through to full deployment without calling for additional tenders. IMDA Open Innovation Platform and ESG Gov-PACT programme are channels that support the outcome-based procurement approach.
-
-#### **21.	What is the budget commitment for agencies participating in the NIC, and who provides the prize money / funding?**
-
-The NIC provides funding for development, deployment and adoption for solutions, so that individual customers are more willing and able to adopt. We do not expect agencies to roll out solutions, but to work with IMDA and ESG to drive adoption throughout the industry. For more expensive solutions, or solutions where agencies have their own existing funds, we can explore co-funding solutions so that we can stretch the dollar further.
-
-#### **22.	If the agency wants to deploy a solution for its own needs, how can we push out large-scale deployment without contravening procurement rules?**
-
-MOF currently allows agencies to use spiral contracting, which allows projects to proceed in stages. There is no need for agencies to call for a tender to development the prototype or for pilot deployment as the NIC already has elements of open procurement with clear and objective outcomes. The NIC will also provide funding for the development and prototyping phase.
-
-For deployment, agencies can then go through their own procurement process to purchase the solution, using their own funds.
