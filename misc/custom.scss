@@ -429,7 +429,7 @@ $desktop: 960px + (2 * $gap) !default;
 		color: #000;
 			
 			&:hover {
-  			background-color: darken(#fff, 10%);
+  			background-color: darken(#fff, 5%);
 			}
 			
 		}
@@ -441,7 +441,7 @@ $desktop: 960px + (2 * $gap) !default;
 		ul ul li{
 		list-style-type: none;
 		color:#000;
-		background: #e6e6e6;
+		background: #f0f0f0;
 		padding: 3rem 1.5rem;
 		text-align: justify;
 		border-bottom: 1px solid grey;
