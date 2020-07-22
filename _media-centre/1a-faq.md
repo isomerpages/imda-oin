@@ -2,12 +2,36 @@
 ---
 layout: leftnav-page-content
 title: FAQ
-permalink: /national-innovation-challenge/media-centre/faq
+permalink: /national-innovation-challenges/media-centre/faq
 breadcrumb: Media Centre/ Faq
 collection_name: media-centre
 ---
 
 ## FAQ 
+<a href="#1">1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</a>
+2.	What is the difference between OIN and OIP?
+3.	How frequent will the National Innovation Challenges (NIC) be called?
+4.	How would we measure the success of NIC?
+5.	When will the challenges be launched, and when launched, how fast should the prototype, deployment and adoption be completed?
+6.	How much funding will IMDA, ESG and NRF provide for each NIC stage?
+7.	How can I access these problem statements?
+8.	How will the government support deployment and adoption? What is the government doing differently from other innovation challenges? How much is the government spending to support this initiative?
+9.	How different is NIC from the current innovation challenges that ESG supports through Gov-PACT? Is the funding via Gov-PACT?
+10.	How many challenges have Gov-PACT supported so far and what are the results?
+11.	Are there any broad areas that the NIC is targeting to address? What if the problem is specific to my agency?
+12.	What is the difference between digital and non-digital challenges?
+13.	Are there any resources to guide a Problem Owner to launch an open innovation challenge?
+14.	Who owns the solution IP?
+15.	Whose onus is it to check that solutions do not infringe on existing IPs?
+16.	Is there any limit to the number of problem statements we can submit?
+17.	What happens if two or more Problem Owners have a common interest in a problem statement?
+18.	How will problem owners’ expectations be communicated to potential solution providers? Will IMDA facilitate sharing sessions?
+19.	Who sieves through the problem statements to see if off-the-shelf solutions are already available?
+20.	Could I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?
+21.	What is the budget commitment for agencies participating in the NIC, and who provides the prize money / funding?
+22.	If the agency wants to deploy a solution for its own needs, how can we push out large-scale deployment without contravening procurement rules?
+
+<a name="1"><h4>1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?</h4></a>
 #### **1.	What is the National Innovation Challenge? How does this differ to ESG’s open innovation challenges and IMDA’s Open Innovation Platform?**
 
 The National Innovation Challenges (NIC) initiative aims to drive industry-led innovation calls to help companies address mid- to longer-term sectoral challenges and emerge stronger in the post-COVID era. To hasten the pace of innovation to commercialisation beyond the proof-of-concept stage, the government will provide support for prototype and product development, as well as incentivise demand-side stakeholders to accelerate deployment and scaled adoption. 
