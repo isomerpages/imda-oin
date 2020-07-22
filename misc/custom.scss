@@ -470,6 +470,36 @@ $desktop: 960px + (2 * $gap) !default;
 		border-bottom: 1px solid #000;
 
 		}
+		
+		.lbl-toggle {
+		 display: block;
+		 font-weight: bold;
+		 font-family: monospace;
+		 font-size: 1.2rem;
+		 text-transform: uppercase;
+		 text-align: center;
+		 padding: 1rem;
+		 color: #A77B0E;
+		 background: #FAE042;
+		 cursor: pointer;
+		 border-radius: 7px;
+		 transition: all 0.25s ease-out;
+		 }
+
+		.lbl-toggle:hover {
+		  color: #7C5A0B;
+		}
+		
+		.toggle:checked + .lbl-toggle::before {
+		 transform: rotate(90deg) translateX(-3px);
+		}
+
+		.toggle:checked + .lbl-toggle {
+		  border-bottom-right-radius: 0;
+		  border-bottom-left-radius: 0;
+		}
+		
+		
 	}
 	
 
