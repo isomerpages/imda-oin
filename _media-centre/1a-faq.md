@@ -182,7 +182,6 @@ For public research performers, all IP howsoever arising from the project shall,
           <li>It will depend on whether Problem Owner is the IP owner. If the Problem Owner owns the IP, then it is their responsibility to ensure that there is no infringement, to the extent that they are able to do so.
 
 If the Problem Owner is only acting as the customer, and the IP is owned by the Problem Solver, then it becomes a commercial dispute between the problem solver and existing IP owner.
-
       </li>
      </ul>
    </li>
