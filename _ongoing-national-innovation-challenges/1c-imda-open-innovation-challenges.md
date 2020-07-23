@@ -25,7 +25,7 @@ A prototype solution to create a control system for MICE event organisers that w
 <br><br>
 The system should make provision for – a seamless check-in module and a real-time crowd density detection module. As far as possible, the system should be designed such that it is able to integrate into current platforms that event organisers are already using. It should also be simple and easy to use, so as to encourage adoption among event participants. Proposed solution should address the data protection and anonymity when data collection is done. 
 <h5>DEADLINE</h5>
-All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. SACEOS and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
+All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. SACEOS and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
 <a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
           </li>
@@ -43,7 +43,7 @@ o	This platform should be able to provide a robust monitoring system both on-sit
 •	Operational planning platform:<br>
 o	This platform should be able to utilise input based on workforce availability status, on-site supply status to aid construction work planning in situations where there are potential disruptions.
 <h5>DEADLINE</h5>
-All submissions must be made by <b>21 August 2020, 1600 hours (SGT/GMT +8)</b>. BCA, Kajima Group and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
+All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. BCA, Kajima Group and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
 <a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
         </li>
