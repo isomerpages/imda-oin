@@ -15,10 +15,8 @@ second_nav_title: Ongoing Challenges
 <font color=" #a9a9a9"><b>Infocomm Media Development Authority (IMDA)</b></font>
 Think you’ve got what it takes to solve real business problems? The latest Innovation Call for IMDA’s Open Innovation Platform (OIP) is here and boasts 18 exciting challenges from Problem Owners such as BCA, CPF, Danone, Sentosa Development Corporation and more!<br>
 
-
 With $665k in prize monies to be won, it’s your golden opportunity to innovate alongside industry leaders and gain new customers!<br>
 
 #SGDigital #OpenInnovationSG #OpenforInnovation #IMDAOIP
-
-
+<br>
 [Learn more](https://www.openinnovation.sg/about){:target="_blank"}
