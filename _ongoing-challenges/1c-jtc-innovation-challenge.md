@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 
 #### JTC Innovation Challenge
 
-<font color="#a9a9a9"><b>Challenge Owner(s): JTC Corporation(JTC)</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: JTC Corporation(JTC)</b></font>
 
 [![1](/images/ongoing-challenges/JTC-Innovation-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge)
 
