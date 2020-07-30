@@ -83,7 +83,7 @@ All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. 
     <input type="checkbox" id="list-item-4">
     <label for="list-item-4">Track and Trace Health of Port Workers to Better Manage, Monitor and Act on Pandemic Risk </label>
       <ul>
-        <li><b><h4>Port of Singapore Authority (PSA)</h4></b>
+        <li><b><h4>PSA Singapore</h4></b>
         <b>How might we develop an integrated track and trace system for effective Covid risk control, mitigation and intervention, with minimal manpower for supervision?</b>
         <h5>What We Are Looking For</h5>
 PSA is seeking a prototype solution, demonstrating an effective system for managing the risk of coronavirus and other hazards for port workers within the port environment. The solution should include the following capabilities:<br><br>

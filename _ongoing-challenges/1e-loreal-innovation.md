@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 
 #### L'Oréal Innovation Runway 2020
 
-<font color="#a9a9a9"><b>Challenge Owner(s): L’Oreal</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: L’Oreal</font>
 
 [![1](/images/ongoing-challenges/Loreal-Innovation-Runway-2020.jpg)](https://slingshot.agorize.com/en/challenges/lorealinnovationrunway)
 
