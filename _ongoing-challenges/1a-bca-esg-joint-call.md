@@ -15,7 +15,7 @@ second_nav_title: Ongoing Challenges
 <font color=" #a9a9a9"><b>Building and Construction Authority (BCA), Enterprise Singapore (ESG)</b></font>
 <h4>Background</h4>
 
-Guided by the long-term goal of Super Low Energy (SLE) buildings for the tropics, the Green Buildings Innovation Cluster (GBIC)[1]  was set up with funding support from National Research Foundation (NRF) to experiment, exhibit and exchange knowledge of promising building energy efficient solutions with industry stakeholders.
+Guided by the long-term goal of Super Low Energy (SLE) buildings for the tropics, the Green Buildings Innovation Cluster (GBIC) was set up with funding support from National Research Foundation (NRF) to experiment, exhibit and exchange knowledge of promising building energy efficient solutions with industry stakeholders.
 
 
 Following up from the success of the inaugural Building and Construction Authority (BCA) and Keppel Land Ltd (KLL) Joint Challenge Call to test-bed sustainable technologies at the Keppel Bay Tower, and the recent BCA-DBS Joint Challenge Call, BCA is collaborating with Enterprise Singapore (ESG) to launch the 3rd Joint Challenge Call to demonstrate innovative energy efficient solutions for a selection of 3 building projects.
