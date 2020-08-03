@@ -30,14 +30,14 @@ The 3rd Joint Challenge Call seeks proposals that include innovative emerging te
 
 <h4>Application</h4>
 
-Interested participants may download the 3rd Joint Challenge Call Information Sheet for more information. A webinar is planned for 12 August 2020 (Wednesday) 1500-1700hrs Singapore time. Hosted by BCA, ESG and the respective project owners, this webinar aims to provide a background on the building projects, what is expected of the challenge call and to address questions from participants. Interested participants may register for the webinar at https://gems.gevme.com/bca-esg-challenge-call-launch. The link will be provided to you upon registration.
+A webinar is planned for 12 August 2020 (Wednesday) 1500-1700hrs Singapore time. Hosted by BCA, ESG and the respective project owners, this webinar aims to provide a background on the building projects, what is expected of the challenge call and to address questions from participants. Interested participants may register for the webinar at [https://gems.gevme.com/bca-esg-challenge-call-launch](https://gems.gevme.com/bca-esg-challenge-call-launch). The link will be provided to you upon registration.
 
-All proposals would have to be completed using the prescribed Annex A template and submit them via email to BCA_Challenge_Call@bca.gov.sg by 15 Sep 2020, 1700hrs.   
+All proposals would have to be completed using the prescribed Annex A template and submit them via email to <a href = "mailto: BCA_Challenge_Call@bca.gov.sg">BCA_Challenge_Call@bca.gov.sg</a> by 15 Sep 2020, 1700hrs.   
 
 You may also write to this email if you have any queries on the Joint Challenge Call.
 
 <h4>Contact Person</h4>
 
-For further enquiries on this challenge call, please contact us at noel_chin@bca.gov.sg; majid_sapar@bca.gov.sg; gina_wang@enterprisesg.gov.sg.
+For further enquiries on this challenge call, please contact us at <a href = "mailto: noel_chin@bca.gov.sg">noel_chin@bca.gov.sg</a>; <a href = "mailto: majid_sapar@bca.gov.sg">majid_sapar@bca.gov.sg</a>; <a href = "mailto: gina_wang@enterprisesg.gov.sg">gina_wang@enterprisesg.gov.sg</a>.
 
 [Learn more](https://www.sleb.sg/News/NewsDetails/1223){:target="_blank"}
