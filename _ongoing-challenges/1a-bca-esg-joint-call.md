@@ -13,7 +13,6 @@ second_nav_title: Ongoing Challenges
 
 **Application Open Dates: 01 August 2020 to 15 September 2020**<br>
 <font color=" #a9a9a9"><b>Building and Construction Authority (BCA), Enterprise Singapore (ESG)</b></font>
-
 <h4>Background</h4>
 
 Guided by the long-term goal of Super Low Energy (SLE) buildings for the tropics, the Green Buildings Innovation Cluster (GBIC)[1]  was set up with funding support from National Research Foundation (NRF) to experiment, exhibit and exchange knowledge of promising building energy efficient solutions with industry stakeholders.
