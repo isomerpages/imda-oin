@@ -43,10 +43,10 @@ You may also write to this email if you have any queries on the Joint Challenge 
 <ul>
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">To propose advanced technological solutions for St James Power Station (SJPS), a
-monument building and achieve an EUI of 79 kWh/sqm/yr or below</label>
+    <label for="list-item-1" class="first">Building Project A - Alkaf Kampung Melayu Mosque</label>
         <ul>
-          <li><b><h4>Mapletree</h4></b>
+          <li><b><h4>Warees</h4>“Smart and Energy Efficient Mosque Leveraging on Artificial Intelligence and
+Blockchain”</b>
             <h5>What We Are Looking For</h5>
 <a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" >Download Annex B - Challenge Statements from the project owner</a>
       </li>
@@ -56,9 +56,10 @@ monument building and achieve an EUI of 79 kWh/sqm/yr or below</label>
 <!-- start of first drop down box -->
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Smart and Energy Efficient Mosque Leveraging on Artificial Intelligence and Blockchain</label>
+    <label for="list-item-2">Building Project B - St James Power Station</label>
       <ul>
-        <li><b><h4>Warees</h4></b>
+        <li><b><h4>Mapletree</h4>“To propose advanced technological solutions for St James Power Station (SJPS), a
+monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
      
 <h5>What We Are Looking For</h5>
 <a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
@@ -69,11 +70,10 @@ monument building and achieve an EUI of 79 kWh/sqm/yr or below</label>
 <!-- start of third drop down box -->
 <li>
     <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">To achieve SLEB for existing building </label>
+    <label for="list-item-3">Building Project C - JTC Summit</label>
       <ul>
-        <li><b><h4>JTC Corporation</h4></b>
+        <li><b><h4>JTC Corporation</h4>"To achieve SLEB for existing building"</b>
 <h5>What We Are Looking For</h5>
-<br><br>
 <a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
         </li>
       </ul>
