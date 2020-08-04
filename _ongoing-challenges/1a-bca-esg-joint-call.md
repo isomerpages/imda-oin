@@ -36,6 +36,53 @@ All proposals would have to be completed using the prescribed Annex A template a
 
 You may also write to this email if you have any queries on the Joint Challenge Call.
 
+<!-- start of wrapper div -->
+<!-- start of first drop down box -->
+<div id="wrapper"> 
+  <h4> Challenge Statements</h4>
+<ul>
+  <li>
+    <input type="checkbox" id="list-item-1">
+    <label for="list-item-1" class="first">Building Project A - Alkaf Kampung Melayu Mosque</label>
+        <ul>
+          <li><b><h4>Warees</h4>“Smart and Energy Efficient Mosque Leveraging on Artificial Intelligence and
+Blockchain”</b>
+            <h5>What We Are Looking For</h5>
+<a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" >Download Annex B - Challenge Statements from the project owner</a>
+      </li>
+     </ul>
+   </li>
+<!-- end of first drop down box -->
+<!-- start of first drop down box -->
+    <li>
+    <input type="checkbox" id="list-item-2">
+    <label for="list-item-2">Building Project B - St James Power Station</label>
+      <ul>
+        <li><b><h4>Mapletree</h4>“To propose advanced technological solutions for St James Power Station (SJPS), a
+monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
+     
+<h5>What We Are Looking For</h5>
+<a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
+        </li>
+      </ul>
+    </li>
+<!-- end of second drop down box -->
+<!-- start of third drop down box -->
+<li>
+    <input type="checkbox" id="list-item-3">
+    <label for="list-item-3">Building Project C - JTC Summit</label>
+      <ul>
+        <li><b><h4>JTC Corporation</h4>"To achieve SLEB for existing building"</b>
+<h5>What We Are Looking For</h5>
+<a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
+        </li>
+      </ul>
+    </li>
+    
+<!-- end of drop down box 3-->
+</ul>
+</div>
+
 <h4>Contact Person</h4>
 
 For further enquiries on this challenge call, please contact us at <a style="text-decoration: none" href = "mailto: noel_chin@bca.gov.sg">noel_chin@bca.gov.sg</a>; <a style="text-decoration: none" href = "mailto: majid_sapar@bca.gov.sg">majid_sapar@bca.gov.sg</a>; <a style="text-decoration: none" href = "mailto: gina_wang@enterprisesg.gov.sg">gina_wang@enterprisesg.gov.sg</a>.
