@@ -54,10 +54,9 @@ We envision a solution to identify, classify, and automatically convert elements
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Automated Model Data Checking</label>
       <ul>
-        <li><b><h4>JTC Corporation (JTC)</h4></b>A quality BIM model should be a large repository of data. Each object (e.g. doors, columns, chiller equipment) is a build-up of many aspects of information (e.g. properties, quantities, material, geometry, space and geo-reference) to allow them to be intuitive and useful. In a typical project, there can be hundreds of thousands of objects. This multiplies the volume of information in a BIM model. As a result, it is tedious to find and check the completeness and accuracy of the information for each and every object in the project.
+        <li><b><h4>JTC Corporation (JTC)</h4></b>A quality BIM model should be a large repository of data. Each object (e.g. doors, columns, chiller equipment) is a build-up of many aspects of information (e.g. properties, quantities, material, geometry, space and geo-reference) to allow them to be intuitive and useful. In a typical project, there can be hundreds of thousands of objects. This multiplies the volume of information in a BIM model. As a result, it is tedious to find and check the completeness and accuracy of the information for each and every object in the project.<br><br>
 
-In addition, the way models can be created are very flexible. For instance, a floor can be modelled simply as a concrete slab. A concrete slab may also represent a roof, a ramp or a ceiling. Information beyond just the physical aspects of the objects such as their purpose may not be interpreted consistently. To compound this further, even if the purpose are clear, the way
-they are named may cause problems. For instance, a toilet may also be named as washroom, water closet, lavatory and toilette. This greatly hampers the ability to find and analyse the objects.
+In addition, the way models can be created are very flexible. For instance, a floor can be modelled simply as a concrete slab. A concrete slab may also represent a roof, a ramp or a ceiling. Information beyond just the physical aspects of the objects such as their purpose may not be interpreted consistently. To compound this further, even if the purpose are clear, the way they are named may cause problems. For instance, a toilet may also be named as washroom, water closet, lavatory and toilette. This greatly hampers the ability to find and analyse the objects.
 <h5>What We Are Looking For</h5>
 1. A self-serviced, automated system for checking models based on JTC’s model data requirements.<br>
 2. Self-serviced way for JTC to define our model data requirements and provide long term management of these data requirements so that they may be used to check models.<br>
@@ -82,21 +81,16 @@ be missed in the process.
 Being a repeatable task for large volume sets, this is an ideal task to be made automated.
 
 However, in contrast to checking of data which are text-oriented, majority of design checks are geometric in nature and require geometric methods to check accurately. For instance, a check of building height (a critical rule for aviation) is
-more accurate when geometrically evaluated instead of merely reading off a height value which can be entered manually and not updated subsequently. At present, geometric methodologies applied to building requirements checking are lacking.
+more accurate when geometrically evaluated instead of merely reading off a height value which can be entered manually and not updated subsequently. At present, geometric methodologies applied to building requirements checking are lacking.<br><br>
 
-In addition, building requirements are in human language and open to misinterpretation. It requires further clarifications, or codification, for them to be turned into computer logic and enable rule based checks to be combined with geometric methods. (e.g. In order to check a rule to “provide sufficient airflow for a particular space” may be to find the percentage of openings for that space).
+In addition, building requirements are in human language and open to misinterpretation. It requires further clarifications, or codification, for them to be turned into computer logic and enable rule based checks to be combined with geometric methods. (e.g. In order to check a rule to “provide sufficient airflow for a particular space” may be to find the percentage of openings for that space).<br><br>
 
-As with model data checks, while models can be worked on by different disciplines in parallel before being combined in a centralised model to increase productivity, the way the same objects and spaces are modelled are not standardized varying
-from modeller to modeller. This makes identification of objects to be checked more difficult.
+As with model data checks, while models can be worked on by different disciplines in parallel before being combined in a centralised model to increase productivity, the way the same objects and spaces are modelled are not standardized varying from modeller to modeller. This makes identification of objects to be checked more difficult.
 <h5>What We Are Looking For</h5>
 To have a self-service system to allow models to be checked automatically, reliably and accurately for non-compliances to JTC’s building design requirements.<br><br>
-Designers and modellers can try checking at their own time and select the categories of rules they want to check whenever they complete parts of the model to find problems upfront. Issues found can be visualised for users to understand theunderlying reason of non-compliance without doubts. These issues can be automatically highlighted and tracked directly back in their native modelling software.<br>
+Designers and modellers can try checking at their own time and select the categories of rules they want to check whenever they complete parts of the model to find problems upfront. Issues found can be visualised for users to understand theunderlying reason of non-compliance without doubts. These issues can be automatically highlighted and tracked directly back in their native modelling software. <br><br>
 
-Designers and modellers can be guided on a standardised way which is based on industry best practices as they model to smoothen the modelling and checking process. The modelling guides shall be intuitive and not overly onerous to suit checking.<br>
-
-The system owner can continually create new rules and edit existing rules for long term maintenance.<br>
-
-Through use of the system, the system owner can also retrieve information to perform targeted analysis by building elements and trend these information in a time series analysis.<br>
+Designers and modellers can be guided on a standardised way which is based on industry best practices as they model to smoothen the modelling and checking process. The modelling guides shall be intuitive and not overly onerous to suit checking.The system owner can continually create new rules and edit existing rules for long term maintenance. Through use of the system, the system owner can also retrieve information to perform targeted analysis by building elements and trend these information in a time series analysis.<br><br>
 
 The system shall enable the submitted models as a data source for other systems to make use of the BIM information submitted.<br><br>
 
