@@ -1,15 +1,14 @@
 ---
 layout: leftnav-page-content
-title: JTC Innovation Challenge
-permalink: /jtc-innovation-challenge-2020/
-breadcrumb:
-collection_name: ongoing-challenges
-second_nav_title: Ongoing Challenges
+title: July 2020
+permalink: /past-challenges-jul-2020/
+breadcrumb: Past Challenges / July 2020
+collection_name: past-challenges
+second_nav_title: Past Challenges
 ---
+#### JTC Innovation Challenge Phase 1
 
-#### JTC Innovation Challenge
-
-<font color="#a9a9a9"><b>Challenge Owner(s)</b>: JTC Corporation(JTC)</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: JTC Corporation(JTC)</font>
 
 [![1](/images/ongoing-challenges/JTC-Innovation-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge)
 
