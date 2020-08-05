@@ -6,9 +6,9 @@ breadcrumb: Past Challenges / July 2020
 collection_name: past-challenges
 second_nav_title: Past Challenges
 ---
-#### JTC Innovation Challenge
+#### JTC Innovation Challenge Phase 1
 
-<font color="#a9a9a9"><b>Challenge Owner(s)</b>: JTC Corporation(JTC)</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: JTC Corporation(JTC)</font>
 
 [![1](/images/ongoing-challenges/JTC-Innovation-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge)
 
