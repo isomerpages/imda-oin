@@ -7,7 +7,7 @@ collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
 
-#### JTC Innovation Challenge
+#### JTC Innovation Challenge Phase 2
 
 <font color="#a9a9a9"><b>Challenge Owner(s)</b>: JTC Corporation(JTC)</font>
 
