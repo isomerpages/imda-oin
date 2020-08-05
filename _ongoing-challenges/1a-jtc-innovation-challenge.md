@@ -13,7 +13,7 @@ second_nav_title: Ongoing Challenges
 
 [![1](/images/ongoing-challenges/JTC-Innovation-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge)
 
-**Application Open Dates: 23 June 2020 to 03 August 2020**<br>
+**Application Open Dates: 03 August 2020 to 14 September 2020**<br>
 
 <font color=" #a9a9a9"><b>Enterprise Singapore(ESG), JTC Corporation(JTC)</b></font>
 
@@ -33,37 +33,88 @@ Through our support, companies can defray development costs, reduce business ris
   <li>Sustainability and resilience, to reduce our carbon impact on the environment and improve our resilience to supply chain disruptions</li>
 </ul>
  
-<b>Automation and Productivity</b><br>
+<b>Digitalisation of the Build Environment</b><br>
 
 <div id="wrapper">
     <h4> Challenge Statements </h4>
 <ul>
     <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Inspection for Estate Asset, Virtual InSpectIon which Omits Manual processes (V.I.S.I.O.N)</label>
+    <label for="list-item-1" class="first">Element/Objects Identification And Classification From Point Cloud</label>
         <ul>
-          <li><b><h4>JTC Corporation (JTC)</h4></b>Estate inspection or fault identification currently requires manual scanning of assets conditions during drive through. The current inspection process is manual and laborious. When a fault is spotted, the officer has to look for a nearby safe spot to stop and park the vehicle before he/ she is able to conduct a more detailed assessment of the fault. After the drive through, the officer has to manually upload the photos, compile a report and send it to the respective coordinating agency. The process is time consuming and turnaround time to generate the report is rather long.
+          <li><b><h4>JTC Corporation (JTC)</h4></b>Some existing buildings drawings are missing or damaged. Most as-built drawings are also not updated. Using current reinstated method, staff must take measurement and determine the type of each item in the building or infrastructure, and manually update information in the drawing or 3D model. Although the use of Light Detection and Ranging (LiDAR) may help to automate this process, manual tagging and identification of the object is still a required step. Both the manual measurement, and the scanning and tagging process are very laborious and time consuming.
 <h5>What We Are Looking For</h5>
-1. Viable solution that increases manpower productivity and safety – A solution that captures images/ shapes/ contours, identify and flag out fault conditions and automatically generating alerts and reports.<br>
-2. Quick detection of faults and response time – The system shall reduce the reaction time between fault identification and rectification.<br><br>
+We envision a solution to identify, classify, and automatically convert elements from point cloud to 3D objects with tagged information. Flag up if the point cloud information is insufficient for the conversion process. The platform is to reduce the duration and resources required to digitise the existing buildings and infrastructure.<br><br>
 
-<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-inspection-estate-asset-virtual-inspection-which-omits-manual" >Learn More</a>
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-1-elementobjects-identification-and-classification-point-cloud" >Learn More</a>
           </li>
         </ul>
       </li>
      <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Augmenting safety inspections for building and/or infrastructure construction sites</label>
+    <label for="list-item-2">Automated Model Data Checking</label>
       <ul>
-        <li><b><h4>JTC Corporation (JTC)</h4></b>Noise restrictions, for workers’ welfare and nuisance control, limit the operating hours on a construction site. By exploring solutions that enable remote controlled or highly automated operations of various quiet construction tasks, construction can continue within the restricted noise levels after the traditional “noisy hours”. The construction site productivity can be improved without compromising worker welfare and affecting nearby users/residents.
+        <li><b><h4>JTC Corporation (JTC)</h4></b>A quality BIM model should be a large repository of data. Each object (e.g. doors, columns, chiller equipment) is a build-up of many aspects of information (e.g. properties, quantities, material, geometry, space and geo-reference) to allow them to be intuitive and useful. In a typical project, there can be hundreds of thousands of objects. This multiplies the volume of information in a BIM model. As a result, it is tedious to find and check the completeness and accuracy of the information for each and every object in the project.
+
+In addition, the way models can be created are very flexible. For instance, a floor can be modelled simply as a concrete slab. A concrete slab may also represent a roof, a ramp or a ceiling. Information beyond just the physical aspects of the objects such as their purpose may not be interpreted consistently. To compound this further, even if the purpose are clear, the way
+they are named may cause problems. For instance, a toilet may also be named as washroom, water closet, lavatory and toilette. This greatly hampers the ability to find and analyse the objects.
 <h5>What We Are Looking For</h5>
-1. Construction site can continue to be productive afterhours while ensuring minimal noise and dust generation.<br>
-2. Increase manpower productivity by at least 100% or reduce labour reliance by 50% during afterhours work at the construction site.<br>
-3. Proposed solution is cost effective in comparison to conventional methods.<br>
-4. Ensures safety of workers during the afterhours work.<br><br>
+1. A self-serviced, automated system for checking models based on JTC’s model data requirements.<br>
+2. Self-serviced way for JTC to define our model data requirements and provide long term management of these data requirements so that they may be used to check models.<br>
+3. Automated guidance to help BIM model authors enter data intuitively and in a standardized manner as they model.<br>
+4. Ability to retrieve model information quickly and easily for verification and further analysis.<br>
+5. Enable the BIM models as a data sources for other systems to make use of the BIM information submitted.<br><br>
 
 
-<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-extending-productive-hours-construction-sites" >Learn More</a>
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-automated-model-data-checking-0" >Learn More</a>
+        </li>
+       </ul>
+    </li>
+    <li>
+    <input type="checkbox" id="list-item-3">
+    <label for="list-item-3">Automated Model Design Checker</label>
+      <ul>
+        <li><b><h4>JTC Corporation (JTC)</h4></b>The BDRs’ rules could number up to several hundreds.
+
+In order to check the adherence to these requirements, the human checker will need to keep in mind the huge pool of rules while navigating the entire development, from room to room, corner to corner. This process is tedious and rules are prone to
+be missed in the process.
+
+Being a repeatable task for large volume sets, this is an ideal task to be made automated.
+
+However, in contrast to checking of data which are text-oriented, majority of design checks are geometric in nature and require geometric methods to check accurately. For instance, a check of building height (a critical rule for aviation) is
+more accurate when geometrically evaluated instead of merely reading off a height value which can be entered manually and not updated subsequently. At present, geometric methodologies applied to building requirements checking are lacking.
+
+In addition, building requirements are in human language and open to misinterpretation. It requires further clarifications, or codification, for them to be turned into computer logic and enable rule based checks to be combined with geometric methods. (e.g. In order to check a rule to “provide sufficient airflow for a particular space” may be to find the percentage of openings for that space).
+
+As with model data checks, while models can be worked on by different disciplines in parallel before being combined in a centralised model to increase productivity, the way the same objects and spaces are modelled are not standardized varying
+from modeller to modeller. This makes identification of objects to be checked more difficult.
+<h5>What We Are Looking For</h5>
+To have a self-service system to allow models to be checked automatically, reliably and accurately for non-compliances to JTC’s building design requirements.<br><br>
+Designers and modellers can try checking at their own time and select the categories of rules they want to check whenever they complete parts of the model to find problems upfront. Issues found can be visualised for users to understand theunderlying reason of non-compliance without doubts. These issues can be automatically highlighted and tracked directly back in their native modelling software.<br>
+
+Designers and modellers can be guided on a standardised way which is based on industry best practices as they model to smoothen the modelling and checking process. The modelling guides shall be intuitive and not overly onerous to suit checking.<br>
+
+The system owner can continually create new rules and edit existing rules for long term maintenance.<br>
+
+Through use of the system, the system owner can also retrieve information to perform targeted analysis by building elements and trend these information in a time series analysis.<br>
+
+The system shall enable the submitted models as a data source for other systems to make use of the BIM information submitted.<br><br>
+
+
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-3-automated-model-design-checker" >Learn More</a>
+        </li>
+       </ul>
+    </li>
+    <li>
+    <input type="checkbox" id="list-item-4">
+    <label for="list-item-4">Quantification Of Site Situation Against Building Information Management (Bim) Model For Project Progress And Payment</label>
+      <ul>
+        <li><b><h4>JTC Corporation (JTC)</h4></b>Quantification of actual site situation lacks accuracy due to the discrepancies between the documents submitted by the various parties and the actual site installation. There is no common platform to validate the actual site progress status. Currently, actual site progress status and update to the system is done manually which is very time consuming and labour intensive.
+<h5>What We Are Looking For</h5>
+We envision a solution to capture 360 photos and point cloud data to quantify the site progress automatically. A common platform to update, view and validate the site progress data and extract the site progress report from the platform automatically.<br><br>
+
+
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-4-quantification-site-situation-against-building-information" >Learn More</a>
         </li>
        </ul>
     </li>
