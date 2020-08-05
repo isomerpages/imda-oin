@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: JTC Innovation Challenge
+title: JTC Innovation Challenge Phase 2
 permalink: /jtc-innovation-challenge-2020/
 breadcrumb:
 collection_name: ongoing-challenges
@@ -13,7 +13,7 @@ second_nav_title: Ongoing Challenges
 
 [![1](/images/ongoing-challenges/JTC-Innovation-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge)
 
-**Application Open Dates: 03 August 2020 to 14 September 2020**<br>
+**Application Open Dates: 04 August 2020 to 14 September 2020**<br>
 
 <font color=" #a9a9a9"><b>Enterprise Singapore(ESG), JTC Corporation(JTC)</b></font>
 
@@ -120,10 +120,9 @@ We envision a solution to capture 360 photos and point cloud data to quantify th
     </li>
 </ul>
 </div>
+Submission open from 04 August to 14 September 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing.
 
-
-Submission open from 23 June to 03 August 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing date.
-JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.com/watch?v=BSAGySacgFs&feature=youtu.be) - Automation & Productivity
+Briefing day 18 August 2020, 0900H to 1100H. Register your interest for the briefing 3 working days before the [briefing](https://form.gov.sg/5edf7083ea153a0011efd59d), first come first serve basis.
 
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
