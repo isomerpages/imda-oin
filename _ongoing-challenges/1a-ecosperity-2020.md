@@ -17,6 +17,10 @@ second_nav_title: Ongoing Challenges
 
 <font color=" #a9a9a9"><b>Temasek Foundation</b></font>
 
-Short Blurb (about 40 words) 	Through the Ecosperity Innovations Call for Proposals, Temasek Foundation funds and supports ideas and innovations for actual application through commercialisation and enterprise, to bring about impactful improvements to the liveability of our world, especially in cities. The closing date for submission of proposals is 30 September 2020.
+Through the Ecosperity Innovations Call for Proposals, Temasek Foundation funds and supports ideas and innovations for actual application through commercialisation and enterprise, to bring about impactful improvements to the liveability of our world, especially in cities. The closing date for submission of proposals is 30 September 2020.
 
+<ul>
+  <li><a href="/images/Temasek%20Foundation_Ecosperity%20Innovations%20Call%20for%20Proposals%20(Aug%202020).pdf">Overview, Eligibility and Guidelines</a></li>
+  <li><a href="/images/Temasek%20Foundation_Ecosperity%20Innovations%20Call%20for%20Proposals%20Application.docx">Application form</a></li>
+</ul>
 [Learn more](https://www.temasekfoundation-ecosperity.org.sg){:target="_blank"}
