@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: JTC Innovation Challenge Phase 2
 permalink: /jtc-innovation-challenge-2020-phase-2/
-breadcrumb:
+breadcrumb: JTC Innovation Challenge Phase 2
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
@@ -32,7 +32,7 @@ Through our support, companies can defray development costs, reduce business ris
   <li>Digitalisation of the build environment, easing the transition into using Building Information Mangement (BIM) Models and developing BIM-based solutions that address construction painpoints</li>
   <li>Sustainability and resilience, to reduce our carbon impact on the environment and improve our resilience to supply chain disruptions</li>
 </ul>
- 
+
 <b>Digitalisation of the Build Environment</b><br>
 
 <div id="wrapper">

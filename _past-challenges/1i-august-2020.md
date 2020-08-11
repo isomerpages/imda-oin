@@ -76,3 +76,16 @@ JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.c
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge){:target="_blank"}
+
+#### Smart Port Challenge 2020
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Alpha Ori, Asiatic Lloyd, Bernhard Schulte, Bernhard Schulte Shipmanagement, Dive Marine Services, Eastern Pacific Shipping, Ecolabs-COI, Jurong Port, Klaveness Digital, Ocean Network Express, Oil Spill Response, Pacific International Lines, PSA Marine, PSA unboXed, Singapore Shipping Association, Symphony Creative Solutions, Uniteam Marine, Yusen Logistics</b></font>
+
+[![1](/images/ongoing-challenges/SPC2020.jpg)](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities)
+
+**Application Open Dates: 4 June 2020 to 10 August 2020**<br>
+<font color=" #a9a9a9"><b>PIER71</b></font>
+
+17 innovation opportunities that address areas such as port operations, sea space and marine traffic management, fleet operations, maritime safety and security, as well as sustainability.
+
+[Learn more](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities){:target="_blank"}
