@@ -21,6 +21,6 @@ Through the Ecosperity Innovations Call for Proposals, Temasek Foundation funds 
 
 <ul>
   <li><a href="/images/Temasek%20Foundation_Ecosperity%20Innovations%20Call%20for%20Proposals%20(Aug%202020).pdf">Overview, Eligibility and Guidelines</a></li>
-  <li><a href="/images/Temasek%20Foundation_Ecosperity%20Innovations%20Call%20for%20Proposals%20Application.docx">Application form</a></li>
+  <li><a href="/images/Temasek%20Foundation_Ecosperity%20Innovations%20Call%20for%20Proposals%20Application.docx" download>Application Form</a></li>
 </ul>
 [Learn more](https://www.temasekfoundation-ecosperity.org.sg){:target="_blank"}
