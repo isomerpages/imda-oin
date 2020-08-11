@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: JTC Innovation Challenge Phase 2
 permalink: /jtc-innovation-challenge-2020-phase-2/
-breadcrumb:
+breadcrumb: JTC Innovation Challenge Phase 2
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
