@@ -1,3 +1,5 @@
+<!--
+
 ---
 layout: leftnav-page-content
 title: Huawei Spark 2020
@@ -16,3 +18,5 @@ second_nav_title: Ongoing Challenges
 The Huawei Spark Startup Competition is searching for deep tech startups globally! Partnering with SLINGSHOT 2020, Huawei is calling for startups with solutions in 5G, Saas, AI, Iot, & ML with top finalists invited to the Huawei Spark 2020 Accelerator program and fast-tracked as a SLINGSHOT Top 100 Global Startup!
 
 [Learn more](https://slingshot.agorize.com/en/huaweispark2020?t=zC0F-6GT8VqnMlpQgdLkig&utm_source=enterprisesg&utm_medium=network&utm_campaign=sg_cont_startups){:target="_blank"}
+
+-->
