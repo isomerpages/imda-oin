@@ -1,5 +1,3 @@
-<!--
-
 ---
 layout: leftnav-page-content
 title: Huawei Spark 2020
@@ -19,4 +17,3 @@ The Huawei Spark Startup Competition is searching for deep tech startups globall
 
 [Learn more](https://slingshot.agorize.com/en/huaweispark2020?t=zC0F-6GT8VqnMlpQgdLkig&utm_source=enterprisesg&utm_medium=network&utm_campaign=sg_cont_startups){:target="_blank"}
 
--->
