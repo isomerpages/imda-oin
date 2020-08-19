@@ -64,7 +64,7 @@ We envision a solution to identify, classify, and automatically convert elements
 5. Enable the BIM models as a data sources for other systems to make use of the BIM information submitted.<br><br>
 
 
-<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-automated-model-data-checking-0" >Learn More</a>
+<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-2-automated-model-data-checking" >Learn More</a>
         </li>
        </ul>
     </li>
