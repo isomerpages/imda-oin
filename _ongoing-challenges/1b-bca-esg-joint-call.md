@@ -30,7 +30,10 @@ The 3rd Joint Challenge Call seeks proposals that include innovative emerging te
 
 <h4>Application</h4>
 
-A webinar is planned for 12 August 2020 (Wednesday) 1500-1700hrs Singapore time. Hosted by BCA, ESG and the respective project owners, this webinar aims to provide a background on the building projects, what is expected of the challenge call and to address questions from participants. Interested participants may register for the webinar at [https://gems.gevme.com/bca-esg-challenge-call-launch](https://gems.gevme.com/bca-esg-challenge-call-launch). The link will be provided to you upon registration.
+<ul>
+  <li><a href="/images/BCA-ESG challenge launch webinar slides (12 Aug 2020).pdf">BCA-ESG Challenge Call Launch Webinar Slides</a></li>
+  <li><a href="https://vimeo.com/447092674">Launch Webinar Recording (12 Aug 2020)</a></li>
+</ul>
 
 All proposals would have to be completed using the prescribed Annex A template and submit them via email to <a style="text-decoration: none" href = "mailto: BCA_Challenge_Call@bca.gov.sg">BCA_Challenge_Call@bca.gov.sg</a> by 15 Sep 2020, 1700hrs.   
 
