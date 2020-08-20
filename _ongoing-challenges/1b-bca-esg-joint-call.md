@@ -30,7 +30,12 @@ The 3rd Joint Challenge Call seeks proposals that include innovative emerging te
 
 <h4>Application</h4>
 
-Please download the <a href="/images/BCA-ESG challenge launch webinar slides (12 Aug 2020).pdf">BCA-ESG Challenge Call Launch Webinar Slides</a>,
+<ul>
+  <li><a href="/images/BCA-ESG challenge launch webinar slides (12 Aug 2020).pdf">BCA-ESG Challenge Call Launch Webinar Slides</a></li>
+  <li>[Webinar Recording](https://vimeo.com/447092674){:target="_blank"}</a></li>
+</ul>
+
+Please download <a href="/images/BCA-ESG challenge launch webinar slides (12 Aug 2020).pdf">BCA-ESG Challenge Call Launch Webinar Slides</a>,
 and view the webinar record using link: https://vimeo.com/447092674.
 
 All proposals would have to be completed using the prescribed Annex A template and submit them via email to <a style="text-decoration: none" href = "mailto: BCA_Challenge_Call@bca.gov.sg">BCA_Challenge_Call@bca.gov.sg</a> by 15 Sep 2020, 1700hrs.   
