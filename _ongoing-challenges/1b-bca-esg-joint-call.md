@@ -31,6 +31,7 @@ The 3rd Joint Challenge Call seeks proposals that include innovative emerging te
 <h4>Application</h4>
 
 <ul>
+  <li><a href="https://www.sleb.sg/UserFiles/Resource//GBIC/3rd%20Challenge%20Call/Annex%20A%20–%20Challenge%20Call%20Application%20Form.pdf">Annex A - Application Form</a></li>
   <li><a href="/images/BCA-ESG challenge launch webinar slides (12 Aug 2020).pdf">BCA-ESG Challenge Call Launch Webinar Slides</a></li>
   <li><a href="https://vimeo.com/447092674">Launch Webinar Recording (12 Aug 2020)</a></li>
 </ul>
@@ -51,7 +52,7 @@ You may also write to this email if you have any queries on the Joint Challenge 
           <li><b><h4>Warees</h4>“Smart and Energy Efficient Mosque Leveraging on Artificial Intelligence and
 Blockchain”</b>
             <h5>What We Are Looking For</h5>
-<a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" >Download Annex B - Challenge Statements from the project owner</a>
+<a href="https://www.sleb.sg/UserFiles/Resource//GBIC/3rd%20Challenge%20Call/Annex%20B%20-%203rd%20Challenge%20Call.zip" >Download Annex B - Challenge Statements from the project owner</a>
       </li>
      </ul>
    </li>
@@ -65,7 +66,7 @@ Blockchain”</b>
 monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
      
 <h5>What We Are Looking For</h5>
-<a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
+<a href="https://www.sleb.sg/UserFiles/Resource//GBIC/3rd%20Challenge%20Call/Annex%20B%20-%203rd%20Challenge%20Call.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
         </li>
       </ul>
     </li>
@@ -77,7 +78,7 @@ monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
       <ul>
         <li><b><h4>JTC Corporation</h4>"To achieve SLEB for existing building"</b>
 <h5>What We Are Looking For</h5>
-<a href="https://www.sleb.sg/UserFiles/Resource/GBIC/3rd%20Challenge%20Call/Annex%20B%20-%20Challenge%20Statements%20from%20the%20project%20owner.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
+<a href="https://www.sleb.sg/UserFiles/Resource//GBIC/3rd%20Challenge%20Call/Annex%20B%20-%203rd%20Challenge%20Call.zip" target="_blank" >Download Annex B - Challenge Statements from the project owner</a>
         </li>
       </ul>
     </li>
