@@ -31,6 +31,7 @@ The 3rd Joint Challenge Call seeks proposals that include innovative emerging te
 <h4>Application</h4>
 
 <ul>
+  <li><a href="https://www.sleb.sg/UserFiles/Resource//GBIC/3rd%20Challenge%20Call/Annex%20A%20–%20Challenge%20Call%20Application%20Form.pdf">Annex A- Application Form</a></li>
   <li><a href="/images/BCA-ESG challenge launch webinar slides (12 Aug 2020).pdf">BCA-ESG Challenge Call Launch Webinar Slides</a></li>
   <li><a href="https://vimeo.com/447092674">Launch Webinar Recording (12 Aug 2020)</a></li>
 </ul>
