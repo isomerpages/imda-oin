@@ -79,7 +79,7 @@ JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.c
 
 #### EMA-Shell Joint Request for Proposal (RFP)
 
-<font color="#a9a9a9"><b>Challenge Owner(s): Energy Market Authority(EMA), Shell Singapore</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Energy Market Authority(EMA), Shell Singapore</font>
 
 [![1](/images/ongoing-challenges/EMA-Shell-joint-grant-call.jpg)](https://www.ema.gov.sg/ema-shell-partnership.aspx)
 
@@ -92,7 +92,7 @@ The EMA-Shell Joint RFP seeks to develop a smart energy management system to man
 
 #### Smart Port Challenge 2020
 
-<font color="#a9a9a9"><b>Challenge Owner(s): Alpha Ori, Asiatic Lloyd, Bernhard Schulte, Bernhard Schulte Shipmanagement, Dive Marine Services, Eastern Pacific Shipping, Ecolabs-COI, Jurong Port, Klaveness Digital, Ocean Network Express, Oil Spill Response, Pacific International Lines, PSA Marine, PSA unboXed, Singapore Shipping Association, Symphony Creative Solutions, Uniteam Marine, Yusen Logistics</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Alpha Ori, Asiatic Lloyd, Bernhard Schulte, Bernhard Schulte Shipmanagement, Dive Marine Services, Eastern Pacific Shipping, Ecolabs-COI, Jurong Port, Klaveness Digital, Ocean Network Express, Oil Spill Response, Pacific International Lines, PSA Marine, PSA unboXed, Singapore Shipping Association, Symphony Creative Solutions, Uniteam Marine, Yusen Logistics</font>
 
 [![1](/images/ongoing-challenges/SPC2020.jpg)](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities)
 
