@@ -89,3 +89,37 @@ JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.c
 17 innovation opportunities that address areas such as port operations, sea space and marine traffic management, fleet operations, maritime safety and security, as well as sustainability.
 
 [Learn more](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities){:target="_blank"}
+
+#### Singapore Mobility Challenge 2020
+
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Land Transport Authority(LTA), SBS Transit Ltd, SMRT Corporation Ltd</font>
+
+[![1](/images/ongoing-challenges/SMC-Banner.png)](https://www.sgmobilitychallenge.com/)
+
+**Application Open Dates: 11 June 2020 to 11 August 2020**<br>
+<font color=" #a9a9a9"><b>Padang & Co</b></font>
+
+An open innovation initiative for technological solutions that can benefit the public transport industry and commuters.
+ 
+Jointly organised by the Land Transport Authority of Singapore (LTA), SBS Transit, SMRT and co-organised by Enterprise Singapore, the Singapore Mobility Challenge aims to address the [Land Transport Master Plan 2040](https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_work/land_transport_master_plan_2040.html) goals.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0QtVtgNWfYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Learn more{:target="_blank"}
+ </div>
+
+[Learn more](https://www.sgmobilitychallenge.com/){:target="_blank"}
+
+#### L'Oréal Innovation Runway 2020
+
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: L’Oreal</font>
+
+[![1](/images/ongoing-challenges/Loreal-Innovation-Runway-2020.jpg)](https://slingshot.agorize.com/en/challenges/lorealinnovationrunway)
+
+**Application Open Dates: 8 June 2020 to 24 August 2020**<br>
+<font color=" #a9a9a9"><b>Agorize</b></font>
+
+L’Oreal Innovation Runway 2020 is now calling for startups from the many fields of deep tech and various industries to shape the future of beauty technology together. Co-create revolutionary solutions that transform the beauty industry that are scalable, sustainable, and environmentally-friendly.
+
+[Learn more](https://slingshot.agorize.com/en/challenges/lorealinnovationrunway){:target="_blank"}
+
