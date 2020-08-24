@@ -77,6 +77,19 @@ JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.c
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge){:target="_blank"}
 
+#### EMA-Shell Joint Request for Proposal (RFP)
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Energy Market Authority(EMA), Shell Singapore</b></font>
+
+[![1](/images/ongoing-challenges/EMA-Shell-joint-grant-call.jpg)](https://www.ema.gov.sg/ema-shell-partnership.aspx)
+
+**Application Open Dates: 17 July 2020 to 6 August 2020**<br>
+<font color=" #a9a9a9"><b>Energy Market Authority(EMA), Shell Singapore</b></font>
+
+The EMA-Shell Joint RFP seeks to develop a smart energy management system to manage Shell’s service stations.  The proposed system will integrate the use of solar power and Energy Storage Systems (ESS) to power its stations, and fast electric vehicle (EV) chargers to provide faster charging for EV at three Shell service stations. The RFP also seeks to deploy ESS equipped with enhanced cooling and fire safety features at the service stations. The ESS will be used to power the service stations’ operations and mitigate the intermittent nature of solar power.
+
+[Learn more](https://www.ema.gov.sg/ema-shell-partnership.aspx){:target="_blank"}
+
 #### Smart Port Challenge 2020
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Alpha Ori, Asiatic Lloyd, Bernhard Schulte, Bernhard Schulte Shipmanagement, Dive Marine Services, Eastern Pacific Shipping, Ecolabs-COI, Jurong Port, Klaveness Digital, Ocean Network Express, Oil Spill Response, Pacific International Lines, PSA Marine, PSA unboXed, Singapore Shipping Association, Symphony Creative Solutions, Uniteam Marine, Yusen Logistics</b></font>
