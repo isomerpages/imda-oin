@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: July 2020
-permalink: /past-challenges-jul-2020/
-breadcrumb: Past Challenges / July 2020
+title: August 2020
+permalink: /past-challenges-aug-2020/
+breadcrumb: Past Challenges / August 2020
 collection_name: past-challenges
 second_nav_title: Past Challenges
 ---
@@ -77,9 +77,22 @@ JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.c
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge){:target="_blank"}
 
+#### EMA-Shell Joint Request for Proposal (RFP)
+
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Energy Market Authority(EMA), Shell Singapore</font>
+
+[![1](/images/ongoing-challenges/EMA-Shell-joint-grant-call.jpg)](https://www.ema.gov.sg/ema-shell-partnership.aspx)
+
+**Application Open Dates: 17 July 2020 to 6 August 2020**<br>
+<font color=" #a9a9a9"><b>Energy Market Authority(EMA), Shell Singapore</b></font>
+
+The EMA-Shell Joint RFP seeks to develop a smart energy management system to manage Shell’s service stations.  The proposed system will integrate the use of solar power and Energy Storage Systems (ESS) to power its stations, and fast electric vehicle (EV) chargers to provide faster charging for EV at three Shell service stations. The RFP also seeks to deploy ESS equipped with enhanced cooling and fire safety features at the service stations. The ESS will be used to power the service stations’ operations and mitigate the intermittent nature of solar power.
+
+[Learn more](https://www.ema.gov.sg/ema-shell-partnership.aspx){:target="_blank"}
+
 #### Smart Port Challenge 2020
 
-<font color="#a9a9a9"><b>Challenge Owner(s): Alpha Ori, Asiatic Lloyd, Bernhard Schulte, Bernhard Schulte Shipmanagement, Dive Marine Services, Eastern Pacific Shipping, Ecolabs-COI, Jurong Port, Klaveness Digital, Ocean Network Express, Oil Spill Response, Pacific International Lines, PSA Marine, PSA unboXed, Singapore Shipping Association, Symphony Creative Solutions, Uniteam Marine, Yusen Logistics</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Alpha Ori, Asiatic Lloyd, Bernhard Schulte, Bernhard Schulte Shipmanagement, Dive Marine Services, Eastern Pacific Shipping, Ecolabs-COI, Jurong Port, Klaveness Digital, Ocean Network Express, Oil Spill Response, Pacific International Lines, PSA Marine, PSA unboXed, Singapore Shipping Association, Symphony Creative Solutions, Uniteam Marine, Yusen Logistics</font>
 
 [![1](/images/ongoing-challenges/SPC2020.jpg)](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities)
 
@@ -89,3 +102,37 @@ JTC Innovation Challenge 2020 problem statement [briefing](https://www.youtube.c
 17 innovation opportunities that address areas such as port operations, sea space and marine traffic management, fleet operations, maritime safety and security, as well as sustainability.
 
 [Learn more](https://pier71.sg/smart-port-challenge/smart-port-challenge-2020/innovation-opportunities){:target="_blank"}
+
+#### Singapore Mobility Challenge 2020
+
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Land Transport Authority(LTA), SBS Transit Ltd, SMRT Corporation Ltd</font>
+
+[![1](/images/ongoing-challenges/SMC-Banner.png)](https://www.sgmobilitychallenge.com/)
+
+**Application Open Dates: 11 June 2020 to 11 August 2020**<br>
+<font color=" #a9a9a9"><b>Padang & Co</b></font>
+
+An open innovation initiative for technological solutions that can benefit the public transport industry and commuters.
+ 
+Jointly organised by the Land Transport Authority of Singapore (LTA), SBS Transit, SMRT and co-organised by Enterprise Singapore, the Singapore Mobility Challenge aims to address the [Land Transport Master Plan 2040](https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_work/land_transport_master_plan_2040.html) goals.
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0QtVtgNWfYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Learn more{:target="_blank"}
+ </div>
+
+[Learn more](https://www.sgmobilitychallenge.com/){:target="_blank"}
+
+#### L'Oréal Innovation Runway 2020
+
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: L’Oreal</font>
+
+[![1](/images/ongoing-challenges/Loreal-Innovation-Runway-2020.jpg)](https://slingshot.agorize.com/en/challenges/lorealinnovationrunway)
+
+**Application Open Dates: 8 June 2020 to 24 August 2020**<br>
+<font color=" #a9a9a9"><b>Agorize</b></font>
+
+L’Oreal Innovation Runway 2020 is now calling for startups from the many fields of deep tech and various industries to shape the future of beauty technology together. Co-create revolutionary solutions that transform the beauty industry that are scalable, sustainable, and environmentally-friendly.
+
+[Learn more](https://slingshot.agorize.com/en/challenges/lorealinnovationrunway){:target="_blank"}
+
