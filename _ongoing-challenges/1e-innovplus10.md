@@ -139,6 +139,7 @@ specific to the learner's approach to simulated situations<br>
           <li><b><h4>Population Health (Company Pseudonym)</h4></b> We are a hospital of Singapore’s Public Healthcare System seeking a learning solution to increase awareness and understanding of active aging amongst community and employees. We envisage the solution to be highly personalised, predictive and engaging.
               
 <h5>What We Are Looking For</h5>
+
 To develop a mobile optimised platform that consists of the following 2 portals:<br><br>
  
  Portal 1: Learning Management System (For Residents)<br>
