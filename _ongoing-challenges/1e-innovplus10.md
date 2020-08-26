@@ -162,14 +162,14 @@ Portal 1: Learning Management System (For Residents)
     <li>To develop a series of self-assessment tools for residents to learn more about their health status i.e. psychosocial health, function and nutritional status. These comprise of questionnaires that will help them reflect on and evaluate their lifestyle, mood and social, Clinical Frailty Score and risk of falls, as well as nutritional awareness. The final assessment should also be made available to the residents.</li>
     <li>To create an algorithm and a classification system to segment the residents based on their health status, then recommend suitable community programmes/services. This helps to educate and guide residents to appropriate resource(s) in the community that would help them better manage their health.</li>
 <li>To incorporate quizzes that would help evaluate learning outcomes i.e. residents’ level of
-understanding on their health status and the community resources.<li>
+understanding on their health status and the community resources.</li>
 <li>To consolidate and organise existing community programme/services resources (LifeSG, Health
 Promotion Board Health Hub, ActiveSG, Agency for Integrated Care Silver Pages, Ministry of
 Social and Family development and National Silver Academy) into user friendly bite-sized
-modules so as to enhance residents’ understanding on the resources available in the community.<li>
+modules so as to enhance residents’ understanding on the resources available in the community.</li>
 <li>To include helplines, list of care providers, relevant announcement (e.g. screening events) and
 articles and a chat-bot function to facilitate information finding. Residents should also be able to
-identify and register for relevant programmes/services nearest to their home address.<li>
+identify and register for relevant programmes/services nearest to their home address.</li>
     </ol>
 
 Portal 2: Games module (For Residents and Staff)
