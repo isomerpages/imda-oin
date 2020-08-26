@@ -153,7 +153,7 @@ positioned content that is adaptive, intuitive and responsive to learners' needs
     <input type="checkbox" id="list-item-7">
     <label for="list-item-7">Quantification Of Site Situation Against Building Information Management (Bim) Model For Project Progress And Payment</label>
       <ul>
-          <li><b><h4>Population Health (Company Pseudonym)</h4> We are a hospital of Singapore’s Public Healthcare System seeking a learning solution to increase awareness and understanding of active aging amongst community and employees. We envisage the solution to be highly personalised, predictive and engaging.
+          <li><b><h4>Population Health (Company Pseudonym)</b></h4> We are a hospital of Singapore’s Public Healthcare System seeking a learning solution to increase awareness and understanding of active aging amongst community and employees. We envisage the solution to be highly personalised, predictive and engaging.
 <h5>What We Are Looking For</h5>
 To develop a mobile optimised platform that consists of the following 2 portals:
 Portal 1: Learning Management System (For Residents)
