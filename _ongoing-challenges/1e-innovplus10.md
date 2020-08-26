@@ -75,8 +75,6 @@ The requirements of the solution should meet the following:
         <li><b><h4>Isle Oasis in the City (Company Pseudonym)</h4></b>We are a luxury hotel property in the Marina Bay District seeking a dynamic learning solution to aid in the cross training of staff so as to develop a deeper talent resource pool for cross deployment
 during critical periods in the hotel operations.
 
-
-
 <h5>What We Are Looking For</h5>
 Platform requirements that would be desirable are:
 <ul>
@@ -91,10 +89,10 @@ Platform requirements that would be desirable are:
 
 
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS03_Isle.pdf" >Learn More</a>
-        </li>
-       </ul>
-    </li>
-    <li>
+          </li>
+        </ul>
+      </li>
+     <li>
     <input type="checkbox" id="list-item-4">
     <label for="list-item-4">Quantification Of Site Situation Against Building Information Management (Bim) Model For Project Progress And Payment</label>
       <ul>
@@ -106,10 +104,10 @@ This mobile learning is location free. The employees, merchants and clients can 
 
 
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS04_Herohippo.pdf" >Learn More</a>
-        </li>
-       </ul>
-    </li>
-    <li>
+          </li>
+        </ul>
+      </li>
+     <li>
     <input type="checkbox" id="list-item-5">
     <label for="list-item-5">Learning solution that support data driven skills assessment</label>
       <ul>
@@ -120,10 +118,10 @@ We envision a solution to capture 360 photos and point cloud data to quantify th
 
 
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS05_IDEA.pdf" >Learn More</a>
-        </li>
-       </ul>
-    </li>
-    <li>
+          </li>
+        </ul>
+      </li>
+     <li>
     <input type="checkbox" id="list-item-6">
     <label for="list-item-6">Adaptive learning solution to teach multiprofessional teams best practices for safe guarding against and minimising medication errors</label>
       <ul>
@@ -132,8 +130,7 @@ We envision a solution to capture 360 photos and point cloud data to quantify th
             
 The requirements for the solution are outlined as follows:
 <ul>
-    <li>Enable automated virtual teaching and assessment, hence, reducing the need for human
-        trainers
+    <li>Enable automated virtual teaching and assessment, hence, reducing the need for human trainers</li>
     <li>Create an experience closest to real-life representation on a virtual platform</li>
     <li>Allows for multi-players to work together to identify potential patient safety issues, focusing on unsafe medication practices and errors, and select preventive strategies to reduce medication errors</li>
     <li>Create dialogue management capabilities using natural language processing software to allow healthcare professionals to communicate in natural language</li>
@@ -181,14 +178,7 @@ shifting care into the community and (b) enhance residents’ competencies on th
 focuses on elements of collaborations, joining up care, and the challenges faced by residents and
 providers. Key providers and services from Portal 1 should also be featured in the game to help
     players better draw relation to the real world.</li>
-<li>To address (b), there could be a series of time pressure mini games which incorporate
-components from the assessment tools for residents to complete in order to assess their various
-health and social conditions. This could either be incorporated as part of (a) or exist as an
-independent module. The mini games should serve as an additional avenue to evaluate resident’s
-functional and cognitive ability e.g. Chair rise, walking speed, cognitive games etc. The scores
-from the games also serve as additional data points to assist the recommendation of programme
-in Portal 1. Interesting ‘Did you know’ messages should also be provided to educate the
-    importance of maintaining a good state of functional and cognitive health.</li>
+<li>To address (b), there could be a series of time pressure mini games which incorporate components from the assessment tools for residents to complete in order to assess their various health and social conditions. This could either be incorporated as part of (a) or exist as an independent module. The mini games should serve as an additional avenue to evaluate resident’s functional and cognitive ability e.g. Chair rise, walking speed, cognitive games etc. The scores from the games also serve as additional data points to assist the recommendation of programme in Portal 1. Interesting ‘Did you know’ messages should also be provided to educate the importance of maintaining a good state of functional and cognitive health.</li>
 <li>The game modules should be easy to play and stop/pause, with simple controls and short
 tutorials. It should have outstanding presentation such as hand-drawn illustrations, minimalist
     graphics and a stylish user interface.</li>
@@ -198,8 +188,7 @@ tutorials. It should have outstanding presentation such as hand-drawn illustrati
 <br><br>
 
 
-<a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS07_Population_Health.pdf" >Learn More</a>
-        </li>
+<a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS07_Population_Health.pdf" >Learn More</a></li>
        </ul>
     </li>
 </ul>
