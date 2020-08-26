@@ -147,7 +147,7 @@ specific to the learner's approach to simulated situations<br>
 
 To develop a mobile optimised platform that consists of the following 2 portals:<br><br>
  
- <b>Portal 1: Learning Management System (For Residents)</b><br>
+ <b>Portal 1: Learning Management System (For Residents)</b><br><br>
     <b>1.</b> To develop a series of self-assessment tools for residents to learn more about their health status i.e. psychosocial health, function and nutritional status. These comprise of questionnaires that will help them reflect on and evaluate their lifestyle, mood and social, Clinical Frailty Score and risk of falls, as well as nutritional awareness. The final assessment should also be made available to the residents.<br>
     <b>2.</b> To create an algorithm and a classification system to segment the residents based on their health status, then recommend suitable community programmes/services. This helps to educate and guide residents to appropriate resource(s) in the community that would help them better manage their health.<br>
     <b>3.</b> To incorporate quizzes that would help evaluate learning outcomes i.e. residents’ level of
@@ -156,7 +156,7 @@ understanding on their health status and the community resources.<br>
         <b>5.</b> To include helplines, list of care providers, relevant announcement (e.g. screening events) and articles and a chat-bot function to facilitate information finding. Residents should also be able to identify and register for relevant programmes/services nearest to their home address.<br><br>
 
 
-<b>Portal 2: Games module (For Residents and Staff)</b><br>
+<b>Portal 2: Games module (For Residents and Staff)</b><br><br>
    <b>1.</b> To create game modules to (a) heighten staff’s understanding on importance of collaboration and shifting care into the community and (b) enhance residents’ competencies on the administration of self-assessment tools.<br>
     <b>2.</b> To address (a), there could be an overarching story- and choice-driven role playing game which focuses on elements of collaborations, joining up care, and the challenges faced by residents and providers. Key providers and services from Portal 1 should also be featured in the game to help players better draw relation to the real world.<br>
     <b>3.</b> To address (b), there could be a series of time pressure mini games which incorporate components from the assessment tools for residents to complete in order to assess their various health and social conditions. This could either be incorporated as part of (a) or exist as an independent module. The mini games should serve as an additional avenue to evaluate resident’s functional and cognitive ability e.g. Chair rise, walking speed, cognitive games etc. The scores from the games also serve as additional data points to assist the recommendation of programme in Portal 1. Interesting ‘Did you know’ messages should also be provided to educate the importance of maintaining a good state of functional and cognitive health.<br>
