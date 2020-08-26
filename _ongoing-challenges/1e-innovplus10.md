@@ -43,7 +43,6 @@ creative technological ideas … we would hope that the solution:
 </ul>
 But we are open to the solution(ists) input.
 <br><br>
-
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS01_Escape_Master.pdf" >Learn More</a>
           </li>
         </ul>
@@ -86,8 +85,6 @@ Platform requirements that would be desirable are:
     <li>Content tagging for sharing/re-using of learning resources</li>
 </ul>
     <br><br>
-
-
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS03_Isle.pdf" >Learn More</a>
           </li>
         </ul>
@@ -115,8 +112,6 @@ This mobile learning is location free. The employees, merchants and clients can 
 skills assessment to shape continuous coaching to help both internal staff of organisations as well as individuals in job transitions and seeking to pivot in a post-COVID 19 world.
 <h5>What We Are Looking For</h5>
 We envision a solution to capture 360 photos and point cloud data to quantify the site progress automatically. A common platform to update, view and validate the site progress data and extract the site progress report from the platform automatically.<br><br>
-
-
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS05_IDEA.pdf" >Learn More</a>
           </li>
         </ul>
@@ -140,8 +135,6 @@ specific to the learner's approach to simulated situations</li>
     <li>Solution can be further expanded to allow educators to create intelligent and smarter positioned content that is adaptive, intuitive and responsive to learners' needs</li>
 </ul>
 <br><br>
-
-
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS06_Academic_Medical_Centre.pdf" >Learn More</a>
         </li>
        </ul>
@@ -184,10 +177,7 @@ tutorials. It should have outstanding presentation such as hand-drawn illustrati
     graphics and a stylish user interface.</li>
     <li>The game modules should illustrate strong synergy with Portal 1. </li>
 </ol>
-
 <br><br>
-
-
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS07_Population_Health.pdf" >Learn More</a></li>
        </ul>
     </li>
