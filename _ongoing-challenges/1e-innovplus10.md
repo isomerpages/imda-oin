@@ -175,7 +175,7 @@ tutorials. It should have outstanding presentation such as hand-drawn illustrati
 </ol>
 <br><br>
 
-<a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS07_Population_Health.pdf" >Learn More</a>
+<a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS07_Population_Health.pdf">Learn More</a>
         </li>
        </ul>
     </li>
