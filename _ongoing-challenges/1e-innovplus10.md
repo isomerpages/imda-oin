@@ -35,10 +35,10 @@ We are a corporate escape room seeking a digitised Escape Room solution to enabl
             
 Without predefining the solution before the solution(ist) partner has had chance to share their
 creative technological ideas … we would hope that the solution:<br>
-    • runs on smartphones and tablets<br>
-    • has “lego” like building blocks and a drag and drop flow-chart authoring tool<br>
-    • simple and elegant to use for the creation and provision of training<br>
-    • potentially a multi-user solution, if technologically achievable at effective cost<br>
+    • Runs on smartphones and tablets<br>
+    • Has “lego” like building blocks and a drag and drop flow-chart authoring tool<br>
+    • Simple and elegant to use for the creation and provision of training<br>
+    • Potentially a multi-user solution, if technologically achievable at effective cost<br>
 
 But we are open to the solution(ists) input.
 <br><br>
