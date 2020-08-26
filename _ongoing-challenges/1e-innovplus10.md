@@ -32,7 +32,7 @@ The InnovPLUS Challenge is a competitive learning innovation grant which awards 
 We are a corporate escape room seeking a digitised Escape Room solution to enable the swift and efficient development of company specific skills training. The solution will help adult participants learn or teach specific skills in a dynamic and motivating environment.
 
 <h5>What We Are Looking For</h5>
-            
+
 Without predefining the solution before the solution(ist) partner has had chance to share their
 creative technological ideas … we would hope that the solution:<br>
     • Runs on smartphones and tablets<br>
