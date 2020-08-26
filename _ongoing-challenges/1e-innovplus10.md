@@ -35,10 +35,10 @@ We are a corporate escape room seeking a digitised Escape Room solution to enabl
             
 Without predefining the solution before the solution(ist) partner has had chance to share their
 creative technological ideas … we would hope that the solution:<br>
-    •runs on smartphones and tablets<br>
-    •has “lego” like building blocks and a drag and drop flow-chart authoring tool<br>
-    •simple and elegant to use for the creation and provision of training<br>
-    •potentially a multi-user solution, if technologically achievable at effective cost<br>
+    • runs on smartphones and tablets<br>
+    • has “lego” like building blocks and a drag and drop flow-chart authoring tool<br>
+    • simple and elegant to use for the creation and provision of training<br>
+    • potentially a multi-user solution, if technologically achievable at effective cost<br>
 
 But we are open to the solution(ists) input.
 <br><br>
@@ -54,11 +54,11 @@ But we are open to the solution(ists) input.
 
 <h5>What We Are Looking For</h5>
 The requirements of the solution should meet the following:<br>
-    •Portable and accessible by users at their own time and place<br>
-    •Modular allowing add-ons of other clinical topics, not limiting to pressure injury.<br>
-    •Easy management for content change<br>
-    •Ability to track users' performance<br>
-    •Customisation and management of user accounts
+    • Portable and accessible by users at their own time and place<br>
+    • Modular allowing add-ons of other clinical topics, not limiting to pressure injury.<br>
+    • Easy management for content change<br>
+    • Ability to track users' performance<br>
+    • Customisation and management of user accounts
 <br><br>
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS02%20AB_Hospital.pdf" >Learn More</a>
         </li>
@@ -73,12 +73,12 @@ during critical periods in the hotel operations.
 
 <h5>What We Are Looking For</h5>
 Platform requirements that would be desirable are:<br>
-    •Cloud-based hosting<br>
-    •Role-based access/permissions<br>
-    •Able to create organizational hierarchies and groups to allow for different access controls and preferences/setups<br>
-    •(As far as possible) required features are seamlessly integrated within the system, not requiring separate purchasing and licensing etc <br>
-    •Mobile learning friendly (not merely responsive design)<br>
-    •Content tagging for sharing/re-using of learning resources
+    • Cloud-based hosting<br>
+    • Role-based access/permissions<br>
+    • Able to create organizational hierarchies and groups to allow for different access controls and preferences/setups<br>
+    • (As far as possible) required features are seamlessly integrated within the system, not requiring separate purchasing and licensing etc <br>
+    • Mobile learning friendly (not merely responsive design)<br>
+    • Content tagging for sharing/re-using of learning resources
     <br><br>
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS03_Isle.pdf" >Learn More</a>
           </li>
@@ -118,14 +118,14 @@ We envision a solution to capture 360 photos and point cloud data to quantify th
 <h5>What We Are Looking For</h5>
             
 The requirements for the solution are outlined as follows:<br>
-    •Enable automated virtual teaching and assessment, hence, reducing the need for human trainers<br>
-    •Create an experience closest to real-life representation on a virtual platform<br>
-    •Allows for multi-players to work together to identify potential patient safety issues, focusing on unsafe medication practices and errors, and select preventive strategies to reduce medication errors<br>
-    •Create dialogue management capabilities using natural language processing software to allow healthcare professionals to communicate in natural language<br>
-    •Create automated grading and review process of learner's role-play, in an unbiased and comprehensive way. The system will be designed with the ability to record action taken and how tasks are executed. The system will give real-time analysis and provide feedback
+    • Enable automated virtual teaching and assessment, hence, reducing the need for human trainers<br>
+    • Create an experience closest to real-life representation on a virtual platform<br>
+    • Allows for multi-players to work together to identify potential patient safety issues, focusing on unsafe medication practices and errors, and select preventive strategies to reduce medication errors<br>
+    • Create dialogue management capabilities using natural language processing software to allow healthcare professionals to communicate in natural language<br>
+    • Create automated grading and review process of learner's role-play, in an unbiased and comprehensive way. The system will be designed with the ability to record action taken and how tasks are executed. The system will give real-time analysis and provide feedback
 specific to the learner's approach to simulated situations<br>
-    •Create a user analytics based interface for administrators, with interactive dashboard based on user data. Allow administrators to keep track of both user and system performance<br>
-   •Solution can be further expanded to allow educators to create intelligent and smarter positioned content that is adaptive, intuitive and responsive to learners' needs<br>
+    • Create a user analytics based interface for administrators, with interactive dashboard based on user data. Allow administrators to keep track of both user and system performance<br>
+   • Solution can be further expanded to allow educators to create intelligent and smarter positioned content that is adaptive, intuitive and responsive to learners' needs<br>
 
 <br><br>
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS06_Academic_Medical_Centre.pdf" >Learn More</a>
@@ -139,7 +139,7 @@ specific to the learner's approach to simulated situations<br>
           <li><b><h4>Population Health (Company Pseudonym)</h4></b> We are a hospital of Singapore’s Public Healthcare System seeking a learning solution to increase awareness and understanding of active aging amongst community and employees. We envisage the solution to be highly personalised, predictive and engaging.
               
 <h5>What We Are Looking For</h5>
-To develop a mobile optimised platform that consists of the following 2 portals:
+To develop a mobile optimised platform that consists of the following 2 portals:<br><br>
  
  Portal 1: Learning Management System (For Residents)<br>
     1. To develop a series of self-assessment tools for residents to learn more about their health status i.e. psychosocial health, function and nutritional status. These comprise of questionnaires that will help them reflect on and evaluate their lifestyle, mood and social, Clinical Frailty Score and risk of falls, as well as nutritional awareness. The final assessment should also be made available to the residents.<br>
