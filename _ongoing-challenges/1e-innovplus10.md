@@ -21,7 +21,7 @@ The InnovPLUS Challenge is a competitive learning innovation grant which awards 
 <font color=" #a9a9a9"><b></b></font>
 
 <div id="wrapper">
-    <h4> Challenge Statements </h4>
+    <h4> Challenge Statements</h4>
 <ul>
     <li>
     <input type="checkbox" id="list-item-1">
@@ -50,9 +50,10 @@ But we are open to the solution(ists) input.
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2"> Learning Solution to Translate the Theory-based Knowledge of Pressure Injuries into Practical Skills for Nurses through Lifelike Experience in a Simulated Environment.</label>
       <ul>
-        <li><b><h4>AB Hospital (Company Pseudonym)</h4></b>We are a public hospital seeking a learning solution to translate the theory-based knowledge of pressure injuries into practical skills for nurses through lifelike experience in a simulated environment. The solution would also serve as a platform where new best practices related to pressure injuries are accessible by nurses at their own time and place. We envisage that the solution would enhance the users' learning experiences with better retention of pressure injury related knowledge that could be translated to better quality of care rendered to patients, leading to improvement of patient outcomes<br><br>
+        <li><b><h4>AB Hospital (Company Pseudonym)</h4></b>We are a public hospital seeking a learning solution to translate the theory-based knowledge of pressure injuries into practical skills for nurses through lifelike experience in a simulated environment. The solution would also serve as a platform where new best practices related to pressure injuries are accessible by nurses at their own time and place. We envisage that the solution would enhance the users' learning experiences with better retention of pressure injury related knowledge that could be translated to better quality of care rendered to patients, leading to improvement of patient outcomes.
 
 <h5>What We Are Looking For</h5>
+
 The requirements of the solution should meet the following:<br>
     • Portable and accessible by users at their own time and place<br>
     • Modular allowing add-ons of other clinical topics, not limiting to pressure injury.<br>
@@ -72,6 +73,7 @@ The requirements of the solution should meet the following:<br>
 during critical periods in the hotel operations.
 
 <h5>What We Are Looking For</h5>
+
 Platform requirements that would be desirable are:<br>
     • Cloud-based hosting<br>
     • Role-based access/permissions<br>
@@ -91,6 +93,7 @@ Platform requirements that would be desirable are:<br>
         <li><b><h4>Herohippo (Company Pseudonym)</h4></b>We are payment technology and merchant service company seeking a learning solution to enhance the skills training and competency assessment of payment solution executives. We envisage that the solution would enhance the proper KYC (Know Your Customer) and AML (Anti Money Laundering) procedures are followed with simulations of screening, approving, on-boarding and implementing merchants' digital payment gateway. This will be in compliance with the MAS requirements.
           
 <h5>What We Are Looking For</h5>
+
 This mobile learning is location free. The employees, merchants and clients can be from different locations with internet access.
 <br><br>
 
@@ -105,6 +108,7 @@ This mobile learning is location free. The employees, merchants and clients can 
         <li><b><h4>IDEA (Company Pseudonym)</h4></b>We are a HR consulting services company seeking a learning solution that would support data driven skills assessment to shape continuous coaching to help both internal staff of organisations as well as individuals in job transitions and seeking to pivot in a post-COVID 19 world.
             
 <h5>What We Are Looking For</h5>
+
 We envision a solution to capture 360 photos and point cloud data to quantify the site progress automatically. A common platform to update, view and validate the site progress data and extract the site progress report from the platform automatically.<br><br>
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS05_IDEA.pdf" >Learn More</a>
           </li>
@@ -115,6 +119,7 @@ We envision a solution to capture 360 photos and point cloud data to quantify th
     <label for="list-item-6">Adaptive learning solution to teach multiprofessional teams best practices for safe guarding against and minimising medication errors</label>
       <ul>
         <li><b><h4>Academic Medical Centre (Company Pseudonym)</h4></b>We are a tertiary academic medical centre seeking an adaptive learning solution to teach multiprofessional teams best practices for safe guarding against and minimising medication errors, which may happen at any of the many touchpoints in patient treatment throughout the hospital. The solution must allow real-time and personalised assessment and feedback to multi-professional collaborative teams.
+            
 <h5>What We Are Looking For</h5>
             
 The requirements for the solution are outlined as follows:<br>
@@ -143,22 +148,20 @@ specific to the learner's approach to simulated situations<br>
 To develop a mobile optimised platform that consists of the following 2 portals:<br><br>
  
  <b>Portal 1: Learning Management System (For Residents)</b><br>
-    1. To develop a series of self-assessment tools for residents to learn more about their health status i.e. psychosocial health, function and nutritional status. These comprise of questionnaires that will help them reflect on and evaluate their lifestyle, mood and social, Clinical Frailty Score and risk of falls, as well as nutritional awareness. The final assessment should also be made available to the residents.<br>
-    2. To create an algorithm and a classification system to segment the residents based on their health status, then recommend suitable community programmes/services. This helps to educate and guide residents to appropriate resource(s) in the community that would help them better manage their health.<br>
-    3. To incorporate quizzes that would help evaluate learning outcomes i.e. residents’ level of
+    <b>1.</b> To develop a series of self-assessment tools for residents to learn more about their health status i.e. psychosocial health, function and nutritional status. These comprise of questionnaires that will help them reflect on and evaluate their lifestyle, mood and social, Clinical Frailty Score and risk of falls, as well as nutritional awareness. The final assessment should also be made available to the residents.<br>
+    <b>2.</b> To create an algorithm and a classification system to segment the residents based on their health status, then recommend suitable community programmes/services. This helps to educate and guide residents to appropriate resource(s) in the community that would help them better manage their health.<br>
+    <b>3.</b> To incorporate quizzes that would help evaluate learning outcomes i.e. residents’ level of
 understanding on their health status and the community resources.<br>
-    4. To consolidate and organise existing community programme/services resources (LifeSG, Health Promotion Board Health Hub, ActiveSG, Agency for Integrated Care Silver Pages, Ministry of Social and Family development and National Silver Academy) into user friendly bite-sized modules so as to enhance residents’ understanding on the resources available in the community.<br>
-    5. To include helplines, list of care providers, relevant announcement (e.g. screening events) and articles and a chat-bot function to facilitate information finding. Residents should also be able to identify and register for relevant programmes/services nearest to their home address.<br><br>
+        <b>4.</b> To consolidate and organise existing community programme/services resources (LifeSG, Health Promotion Board Health Hub, ActiveSG, Agency for Integrated Care Silver Pages, Ministry of Social and Family development and National Silver Academy) into user friendly bite-sized modules so as to enhance residents’ understanding on the resources available in the community.<br>
+        <b>5.</b> To include helplines, list of care providers, relevant announcement (e.g. screening events) and articles and a chat-bot function to facilitate information finding. Residents should also be able to identify and register for relevant programmes/services nearest to their home address.<br><br>
 
 
 <b>Portal 2: Games module (For Residents and Staff)</b><br>
-    1. To create game modules to (a) heighten staff’s understanding on importance of collaboration and shifting care into the community and (b) enhance residents’ competencies on the administration of self-assessment tools.<br>
-    2. To address (a), there could be an overarching story- and choice-driven role playing game which focuses on elements of collaborations, joining up care, and the challenges faced by residents and providers. Key providers and services from Portal 1 should also be featured in the game to help players better draw relation to the real world.<br>
-    3. To address (b), there could be a series of time pressure mini games which incorporate components from the assessment tools for residents to complete in order to assess their various health and social conditions. This could either be incorporated as part of (a) or exist as an independent module. The mini games should serve as an additional avenue to evaluate resident’s functional and cognitive ability e.g. Chair rise, walking speed, cognitive games etc. The scores from the games also serve as additional data points to assist the recommendation of programme in Portal 1. Interesting ‘Did you know’ messages should also be provided to educate the importance of maintaining a good state of functional and cognitive health.<br>
-    4. The game modules should be easy to play and stop/pause, with simple controls and short tutorials. It should have outstanding presentation such as hand-drawn illustrations, minimalist graphics and a stylish user interface.<br>
-    5. The game modules should illustrate strong synergy with Portal 1.
-
-
+   <b>1.</b> To create game modules to (a) heighten staff’s understanding on importance of collaboration and shifting care into the community and (b) enhance residents’ competencies on the administration of self-assessment tools.<br>
+    <b>2.</b> To address (a), there could be an overarching story- and choice-driven role playing game which focuses on elements of collaborations, joining up care, and the challenges faced by residents and providers. Key providers and services from Portal 1 should also be featured in the game to help players better draw relation to the real world.<br>
+    <b>3.</b> To address (b), there could be a series of time pressure mini games which incorporate components from the assessment tools for residents to complete in order to assess their various health and social conditions. This could either be incorporated as part of (a) or exist as an independent module. The mini games should serve as an additional avenue to evaluate resident’s functional and cognitive ability e.g. Chair rise, walking speed, cognitive games etc. The scores from the games also serve as additional data points to assist the recommendation of programme in Portal 1. Interesting ‘Did you know’ messages should also be provided to educate the importance of maintaining a good state of functional and cognitive health.<br>
+    <b>4.</b> The game modules should be easy to play and stop/pause, with simple controls and short tutorials. It should have outstanding presentation such as hand-drawn illustrations, minimalist graphics and a stylish user interface.<br>
+    <b>5.</b> The game modules should illustrate strong synergy with Portal 1.
 <br><br>
 
 <a href="https://www.ial.edu.sg/content/dam/projects/tms/ial/Innovation-Activities/InnovPLUS/InnovPlus-10_CS07_Population_Health.pdf">Learn More</a>
