@@ -25,7 +25,7 @@ The InnovPLUS Challenge is a competitive learning innovation grant which awards 
 <ul>
     <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first"> Digitised Escape Room solution to enable the swift and efficient development of company specific skills training</label>
+    <label for="list-item-1" class="first"> Digitised Escape Room Solution to Enable the Swift and Efficient Development of Company Specific Skills Training</label>
         <ul>
           <li><b><h4>Escape Master (Company Pseudonym)</h4></b>
             
@@ -48,7 +48,7 @@ But we are open to the solution(ists) input.
       </li>
      <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2"> Learning solution to translate the theory-based knowledge of pressure injuries into practical skills for nurses through lifelike experience in a simulated environment.</label>
+    <label for="list-item-2"> Learning Solution to Translate the Theory-based Knowledge of Pressure Injuries into Practical Skills for Nurses through Lifelike Experience in a Simulated Environment.</label>
       <ul>
         <li><b><h4>AB Hospital (Company Pseudonym)</h4></b>We are a public hospital seeking a learning solution to translate the theory-based knowledge of pressure injuries into practical skills for nurses through lifelike experience in a simulated environment. The solution would also serve as a platform where new best practices related to pressure injuries are accessible by nurses at their own time and place. We envisage that the solution would enhance the users' learning experiences with better retention of pressure injury related knowledge that could be translated to better quality of care rendered to patients, leading to improvement of patient outcomes<br><br>
 
@@ -66,7 +66,7 @@ The requirements of the solution should meet the following:<br>
     </li>
     <li>
     <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">Dynamic learning solution to aid in cross training of staff</label>
+    <label for="list-item-3">Dynamic Learning Solution to Aid in Cross Training of Staff</label>
       <ul>
         <li><b><h4>Isle Oasis in the City (Company Pseudonym)</h4></b>We are a luxury hotel property in the Marina Bay District seeking a dynamic learning solution to aid in the cross training of staff so as to develop a deeper talent resource pool for cross deployment
 during critical periods in the hotel operations.
@@ -86,7 +86,7 @@ Platform requirements that would be desirable are:<br>
       </li>
      <li>
     <input type="checkbox" id="list-item-4">
-    <label for="list-item-4">Quantification Of Site Situation Against Building Information Management (Bim) Model For Project Progress And Payment</label>
+    <label for="list-item-4">Learning Solution to Enhance the Skills Training and Competency Assessment of Payment Solution Executives</label>
       <ul>
         <li><b><h4>Herohippo (Company Pseudonym)</h4></b>We are payment technology and merchant service company seeking a learning solution to enhance the skills training and competency assessment of payment solution executives. We envisage that the solution would enhance the proper KYC (Know Your Customer) and AML (Anti Money Laundering) procedures are followed with simulations of screening, approving, on-boarding and implementing merchants' digital payment gateway. This will be in compliance with the MAS requirements.
           
@@ -100,7 +100,7 @@ This mobile learning is location free. The employees, merchants and clients can 
       </li>
      <li>
     <input type="checkbox" id="list-item-5">
-    <label for="list-item-5">Learning solution that support data driven skills assessment</label>
+    <label for="list-item-5">Learning Solution that Support Data Driven Skills Assessment</label>
       <ul>
         <li><b><h4>IDEA (Company Pseudonym)</h4></b>We are a HR consulting services company seeking a learning solution that would support data driven skills assessment to shape continuous coaching to help both internal staff of organisations as well as individuals in job transitions and seeking to pivot in a post-COVID 19 world.
             
@@ -134,7 +134,7 @@ specific to the learner's approach to simulated situations<br>
     </li>
     <li>
     <input type="checkbox" id="list-item-7">
-    <label for="list-item-7">Learning solution to increase awareness and understanding of active aging amongst community and employees</label>
+    <label for="list-item-7">Learning Solution to Increase Awareness and Understanding of Active Aging Amongst Community and Employees</label>
       <ul>
           <li><b><h4>Population Health (Company Pseudonym)</h4></b> We are a hospital of Singapore’s Public Healthcare System seeking a learning solution to increase awareness and understanding of active aging amongst community and employees. We envisage the solution to be highly personalised, predictive and engaging.
               
