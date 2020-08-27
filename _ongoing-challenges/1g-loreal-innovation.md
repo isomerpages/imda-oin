@@ -13,7 +13,7 @@ second_nav_title: Ongoing Challenges
 
 [![1](/images/ongoing-challenges/Loreal-Innovation-Runway-2020.jpg)](https://slingshot.agorize.com/en/challenges/lorealinnovationrunway)
 
-**Application Open Dates: 8 June 2020 to 24 August 2020**<br>
+**Application Open Dates: 8 June 2020 to 31 August 2020**<br>
 <font color=" #a9a9a9"><b>Agorize</b></font>
 
 L’Oreal Innovation Runway 2020 is now calling for startups from the many fields of deep tech and various industries to shape the future of beauty technology together. Co-create revolutionary solutions that transform the beauty industry that are scalable, sustainable, and environmentally-friendly.
