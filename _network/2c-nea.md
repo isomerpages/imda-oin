@@ -9,7 +9,7 @@ second_nav_title: Public Agencies
 
 <div class="networklogo">
 <a href="https://www.nea.gov.sg/">
-<img src="/images/network/NEA Logo.jpg" alt="1" style="width:400px;height:160.5px;margin-left:140px">
+<img src="/images/network/NEA Logo.jpg" alt="1">
 </a>
   </div>
 
