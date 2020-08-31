@@ -6,10 +6,11 @@ breadcrumb: Network / Leave a Nest
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
-
+<div class="networklogo">
 <a href="https://lne.st/">
 <img src="/images/partners/LVN.jpg" alt="1" style="width:1393px;height:262px">
 </a>
+</div>
 
 <h3>Leave a Nest </h3>
 
