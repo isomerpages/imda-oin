@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="www.apac-summit.com">
-<img src="/images/partners/Plug and Play.png" alt="1" style="width:505px;height:66px">
+<img src="/images/partners/Plug and Play.png" alt="1">
 </a>
 </div>
 
