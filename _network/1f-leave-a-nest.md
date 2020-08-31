@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="https://lne.st/">
-<img src="/images/partners/LVN.jpg" alt="1" style="width:1393px;height:262px">
+<img src="/images/partners/LVN.jpg" alt="1">
 </a>
 </div>
 
