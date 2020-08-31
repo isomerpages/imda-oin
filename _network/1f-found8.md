@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="https://www.found8.com/corporate-innovation">
-<img src="/images/partners/Found8.jpg" alt="1" style="width:1046px;height:262px">
+<img src="/images/partners/Found8.jpg" alt="1">
 </a>
 </div>
 
