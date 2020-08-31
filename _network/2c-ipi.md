@@ -8,7 +8,7 @@ second_nav_title: Public Agencies
 ---
 <div class="networklogo">
 <a href="https://www.ipi-singapore.org">
-<img src="/images/partners/IPI-logo.jpg" alt="1" style="width:381px;height:262px">
+<img src="/images/partners/IPI-logo.jpg" alt="1">
 </a>
   </div>
 
