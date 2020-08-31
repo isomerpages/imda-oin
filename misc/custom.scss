@@ -308,6 +308,7 @@ $desktop: 960px + (2 * $gap) !default;
   		width: 100%;
   		height: auto;
 		margin: auto;
+		max-width: 262 px;
 	}
 	
 	#wrapper{
