@@ -6,10 +6,11 @@ breadcrumb: Network / Building & Construction Authority
 collection_name: network
 second_nav_title: Public Agencies
 ---
-
+<div class="networklogo">
 <a href="https://www1.bca.gov.sg">
-<img src="/images/partners/BCALogoHorizontal.jpg" alt="1" style="width:500px;height:150px">
+<img src="/images/partners/BCALogoHorizontal.jpg" alt="1">
 </a>
+</div>
 
 <h3>Building & Construction Authority (BCA)</h3>
 

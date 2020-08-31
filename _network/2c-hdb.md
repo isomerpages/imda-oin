@@ -6,10 +6,11 @@ breadcrumb: Network / Housing & Development Board
 collection_name: network
 second_nav_title: Public Agencies
 ---
-
+<div class="networklogo">
 <a href="https://www.hdb.gov.sg/cs/infoweb/about-us/research-and-innovation/cool-ideas/cool-ideas-enterprise">
-<img src= "/images/partners/HDB-logo.jpg" alt="1" style="width:800px;height:195px;">
+<img src= "/images/partners/HDB-logo.jpg" alt="1">
 </a>
+ </div>
 
 <h3>Housing & Development Board (HDB)</h3>
 

@@ -6,10 +6,11 @@ breadcrumb: Network / ICMG
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
-
+<div class="networklogo">
 <a href="https://www.icmg.com.sg">
-<img src="/images/partners/ICMG logo.PNG" alt="1" style="width:725px;height:262px">
+<img src="/images/partners/ICMG logo.PNG" alt="1">
 </a>
+  </div>
 
 <h3>ICMG Pte Ltd</h3>
 

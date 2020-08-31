@@ -7,9 +7,11 @@ collection_name: network
 second_nav_title: Public Agencies
 ---
 
+<div class="networklogo">
 <a href="https://www.moht.com.sg/design4impacto">
-<img src="/images/partners/MOHT-Logo.jpg" alt="1" style="width:430px;height:262px">
+<img src="/images/partners/MOHT-Logo.jpg" alt="1">
 </a>
+</div>
 
 <h3>MOH Office for Healthcare Transformation</h3>
 
