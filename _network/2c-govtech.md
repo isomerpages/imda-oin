@@ -8,7 +8,7 @@ second_nav_title: Public Agencies
 ---
 <div class="networklogo">
 <a href="https://www.tech.gov.sg">
-<img src= "/images/partners/GovTech-Logo.jpg" alt="1" style="width:400px;height:240x">
+<img src= "/images/partners/GovTech-Logo.jpg" alt="1">
 </a>
   </div>
 
