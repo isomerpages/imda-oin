@@ -6,10 +6,11 @@ breadcrumb: Network / Found8
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
-
+<div class="networklogo">
 <a href="https://www.found8.com/corporate-innovation">
 <img src="/images/partners/Found8.jpg" alt="1" style="width:1046px;height:262px">
 </a>
+</div>
 
 <h3>Found8</h3>
 
