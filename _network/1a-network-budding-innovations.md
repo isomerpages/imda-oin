@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="https://www.budinno.com">
-<img src="/images/BI Logo.png" alt="1" style="width:569px;height:262px">
+<img src="/images/BI Logo.png" alt="1">
 </a>
   </div>
 
