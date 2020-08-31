@@ -9,7 +9,7 @@ second_nav_title: Open Innovation Intermediaries
 
 <div class="networklogo">
 <a href="http://www.apixplatform.com/">
-<img src="/images/partners/APIX logo.JPG" alt="1" style="width:262px;height:265px">
+<img src="/images/partners/APIX logo.JPG" alt="1">
 </a>
   </div>
 
