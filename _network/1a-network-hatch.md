@@ -7,10 +7,11 @@ collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
 
-
+<div class="networklogo">
 <a href="http://www.hatch.blue/">
 <img src="/images/partners/HATCH Aquaculture Accelerator Logo.png" alt="1" style="width:819px;height:262px">
 </a>
+</div>
 
 <h3>HATCH Aquaculture Accelerator</h3>
 
