@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="https://ecosystems.500.co/">
-<img src="/images/partners/500.png" alt="1" style="width:262px;height:262px">
+<img src="/images/partners/500.png" alt="1">
 </a>
 </div>
 
