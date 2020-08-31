@@ -6,10 +6,11 @@ breadcrumb: Network / Singapore Tourism Board
 collection_name: network
 second_nav_title: Public Agencies
 ---
-
+<div class="networklogo">
 <a href="http://www.sgtourismaccelerator.com/">
 <img src="/images/partners/STB logo.png" alt="1" style="width:338px;height:263px">
 </a>
+</div>
 
 <h3>Singapore Tourism Board (STB)</h3>
 
