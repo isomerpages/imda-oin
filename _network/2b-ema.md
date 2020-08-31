@@ -8,7 +8,7 @@ second_nav_title: Public Agencies
 ---
 <div class="networklogo">
 <a href="https://www.ema.gov.sg">
-<img src= "/images/partners/EMA_Logo.jpg" alt="1" style="width:262px;height:161px;">
+<img src= "/images/partners/EMA_Logo.jpg" alt="1">
 </a>
   </div>
 
