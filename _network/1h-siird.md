@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="https://www.siird.com">
-<img src="/images/partners/SIIRD Logo.jpg" alt="1" style="width:558px;height:262px">
+<img src="/images/partners/SIIRD Logo.jpg" alt="1">
 </a>
 </div>
 
