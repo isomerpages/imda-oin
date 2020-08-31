@@ -6,10 +6,11 @@ breadcrumb: Network / Energy Market Authority
 collection_name: network
 second_nav_title: Public Agencies
 ---
-
+<div class="networklogo">
 <a href="https://www.ema.gov.sg">
 <img src= "/images/partners/EMA_Logo.jpg" alt="1" style="width:400px;height:246px;">
 </a>
+  </div>
 
 <h3>Energy Market Authority (EMA)</h3>
 
