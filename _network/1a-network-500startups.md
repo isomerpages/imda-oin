@@ -6,11 +6,12 @@ breadcrumb: Network / 500 Startups
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
-<!-- <a href="https://ecosystems.500.co/">
+<div class="networklogo">
+<a href="https://ecosystems.500.co/">
 <img src="/images/partners/500.png" alt="1" style="width:262px;height:262px">
 </a>
---> 
-[![1](/images/partners/500.png)](https://ecosystems.500.co/)
+</div>
+
 
 
 <h3>500 Startups</h3> 
