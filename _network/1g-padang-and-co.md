@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="http://www.padang.co">
-<img src="/images/partners/Padang & Co Logo.png" alt="1" style="width:435px;height:262px">
+<img src="/images/partners/Padang & Co Logo.png" alt="1">
 </a>
 </div>
 
