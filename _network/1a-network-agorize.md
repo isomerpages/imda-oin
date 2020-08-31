@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="https://www.agorize.com/en">
-<img src="/images/partners/Agorize-Logo.jpg" alt="1" style="width:262px;height:68px">
+<img src="/images/partners/Agorize-Logo.jpg" alt="1">
 </a>
   </div>
 
