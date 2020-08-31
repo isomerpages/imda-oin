@@ -6,11 +6,11 @@ breadcrumb: Network / Plug and Play
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
-
+<div class="networklogo">
 <a href="www.apac-summit.com">
-<img src="/images/partners/Plug and Play.png
-" alt="1" style="width:505px;height:66px">
+<img src="/images/partners/Plug and Play.png" alt="1" style="width:505px;height:66px">
 </a>
+</div>
 
 <h3>Plug and Play</h3>
 
