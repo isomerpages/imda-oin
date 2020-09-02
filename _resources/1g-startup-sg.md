@@ -13,4 +13,4 @@ Established in 2017, Startup SG was created to showcase Singapore’s vibrant st
 
 In 2018, Startup SG Network was launched to bring Singapore’s tech startup ecosystem even closer together and encourage the proliferation of innovative and collaborative partnerships. A virtual ecosystem of entities in Singapore’s tech startup community, the platform allows local tech startups to profile and put themselves on the radars of both local and global ecosystem players, expanding their opportunities for growth.
 
-Find out more about the programmes [here](https://www.startupsg.net){:target="_blank"} 
+Find out more about the programmes [here](https://www.startupsg.gov.sg){:target="_blank"} 
