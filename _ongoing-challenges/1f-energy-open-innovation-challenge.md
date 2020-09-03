@@ -22,5 +22,6 @@ Enterprise Singapore (ESG), in association with energy company partners, governm
 We are calling for local and international startups and small-and medium-sized enterprises (SMEs) to improve the energy sector and provide solutions to four key industry needs. Participants are welcome to submit multiple entries to tackle various problem statements. 
 
 Take this opportunity to collaborate and cross-develop your new solutions with a pool of innovative companies and energy industry experts. This is your chance to showcase your unique solutions to global energy companies and establish new business opportunities!
+
 [Learn more](https://energy.innovation-challenge.sg/en/challenges/energy-2020){:target="_blank"}
 
