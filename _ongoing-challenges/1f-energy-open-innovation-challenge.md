@@ -13,6 +13,7 @@ second_nav_title: Ongoing Challenges
 
 **Application Open Dates: 03 September 2020 to 06 November 2020**<br>
 <font color=" #a9a9a9"><b>Enterprise Singapore, Agorize</b></font>
+
 Are you ready to take on a challenge by using the best technology and a unique approach? 
 
 Over the past century, the energy sector has been one of the significant contributors of industrial growth, fuelling our rapidly growing global economy.  Singapore has developed an extensive and integrated value chain that spans refining, crackers, petrochemicals, and specialty chemicals manufacturing that is supported by R&D and innovation. The demand in Asia for energy, chemicals, and products with specialty chemical components will remain strong over the next 5 years.
