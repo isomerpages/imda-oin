@@ -12,11 +12,11 @@ $quarternary: #E7131A;
 $secondary-hover: lighten($secondary, 10%);
 
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
-$media-color-four: #00838f;
-$media-color-five: #00838f;
+$media-color-one: #0075C9;
+$media-color-two: #9E28B5;
+$media-color-three: #00ADBB;
+$media-color-four: #0075C9;
+$media-color-five: #00ADBB;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -52,19 +52,19 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   	}
   	&-2 {
-  		background-color: #9b26b6;
+  		background-color: $media-color-two;
   		&:hover {
   			background-color: darken($media-color-two, 10%);
 		}
   	}
   	&-3 {
-  		background-color: #ff6a14;
+  		background-color: $media-color-three;
   		&:hover {
   			background-color: darken($media-color-three, 10%);
 		}
   	}
   	&-4 {
-  		background-color: #00b0b9;
+  		background-color: $media-color-four;
   		&:hover {
   			background-color: darken($media-color-four, 10%);
 		}
