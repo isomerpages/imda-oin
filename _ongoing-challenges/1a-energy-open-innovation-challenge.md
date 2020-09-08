@@ -14,15 +14,8 @@ second_nav_title: Ongoing Challenges
 **Application Open Dates: 03 September 2020 to 06 November 2020**<br>
 <font color=" #a9a9a9"><b>Enterprise Singapore, Agorize</b></font>
 
-Are you ready to take on a challenge by using the best technology and a unique approach? 
+Inviting startups and SMEs from across the globe - the Energy Open Innovation Challenge, organised by Enterprise Singapore in association with energy company partners, government agencies, and innovators, is now open for applications with up to S$1 million of grant funding support for product development and 4 x S$25,000 in Startup SG grant prizes to be won! Participate today with your pitch deck!
 
-Over the past century, the energy sector has been one of the significant contributors of industrial growth, fuelling our rapidly growing global economy.  Singapore has developed an extensive and integrated value chain that spans refining, crackers, petrochemicals, and specialty chemicals manufacturing that is supported by R&D and innovation. The demand in Asia for energy, chemicals, and products with specialty chemical components will remain strong over the next 5 years.
-
-Enterprise Singapore (ESG), in association with energy company partners, government agencies, and innovators, is launching The Energy Open Innovation Challenge with the mission of boosting innovation in the global energy industry. 
-
-We are calling for local and international startups and small-and medium-sized enterprises (SMEs) to improve the energy sector and provide solutions to four key industry needs. Participants are welcome to submit multiple entries to tackle various problem statements. 
-
-Take this opportunity to collaborate and cross-develop your new solutions with a pool of innovative companies and energy industry experts. This is your chance to showcase your unique solutions to global energy companies and establish new business opportunities!
 <br><br>
 [Learn more](https://energy.innovation-challenge.sg/en/challenges/energy-2020){:target="_blank"}
 
