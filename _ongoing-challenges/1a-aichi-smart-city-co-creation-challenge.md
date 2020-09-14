@@ -21,7 +21,7 @@ Calling for solutions related to:<br><br>
 •	Minamichita Town - Calling for solutions related utilisation of underused assets e.g. houses, land, farms <br>
 • Central Air Group - Calling for solutions related to airports, aviation
 <br><br>
-<b>Additional information</b>: [Information Webinar](https://www.icmg.com.sg/aichi-smart-sustainable-city-co-creation-challenge-with-singapore-innovation-ecosystem%e3%80%80sharing-co-learning-sessiononline/)<br>
+<b>Additional information</b>: [Webinar Session](https://www.icmg.com.sg/aichi-smart-sustainable-city-co-creation-challenge-with-singapore-innovation-ecosystem%e3%80%80sharing-co-learning-sessiononline/)<br>
 Session 1 (September 23)<br>
 For Japan:Wednesday, September 23, 15:00-16:00 *Proceeding in Japanese<br>
 For Singapore:Wednesday, September 23, 16:00-17:00 *Proceeding in English
