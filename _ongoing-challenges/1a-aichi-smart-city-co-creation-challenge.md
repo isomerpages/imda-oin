@@ -20,8 +20,8 @@ Calling for solutions related to:<br><br>
 •	Aisin Group - Calling for solutions related to mobility <br>
 •	Minamichita Town - Calling for solutions related utilisation of underused assets e.g. houses, land, farms <br>
 • Central Air Group - Calling for solutions related to airports, aviation
-<br>
+<br><br>
 <b>Additional information</b>: [Information Webinar](https://www.icmg.com.sg/aichi-smart-sustainable-city-co-creation-challenge-with-singapore-innovation-ecosystem%e3%80%80sharing-co-learning-sessiononline/)
-<br>
+<br><br>
 [Learn more](https://aichissccc.icmg.com.sg/en){:target="_blank"}
 
