@@ -220,8 +220,8 @@ Through our support, companies can defray development costs, reduce business ris
     <h4> Challenge Statements </h4>
 <ul>
     <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Element/Objects Identification And Classification From Point Cloud</label>
+    <input type="checkbox" id="list-item-8">
+    <label for="list-item-8" class="first">Element/Objects Identification And Classification From Point Cloud</label>
         <ul>
           <li><b><h4>JTC Corporation (JTC)</h4></b>Some existing buildings drawings are missing or damaged. Most as-built drawings are also not updated. Using current reinstated method, staff must take measurement and determine the type of each item in the building or infrastructure, and manually update information in the drawing or 3D model. Although the use of Light Detection and Ranging (LiDAR) may help to automate this process, manual tagging and identification of the object is still a required step. Both the manual measurement, and the scanning and tagging process are very laborious and time consuming.
 <h5>What We Are Looking For</h5>
@@ -232,8 +232,8 @@ We envision a solution to identify, classify, and automatically convert elements
         </ul>
       </li>
      <li>
-    <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Automated Model Data Checking</label>
+    <input type="checkbox" id="list-item-9">
+    <label for="list-item-9">Automated Model Data Checking</label>
       <ul>
         <li><b><h4>JTC Corporation (JTC)</h4></b>A quality BIM model should be a large repository of data. Each object (e.g. doors, columns, chiller equipment) is a build-up of many aspects of information (e.g. properties, quantities, material, geometry, space and geo-reference) to allow them to be intuitive and useful. In a typical project, there can be hundreds of thousands of objects. This multiplies the volume of information in a BIM model. As a result, it is tedious to find and check the completeness and accuracy of the information for each and every object in the project.<br><br>
 
@@ -250,8 +250,8 @@ We envision a solution to identify, classify, and automatically convert elements
        </ul>
     </li>
     <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">Automated Model Design Checker</label>
+    <input type="checkbox" id="list-item-10">
+    <label for="list-item-10">Automated Model Design Checker</label>
       <ul>
         <li><b><h4>JTC Corporation (JTC)</h4></b>The BDRs’ rules could number up to several hundreds.
 
@@ -275,8 +275,8 @@ The system shall enable the submitted models as a data source for other systems 
        </ul>
     </li>
     <li>
-    <input type="checkbox" id="list-item-4">
-    <label for="list-item-4">Quantification Of Site Situation Against Building Information Management (Bim) Model For Project Progress And Payment</label>
+    <input type="checkbox" id="list-item-11">
+    <label for="list-item-11">Quantification Of Site Situation Against Building Information Management (Bim) Model For Project Progress And Payment</label>
       <ul>
         <li><b><h4>JTC Corporation (JTC)</h4></b>Quantification of actual site situation lacks accuracy due to the discrepancies between the documents submitted by the various parties and the actual site installation. There is no common platform to validate the actual site progress status. Currently, actual site progress status and update to the system is done manually which is very time consuming and labour intensive.
 <h5>What We Are Looking For</h5>
@@ -355,8 +355,8 @@ You may also write to this email if you have any queries on the Joint Challenge 
   <h4> Challenge Statements</h4>
 <ul>
   <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Building Project A - Alkaf Kampung Melayu Mosque</label>
+    <input type="checkbox" id="list-item-12">
+    <label for="list-item-12" class="first">Building Project A - Alkaf Kampung Melayu Mosque</label>
         <ul>
           <li><b><h4>Warees</h4>“Smart and Energy Efficient Mosque Leveraging on Artificial Intelligence and
 Blockchain”</b>
@@ -368,8 +368,8 @@ Blockchain”</b>
 <!-- end of first drop down box -->
 <!-- start of first drop down box -->
     <li>
-    <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Building Project B - St James Power Station</label>
+    <input type="checkbox" id="list-item-13">
+    <label for="list-item-13">Building Project B - St James Power Station</label>
       <ul>
         <li><b><h4>Mapletree</h4>“To propose advanced technological solutions for St James Power Station (SJPS), a
 monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
@@ -382,8 +382,8 @@ monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
 <!-- end of second drop down box -->
 <!-- start of third drop down box -->
 <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">Building Project C - JTC Summit</label>
+    <input type="checkbox" id="list-item-14">
+    <label for="list-item-14">Building Project C - JTC Summit</label>
       <ul>
         <li><b><h4>JTC Corporation</h4>"To achieve SLEB for existing building"</b>
 <h5>What We Are Looking For</h5>
