@@ -89,23 +89,12 @@ Recorded briefing for Phase 2 “Digitalisation”: <a href=" https://youtu.be/o
        </ul>
     </li>
     <li>
-    <input type="checkbox" id="list-item-4">
-    <label for="list-item-4">Quantification Of Site Situation Against Building Information Management (Bim) Model For Project Progress And Payment</label>
-      <ul>
-        <li><b><h4>JTC Corporation (JTC)</h4></b>Quantification of actual site situation lacks accuracy due to the discrepancies between the documents submitted by the various parties and the actual site installation. There is no common platform to validate the actual site progress status. Currently, actual site progress status and update to the system is done manually which is very time consuming and labour intensive.
-<h5>What We Are Looking For</h5>
-We envision a solution to capture 360 photos and point cloud data to quantify the site progress automatically. A common platform to update, view and validate the site progress data and extract the site progress report from the platform automatically.<br><br>
-
-
-<a href="https://gov-pact.ipi-singapore.org/challenges/challenge-statement-4-quantification-site-situation-against-building-information" >Learn More</a>
-        </li>
-       </ul>
-    </li>
+    
 </ul>
 </div>
-Submission open from 04 August to 14 September 2020, [submit](https://form.gov.sg/5edf0b2cb735b200116213b5) your clarification 10 working days before the closing.
+Submission open from 15 September to 26 October 2020, submit your clarification <a href="https://form.gov.sg/5edf0b2cb735b200116213b5">https://form.gov.sg/5edf0b2cb735b200116213b5</a> 10 working days before the closing date.
 
-Briefing day 18 August 2020, 0900H to 1100H. Register your interest for the briefing 3 working days before the [briefing](https://form.gov.sg/5edf7083ea153a0011efd59d), first come first serve basis.
+Briefing day 29 September 2020, 0900H to 1100H. Register your interest for the briefing 3 working days before the briefing <a href="https://form.gov.sg/5edf7083ea153a0011efd59d">https://form.gov.sg/5edf7083ea153a0011efd59d</a>, first come first serve basis.
 
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
