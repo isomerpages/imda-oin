@@ -8,7 +8,7 @@ collection_name: ongoing-national-innovation-challenges
 #### **Trade and Connectivity Challenge 2020**
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![1](/images/tcc2020_banner.jpg)](http://tradeandconnectivity.innovation-challenge.sg)
-**Application Open Dates: 22 July 2020 to 1 October 2020**<br>
+**Application Open Dates: 22 July 2020 to 15 October 2020**<br>
 
 <font color=" #a9a9a9"><b>Enterprise Singapore(ESG), IPI Singapore</b></font>
 
