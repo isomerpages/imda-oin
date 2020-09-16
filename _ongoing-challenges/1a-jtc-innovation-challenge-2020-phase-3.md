@@ -58,15 +58,11 @@ Technologies/systems that can accurately and quickly identify a variety of defec
 
 <h5>What We Are Looking For</h5>
 We are seeking new materials for non-structural and structural applications that meet most, if not all, the following desired outcomes:
-
-<ul>
-  <li>Lower embodied carbon;</li>
-  <li>Improve construction productivity;</li>
-  <li>Reduce life cycle costing;</li>
-  <li>High possibility for wide-scale implementation</li>
-</ul>
-<br><br>
-
+<br>
+• Lower embodied carbon;<br>
+• Improve construction productivity;<br>
+• Reduce life cycle costing;<br>
+• High possibility for wide-scale implementation<br><br>
 
 <a href="https://gov-pact.ipi-singapore.org/challenges/new-materials-non-structural-and-structural-applications-0" >Learn More</a>
         </li>
@@ -79,9 +75,9 @@ We are seeking new materials for non-structural and structural applications that
         <li><b><h4>JTC Corporation (JTC)</h4></b>Applicants may submit proposals for a specific Challenge Statement under the category of “others” if they have missed the earlier submission closing date of Challenge Statement. Proposals received after the closing date of a past phase will be subjected to the same selection process, but award is subject to the availability of resources.
 
 <h5>Additional Information</h5>
-Recorded briefing for Phase 1 “Productivity and Automation”:<a href="https://youtu.be/BSAGySacgFs">https://youtu.be/BSAGySacgFs</a> 
+• <a href="https://youtu.be/BSAGySacgFs">Recorded briefing</a> for Phase 1 “Productivity and Automation”<br>
 
-Recorded briefing for Phase 2 “Digitalisation”: <a href=" https://youtu.be/oB5O8gilxaE" > https://youtu.be/oB5O8gilxaE</a><br><br>
+• <a href=" https://youtu.be/oB5O8gilxaE" >Recorded briefing</a> for Phase 2 “Digitalisation”<br><br>
 
 
 <a href="https://gov-pact.ipi-singapore.org/challenges/others-0" >Learn More</a>
