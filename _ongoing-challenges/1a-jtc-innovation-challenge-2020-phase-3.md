@@ -86,9 +86,9 @@ We are seeking new materials for non-structural and structural applications that
     </li>
 </ul>
 </div>
-Submission open from 15 September to 26 October 2020, submit your clarification <a href="https://form.gov.sg/5edf0b2cb735b200116213b5">https://form.gov.sg/5edf0b2cb735b200116213b5</a> 10 working days before the closing date.
+Submission open from 15 September to 26 October 2020, submit your clarification <a href="https://form.gov.sg/5edf0b2cb735b200116213b5">(https://form.gov.sg/5edf0b2cb735b200116213b5)</a> 10 working days before the closing date.
 
-Briefing day 29 September 2020, 0900H to 1100H. Register your interest for the briefing 3 working days before the briefing <a href="https://form.gov.sg/5edf7083ea153a0011efd59d">https://form.gov.sg/5edf7083ea153a0011efd59d</a>, first come first serve basis.
+Briefing day 29 September 2020, 0900H to 1100H. Register your interest for the briefing 3 working days before the briefing <a href="https://form.gov.sg/5edf7083ea153a0011efd59d">(https://form.gov.sg/5edf7083ea153a0011efd59d)</a>, first come first serve basis.
 
 <b>Additional information</b>: JTC Innovation challenge will have three thematic phases spaced out over 18 weeks. Each phase will last 6 weeks, and consist of two to three challenge statements each related to the theme. After the submission for the phase has closed, applicants can submit proposals under the “others” category of the later phase. These proposals will be assessed under the same selection process, but will be subject to the availability of resources. 
 
