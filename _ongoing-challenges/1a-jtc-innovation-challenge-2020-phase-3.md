@@ -54,8 +54,7 @@ Technologies/systems that can accurately and quickly identify a variety of defec
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">New Materials for Non-structural and Structural Applications</label>
       <ul>
-        <li><b><h4>JTC Corporation (JTC)</h4></b>Worldwide, construction booms in a thriving economy. The Global Status Report 2019 revealed that the building and construction together account for 39% of all carbon emissions in the world with 11% coming from embodied carbon. To decarbonise the sector, bold and innovative actions have to be taken.<br><br>
-
+        <li><b><h4>JTC Corporation (JTC)</h4></b>Worldwide, construction booms in a thriving economy. The Global Status Report 2019 revealed that the building and construction together account for 39% of all carbon emissions in the world with 11% coming from embodied carbon. To decarbonise the sector, bold and innovative actions have to be taken.<br>
 <h5>What We Are Looking For</h5>
 We are seeking new materials for non-structural and structural applications that meet most, if not all, the following desired outcomes:
 <br>
