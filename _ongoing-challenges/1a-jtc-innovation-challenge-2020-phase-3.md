@@ -40,7 +40,7 @@ Through our support, companies can defray development costs, reduce business ris
 <ul>
     <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Defect Detection for Solar Panels Deployed on Building Rooftops or Interim LandD</label>
+    <label for="list-item-1" class="first">Defect Detection for Solar Panels Deployed on Building Rooftops or Interim Land</label>
         <ul>
           <li><b><h4>JTC Corporation (JTC)</h4></b>JTC and Whole-of-Government (WOG) are deploying solar panels in suitable spaces in Singapore, hence with the wide-scale deployment, being able to detect defective panels effectively will allow JTC to ensure optimised renewable energy generation and minimise any risks from defective electronics.
 <h5>What We Are Looking For</h5>
@@ -81,11 +81,9 @@ We are seeking new materials for non-structural and structural applications that
 
 
 <a href="https://gov-pact.ipi-singapore.org/challenges/others-0" >Learn More</a>
-        </li>
-       </ul>
+              </li>
+      </ul>
     </li>
-    <li>
-    
 </ul>
 </div>
 Submission open from 15 September to 26 October 2020, submit your clarification <a href="https://form.gov.sg/5edf0b2cb735b200116213b5">https://form.gov.sg/5edf0b2cb735b200116213b5</a> 10 working days before the closing date.
