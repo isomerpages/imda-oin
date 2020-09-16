@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Aichi Smart Sustainable City Co-Creation Challenge
-permalink: /challenge-title/aichi-smart-sustainable=city-co-creation-challenge
+permalink: /challenge-title/aichi-smart-sustainable-city-co-creation-challenge
 breadcrumb: Ongoing Challenges / Aichi Smart Sustainable City Co-Creation Challenge
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
