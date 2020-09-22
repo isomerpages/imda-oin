@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 
 #### PUB Global Innovation Challenge
 <font color="#a9a9a9"><b>Challenge Owner(s): </b>PUB, Singapore National Water Agency</font>
-[![1](/images/ongoing-challenges/PUB-global-innovation-challenge.jpg)](www.pub.gov.sg/innovationchallenge)
+[![1](/images/ongoing-challenges/PUB-global-innovation-challenge.jpg)](https://www.pub.gov.sg/innovationchallenge)
 
 **Application Open Dates: 21 September 2020 to 02 November 2020**<br>
 <font color=" #a9a9a9"><b>PUB, Singapore National Water Agency</b></font>
@@ -17,4 +17,4 @@ The PUB Global Innovation Challenge seeks to accelerate the discovery and adopti
  
 As one of the few utilities in the world to manage the entire water loop in a country, PUB offers unparalleled test-bedding opportunities. Selected applicants of the PUB Global Innovation Challenge will be given the opportunity to validate their ideas and find the product-market fit in the water industry. 
 
-[Learn more](www.pub.gov.sg/innovationchallenge){:target="_blank"}
+[Learn more](https://www.pub.gov.sg/innovationchallenge){:target="_blank"}
