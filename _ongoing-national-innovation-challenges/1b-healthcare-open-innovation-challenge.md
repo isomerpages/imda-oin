@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Trade and Connectivity Challenge
+title: Healthcare Open Innovation Challenge
 permalink: /national-innovation-challenges/healthcare-open-innovation-challenge
 breadcrumb: /National Innovation Challenges/ Healthcare Open Innovation Challenge
 collection_name: ongoing-national-innovation-challenges
