@@ -1,6 +1,5 @@
 ---
 layout: leftnav-page-content
-title: National Innovation Challenges
 permalink: /national-innovation-challenges/
 breadcrumb: National Innovation Challenges / Overview
 collection_name: ongoing-national-innovation-challenges
