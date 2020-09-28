@@ -14,3 +14,14 @@ Building on existing open innovation efforts from Enterprise Singapore’s [Gov-
 NIC problem statements are a new category of open innovation challenges that focus on developing industry-led solutions to challenges that all businesses grapple with. Starting areas of focus include how we can reopen Singapore safely – to achieve safe workplaces, homes, schools and commuting.
 <br><br>
 NIC provides a common open innovation platform for government agencies, Research Institutions, Trade Association & Chambers (TACs), corporates, SMEs and startups. Through NIC, challenge owners can gain access to a diverse pool of solvers with cross-industry expertise. Solution providers will also receive support and potential funding to develop and deploy their solutions into the market swiftly. S$40 million in funding has been dedicated to the NIC to ramp-up the development and adoption of solutions, where each challenge is allocated up to S$2 million.
+
+## Ongoing National Innovation Challenge ##
+<font color="#a9a9a9"><b>Challenge Title 1: </b>Application Open Dates: 00 Month 2020 to 00 Month 2020</font><br><br>
+<font color="#a9a9a9"><b>Challenge Title 2: </b>Application Open Dates: 00 Month 2020 to 00 Month 2020</font><br><br>
+<font color="#a9a9a9"><b>Challenge Title 3: </b>Application Open Dates: 00 Month 2020 to 00 Month 2020</font><br><br>
+<font color="#a9a9a9"><b>Challenge Title 4: </b>Application Open Dates: 00 Month 2020 to 00 Month 2020</font>
+
+## Past National Innovation Challenge ##
+<font color="#a9a9a9"><b>Challenge Title 1: </b>Application Open Dates: 00 Month 2020 to 00 Month 2020</font><br><br>
+<font color="#a9a9a9"><b>Challenge Title 2: </b>Application Open Dates: 00 Month 2020 to 00 Month 2020</font><br><br>
+<font color="#a9a9a9"><b>Challenge Title 3: </b>Application Open Dates: 00 Month 2020 to 00 Month 2020</font><br><br>
