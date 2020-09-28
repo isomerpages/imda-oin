@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: test challenge
 permalink: /challenge-title/test-challenge-7
-breadcrumb: Ongoing Challenges / test
+breadcrumb: Ongoing National Innovation Challenges / test
 collection_name: past-national-innovation-challenges
-third_nav_title: Past National Innovation Challenges
+second_nav_title: Past National Innovation Challenges
 ---
 
 test 1 
