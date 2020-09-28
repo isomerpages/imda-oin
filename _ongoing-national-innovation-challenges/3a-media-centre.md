@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Media Centre
+title: Media Release
 permalink: /national-innovation-challenges/media-centre/test
 collection_name: ongoing-national-innovation-challenges
-third_nav_title: Media Centre
+second_nav_title: Media Centre
 ---
 ## **Media Centre** 
 #### **ESG, IMDA and NRF commit S$40 million to National Innovation Challenges to help companies emerge stronger post-COVID**
