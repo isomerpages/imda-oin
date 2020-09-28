@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Frequently Asked Questions
 permalink: /national-innovation-challenges/frequently-asked-questions/test
 collection_name: ongoing-national-innovation-challenges
-third_nav_title: FAQ
+second_nav_title: Media Centre
 ---
 
 ## National Innovation Challenge FAQs
