@@ -1,8 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Media Centre
-permalink: /national-innovation-challenges/media-centre/test
-collection_name: ongoing-national-innovation-challenges
+permalink: /national-innovation-challenges/media-centre
+breadcrumb: Media Centre
+collection_name: media-centre
 third_nav_title: Media Centre
 ---
 ## **Media Centre** 
