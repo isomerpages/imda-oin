@@ -1,10 +1,8 @@
 ---
 layout: leftnav-page-content
 title: test challenge
-permalink: /challenge-title/test-challenge-7
-breadcrumb: Ongoing National Innovation Challenges / test
-collection_name: past-national-innovation-challenges
-second_nav_title: Past National Innovation Challenges
+permalink: /challenge-title/past-national-innovation-challenges/test-challenge-7
+third_nav_title: Past National Innovation Challenges
 ---
 
 test 1 
