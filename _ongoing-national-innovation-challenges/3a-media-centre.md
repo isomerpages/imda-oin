@@ -1,11 +1,9 @@
-<!-- 
 ---
 layout: leftnav-page-content
-title: Media Centre
+title: Media Release
 permalink: /national-innovation-challenges/media-centre
-breadcrumb: Media Centre
-collection_name: media-centre
-third_nav_title: Media Centre
+collection_name: ongoing-national-innovation-challenges
+second_nav_title: Media Centre
 ---
 ## **Media Centre** 
 #### **ESG, IMDA and NRF commit S$40 million to National Innovation Challenges to help companies emerge stronger post-COVID**
@@ -54,5 +52,3 @@ Corporate Communications<br>
 National Research Foundation <br>
 T: +65 9146 2984<br>
 E: HOW_Kay_Lii@nrf.gov.sg<br>
-
--->

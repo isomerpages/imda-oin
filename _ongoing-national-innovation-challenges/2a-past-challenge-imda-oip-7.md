@@ -1,11 +1,9 @@
-<!--
-
 ---
 layout: leftnav-page-content
-title: Past National Innovation Challenges
+title: IMDA Open Innovation Challenges
 permalink: /national-innovation-challenges/imda-open-innovation-challenges
-breadcrumb: Past National Innovation Challenges
-collection_name : past-national-innovation-challenges
+second_nav_title: Past National Innovation Challenges
+collection_name: ongoing-national-innovation-challenges
 ---
 
 #### **IMDA Open Innovation Challenges**
@@ -112,4 +110,3 @@ All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. 
 </ul>
 </div>
 
--->
