@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Media Release
-permalink: /national-innovation-challenges/media-centre/test
+permalink: /national-innovation-challenges/media-centre
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Media Centre
 ---
