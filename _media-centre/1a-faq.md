@@ -1,4 +1,3 @@
-<!--
 ---
 layout: leftnav-page-content
 title: Frequently Asked Questions
@@ -6,9 +5,6 @@ permalink: /national-innovation-challenges/media-centre/faq
 breadcrumb: Media Centre/ Faq
 collection_name: media-centre
 ---
--->
-
-<!--
 
 ## National Innovation Challenge FAQs
 
