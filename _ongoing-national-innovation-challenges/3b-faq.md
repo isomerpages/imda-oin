@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Frequently Asked Questions
-permalink: /national-innovation-challenges/frequently-asked-questions/test
+permalink: /national-innovation-challenges/media-centre/faq
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Media Centre
 ---
