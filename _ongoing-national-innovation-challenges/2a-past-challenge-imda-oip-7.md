@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: test challenge
+title: IMDA Open Innovation Challenges
 permalink: /national-innovation-challenges/imda-open-innovation-challenges
-collection_name: ongoing-national-innovation-challenges
 second_nav_title: Past National Innovation Challenges
+collection_name: ongoing-national-innovation-challenges
 ---
 
 #### **IMDA Open Innovation Challenges**
