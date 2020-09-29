@@ -1,4 +1,3 @@
-<!--
 ---
 layout: leftnav-page-content
 title: Frequently Asked Questions
@@ -7,7 +6,7 @@ breadcrumb: Media Centre/ Faq
 collection_name: media-centre
 ---
 
-## National Innovation Challenge FAQs ##
+## National Innovation Challenge FAQs
 
 <div id="faqwrapper"> 
   <h4><b>General</b></h4>
@@ -274,4 +273,3 @@ Yes. Outcome-based procurement can be used to procure emerging and innovative so
   </ul>
 </div>
 
--->
