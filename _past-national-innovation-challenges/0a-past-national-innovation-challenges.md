@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Past National Innovation Challenges
-permalink: /past-national-innovation-challenges/
+permalink: /national-innovation-challenges/imda-open-innovation-challenges
 breadcrumb: Past National Innovation Challenges
 collection_name : past-national-innovation-challenges
 ---
