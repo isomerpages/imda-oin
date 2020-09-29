@@ -1,5 +1,4 @@
 <!--
-
 ---
 layout: leftnav-page-content
 title: Frequently Asked Questions
@@ -7,12 +6,14 @@ permalink: /national-innovation-challenges/media-centre/faq
 breadcrumb: Media Centre/ Faq
 collection_name: media-centre
 ---
+-->
+
+<!--
 
 ## National Innovation Challenge FAQs
 
 <div id="faqwrapper"> 
   <h4><b>General</b></h4>
- <!-- Start of Drop down box -->
 <ul>
   <li>
     <input type="checkbox" id="list-item-1" class="toggle">
