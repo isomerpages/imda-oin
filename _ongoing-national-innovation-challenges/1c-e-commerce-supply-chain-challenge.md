@@ -1,12 +1,13 @@
 <!--
 ---
 layout: leftnav-page-content
-title: Test Challenge 3
-permalink: /national-innovation-challenges/test-challenge-3
-breadcrumb: /National Innovation Challenges/ Test Challenge 3
+title: E-commerce Supply Chain Challenge
+permalink: /national-innovation-challenges/e-commerce-supply-chain-challenge
+breadcrumb: /National Innovation Challenges/ E-commerce Supply Chain Challenge
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing National Innovation Challenges
 ---
 
 #### **Test Challenge 3**
+
 -->
