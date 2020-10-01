@@ -26,7 +26,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
     <label for="list-item-1">Effective Mitigation and Prevention of Covid Transmission on Flight</label>
       <ul>
         <li><b><h4>Civil Aviation Authority of Singapore (CAAS) & SATS Ltd</h4>How do we restore the confidence that aircraft cabin has been effectively cleaned, disinfected on ground and while airborne?</b>
-        
+
 <h5>What We Are Looking For</h5>
 A prototype solution that brings back confidence in air travel, either through the use of sanitisation technologies, or autonomous systems to that enables superior sanitisation and disinfection cleaning with  less manpower or higher efficiency, or any other digital means. The solution should not pose other health risks or compromise the customer experience.<br><br>
 The proposed solution should meet the overall performance criteria:<br>
@@ -35,7 +35,7 @@ The proposed solution should meet the overall performance criteria:<br>
 <b>Fast To Develop</b>: It should be quick to develop the solution and be deployed rapidly (within 6 months).<br><br>
 <b>Deployment</b>: The options of deployment could be in the form of hand-held device, in-built automation within the aircraft, a robotic solution or any other possible ideas could be considered.<br><br>
 <b>Safe – For People</b>: It should be safe for cleaning staff or cabin crew during use and pose no other health risks to any passengers exposed to it. It should adhere to work health safety standards.<br><br>
-<b>Safe – For Aircraft</b>: Usage of the solution should not compromise the integrity of the aircraft or cause damage to the interior. It should not destroy any aircraft parts, interfere with on-board electronics, ventilation or smoke detection systems, and adversely impact the function or integrity of materials on-board or cause discolouration of the airplane seats.<br><br><br>
+<b>Safe – For Aircraft</b>: Usage of the solution should not compromise the integrity of the aircraft or cause damage to the interior. It should not destroy any aircraft parts, interfere with on-board electronics, ventilation or smoke detection systems, and adversely impact the function or integrity of materials on-board or cause discolouration of the airplane seats.<br><br>
 Compliance: It should meet international regulations, airline safety and health requirements, as well as manufacturer’s guidelines. 
 <br><br>
 <a href="https://www.openinnovation.sg/" target="_blank" >Apply Here</a>
@@ -66,14 +66,6 @@ A prototype solution that enhances their security screening operations, centrali
 <br><br>
     <b>Image annotation</b>: To further improve communication between sites, the central operator and the on-site operator should be able to view a shared image and annotate it with a stylus or similar.
 <br><br>
-
-<h5>Overall Performance Requirements</h5>
-The problem solver should meet the following performance criteria in their proposal:<br>
-•	Accuracy: Image recognition must be highly accurate to correctly identify and flag objects that pose potential security risks, or where a rescan may need to take place, meeting or exceeding the standards for certification of a trained operator.<br>
-•	Speed: The transmission of image and communication network between the onsite screening stations and central review facility must be fast, in order to allow for real-time responses.<br>
-•	Secure: The transmission between onsite screening stations to the central review facility should protect the data from third parties not authorised to receive.<br>
-•	User-Friendly: It must be easy to use for both the onsite staff and the centralised pool of certified operators. <br>
-•	Cost-Effective: The solution must demonstrate efficient use of manpower, thus resulting in cost-savings.<br><br>
 
 There are no restrictions on the geographic location of the problem solvers who may choose to apply to this challenge. However, the prototype needs to be demonstrated in Singapore.
 <br><br>
