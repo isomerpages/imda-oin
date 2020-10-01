@@ -43,4 +43,4 @@ A digital platform for a seamless interpretation and analysis of Environmental S
 </ul>
 </div>
 
-[Learn more](https://www.openinnovation.sg/){:target="_blank"}
+[Learn more](https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/){:target="_blank"}
