@@ -45,7 +45,7 @@ Furthermore, from NEA’s observations of the equipment available in market, exi
 A seamless interpretation and analysis of Environmental Services (ES) data information across formats to assist users in near real-time condition monitoring of properties, improving service responses and optimising resource allocation translating to cost savings, improvement in productivity, service quality and performance.
 
 <h5>Technical Requirements</h5>
-"<Attach Document here>"
+-Attach Document here-
 
 <h5>DEADLINE</h5>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>
