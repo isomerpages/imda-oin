@@ -43,3 +43,4 @@ A digital platform for a seamless interpretation and analysis of Environmental S
 </ul>
 </div>
 
+[Learn more](https://www.openinnovation.sg/){:target="_blank"}
