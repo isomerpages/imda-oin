@@ -93,6 +93,4 @@ Singapore Post (15 October 2020)<br>
 </ul>
 </div>
 
-[Learn more](https://ecommercesupplychain.innovation-challenge.sg/){:target="_blank"}
-
 
