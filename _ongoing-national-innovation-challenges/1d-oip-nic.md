@@ -11,6 +11,7 @@ second_nav_title: Ongoing National Innovation Challenges
 
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/OIP-NIC.png)](https://www.openinnovation.sg/)
+
 **Application Open Dates: 2 October 2020 to 30 October 2020**<br>
 
 <font color=" #a9a9a9"><b>IMDA</b></font>
