@@ -238,8 +238,6 @@ If the Problem Owner is only acting as the customer, and the IP is owned by the 
     <input type="checkbox" id="list-item-18" class="toggle">
     <label for="list-item-18" class="lbl-toggle"><b>18.	Can I tap into the outcome-based procurement approach to host the challenge and support through to commercialisation?</b></label>
         <ul><li>
-
-
 Yes. Outcome-based procurement can be used to procure emerging and innovative solutions through crowd-sourcing and an integrated procurement process, which allows Agencies to support POC through to full deployment without calling for additional tenders. IMDA’s Open Innovation Platform and ESG’s Gov-PACT are channels that support the outcome-based procurement approach.
 
   </li>
