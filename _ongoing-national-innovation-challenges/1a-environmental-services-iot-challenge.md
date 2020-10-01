@@ -10,7 +10,7 @@ second_nav_title: Ongoing National Innovation Challenges
 #### Environmental Services IoT Challenge
 
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
-[![3](/images/NIC-banner-1200x630.jpg)](https://www.openinnovation.sg/about)
+[![3](/images/NIC-banner-1200x630.jpg)](https://www.openinnovationnetwork.sg/national-innovation-challenges/)
 
 <br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -48,7 +48,7 @@ A seamless interpretation and analysis of Environmental Services (ES) data infor
 <h5>DEADLINE</h5>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>
 
-<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -57,4 +57,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </ul>
 </div>
+
+[Learn more](https://www.openinnovationnetwork.sg/national-innovation-challenges/){:target="_blank"}
 
