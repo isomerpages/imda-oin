@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: IMDA Open Innovation Challenges
+title: IMDA Open Innovation Challenges 2
 permalink: /national-innovation-challenges/imda-open-innovation-challenges-2
 breadcrumb: /National Innovation Challenges/ IMDA Open Innovation Challenges 2
 collection_name: ongoing-national-innovation-challenges
