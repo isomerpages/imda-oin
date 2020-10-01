@@ -18,7 +18,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div id="wrapper">
     <h4> Challenge Statements </h4>
 <ul>
-    <li>
     <!-- start of drop down box 1 -->
   <li>
     <input type="checkbox" id="list-item-1">
