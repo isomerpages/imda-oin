@@ -5,7 +5,7 @@ permalink: /national-innovation-challenges/
 breadcrumb: National Innovation Challenges / Overview
 collection_name: ongoing-national-innovation-challenges
 ---
-![1](/images/NIC-banner-1200x630.jpg)
+![1](/images/NIC-banner.jpg)
 <br>
 The National Innovation Challenges (NIC) harness Singapore’s innovation capabilities to help businesses adapt to the New Normal.
 <br><br>
