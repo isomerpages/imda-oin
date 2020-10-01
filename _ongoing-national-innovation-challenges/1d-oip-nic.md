@@ -52,11 +52,11 @@ Compliance: It should meet international regulations, airline safety and health 
         
 <h5>What We Are Looking For</h5>
         
-A prototype solution that enhances their security screening operations, centralising screening review and risk assessment, thus driving efficient use of manpower. The solution should be able to perform the following functions:<br>
+A prototype solution that enhances their security screening operations, centralising screening review and risk assessment, thus driving efficient use of manpower. The solution should be able to perform the following functions:<br><br>
 <b>Connecting on-site screening stations to a central network</b>: The solution must be able to securely connect the desktop computers attached to X-ray machines at each site to the central command. The connection can be via wireless or cabled connection, as long as it meets these criteria: <br>
-•Secure: The solution is required to meet the widely-accepted international security standards.<br>
-•Reliable: Must support 24/7 operation with an exceptionally high reliable signal quality<br>
-•Scalable: While the prototype will connect a small number (5) of machines around collocated SATS facilities, the commercialised solution should support eventual island-wide deployment in cost-effective manner.<br><br>
+<b>Secure</b>: The solution is required to meet the widely-accepted international security standards.<br>
+<b>Reliable</b>: Must support 24/7 operation with an exceptionally high reliable signal quality<br>
+<b>Scalable</b>: While the prototype will connect a small number (5) of machines around collocated SATS facilities, the commercialised solution should support eventual island-wide deployment in cost-effective manner.<br><br>
 
 <b>Image recognition and threat assessment</b>: SSS requires an image recognition solution as part of the prototype, which will be trained (and continue to learn) as part of the prototype deployment. The solution must be able to recognise and prioritise potential threats (knives, firearms, incendiary or explosive devices) from the images produced by a scanner, that warrant closer inspection by a human operator (either due to an actual threat, or because the scan was inconclusive and needs rescanning).
 <br><br>
