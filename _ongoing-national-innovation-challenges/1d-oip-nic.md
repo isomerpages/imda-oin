@@ -68,7 +68,7 @@ There are no restrictions on the geographic location of the problem solvers who 
 A prototype site inspection and defects management system with machine-learning and image-and-video analytics capabilities<br><br>
 
 There are no restrictions on the geographical location of the problem solvers who may choose to apply to this challenge. However, the prototype must be demonstrated in Singapore.<br><br>
-<a href="https://www.openinnovation.sg/" target="_blank" >Learn More</a>
+<a href="https://www.openinnovation.sg/" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
