@@ -30,7 +30,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 <h5>What We Are Looking For</h5>
 A prototype solution that brings back confidence in air travel, either through the use of sanitisation technologies, or autonomous systems to that enables superior sanitisation and disinfection cleaning with  less manpower or higher efficiency, or any other digital means. The solution should not pose other health risks or compromise the customer experience.<br><br>
 The proposed solution should meet the overall performance criteria:<br>
-•	Customer Experience: The use of this solution should lead to higher customer confidence with regard to aircraft cleanliness and hygiene. <br>
+•   Customer Experience: The use of this solution should lead to higher customer confidence with regard to aircraft cleanliness and hygiene. <br>
 •	Cost Effectiveness: The use of this solution should not entail prohibitively expensive equipment or costly retrofits to the aircraft. <br>
 •	Fast To Develop: It should be quick to develop the solution and be deployed rapidly (within 6 months).<br>
 •	Deployment: The options of deployment could be in the form of hand-held device, in-built automation within the aircraft, a robotic solution or any other possible ideas could be considered.<br>
@@ -121,6 +121,3 @@ There are no restrictions on the geographical location of the problem solvers wh
 
 </ul>
 </div>
-
-
-[Learn more](https://ecommercesupplychain.innovation-challenge.sg/){:target="_blank"}
