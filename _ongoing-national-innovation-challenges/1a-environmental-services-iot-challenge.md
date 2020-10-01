@@ -14,9 +14,9 @@ second_nav_title: Ongoing National Innovation Challenges
 
 **Application Open Dates: 2 October 2020 to 18 December 2020**<br>
 
-<font color=" #a9a9a9"><b>Enterprise Singapore(ESG), National Environment Agency(NEA)</b></font>
+<font color=" #a9a9a9"><b>National Environment Agency(NEA), Enterprise Singapore(ESG)</b></font>
 
-The National Environment Agency (NEA) and Enterprise Singapore (ESG) have jointly launched the Call for Data-driven Environmental Services (ES) Operations as part of the National Innovation Challenges (NIC). This Innovation Challenge is launched together with four problem owners (i.e. CapitaLand Limited, Keppel Land Limited, Mapletree Investments Pte Ltd and NTUC Club) who are partners under NEA’s ES Industry Transformation Map (ITM) INCUBATE1 partnership programme. 
+The National Environment Agency (NEA) and Enterprise Singapore (ESG) have jointly launched the Call for Data-driven Environmental Services (ES) Operations as part of the National Innovation Challenges (NIC). This Innovation Challenge is launched together with four problem owners (i.e. CapitaLand Limited, Keppel Land Limited, Mapletree Investments Pte Ltd and NTUC Club) who are partners under NEA’s ES Industry Transformation Map (ITM) INCUBATE partnership programme. 
 
 To demonstrate scalability of the proposed solution, interested solvers shall: 
 • Commit capacity to undertake at least 2 problem owners and justify their preferred choice (if any); as well as 
@@ -33,7 +33,7 @@ This call provides selected solvers with the opportunity to develop solutions to
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1">Data-driven Environmental Services operations in the New Normal</label>
       <ul>
-        <li><b><h4>CapitaLand Limited, Keppel Land Limited, Mapletree Investments Pte Ltd, NTUC Club</h4>How might we develop an effective, cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation, analysis, and improve productivity?</b>
+        <li><b><h4>NEA, INCUBATE Partners</h4>How might we develop an effective, cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation, analysis, and improve productivity?</b>
             <h5>What We Are Looking For</h5>
 A digital platform for a seamless interpretation and analysis of Environmental Services (ES) data across formats to assist users to monitor conditions of their properties, improve service responses and optimise resource allocation in near real-time condition. The solution should translate to cost savings, improvement in productivity, service quality and performance for users.
 <br><br>
