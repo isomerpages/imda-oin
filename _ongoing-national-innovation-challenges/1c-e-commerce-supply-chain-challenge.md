@@ -10,12 +10,19 @@ second_nav_title: Ongoing National Innovation Challenges
 #### **E-commerce Supply Chain Challenge**
 
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
-[![3](/images/NIC-banner-1200x630.jpg)](https://www.openinnovationnetwork.sg/national-innovation-challenges/)
-**Application Open Dates: 00 Month 2020 to 00 Month 2020**<br>
+[![3](/images/E-commerce-Supply-Chain-Challenge.jpg)](https://ecommercesupplychain.innovation-challenge.sg/)
+**Application Open Dates: 02 October 2020 to 20 November 2020**<br>
 
-<font color=" #a9a9a9"><b>National Environment Agency (NEA)</b></font>
+<font color=" #a9a9a9"><b>Enterprise Singapore (ESG), IPI Singapore </b></font>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+E-commerce in Singapore is flourishing and is expected to grow to US$27 billion by 2025 (source: Google & Temasek/Bain, e-Conomy SEA 2019). The onset of COVID-19 has further accelerated this growth. With the increase in e-commerce transactions and high parcel delivery volume, this has highlighted the importance and need to optimise productivity and improve overall cost for e-commerce supply chain in a sustainable way. 
+ 
+Featuring industry partners such as Ninja Van, SATS and Singapore Post, the ESCC2020 is part of the Singapore National Innovation Challenges and aims to develop industry-led solutions through innovative partnerships between startups or SMEs and large organisations. Participants will work on real-life challenge statements and collaborate with e-commerce supply chain players to optimise operations and catalyse growth in a sustainable manner.
+ 
+Each challenge statement may be allocated up to S$2,000,000 in co-funding grant support (for eligible enterprises) from prototype to deployment to adoption.
+ 
+Enterprise Singapore, together with IPI Singapore, invites you to showcase your innovative solutions to solve these industry-wide challenges as part of ESCC2020.
+
 
 <div id="wrapper">
     <h4> Challenge Statement(s) </h4>
@@ -58,6 +65,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <!-- end of drop down box 3-->
 </ul>
 </div>
+
+<b>Additional information</b>: [Challenge Briefing Dates](https://ecommercesupplychain.innovation-challenge.sg/)<br>
+Ninja Van (13 October 2020)<br>
+4.30pm – 5.30pm (GMT +8)
+<br><br>
+SATS (14 October 2020)<br>
+4.30pm – 5.30pm (GMT +8)
+<br><br>
+Singapore Post (15 October 2020)<br>
+4.30pm – 5.30pm (GMT +8)
 
 [Learn more](https://www.openinnovationnetwork.sg/national-innovation-challenges/){:target="_blank"}
 
