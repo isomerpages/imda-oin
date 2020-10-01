@@ -15,7 +15,6 @@ second_nav_title: Ongoing National Innovation Challenges
 
 <font color=" #a9a9a9"><b>National Environment Agency (NEA)</b></font>
 
-<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div id="wrapper">
@@ -26,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1">Data-driven Environmental Services operations in the New Normal</label>
       <ul>
-        <li><b><h4>National Environment Agency (NEA)</h4></b>
+        <li><h4>National Environment Agency (NEA)</h4>
         <h5>Background</h5>
           Based on industry manpower landscape studies conducted by NEA, The Environmental Services (ES) industry comprising cleaning, waste, and pest management are essential services has a heavy reliance on low-skilled and manual labour, and an aging workforce. The current industry landscape is therefore labour intensive and unproductive. With a greater push and emphasis on the use of smart solutions to increase productivity in ES operations, the industry is seeing an increasing adoption of smart solutions to aid workers in their daily operations. This resulted in an increased offering of a wide array of smart solutions in the areas of Internet of things (IoT), robotics (e.g. vacuuming and scrubbing robot cleaners) and software solutions (e.g. Human Resource Management, Enterprise Resource Planning) to meet the demand. <br><br>
 
