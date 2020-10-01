@@ -41,7 +41,7 @@ Compliance: It should meet international regulations, airline safety and health 
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Networked X-Ray Machines with Automated Risk Prioritisation for Centralised Control and Efficient Monitoring</label>
       <ul>
-        <li><b><h4>Civil Aviation Authority of Singapore (CAAS) & Sats Ltd</h4>How might we develop a threat detection solution through a networked X-ray machines that can automatically triage images from multiple machines, and securely be assessed by a centralised pool of certified operators for efficient and effective threat assessment?</b>
+        <li><b><h4>Civil Aviation Authority of Singapore (CAAS) & SATS Ltd</h4>How might we develop a threat detection solution through a networked X-ray machines that can automatically triage images from multiple machines, and securely be assessed by a centralised pool of certified operators for efficient and effective threat assessment?</b>
         
 <h5>What We Are Looking For</h5>
         
