@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <!-- start of drop down box 1 -->
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-3">Data-driven Environmental Services operations in the New Normal</label>
+    <label for="list-item-1">Data-driven Environmental Services operations in the New Normal</label>
       <ul>
         <li><b><h4>National Environment Agency (NEA)</h4></b>
         <h5>Background</h5>
