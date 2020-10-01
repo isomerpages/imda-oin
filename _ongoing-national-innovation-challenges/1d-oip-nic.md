@@ -46,7 +46,7 @@ Compliance: It should meet international regulations, airline safety and health 
 <h5>What We Are Looking For</h5>
         
 A prototype solution that enhances their security screening operations, centralising screening review and risk assessment, thus driving efficient use of manpower.
-
+<br><br>
 There are no restrictions on the geographic location of the problem solvers who may choose to apply to this challenge. However, the prototype needs to be demonstrated in Singapore.
 <br><br>
 <a href="https://www.openinnovation.sg/" target="_blank" >Apply Here</a>
@@ -65,7 +65,7 @@ There are no restrictions on the geographic location of the problem solvers who 
         
 <h5>What We Are Looking For</h5>
         
-A prototype site inspection and defects management system with machine-learning and image-and-video analytics capabilities<br>
+A prototype site inspection and defects management system with machine-learning and image-and-video analytics capabilities<br><br>
 
 There are no restrictions on the geographical location of the problem solvers who may choose to apply to this challenge. However, the prototype must be demonstrated in Singapore.<br><br>
 <a href="https://www.openinnovation.sg/" target="_blank" >Learn More</a>
