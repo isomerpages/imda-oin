@@ -1,4 +1,3 @@
-<!--
 ---
 layout: leftnav-page-content
 title: E-commerce Supply Chain Challenge
@@ -8,6 +7,5 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing National Innovation Challenges
 ---
 
-#### **Test Challenge 3**
+#### **E-commerce Supply Chain Challenge**
 
--->
