@@ -101,7 +101,7 @@ A prototype site inspection and defects management system with machine-learning 
 <b>Interoperable</b>: Solution must have cross-platform interoperability and integration with existing construction-related software vendor systems, such as Novade, FinalCad, Aconex, TeamBinder, BIM Track and Navisworks, to work on 2D and 3D documents, and defects management, in a user-friendly way. Solution should have a mobile version to allow site inspection team to refer to possible areas of defects while on physical site-walks. Solution should take into consideration being flexible and modularised that can operate on a plug-and-play model.<br><br>
 <b>Naming Convention and Taxonomy</b>: Solution should  standardise and reference to ISO/IEC and industry standards.
 There are no restrictions on the geographical location of the problem solvers who may choose to apply to this challenge. However, the prototype must be demonstrated in Singapore.<br><br>
-<a href="https://www.openinnovation.sg/" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/" target="_blank" >Learn More</a>
         </li>
       </ul>
     </li>
