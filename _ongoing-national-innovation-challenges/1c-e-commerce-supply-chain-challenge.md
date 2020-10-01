@@ -23,7 +23,6 @@ Each challenge statement may be allocated up to S$2,000,000 in co-funding grant 
  
 Enterprise Singapore, together with IPI Singapore, invites you to showcase your innovative solutions to solve these industry-wide challenges as part of ESCC2020.
 
-<!--
 <div id="wrapper">
     <h4> Challenge Statement(s) </h4>
 <ul>
@@ -65,8 +64,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <!-- end of drop down box 3-->
 </ul>
 </div>
-
--->
 
 <b>Additional information</b>: [Challenge Briefing Dates](https://ecommercesupplychain.innovation-challenge.sg/)<br>
 Ninja Van (13 October 2020)<br>
