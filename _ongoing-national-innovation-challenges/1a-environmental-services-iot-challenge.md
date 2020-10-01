@@ -30,8 +30,8 @@ This call provides selected solvers with the opportunity to develop solutions to
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1">Data-driven Environmental Services Operations</label>
       <ul>
-        <li><b><h4>NEA, INCUBATE Partners</h4>How might we develop an effective, cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation, analysis, and improve productivity?</b>
-            <h5>What We Are Looking For</h5>
+        <li><b><h4>NEA, INCUBATE Partners</h4>How might we develop an effective and cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation and analysis, while improving productivity, service quality and performance for both service buyers and service providers?</b>
+<h5>What We Are Looking For</h5>
 A digital platform for a seamless interpretation and analysis of Environmental Services (ES) data across formats to assist users to monitor conditions of their properties, improve service responses and optimise resource allocation in near real-time condition. The solution should translate to cost savings, improvement in productivity, service quality and performance for users.
 <br><br>
 <a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/" target="_blank" >Apply Here</a>
