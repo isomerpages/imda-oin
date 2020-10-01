@@ -16,7 +16,7 @@ second_nav_title: Ongoing National Innovation Challenges
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <div id="wrapper">
-    <h4> Challenge Statements </h4>
+    <h4> Challenge Statement(s) </h4>
 <ul>
     <!-- start of drop down box 1 -->
   <li>
@@ -39,8 +39,11 @@ Furthermore, from NEA’s observations of the equipment available in market, exi
 3.	Usage of data information restricted to what the software is designed and built for<br>
 4.	Inability to cross reference data inputs from multiple types of IoT devices to yield new insights and effect workflow improvements to building management   <br>     
 
-        <h5>What We Are Looking For</h5>
+<h5>What We Are Looking For</h5>
 A seamless interpretation and analysis of Environmental Services (ES) data information across formats to assist users in near real-time condition monitoring of properties, improving service responses and optimising resource allocation translating to cost savings, improvement in productivity, service quality and performance.
+
+<h5>Technical Requirements</h5>
+<Attach Document here>
 
 <h5>DEADLINE</h5>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>
