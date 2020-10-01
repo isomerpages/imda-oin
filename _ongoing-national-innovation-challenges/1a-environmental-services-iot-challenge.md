@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1">Data-driven Environmental Services operations in the New Normal</label>
       <ul>
-        <li><b><h4>CapitaLand Limited<br>Keppel Land Limited<br>Mapletree Investments Pte Ltd<br>NTUC Club</h4>How might we develop an effective, cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation, analysis, and improve productivity?</b>
+        <li><b><h4>CapitaLand Limited, Keppel Land Limited, Mapletree Investments Pte Ltd, NTUC Club</h4>How might we develop an effective, cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation, analysis, and improve productivity?</b>
             <h5>What We Are Looking For</h5>
 A digital platform for a seamless interpretation and analysis of Environmental Services (ES) data across formats to assist users to monitor conditions of their properties, improve service responses and optimise resource allocation in near real-time condition. The solution should translate to cost savings, improvement in productivity, service quality and performance for users.
 <br><br>
