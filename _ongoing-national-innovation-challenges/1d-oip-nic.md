@@ -78,3 +78,5 @@ There are no restrictions on the geographical location of the problem solvers wh
 
 </ul>
 </div>
+
+[Learn more](https://www.openinnovation.sg/){:target="_blank"}
