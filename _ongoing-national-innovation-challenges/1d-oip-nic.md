@@ -37,7 +37,7 @@ The proposed solution should meet the overall performance criteria:<br>
 •	Safe – For People: It should be safe for cleaning staff or cabin crew during use and pose no other health risks to any passengers exposed to it. It should adhere to work health safety standards.<br>
 •	Safe – For Aircraft: Usage of the solution should not compromise the integrity of the aircraft or cause damage to the interior. It should not destroy any aircraft parts, interfere with on-board electronics, ventilation or smoke detection systems, and adversely impact the function or integrity of materials on-board or cause discolouration of the airplane seats.<br><br>
 Compliance: It should meet international regulations, airline safety and health requirements, as well as manufacturer’s guidelines. 
-
+<br><br>
 <a href="https://www.openinnovation.sg/" target="_blank" >Apply Here</a>
         </li>
       </ul>
@@ -76,8 +76,7 @@ The problem solver should meet the following performance criteria in their propo
 •	Cost-Effective: The solution must demonstrate efficient use of manpower, thus resulting in cost-savings.<br><br>
 
 There are no restrictions on the geographic location of the problem solvers who may choose to apply to this challenge. However, the prototype needs to be demonstrated in Singapore.
-
-
+<br><br>
 <a href="https://www.openinnovation.sg/" target="_blank" >Apply Here</a>
         </li>
       </ul>
@@ -110,8 +109,6 @@ A prototype site inspection and defects management system with machine-learning 
 •	Interoperable – Solution must have cross-platform interoperability and integration with existing construction-related software vendor systems, such as Novade, FinalCad, Aconex, TeamBinder, BIM Track and Navisworks, to work on 2D and 3D documents, and defects management, in a user-friendly way. Solution should have a mobile version to allow site inspection team to refer to possible areas of defects while on physical site-walks. Solution should take into consideration being flexible and modularised that can operate on a plug-and-play model.<br>
 •	Naming Convention and Taxonomy – Solution should  standardise and reference to ISO/IEC and industry standards.
 There are no restrictions on the geographical location of the problem solvers who may choose to apply to this challenge. However, the prototype must be demonstrated in Singapore.<br><br>
-
-
 <a href="https://www.openinnovation.sg/" target="_blank" >Apply Here</a>
         </li>
       </ul>
