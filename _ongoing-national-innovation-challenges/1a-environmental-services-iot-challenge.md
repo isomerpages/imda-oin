@@ -1,5 +1,3 @@
-
-
 ---
 layout: leftnav-page-content
 title: Environmental Services IoT Challenge
