@@ -12,11 +12,18 @@ second_nav_title: Ongoing National Innovation Challenges
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/Environmental-Services-IoT-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/)
 
-**Application Open Dates: 2 October 2020 to 00 Month 2020**<br>
+**Application Open Dates: 2 October 2020 to 18 December 2020**<br>
 
 <font color=" #a9a9a9"><b>Enterprise Singapore(ESG), National Environment Agency(NEA)</b></font>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The National Environment Agency (NEA) and Enterprise Singapore (ESG) have jointly launched the Call for Data-driven Environmental Services (ES) Operations as part of the National Innovation Challenges (NIC). This Innovation Challenge is launched together with four problem owners (i.e. CapitaLand Limited, Keppel Land Limited, Mapletree Investments Pte Ltd and NTUC Club) who are partners under NEA’s ES Industry Transformation Map (ITM) INCUBATE1 partnership programme. 
+
+To demonstrate scalability of the proposed solution, interested solvers shall: 
+• Commit capacity to undertake at least 2 problem owners and justify their preferred choice (if any); as well as 
+• Demonstrate capability to develop a solution based on the requirements for all problem owners. If the solver is unable to meet any requirements, the solver is to indicate why with supporting information.  
+ 
+This call provides selected solvers with the opportunity to develop solutions to address validated market needs identified through working with the problem owners, with first deployment lined up following successful prototyping. Building on their first demonstration, solvers can potentially scale through industry-wide adoption and internationalise.
+
 
 <div id="wrapper">
     <h4> Challenge Statement(s)</h4>
