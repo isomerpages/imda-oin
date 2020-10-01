@@ -31,7 +31,7 @@ This call provides selected solvers with the opportunity to develop solutions to
     <!-- start of drop down box 1 -->
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1">Data-driven Environmental Services operations in the New Normal</label>
+    <label for="list-item-1">Data-Driven Environmental Services Operations</label>
       <ul>
         <li><b><h4>NEA, INCUBATE Partners</h4>How might we develop an effective, cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation, analysis, and improve productivity?</b>
             <h5>What We Are Looking For</h5>
