@@ -18,7 +18,7 @@ second_nav_title: Ongoing National Innovation Challenges
 
 E-commerce in Singapore is flourishing and is expected to grow to US$27 billion by 2025 (e-Conomy SEA 2019). The onset of COVID-19 has further accelerated this growth. With the increase in e-commerce transactions and high parcel delivery volume, this has highlighted the importance and need to optimise productivity and improve overall cost for e-commerce supply chain in a sustainable way. 
  
-Featuring industry partners such as Ninja Van, SATS and Singapore Post, the ESCC2020 is part of the Singapore National Innovation Challenges and aims to develop industry-led solutions through innovative partnerships between startups or SMEs and large organisations. Participants will work on real-life challenge statements and collaborate with e-commerce supply chain players to optimise operations and catalyse growth in a sustainable manner.
+Featuring industry partners such as <b>Ninja Van</b>, <b>SATS</b> and <b>Singapore Post</b>, the ESCC2020 is part of the Singapore National Innovation Challenges and aims to develop industry-led solutions through innovative partnerships between startups or SMEs and large organisations. Participants will work on real-life challenge statements and collaborate with e-commerce supply chain players to optimise operations and catalyse growth in a sustainable manner.
  
 Each challenge statement may be allocated up to S$2,000,000 in co-funding grant support for eligible enterprises from prototype to deployment to adoption.
  
