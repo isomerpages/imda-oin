@@ -52,7 +52,7 @@ Ninja Van (13 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)
 <br><br>
 
-<a href="https://ecommercesupplychain.innovation-challenge.sg/" target="_blank" >Apply Here</a>
+<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/developing-durable-and-eco-friendly-e-commerce-packaging-to-reduce-revenue-leakage-from-damages-and-associated-costs.html" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -75,7 +75,7 @@ SATS (14 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)
 <br><br>
 
-<a href="https://ecommercesupplychain.innovation-challenge.sg/" target="_blank" >Apply Here</a>
+<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/developing-durable-and-eco-friendly-e-commerce-packaging-to-reduce-revenue-leakage-from-damages-and-associated-costs.html" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -102,7 +102,7 @@ At this stage we would not consider solutions that would require integration wit
 Singapore Post (15 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)<br><br>
 
-<a href="https://ecommercesupplychain.innovation-challenge.sg/" target="_blank" >Apply Here</a>
+<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/establishing-packaging-designs-to-increase-processing-efficiency-of-e-commerce-parcels-and-packets.html" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
