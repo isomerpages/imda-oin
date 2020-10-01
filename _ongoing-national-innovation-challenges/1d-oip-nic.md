@@ -42,9 +42,8 @@ Compliance: It should meet international regulations, airline safety and health 
         </li>
       </ul>
     </li>
-  
 <!-- end of drop down box 1-->
-    <!-- start of drop down box 2 -->
+<!-- start of drop down box 2 -->
   <li>
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Networked X-Ray Machines with Automated Risk Prioritisation for Centralised Control and Efficient Monitoring</label>
@@ -85,7 +84,7 @@ There are no restrictions on the geographic location of the problem solvers who 
     </li>
   
 <!-- end of drop down box 2-->
-    <!-- start of drop down box 3 -->
+<!-- start of drop down box 3 -->
   <li>
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3">Intelligent Site Inspection and Defects Management System 
