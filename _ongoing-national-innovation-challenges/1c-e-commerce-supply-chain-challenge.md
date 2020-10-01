@@ -32,7 +32,7 @@ Enterprise Singapore, together with IPI Singapore, invites you to showcase your 
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1">Ninja Van Challenge Statement</label>
       <ul>
-        <li><b><h4>Ninja Van</h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</b>
+        <li><b><h4>Ninja Van</h4>How might we develop durable and eco-friendly E-commerce packaging to reduce revenue leakages from damages and associated costs?</b>
               
 
 <h5>What We Are Looking For</h5>
@@ -54,7 +54,7 @@ Ninja Van (13 October 2020)<br>
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">SATS Challenge Statement</label>
       <ul>
-       <li><b><h4>SATS</h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</b>
+       <li><b><h4>SATS</h4>How can we enable fast and accurate B2C E-commerce Cross-Border Trade Compliance for SME E-tailers looking to sell overseas?</b>
 
 <h5>What We Are Looking For</h5>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -75,7 +75,7 @@ SATS (14 October 2020)<br>
     <input type="checkbox" id="list-item-3">
     <label for="list-item-3">Singapore Post Challenge Statement</label>
       <ul>
-        <li><b><h4>Singapore Post</h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</b>
+        <li><b><h4>Singapore Post</h4>How can we develop packaging designs to increase processing efficiency of eCommerce parcels and packets?</b>
   
 
 <h5>What We Are Looking For</h5>
