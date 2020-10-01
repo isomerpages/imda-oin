@@ -11,6 +11,7 @@ second_nav_title: Ongoing National Innovation Challenges
 
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/E-commerce-Supply-Chain-Challenge.jpg)](https://ecommercesupplychain.innovation-challenge.sg/)
+
 **Application Open Dates: 2 October 2020 to 20 November 2020**<br>
 
 <font color=" #a9a9a9"><b>Enterprise Singapore (ESG), IPI Singapore </b></font>
