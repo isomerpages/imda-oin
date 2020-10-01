@@ -23,7 +23,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
     <!-- start of drop down box 1 -->
   <li>
     <input type="checkbox" id="list-item-1">
-    <label for="list-item-1">Effective Mitigation and0 Prevention of Covid Transmission on Flight</label>
+    <label for="list-item-1">Effective Mitigation and Prevention of Covid Transmission on Flight</label>
       <ul>
         <li><b><h4>Civil Aviation Authority of Singapore (CAAS) & SATS Ltd</h4>How do we restore the confidence that aircraft cabin has been effectively cleaned, disinfected on ground and while airborne?</b>
         
