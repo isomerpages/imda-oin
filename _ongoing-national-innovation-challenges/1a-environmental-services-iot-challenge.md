@@ -16,13 +16,11 @@ second_nav_title: Ongoing National Innovation Challenges
 
 <font color=" #a9a9a9"><b>National Environment Agency(NEA), Enterprise Singapore(ESG)</b></font>
 
-The National Environment Agency (NEA) and Enterprise Singapore (ESG) have jointly launched the Call for Data-driven Environmental Services (ES) Operations as part of the National Innovation Challenges (NIC). This Innovation Challenge is launched together with four problem owners (i.e. CapitaLand Limited, Keppel Land Limited, Mapletree Investments Pte Ltd and NTUC Club) who are partners under NEA’s ES Industry Transformation Map (ITM) INCUBATE partnership programme. <br><br>
+The National Environment Agency (NEA) and Enterprise Singapore (ESG) have jointly launched the Call for Data-driven Environmental Services (ES) Operations as part of the National Innovation Challenges (NIC). This innovation challenge is launched together with four problem owners (i.e. CapitaLand Limited, Keppel Land Limited, Mapletree Investments Pte Ltd and NTUC Club) who are partners under NEA’s ES Industry Transformation Map (ITM) INCUBATE partnership programme. <br><br>
 To demonstrate scalability of the proposed solution, interested solvers shall: <br>
 • Commit capacity to undertake at least 2 problem owners and justify their preferred choice (if any)<br>
 • Demonstrate capability to develop a solution based on the requirements for all problem owners. If the solver is unable to meet any requirements, the solver is to indicate why with supporting information.<br><br>
 This call provides selected solvers with the opportunity to develop solutions to address validated market needs identified through working with the problem owners, with first deployment lined up following successful prototyping. Building on their first demonstration, solvers can potentially scale through industry-wide adoption and internationalise.
-
-
 <div id="wrapper">
     <h4> Challenge Statement(s)</h4>
 <ul>
