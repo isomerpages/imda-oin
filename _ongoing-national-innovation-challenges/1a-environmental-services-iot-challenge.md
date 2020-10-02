@@ -34,7 +34,7 @@ This call provides selected solvers with the opportunity to develop solutions to
 <h5>What We Are Looking For</h5>
 A digital platform for a seamless interpretation and analysis of Environmental Services (ES) data across formats to assist users to monitor conditions of their properties, improve service responses and optimise resource allocation in near real-time condition. The solution should translate to cost savings, improvement in productivity, service quality and performance for users.
 
-<h5>Briefing</h5>
+<h5>Briefing Session</h5>
 NEA, INCUBATE Partners (22 October 2020)<br>
 9.00am – 11.00am (GMT +8)
 <br><br>  
