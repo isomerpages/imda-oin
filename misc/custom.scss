@@ -380,17 +380,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 		}
 		
-		lbl-toggle::before {
-  content: ' ';
-  display: inline-block;
-
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 5px solid currentColor;
-
-  vertical-align: middle;
-  margin-right: .7rem;
-  transform: translateY(-2px);
 
 // //Test
 .lbl-toggle::before {
