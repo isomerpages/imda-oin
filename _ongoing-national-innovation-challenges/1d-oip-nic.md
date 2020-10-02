@@ -50,7 +50,7 @@ A prototype solution that enhances their security screening operations, centrali
 <br><br>
 There are no restrictions on the geographic location of the problem solvers who may choose to apply to this challenge. However, the prototype needs to be demonstrated in Singapore.
 <br><br>
-<a href="www.openinnovation.sg/challenges/networked-x-ray-machines-with-automated-risk-prioritisation-for-centralised-control-and-efficient-monitoring?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/challenges/networked-x-ray-machines-with-automated-risk-prioritisation-for-centralised-control-and-efficient-monitoring?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
