@@ -48,4 +48,4 @@ NEA, INCUBATE Partners (22 October 2020)<br>
 </div>
 
 
-<b>Visit <a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/" target="_blank" >IPI Singapore</a> to learn more.</b>
+Visit <a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/" target="_blank" >Gov-PACT Portal</a> to learn more.
