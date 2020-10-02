@@ -71,4 +71,4 @@ The platform is envisaged to be powered by IoT devices and machine learning capa
 <!-- end of drop down box 3-->
 </ul>
 </div>
-[Learn more](http://tradeandconnectivity.innovation-challenge.sg){:target="_blank"}
+Visit <a href="https://tcc-industry.innovation-challenge.sg/problem-statement/tagging-solution-for-airfreight-shipments-industry-use-of-air-waybill-awb-labeltags-to-replace-normal-printed-awb-label.html" target="_blank" >http://tradeandconnectivity.innovation-challenge.sg</a> to learn more.
