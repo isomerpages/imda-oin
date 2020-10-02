@@ -36,7 +36,7 @@ A digital platform for a seamless interpretation and analysis of Environmental S
 
 <h5>Briefing Session</h5>
 NEA, INCUBATE Partners (22 October 2020)<br>
-9.00am – 11.00am (GMT +8)
+9.30am – 11.00am (GMT +8)
 <br><br>  
 <a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/" target="_blank" >Apply Here</a>
         </li>
