@@ -26,7 +26,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
     <input type="checkbox" id="list-item-1">
     <label for="list-item-1">Effective Mitigation and Prevention of Covid Transmission on Flight</label>
       <ul>
-        <li><b><h4>Civil Aviation Authority of Singapore (CAAS) & SATS Ltd</h4>How do we restore the confidence that aircraft cabin has been effectively cleaned, disinfected on ground and while airborne?</b>
+        <li><b><h4>CAAS & SATS Ltd</h4>How do we restore the confidence that aircraft cabin has been effectively cleaned, disinfected on ground and while airborne?</b>
 
 <h5>What We Are Looking For</h5>
 A prototype solution that brings back confidence in air travel, either through the use of sanitisation technologies, or autonomous systems to that enables superior sanitisation and disinfection cleaning with  less manpower or higher efficiency, or any other digital means. The solution should not pose other health risks or compromise the customer experience.<br><br>
@@ -42,7 +42,7 @@ Compliance: It should meet international regulations, airline safety and health 
     <input type="checkbox" id="list-item-2">
     <label for="list-item-2">Networked X-Ray Machines with Automated Risk Prioritisation for Centralised Control and Efficient Monitoring</label>
       <ul>
-        <li><b><h4>Civil Aviation Authority of Singapore (CAAS) & SATS Ltd</h4>How might we develop a threat detection solution through a networked X-ray machines that can automatically triage images from multiple machines, and securely be assessed by a centralised pool of certified operators for efficient and effective threat assessment?</b>
+        <li><b><h4>CAAS & SATS Ltd</h4>How might we develop a threat detection solution through a networked X-ray machines that can automatically triage images from multiple machines, and securely be assessed by a centralised pool of certified operators for efficient and effective threat assessment?</b>
         
 <h5>What We Are Looking For</h5>
         
