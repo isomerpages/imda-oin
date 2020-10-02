@@ -29,8 +29,8 @@ Enterprise Singapore, together with IPI Singapore, invites you to showcase your 
 <ul>
     <!-- start of drop down box 1 -->
   <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1">Developing Durable And Eco-friendly E-commerce Packaging To Reduce Revenue Leakage From Damages and Associated Costs</label>
+    <input type="checkbox" id="list-item-1" class="toggle">
+    <label for="list-item-1" class="lbl-toggle">Developing Durable And Eco-friendly E-commerce Packaging To Reduce Revenue Leakage From Damages and Associated Costs</label>
       <ul>
         <li><b><h4>Ninja Van</h4>How might we develop durable and eco-friendly E-commerce packaging to reduce revenue leakages from damages and associated costs?</b>
               
@@ -61,8 +61,8 @@ Ninja Van (13 October 2020)<br>
 <!-- end of drop down box 1-->
     <!-- start of drop down box 2 -->
   <li>
-    <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Enabling Fast and Accurate B2C E-commerce Cross-Border Trade Compliance</label>
+    <input type="checkbox" id="list-item-2" class="toggle">
+    <label for="list-item-2" class="lbl-toggle">Enabling Fast and Accurate B2C E-commerce Cross-Border Trade Compliance</label>
       <ul>
        <li><b><h4>SATS Ltd</h4>How can we enable fast and accurate B2C E-commerce Cross-Border Trade Compliance for SME E-tailers looking to sell overseas?</b>
 
@@ -84,8 +84,8 @@ SATS (14 October 2020)<br>
 <!-- end of drop down box 2-->
     <!-- start of drop down box 3 -->
   <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">Establishing Packaging Designs To Increase Processing Efficiency Of E-commerce Parcels And Packets</label>
+    <input type="checkbox" id="list-item-3" class="toggle">
+    <label for="list-item-3" class="lbl-toggle">Establishing Packaging Designs To Increase Processing Efficiency Of E-commerce Parcels And Packets</label>
       <ul>
         <li><b><h4>Singapore Post</h4>How can we develop packaging designs to increase processing efficiency of eCommerce parcels and packets?</b>
   
