@@ -41,11 +41,10 @@ Faster and easier for shippers to pack their merchandise<br>
 Substantially reduce damages during delivery which minimise losses due to product write-off
 
 <h5>Additional Information</h5>
-Ninja Van can support the innovation in 3 main areas:<br><br>
-
-To provide input and expertise on required packaging standards<br>
-To connect and source for buy-in from shippers/e-commerce platforms<br>
-To support the testing phase of the proposed solution, based on packaging standards
+Ninja Van can support the innovation in 3 main areas:<br>
+•To provide input and expertise on required packaging standards<br>
+•To connect and source for buy-in from shippers/e-commerce platforms<br>
+•To support the testing phase of the proposed solution, based on packaging standards
 
 <h5>Briefing</h5>
 <a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279" target="_blank" >Register Here</a><br>
