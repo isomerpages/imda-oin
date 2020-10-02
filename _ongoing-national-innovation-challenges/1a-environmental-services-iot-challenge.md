@@ -6,17 +6,6 @@ breadcrumb: /National Innovation Challenges/ Environmental Services IoT Challeng
 collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing National Innovation Challenges
 ---
-</body><head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150355070-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-150355070-1');
-</script>
-</head><body>
     
 #### Environmental Services IoT Challenge
 
