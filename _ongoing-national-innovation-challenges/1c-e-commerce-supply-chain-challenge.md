@@ -36,9 +36,9 @@ Enterprise Singapore, together with IPI Singapore, invites you to showcase your 
               
 
 <h5>What We Are Looking For</h5>
-Price competitive, robust and eco-friendly packaging solutions catering to different types of merchandise<br>
-Faster and easier for shippers to pack their merchandise<br>
-Substantially reduce damages during delivery which minimise losses due to product write-off
+•Price competitive, robust and eco-friendly packaging solutions catering to different types of merchandise<br>
+•Faster and easier for shippers to pack their merchandise<br>
+•Substantially reduce damages during delivery which minimise losses due to product write-off
 
 <h5>Additional Information</h5>
 Ninja Van can support the innovation in 3 main areas:<br>
