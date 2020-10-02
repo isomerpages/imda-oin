@@ -18,11 +18,11 @@ Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects s
 <!-- start of wrapper div -->
 <!-- start of first drop down box -->
 <div id="wrapper"> 
-  <h4> Challenge Statements</h4>
+  <h4> Challenge Statement(s)</h4>
 <ul>
   <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1" class="first">Automated Inspection of Shipping Containers at Container Depots</label>
+    <input type="checkbox" id="list-item-1" class="toggle">
+    <label for="list-item-1" class="lbl-toggle">Automated Inspection of Shipping Containers at Container Depots</label>
         <ul>
           <li><b><h4>Container Depot & Logistics Association of Singapore (CDAS)</h4>How might we reduce the time taken and the reliance on manual labour to improve productivity for the container inspection process and eliminate risky activities such as working at height?</b>
             <h5>What We Are Looking For</h5>
@@ -35,8 +35,8 @@ To develop an autonomous or remote inspection solution that can effectively dete
 <!-- end of first drop down box -->
 <!-- start of first drop down box -->
     <li>
-    <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Management and Dynamic Allocation of Resources in a Post-COVID 19 Work Setting</label>
+    <input type="checkbox" id="list-item-2" class="toggle">
+    <label for="list-item-2" class="lbl-toggle">Management and Dynamic Allocation of Resources in a Post-COVID 19 Work Setting</label>
       <ul>
         <li><b><h4>YCH Group</h4>
       How might we develop an effective, cost efficient and user-friendly resource management and planning solution which enables optimisation of productivity with regard to manpower and equipment utilisation? </b>
@@ -56,8 +56,8 @@ The platform is envisaged to be powered by IoT devices and machine learning capa
 <!-- end of second drop down box -->
 <!-- start of third drop down box -->
 <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">Tagging Solution For Airfreight Shipments – Industry Use of Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
+    <input type="checkbox" id="list-item-3" class="toggle">
+    <label for="list-item-3" class="lbl-toggle">Tagging Solution For Airfreight Shipments – Industry Use of Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
       <ul>
         <li><b><h4>SATS Ltd</h4>
           How might we develop a cost-effective common tagging solution for the Singapore airfreight industry to track and trace air cargo and provide visibility at each stage of the handling process (e.g. warehouse handling, arrival, uplift onto aircraft)?</b>
@@ -71,3 +71,4 @@ The platform is envisaged to be powered by IoT devices and machine learning capa
 <!-- end of drop down box 3-->
 </ul>
 </div>
+Visit <a href="https://tcc-industry.innovation-challenge.sg/problem-statement/tagging-solution-for-airfreight-shipments-industry-use-of-air-waybill-awb-labeltags-to-replace-normal-printed-awb-label.html" target="_blank" >http://tradeandconnectivity.innovation-challenge.sg</a> to learn more.

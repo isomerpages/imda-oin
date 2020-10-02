@@ -303,18 +303,6 @@ We envision a solution to capture 360 photos and point cloud data to quantify th
 
 [![1](/images/ongoing-challenges/TCC-Enterprise-track-banner.jpg)](https://tcc-enterprise.innovation-challenge.sg)
 
-**Application Open Dates: 22 July 2020 to 15 September 2020**<br>
-
-<font color=" #a9a9a9"><b>Enterprise Singapore (ESG), IPI Singapore</b></font>
-
-In its second year, TCC 2020 is back to drive innovative partnerships to address challenges across the aviation, maritime, land mobility, logistics and trade sectors. This year’s competition is expanded to feature two challenge tracks, [Enterprise](https://tcc-enterprise.innovation-challenge.sg) and [Industry](https://tcc-industry.innovation-challenge.sg) (part of [National Innovation Challenge](https://www.openinnovationnetwork.sg/national-innovation-challenges/)). The Enterprise track calls for local and international startups to co-develop and test-bed innovative solutions with challenge sponsors through a paid contract during the trial stage. 
-
-The challenge winner will stand to win the top prize of up to S$30,000 grant and will also advance into SLINGSHOT 2020 – Asia’s premier deep tech startup competition. Promising startups may receive additional funding support for project trials and an opportunity to further develop solutions with challenge sponsors. 
-
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1xMbJcrMuf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-[Learn more](https://tcc-enterprise.innovation-challenge.sg){:target="_blank"}
 
 #### BCA-ESG Joint Challenge Call 
 <font color="#a9a9a9"><b>Challenge Owner(s): </b>Mapletree, Warees, JTC Corporation</font>
@@ -401,3 +389,35 @@ monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
 For further enquiries on this challenge call, please contact us at <a style="text-decoration: none" href = "mailto: noel_chin@bca.gov.sg">noel_chin@bca.gov.sg</a>; <a style="text-decoration: none" href = "mailto: majid_sapar@bca.gov.sg">majid_sapar@bca.gov.sg</a>; <a style="text-decoration: none" href = "mailto: gina_wang@enterprisesg.gov.sg">gina_wang@enterprisesg.gov.sg</a>.
 
 [Learn more](https://www.sleb.sg/News/NewsDetails/1223){:target="_blank"}
+
+**Application Open Dates: 22 July 2020 to 29 September 2020**<br>
+
+<font color=" #a9a9a9"><b>Enterprise Singapore (ESG), IPI Singapore</b></font>
+
+In its second year, TCC 2020 is back to drive innovative partnerships to address challenges across the aviation, maritime, land mobility, logistics and trade sectors. This year’s competition is expanded to feature two challenge tracks, [Enterprise](https://tcc-enterprise.innovation-challenge.sg) and [Industry](https://tcc-industry.innovation-challenge.sg) (part of [National Innovation Challenge](https://www.openinnovationnetwork.sg/national-innovation-challenges/)). The Enterprise track calls for local and international startups to co-develop and test-bed innovative solutions with challenge sponsors through a paid contract during the trial stage. 
+
+The challenge winner will stand to win the top prize of up to S$30,000 grant and will also advance into SLINGSHOT 2020 – Asia’s premier deep tech startup competition. Promising startups may receive additional funding support for project trials and an opportunity to further develop solutions with challenge sponsors. 
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1xMbJcrMuf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+[Learn more](https://tcc-enterprise.innovation-challenge.sg){:target="_blank"}
+
+#### Temasek Foundation Eighth Ecosperity Innovations Call for Proposals
+
+<font color="#a9a9a9"><b>Challenge Owner(s): </b>Temasek Foundation</font>
+
+[![1](/images/ongoing-challenges/Temasek-Foundation_Ecosperity-Innovations.jpg)](https://www.temasekfoundation-ecosperity.org.sg)
+
+**Application Closing Date: 30 September 2020**<br>
+
+<font color=" #a9a9a9"><b>Temasek Foundation</b></font>
+
+Through the Ecosperity Innovations Call for Proposals, Temasek Foundation funds and supports ideas and innovations for actual application through commercialisation and enterprise, to bring about impactful improvements to the liveability of our world, especially in cities. The closing date for submission of proposals is 30 September 2020.
+
+<ul>
+  <li><a href="/images/Temasek%20Foundation_Ecosperity%20Innovations%20Call%20for%20Proposals%20(Aug%202020).pdf">Overview, Eligibility and Guidelines</a></li>
+  <li><a href="/images/Temasek%20Foundation_Ecosperity%20Innovations%20Call%20for%20Proposals%20Application.docx" download>Application Form</a></li>
+</ul>
+[Learn more](https://www.temasekfoundation-ecosperity.org.sg){:target="_blank"}
+
