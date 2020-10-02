@@ -36,7 +36,7 @@ To develop an autonomous or remote inspection solution that can effectively dete
 <!-- start of first drop down box -->
     <li>
     <input type="checkbox" id="list-item-2">
-    <label for="list-item-2" >Management and Dynamic Allocation of Resources in a Post-COVID 19 Work Setting</label>
+    <label for="list-item-2">Management and Dynamic Allocation of Resources in a Post-COVID 19 Work Setting</label>
       <ul>
         <li><b><h4>YCH Group</h4>
       How might we develop an effective, cost efficient and user-friendly resource management and planning solution which enables optimisation of productivity with regard to manpower and equipment utilisation? </b>
@@ -57,7 +57,7 @@ The platform is envisaged to be powered by IoT devices and machine learning capa
 <!-- start of third drop down box -->
 <li>
     <input type="checkbox" id="list-item-3">
-    <label for="list-item-3" >Tagging Solution For Airfreight Shipments – Industry Use of Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
+    <label for="list-item-3">Tagging Solution For Airfreight Shipments – Industry Use of Air Waybill (AWB) Label/Tags to Replace Normal Printed AWB Label</label>
       <ul>
         <li><b><h4>SATS Ltd</h4>
           How might we develop a cost-effective common tagging solution for the Singapore airfreight industry to track and trace air cargo and provide visibility at each stage of the handling process (e.g. warehouse handling, arrival, uplift onto aircraft)?</b>
