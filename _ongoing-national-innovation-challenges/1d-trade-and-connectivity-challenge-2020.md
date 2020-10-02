@@ -18,7 +18,7 @@ Into its second year, the Trade and Connectivity Challenge (TCC) 2020 connects s
 <!-- start of wrapper div -->
 <!-- start of first drop down box -->
 <div id="wrapper"> 
-  <h4> Challenge Statements</h4>
+  <h4> Challenge Statement(s)</h4>
 <ul>
   <li>
     <input type="checkbox" id="list-item-1" class="toggle">
