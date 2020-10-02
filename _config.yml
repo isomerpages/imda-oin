@@ -61,11 +61,4 @@ collections:
 
 resources_name: insights
 google_analytics: UA-150355070-1
-facebook-pixel: "'');fbq("track","PageView");
-async src="https://www.googletagmanager.com/gtag/js?id=UA-150355070-1">
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-150355070-1');
-//"
+facebook-pixel: "'');fbq("track","PageView");async src="https://www.googletagmanager.com/gtag/js?id=UA-150355070-1";>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-150355070-1');//"
