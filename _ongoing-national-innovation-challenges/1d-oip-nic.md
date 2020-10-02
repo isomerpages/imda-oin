@@ -62,7 +62,7 @@ There are no restrictions on the geographic location of the problem solvers who 
     <label for="list-item-3">Intelligent Site Inspection and Defects Management System 
 </label>
       <ul>
-        <li><b><h4>Building and Construction Authority (BCA) & Capitaland Limited</h4>How might we design a digital site inspection and defects management system in order to enhance the reliability and accuracy of defects identification, while minimising the need for large on-site stakeholders in a post-COVID-19 environment?</b>
+        <li><b><h4>BCA & Capitaland Limited</h4>How might we design a digital site inspection and defects management system in order to enhance the reliability and accuracy of defects identification, while minimising the need for large on-site stakeholders in a post-COVID-19 environment?</b>
         
 <h5>What We Are Looking For</h5>
         
