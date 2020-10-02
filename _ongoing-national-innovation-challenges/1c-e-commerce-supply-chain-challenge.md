@@ -27,7 +27,7 @@ Enterprise Singapore, together with IPI Singapore, invites you to showcase your 
 <div id="wrapper">
     <h4> Challenge Statement(s) </h4>
 <ul>
-    <!-- start of drop down box 1 -->
+<!-- start of drop down box 1 -->
   <li>
     <input type="checkbox" id="list-item-1" class="toggle">
     <label for="list-item-1" class="lbl-toggle">Developing Durable And Eco-friendly E-commerce Packaging To Reduce Revenue Leakage From Damages and Associated Costs</label>
@@ -58,7 +58,7 @@ Ninja Van (13 October 2020)<br>
     </li>
   
 <!-- end of drop down box 1-->
-    <!-- start of drop down box 2 -->
+<!-- start of drop down box 2 -->
   <li>
     <input type="checkbox" id="list-item-2" class="toggle">
     <label for="list-item-2" class="lbl-toggle">Enabling Fast and Accurate B2C E-commerce Cross-Border Trade Compliance</label>
@@ -81,7 +81,7 @@ SATS (14 October 2020)<br>
     </li>
   
 <!-- end of drop down box 2-->
-    <!-- start of drop down box 3 -->
+<!-- start of drop down box 3 -->
   <li>
     <input type="checkbox" id="list-item-3" class="toggle">
     <label for="list-item-3" class="lbl-toggle">Establishing Packaging Designs To Increase Processing Efficiency Of E-commerce Parcels And Packets</label>
