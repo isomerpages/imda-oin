@@ -71,3 +71,4 @@ The platform is envisaged to be powered by IoT devices and machine learning capa
 <!-- end of drop down box 3-->
 </ul>
 </div>
+[Learn more](http://tradeandconnectivity.innovation-challenge.sg){:target="_blank"}
