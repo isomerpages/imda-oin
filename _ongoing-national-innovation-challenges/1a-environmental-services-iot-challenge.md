@@ -10,7 +10,7 @@ second_nav_title: Ongoing National Innovation Challenges
 #### Environmental Services IoT Challenge
 
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
-[![3](/images/Environmental-Services-IoT-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/)
+[![3](/images/Environmental-Services-IoT-Challenge.jpg)](https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
 **Application Open Dates: 2 October 2020 to 18 December 2020**<br>
 
@@ -38,7 +38,7 @@ A digital platform for a seamless interpretation and analysis of Environmental S
 NEA, INCUBATE Partners (22 October 2020)<br>
 9.30am – 11.00am (GMT +8)
 <br><br>  
-<a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/" target="_blank" >Apply Here</a>
+<a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -48,4 +48,4 @@ NEA, INCUBATE Partners (22 October 2020)<br>
 </div>
 
 
-Visit <a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/" target="_blank" >Gov-PACT Portal</a> to learn more.
+Visit <a href="https://gov-pact.ipi-singapore.org/grant-call/nea-esg-call-data-driven-environmental-services-operations/?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Gov-PACT Portal</a> to learn more.
