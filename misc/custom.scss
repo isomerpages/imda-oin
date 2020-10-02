@@ -382,46 +382,44 @@ $desktop: 960px + (2 * $gap) !default;
 		
 
 // //Test
-.lbl-toggle::before {
-  content: ' ';
-  display: inline-block;
+		.lbl-toggle::before {
+		  content: ' ';
+		  display: inline-block;
 
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 5px solid currentColor;
+		  border-top: 5px solid transparent;
+		  border-bottom: 5px solid transparent;
+		  border-left: 5px solid currentColor;
 
-  vertical-align: middle;
-  margin-right: .7rem;
-  transform: translateY(-2px);
+		  vertical-align: middle;
+		  margin-right: .7rem;
+		  transform: translateY(-2px);
 
-  transition: transform .2s ease-out;
-}
-		
-.lbl-toggle {
-	display: block;
-	color: #000;
-	padding: 1rem;
-	background: #fff;
-	cursor: pointer;
-	transition: all 0.25s ease-out;
-	}
-		
-.toggle:checked + .lbl-toggle::before {
- 	transform: rotate(90deg) translateX(-3px);
-}
+		  transition: transform .2s ease-out;
+		}
 
-.toggle:checked + .lbl-toggle {
-	border-bottom-right-radius: 0;
-	border-bottom-left-radius: 0;
-}
+		.lbl-toggle {
+			display: block;
+			color: #000;
+			padding: 1rem;
+			background: #fff;
+			cursor: pointer;
+			transition: all 0.25s ease-out;
+			}
+
+		.toggle:checked + .lbl-toggle::before {
+			transform: rotate(90deg) translateX(-3px);
+		}
+
+		.toggle:checked + .lbl-toggle {
+			border-bottom-right-radius: 0;
+			border-bottom-left-radius: 0;
+		}
 		
 		
-	}
+
 // //End of Test	
 }
 
-	
-}
 	
 	#faqwrapper{
 	padding: 4rem auto;
