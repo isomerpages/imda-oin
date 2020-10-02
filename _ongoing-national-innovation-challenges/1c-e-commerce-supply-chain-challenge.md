@@ -46,7 +46,7 @@ Ninja Van can support the innovation in 3 main areas:<br>
 •To connect and source for buy-in from shippers/e-commerce platforms<br>
 •To support the testing phase of the proposed solution, based on packaging standards
 
-<h5>Briefing</h5>
+<h5>Briefing Session</h5>
 <a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279" target="_blank" >Register Here</a><br>
 Ninja Van (13 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)
@@ -70,7 +70,7 @@ Outcome 1: Automate the computation of applicable real-time customs duties and t
 Outcome 2: Integrate the proposed solution onto SATS’ eFulfilment platform during the pilot phase. The proposed solution should be customisable and could be offered as a SaaS solution to other 3PL providers during the adoption phase.<br><br>
 Outcome 3: Embed artificial intelligence to check for errors in declaration information from the shipper, assign HS codes automatically, and evolve easily and quickly to any significant trade compliance changes (not limited only to customs duties and taxes, but import restrictions on quantity and type of goods as well). In addition, upon receiving feedback on possible errors on the output from the proposed solution, there should be means to improve accuracy subsequently.
 
-<h5>Briefing</h5>
+<h5>Briefing Session</h5>
 <a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279" target="_blank" >Register Here</a><br>
 SATS (14 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)
@@ -98,7 +98,7 @@ Potential solutions can include packaging sizes or designs that enable more effi
 
 At this stage we would not consider solutions that would require integration with the current automated sortation system due to cost of implementation.
 
-<h5>Briefing</h5>
+<h5>Briefing Session</h5>
 <a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279" target="_blank" >Register Here</a><br>
 Singapore Post (15 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)<br><br>
