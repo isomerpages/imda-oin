@@ -27,8 +27,8 @@ This call provides selected solvers with the opportunity to develop solutions to
 <ul>
     <!-- start of drop down box 1 -->
   <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1">Data-driven Environmental Services Operations</label>
+    <input type="checkbox" id="list-item-1" class="toggle">
+    <label for="list-item-1" class="lbl-toggle">Data-driven Environmental Services Operations</label>
       <ul>
         <li><b><h4>NEA, INCUBATE Partners</h4>How might we develop an effective and cost saving solution for the Environmental Services sector, to enable seamless data monitoring, interpretation and analysis, while improving productivity, service quality and performance for both service buyers and service providers?</b>
 <h5>What We Are Looking For</h5>
