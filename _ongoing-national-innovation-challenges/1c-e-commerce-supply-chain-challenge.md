@@ -108,7 +108,7 @@ Singapore Post (15 October 2020)<br>
     </li>
   
 <!-- end of drop down box 3-->
-</ul>learn more
+</ul>
 </div>
 
 <b>Visit <a href="https://ecommercesupplychain.innovation-challenge.sg/" target="_blank" >IPI Singapore</a> to learn more</b>
