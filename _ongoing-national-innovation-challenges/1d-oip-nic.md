@@ -32,7 +32,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 A prototype solution that brings back confidence in air travel, either through the use of sanitisation technologies, or autonomous systems to that enables superior sanitisation and disinfection cleaning with  less manpower or higher efficiency, or any other digital means. The solution should not pose other health risks or compromise the customer experience.<br><br>
 Compliance: It should meet international regulations, airline safety and health requirements, as well as manufacturer’s guidelines. 
 <br><br>
-<a href="https://www.openinnovation.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/challenges/effective-mitigation-and-prevention-of-covid-transmission-on-flight?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -50,7 +50,7 @@ A prototype solution that enhances their security screening operations, centrali
 <br><br>
 There are no restrictions on the geographic location of the problem solvers who may choose to apply to this challenge. However, the prototype needs to be demonstrated in Singapore.
 <br><br>
-<a href="https://www.openinnovation.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="www.openinnovation.sg/challenges/networked-x-ray-machines-with-automated-risk-prioritisation-for-centralised-control-and-efficient-monitoring?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -69,7 +69,7 @@ There are no restrictions on the geographic location of the problem solvers who 
 A prototype site inspection and defects management system with machine-learning and image-and-video analytics capabilities<br><br>
 
 There are no restrictions on the geographical location of the problem solvers who may choose to apply to this challenge. However, the prototype must be demonstrated in Singapore.<br><br>
-<a href="https://www.openinnovation.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/challenges/intelligent-site-inspection-and-defects-management-system?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
