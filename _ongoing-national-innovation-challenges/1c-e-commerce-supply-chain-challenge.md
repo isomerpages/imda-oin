@@ -111,4 +111,4 @@ Singapore Post (15 October 2020)<br>
 </ul>
 </div>
 
-Visit <a href="https://ecommercesupplychain.innovation-challenge.sg/" target="_blank" >Gov-PACT Portal</a> to learn more
+Visit <a href="https://ecommercesupplychain.innovation-challenge.sg/" target="_blank" >here</a> to learn more
