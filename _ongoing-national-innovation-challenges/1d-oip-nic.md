@@ -23,8 +23,8 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 <ul>
     <!-- start of drop down box 1 -->
   <li>
-    <input type="checkbox" id="list-item-1">
-    <label for="list-item-1">Effective Mitigation and Prevention of Covid Transmission on Flight</label>
+    <input type="checkbox" id="list-item-1" class="toggle">
+    <label for="list-item-1" class="lbl-toggle">Effective Mitigation and Prevention of Covid Transmission on Flight</label>
       <ul>
         <li><b><h4>CAAS & SATS Ltd</h4>How do we restore the confidence that aircraft cabin has been effectively cleaned, disinfected on ground and while airborne?</b>
 
@@ -39,8 +39,8 @@ Compliance: It should meet international regulations, airline safety and health 
 <!-- end of drop down box 1-->
 <!-- start of drop down box 2 -->
   <li>
-    <input type="checkbox" id="list-item-2">
-    <label for="list-item-2">Networked X-Ray Machines with Automated Risk Prioritisation for Centralised Control and Efficient Monitoring</label>
+    <input type="checkbox" id="list-item-2" class="toggle">
+    <label for="list-item-2" class="lbl-toggle">Networked X-Ray Machines with Automated Risk Prioritisation for Centralised Control and Efficient Monitoring</label>
       <ul>
         <li><b><h4>CAAS & SATS Ltd</h4>How might we develop a threat detection solution through a networked X-ray machines that can automatically triage images from multiple machines, and securely be assessed by a centralised pool of certified operators for efficient and effective threat assessment?</b>
         
@@ -58,8 +58,8 @@ There are no restrictions on the geographic location of the problem solvers who 
 <!-- end of drop down box 2-->
 <!-- start of drop down box 3 -->
   <li>
-    <input type="checkbox" id="list-item-3">
-    <label for="list-item-3">Intelligent Site Inspection and Defects Management System 
+    <input type="checkbox" id="list-item-3" class="toggle">
+    <label for="list-item-3" class="lbl-toggle">Intelligent Site Inspection and Defects Management System 
 </label>
       <ul>
         <li><b><h4>BCA & Capitaland Limited</h4>How might we design a digital site inspection and defects management system in order to enhance the reliability and accuracy of defects identification, while minimising the need for large on-site stakeholders in a post-COVID-19 environment?</b>
