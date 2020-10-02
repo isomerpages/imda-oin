@@ -110,4 +110,4 @@ All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. 
 </ul>
 </div>
 
-<b>Visit <a href="https://www.openinnovation.sg/" target="_blank" >OIP</a> to learn more.</b>
+Visit <a href="https://www.openinnovation.sg/" target="_blank" >OIP</a> to learn more.
