@@ -10,7 +10,7 @@ second_nav_title: Ongoing National Innovation Challenges
 #### **E-commerce Supply Chain Challenge**
 
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
-[![3](/images/E-commerce-Supply-Chain-Challenge.jpg)](https://ecommercesupplychain.innovation-challenge.sg/)
+[![3](/images/E-commerce-Supply-Chain-Challenge.jpg)](https://ecommercesupplychain.innovation-challenge.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
 **Application Open Dates: 2 October 2020 to 20 November 2020**<br>
 
@@ -47,12 +47,12 @@ Ninja Van can support the innovation in 3 main areas:<br>
 •To support the testing phase of the proposed solution, based on packaging standards
 
 <h5>Briefing Session</h5>
-<a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279" target="_blank" >Register Here</a><br>
+<a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Register Here</a><br>
 Ninja Van (13 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)
 <br><br>
 
-<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/developing-durable-and-eco-friendly-e-commerce-packaging-to-reduce-revenue-leakage-from-damages-and-associated-costs.html" target="_blank" >Apply Here</a>
+<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/developing-durable-and-eco-friendly-e-commerce-packaging-to-reduce-revenue-leakage-from-damages-and-associated-costs.html?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -71,11 +71,11 @@ Outcome 2: Integrate the proposed solution onto SATS’ eFulfilment platform dur
 Outcome 3: Embed artificial intelligence to check for errors in declaration information from the shipper, assign HS codes automatically, and evolve easily and quickly to any significant trade compliance changes (not limited only to customs duties and taxes, but import restrictions on quantity and type of goods as well). In addition, upon receiving feedback on possible errors on the output from the proposed solution, there should be means to improve accuracy subsequently.
 
 <h5>Briefing Session</h5>
-<a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279" target="_blank" >Register Here</a><br>
+<a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Register Here</a><br>
 SATS (14 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)
 <br><br>
-<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/developing-durable-and-eco-friendly-e-commerce-packaging-to-reduce-revenue-leakage-from-damages-and-associated-costs.html" target="_blank" >Apply Here</a>
+<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/developing-durable-and-eco-friendly-e-commerce-packaging-to-reduce-revenue-leakage-from-damages-and-associated-costs.html?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -99,10 +99,10 @@ Potential solutions can include packaging sizes or designs that enable more effi
 At this stage we would not consider solutions that would require integration with the current automated sortation system due to cost of implementation.
 
 <h5>Briefing Session</h5>
-<a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279" target="_blank" >Register Here</a><br>
+<a href="https://www.eventbrite.sg/e/e-commerce-supply-chain-challenge-2020-tickets-121829488279?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Register Here</a><br>
 Singapore Post (15 October 2020)<br>
 4.30pm – 5.30pm (GMT +8)<br><br>
-<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/establishing-packaging-designs-to-increase-processing-efficiency-of-e-commerce-parcels-and-packets.html" target="_blank" >Apply Here</a>
+<a href="https://ecommercesupplychain.innovation-challenge.sg/problem-statement/establishing-packaging-designs-to-increase-processing-efficiency-of-e-commerce-parcels-and-packets.html?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -111,4 +111,4 @@ Singapore Post (15 October 2020)<br>
 </ul>
 </div>
 
-Visit <a href="https://ecommercesupplychain.innovation-challenge.sg/" target="_blank" >Gov-PACT Portal</a> to learn more
+Visit <a href="https://ecommercesupplychain.innovation-challenge.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >here</a> to learn more
