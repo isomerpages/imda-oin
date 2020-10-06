@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
-<a href="www.apac-summit.com?utm_source=openinnovationnetwork.sg&utm_medium=referral">
+<a href="http://www.apac-summit.com?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/partners/Plug and Play.png" alt="1">
 </a>
 </div>
