@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
-<a href="https://www.icmg.com.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral"">
+<a href="https://www.icmg.com.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/partners/ICMG logo.PNG" alt="1">
 </a>
   </div>
