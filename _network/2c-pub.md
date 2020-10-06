@@ -8,7 +8,7 @@ second_nav_title: Public Agencies
 ---
 
 <div class="networklogo">
-<a href="https://www.pub.gov.sg/">
+<a href="https://www.pub.gov.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/PUB-LOGO_full-colour_primary.jpg" alt="1">
 </a>
   </div>
@@ -17,4 +17,4 @@ second_nav_title: Public Agencies
 
 PUB is a statutory board under the Ministry of Sustainability and the Environment. It is the National Water Agency that manages Singapore’s water supply, water catchment and used water in an integrated way. 
 
-[Learn more](https://www.pub.gov.sg/){:target="_blank"}
+[Learn more](https://www.pub.gov.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
