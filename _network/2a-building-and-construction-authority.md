@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Public Agencies
 ---
 <div class="networklogo">
-<a href="https://www1.bca.gov.sg">
+<a href="https://www1.bca.gov.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/partners/BCALogoHorizontal.jpg" alt="1">
 </a>
 </div>
@@ -16,4 +16,4 @@ second_nav_title: Public Agencies
 
 BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. Together with our partners, we work towards realising our vision of an advanced and integrated built environment sector, with widespread adoption of leading technologies, led by progressive and collaborative firms, offering good jobs for Singaporeans.
 
-[Learn more](https://www1.bca.gov.sg){:target="_blank"}
+[Learn more](https://www1.bca.gov.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
