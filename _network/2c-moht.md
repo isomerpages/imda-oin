@@ -8,7 +8,7 @@ second_nav_title: Public Agencies
 ---
 
 <div class="networklogo">
-<a href="https://www.moht.com.sg/design4impacto">
+<a href="https://www.moht.com.sg/design4impact?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/partners/MOHT-Logo.jpg" alt="1">
 </a>
 </div>
@@ -17,4 +17,4 @@ second_nav_title: Public Agencies
 
 A health and social care initiative for Singaporeans to help fellow Singaporeans towards co-creating sustainable community-owned solutions, primed for scaling.
 
-[Learn more](https://www.moht.com.sg/design4impact){:target="_blank"}
+[Learn more](https://www.moht.com.sg/design4impact?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
