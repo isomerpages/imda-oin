@@ -16,4 +16,4 @@ second_nav_title: Open Innovation Intermediaries
 
 ICMG aims to become Asia’s most admired accelerator who constantly work towards creating new corporate innovations. As the leading corporate innovation accelerator, ICMG Singapore works with different partners to co-create purposeful innovations for corporates.
 
-[Learn more](https://www.icmg.com.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral"){:target="_blank"}
+[Learn more](https://www.icmg.com.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
