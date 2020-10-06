@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
-<a href="https://lne.st/">
+<a href="https://lne.st/?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/partners/LVN.jpg" alt="1">
 </a>
 </div>
@@ -15,4 +15,4 @@ second_nav_title: Open Innovation Intermediaries
 <h3>Leave a Nest </h3>
 
 Leave a Nest Singapore was established in 2010 as the leading deep tech innovation platform in Southeast Asia. Since 2014, the company’s flagship programme, TECH PLANTER, an annual seed accelerator programme, has been expanding rapidly across the region with close to 568 teams.
-[Learn more](https://lne.st/){:target="_blank"}
+[Learn more](https://lne.st/?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}

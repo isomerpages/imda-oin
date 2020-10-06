@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
-<a href="https://www.siird.com">
+<a href="https://www.siird.com?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/partners/SIIRD Logo.jpg" alt="1">
 </a>
 </div>
@@ -16,4 +16,4 @@ second_nav_title: Open Innovation Intermediaries
 
 Established in 1997, the Singapore-Israel Industrial R&D Foundation (SIIRD) is a co-operation between Enterprise Singapore and the Israel Innovation Authority to promote, faciliate and support joint industrial R&D projects across all technological sectors, between organisations registered in Israel and Singapore, which would lead to successful commercialization
 
-[Learn more](https://www.siird.com){:target="_blank"}
+[Learn more](https://www.siird.com?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}

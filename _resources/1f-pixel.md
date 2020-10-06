@@ -19,4 +19,4 @@ We offer interactive and hands-on workshops to help your company learn and apply
 
 Our support includes: (1) Workshops to help your company learn and apply design thinking in digital transformation and innovation projects, (2) Project-based coaching with an expert to have a practical and experiential understanding of Design Thinking principles and to help you to develop customer-centric digital products and services.
 
-To find out more about PIXEL, click [here](https://www.imda.gov.sg/impixel#1){:target="_blank"} 
+To find out more about PIXEL, click [here](https://www.imda.gov.sg/impixel#1?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"} 

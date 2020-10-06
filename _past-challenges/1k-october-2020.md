@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Huawei Spark 2020
-permalink: /huawei-spark-2020/
-breadcrumb: Ongoing Challenges / Huawei Spark 2020
-collection_name: ongoing-challenges
-second_nav_title: Ongoing Challenges
+title: October 2020
+permalink: /past-challenges-oct-2020/
+breadcrumb: Past Challenges / October 2020
+collection_name: past-challenges
+second_nav_title: Past Challenges
 ---
 
 #### Huawei Spark 2020
