@@ -8,7 +8,7 @@ second_nav_title: Open Innovation Intermediaries
 ---
 
 <div class="networklogo">
-<a href="http://www.thexnode.com/">
+<a href="http://www.thexnode.com/?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src="/images/partners/XNode.png" alt="1">
 </a>
   </div>
@@ -16,4 +16,4 @@ second_nav_title: Open Innovation Intermediaries
 <h3>XNode</h3> 
 XNode reinvents how innovators create impactful companies with the world's leading engine for global innovation. 
 
-[Learn more](http://www.thexnode.com/){:target="_blank"}
+[Learn more](http://www.thexnode.com/?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
