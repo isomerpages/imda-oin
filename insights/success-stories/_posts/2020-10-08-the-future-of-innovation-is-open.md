@@ -42,8 +42,6 @@ Indeed, when local firms partner with international companies and public sector 
 ![1](/images/ecosoftt.jpg)
 <sub>The ECOSOFTT wastewater treatment system at JTC Cleantech One. [Source: <a href="http://ecosoftt.org/wp-content/uploads/2018/01/BCA-News_Beyond_Inter_Oct17.pdf"> ECOSOFTT</a>]</sub>
 
-The ECOSOFTT wastewater treatment system at JTC Cleantech One. Source: ECOSFTT
-
 ECOSOFTT’s sustainable water system was originally deployed at JTC CleanTech One, known as Singapore’s first water-smart blue building. It has made its solution affordable by reducing costs through the localisation of procurement, fabrication and project execution.
 
 When the pandemic occurred, ECOSOFTT could rapidly set up a similar system at the Changi isolation facility after its experience from the JTC CleanTech One implementation.
