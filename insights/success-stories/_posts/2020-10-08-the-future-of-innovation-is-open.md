@@ -9,7 +9,7 @@ permalink: /insights/success-stories/the-future-of-innovation-is-open/
 <img src="/images/ecosoftt-waste-water-treatment.jpg" alt="1" style="width:946px;height:709px;">
 <sub>The ECOSOFTT wastewater treatment system makes recycling every drop of water at a specific site a reality<br>[Key visual source: <a href="http://ecosoftt.org/wp-content/uploads/2018/01/BCA-News_Beyond_Inter_Oct17.pdf" style="text-decoration: none;"> ECOSOFTT</a>]</sub>
 
-<p align="justify">Innovation might just be the silver lining of 2020. But not just the conventional way of innovating. <br><br>
+Innovation might just be the silver lining of 2020. But not just the conventional way of innovating. <br><br>
 
 Instead, open innovation is taking the lead in the fight against Covid-19. Globally, scientists, pharmaceutical companies and governments are coming together to work on vaccines, exchange data and accelerate research on the pandemic. <br><br>
 
@@ -64,7 +64,7 @@ Launched in July, NIC will propel open innovation in Singapore towards solutions
 
 Government agencies, trade associations and chambers as well as large corporations can also work with NIC to present their challenges to firms.<br><br>
 
-Rise to the National Innovation Challenges, which have released the second wave of challenges calling for open innovations across the eCommerce, environmental services, healthcare, digital and ICT sectors.</p>
+Rise to the National Innovation Challenges, which have released the second wave of challenges calling for open innovations across the eCommerce, environmental services, healthcare, digital and ICT sectors.
 
 Find more about the <a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/">National Innovation Challenges</a>.
 
