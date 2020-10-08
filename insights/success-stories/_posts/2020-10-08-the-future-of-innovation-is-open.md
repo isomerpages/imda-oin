@@ -27,7 +27,7 @@ ECOSOFTT’s solution became the right fit: it recycles sewage on-site to expand
 
 <b>Why Tap Open Innovation for Growth?</b><br><br>
 
-<b>A Real Need, A Right Match</b>
+<b>A Real Need, A Right Match</b><br><br>
 
 In fact, ECOSOFTT’s solution was developed through an earlier open innovation process: JTC, PUB and ESG had made a joint grant call for a decentralised wastewater treatment solution to reduce the load on centralised systems. <br><br>
 
