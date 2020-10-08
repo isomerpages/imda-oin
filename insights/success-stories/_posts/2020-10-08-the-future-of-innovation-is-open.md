@@ -4,11 +4,11 @@ title: The Future of Innovation Is Open
 date: 2020-10-08
 permalink: /insights/success-stories/the-future-of-innovation-is-open/
 ---
-<img src="/images/ecosoftt-waste-water-treatment.jpg" alt="1" style="width:946px;height:709px;">
-
 <h4>The Future of Innovation Is Open</h4>
   
 <h4>ECOSOFTT: Sustainable Water Source for a Covid-19 Isolation Facility</h4>
+
+<img src="/images/ecosoftt-waste-water-treatment.jpg" alt="1" style="width:946px;height:709px;">
 <sub>The ECOSOFTT wastewater treatment system makes recycling every drop of water at a specific site a reality<br>[Key visual source: <a href="http://ecosoftt.org/wp-content/uploads/2018/01/BCA-News_Beyond_Inter_Oct17.pdf"> ECOSOFTT</a>]</sub>
 
 <p align="justify">Innovation might just be the silver lining of 2020. But not just the conventional way of innovating. <br><br>
