@@ -4,7 +4,7 @@ title: "The Future of Innovation is Open — <br>A Sustainable Water Source"
 date: 2020-10-08
 permalink: /insights/success-stories/the-future-of-innovation-is-open/
 ---
-<h4>ECOSOFTT: Sustainable Water Source for a Covid-19 Isolation Facility</h4>
+<h3>ECOSOFTT: Sustainable Water Source for a Covid-19 Isolation Facility</h3>
 
 ![1](/images/ecosoftt-waste-water-treatment.jpg)
 <sub>The ECOSOFTT wastewater treatment system makes recycling every drop of water at a specific site a reality. Source: ECOSOFTT</sub>
