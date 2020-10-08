@@ -6,7 +6,8 @@ permalink: /insights/success-stories/the-future-of-innovation-is-open/
 ---
 <h4>The Future of Innovation Is Open<br><br>ECOSOFTT: Sustainable Water Source for a Covid-19 Isolation Facility</h4>
 
-<img src="/images/ecosoftt-waste-water-treatment.jpg" alt="1" style="width:946px;height:709px;">
+![1](/images/ecosoftt-waste-water-treatment.jpg)
+
 <sub>The ECOSOFTT wastewater treatment system makes recycling every drop of water at a specific site a reality<br>[Key visual source: <a href="http://ecosoftt.org/wp-content/uploads/2018/01/BCA-News_Beyond_Inter_Oct17.pdf" style="text-decoration: none;"> ECOSOFTT</a>]</sub>
 
 Innovation might just be the silver lining of 2020. But not just the conventional way of innovating. 
@@ -40,7 +41,7 @@ The success of the project can be attributed to the collaborators’ openness to
 Indeed, when local firms partner with international companies and public sector agencies, they can play a significant role in addressing massive urban development challenges in the region.
 
 <h3>Opportunity to Go to New Markets</h3>
-<img src="/images/ecosoftt.jpg" alt="1" style="width:973px;height:731px;">
+![1](/images/ecosoftt.jpg)
 
 ECOSOFTT’s sustainable water system was originally deployed at JTC CleanTech One, known as Singapore’s first water-smart blue building. It has made its solution affordable by reducing costs through the localisation of procurement, fabrication and project execution.
 
