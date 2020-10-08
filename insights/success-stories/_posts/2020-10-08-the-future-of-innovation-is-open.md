@@ -38,7 +38,6 @@ ECOSOFTT’s high-quality wastewater treatment plant also taps into the deep tec
 The success of the project can be attributed to the collaborators’ openness to innovate with each other – along the way, their ethos has helped to strengthen the innovation ecosystem in Singapore.<br><br>
 
 Indeed, when local firms partner with international companies and public sector agencies, they can play a significant role in addressing massive urban development challenges in the region.<br><br>
-</p>
 
 <h3>Opportunity to Go to New Markets</h3>
 <img src="/images/ecosoftt.jpg" alt="1" style="width:973px;height:731px;">
@@ -65,7 +64,7 @@ Launched in July, NIC will propel open innovation in Singapore towards solutions
 
 Government agencies, trade associations and chambers as well as large corporations can also work with NIC to present their challenges to firms.<br><br>
 
-Rise to the National Innovation Challenges, which have released the second wave of challenges calling for open innovations across the eCommerce, environmental services, healthcare, digital and ICT sectors.
+Rise to the National Innovation Challenges, which have released the second wave of challenges calling for open innovations across the eCommerce, environmental services, healthcare, digital and ICT sectors.</p>
 
 Find more about the <a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/">National Innovation Challenges</a>.
 
