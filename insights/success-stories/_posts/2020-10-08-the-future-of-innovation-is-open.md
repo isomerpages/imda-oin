@@ -57,7 +57,7 @@ Does your company work with external parties to ideate and exchange knowledge �
 
 Does your company believe that external parties have important and relevant contributions to your internal innovation process?
 
-A “Yes” to the above means your company engages in open innovation – and the National Innovation Challenges (NIC) <a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/">National Innovation Challenges (NIC)</a> initiative is looking for firms like yours!
+A “Yes” to the above means your company engages in open innovation – and the <a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/">National Innovation Challenges (NIC)</a> initiative is looking for firms like yours!
 
 Launched in July, NIC will propel open innovation in Singapore towards solutions for a post-pandemic world. Through the initiative, local firms will receive support to collaborate across industry and co-develop solutions that help businesses nationwide adapt to the New Normal.
 
