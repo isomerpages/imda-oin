@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Future of Innovation is Open -- A Sustainable Water Source
+title: The Future of Innovation is Open — A Sustainable Water Source
 date: 2020-10-08
 permalink: /insights/success-stories/the-future-of-innovation-is-open/
 ---
