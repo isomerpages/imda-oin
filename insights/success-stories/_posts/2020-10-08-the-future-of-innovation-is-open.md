@@ -63,7 +63,7 @@ Launched in July, NIC will propel open innovation in Singapore towards solutions
 
 Government agencies, trade associations and chambers as well as large corporations can also work with NIC to present their challenges to firms.
 
-Rise to the National Innovation Challenges, which have released the second wave of challenges calling for open innovations across the eCommerce, environmental services, healthcare, digital and ICT sectors.
+Rise to the National Innovation Challenges, which have released the <a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/">second wave of challenges</a> calling for open innovations across the eCommerce, environmental services, healthcare, digital and ICT sectors.
 
 Find more about the <a href="https://www.openinnovationnetwork.sg/national-innovation-challenges/">National Innovation Challenges</a>.
 
