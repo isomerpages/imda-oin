@@ -50,7 +50,7 @@ The problem of clean water extends to many other cities, and ECOSOFTT has been a
 
 For example, ECOSOFTT’s solution is successfully meeting the water needs of urban India, where many communities receive limited piped water supply and face severe wastewater pollution challenges. In a town in Madhya Pradesh, ECOSOFTT’s solution treats 2.5 million litres of water per day; and for a residential development in the Delhi National Capital Region, ECOSOFTT recycles 500,000 litres of wastewater daily towards landscaping, toilet flushing and other non-potable purposes.
 
-<b>Are You Ready for Open Innovation?
+<b>Are You Ready for Open Innovation?</b>
 
 How open is your company when it comes to innovation?
 
