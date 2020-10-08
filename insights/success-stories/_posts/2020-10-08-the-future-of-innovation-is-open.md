@@ -37,7 +37,8 @@ ECOSOFTT’s high-quality wastewater treatment plant also taps into the deep tec
 
 The success of the project can be attributed to the collaborators’ openness to innovate with each other – along the way, their ethos has helped to strengthen the innovation ecosystem in Singapore.
 
-Indeed, when local firms partner with international companies and public sector agencies, they can play a significant role in addressing massive urban development challenges in the region.<h3>Opportunity to Go to New Markets</h3>
+Indeed, when local firms partner with international companies and public sector agencies, they can play a significant role in addressing massive urban development challenges in the region.
+<h3>Opportunity to Go to New Markets</h3>
 ![1](/images/ecosoftt.jpg)
 
 ECOSOFTT’s sustainable water system was originally deployed at JTC CleanTech One, known as Singapore’s first water-smart blue building. It has made its solution affordable by reducing costs through the localisation of procurement, fabrication and project execution.
