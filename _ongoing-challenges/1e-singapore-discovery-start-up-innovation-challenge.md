@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Singapore Discovery Start-up Innovation Challenge
-permalink: /singapore-discovery-start-up-innovation-challenge
-breadcrumb: Ongoing Challenges / Singapore Discovery Start-up Innovation Challenge
+title: Singapore Discovery Centre Start-up Innovation Challenge
+permalink: /singapore-discovery-centre-start-up-innovation-challenge
+breadcrumb: Ongoing Challenges / Singapore Discovery Centre Start-up Innovation Challenge
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
-#### Singapore Discovery Start-up Innovation Challenge
+#### Singapore Discovery Centre Start-up Innovation Challenge
 <font color="#a9a9a9"><b>Challenge Owner(s): </b>Singapore Discovery Centre</font>
 [![1](/images/SDCSIC.jpg)](https://www.sdcsic.com/&utm_medium=referral)
 
