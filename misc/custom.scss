@@ -626,9 +626,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 		}
 	
-	#main-content > section.bp-section.padding--none.is-hidden-desktop > div{
+	#main-content > section.bp-section.padding--none.is-hidden-desktop > div > div.bp-dropdown-trigger > a.bp-button{
 		white-space: pre-wrap;
-	)
+	}
 }
 
 // End of test
