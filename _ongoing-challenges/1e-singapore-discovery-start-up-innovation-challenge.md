@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Singapore Discovery Start-up Innovation Challenge
-permalink: /challenge-title/singapore-discovery-start-up-innovation-challenge
+permalink: /singapore-discovery-start-up-innovation-challenge
 breadcrumb: Ongoing Challenges / Singapore Discovery Start-up Innovation Challenge
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
