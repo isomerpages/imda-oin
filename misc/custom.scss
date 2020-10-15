@@ -627,7 +627,7 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 	
 	#main-content > section.bp-section.padding--none.is-hidden-desktop > div > div.bp-dropdown-trigger > a {
-		white-space: none;
+		white-space: pre-wrap;
 	
 }
 
