@@ -8,7 +8,7 @@ second_nav_title: Ongoing Challenges
 ---
 #### Singapore Discovery Centre Start-up Innovation Challenge
 <font color="#a9a9a9"><b>Challenge Owner(s): </b>Singapore Discovery Centre</font>
-[![1](/images/SDCSIC.jpg)](https://www.sdcsic.com/&utm_medium=referral)
+[![1](/images/SDCSIC.jpg)](https://www.sdcsic.com/?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
 **Application Open Dates: 28 September 2020 to 13 November 2020**<br>
 <font color=" #a9a9a9"><b>Singapore Discovery Centre, Action Community for Entrepreneurship</b></font>
@@ -18,5 +18,5 @@ Join Singapore Discovery Centre to be part of their Start-up Innovation Challeng
 Through this Challenge, selected companies will be funded by Singapore Discovery Centre on their solutions. Companies can also further advance the development of their technology by collaborating with Singapore Discovery Centre in terms of business solutions and technical functions. The winners will be awarded with a joint prize of SGD$10,000 and the top winner with a contract prize of up to SGD$250,000 for the prototype development of the solutions.
 
 
-[Learn more](https://www.sdcsic.com/&utm_medium=referral){:target="_blank"}
+[Learn more](https://www.sdcsic.com/?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
 
