@@ -1,3 +1,5 @@
+<!--
+
 ---
 layout: leftnav-page-content
 title: Healthcare Innovation Challenge
@@ -152,5 +154,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
 </ul>
 </div>
 
+-->
 
 Visit <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >here</a> to learn more.
