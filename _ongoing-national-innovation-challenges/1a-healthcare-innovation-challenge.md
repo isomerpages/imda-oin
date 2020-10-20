@@ -12,9 +12,9 @@ second_nav_title: Ongoing National Innovation Challenges
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/Environmental-Services-IoT-Challenge.jpg)](https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
-**Application Open Dates: 2 October 2020 to 18 December 2020**<br>
+**Application Open Dates: 00 Month 2020 to 00 Month 2020**<br>
 
-<font color=" #a9a9a9"><b>National Environment Agency(NEA), Enterprise Singapore(ESG)</b></font>
+<font color=" #a9a9a9"><b>Intermediary 1, Intermediary 2</b></font>
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
