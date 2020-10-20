@@ -1,5 +1,4 @@
 <!--
-
 ---
 layout: leftnav-page-content
 title: Healthcare Innovation Challenge
@@ -10,6 +9,7 @@ second_nav_title: Ongoing Challenges
 ---
 
 #### Healthcare Innovation Challenge
+
 
 <font color="#a9a9a9"><b>Challenge Owner(s)</b>: Demand Driver 1, Demand Driver 2</font>
 [![3](/images/Environmental-Services-IoT-Challenge.jpg)](https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral)
@@ -27,7 +27,6 @@ Nulla ut nulla lorem. Sed tincidunt dolor a ex commodo pulvinar. Nam placerat in
 <div id="wrapper">
     <h4> Challenge Statement(s)</h4>
 <ul>
-    <!-- start of drop down box 1 -->
   <li>
     <input type="checkbox" id="list-item-1" class="toggle">
     <label for="list-item-1" class="lbl-toggle">Challenge Statement 1</label>
@@ -41,8 +40,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 1-->
-    <!-- start of drop down box 2 -->
   <li>
     <input type="checkbox" id="list-item-2" class="toggle">
     <label for="list-item-2" class="lbl-toggle">Challenge Statement 2</label>
@@ -56,9 +53,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 2-->
-
-    <!-- start of drop down box 3 -->
   <li>
     <input type="checkbox" id="list-item-3" class="toggle">
     <label for="list-item-3" class="lbl-toggle">Challenge Statement 3</label>
@@ -72,9 +66,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 3-->
-
-    <!-- start of drop down box 4 -->
   <li>
     <input type="checkbox" id="list-item-4" class="toggle">
     <label for="list-item-4" class="lbl-toggle">Challenge Statement 4</label>
@@ -88,9 +79,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 4-->
-
-    <!-- start of drop down box 5 -->
   <li>
     <input type="checkbox" id="list-item-5" class="toggle">
     <label for="list-item-5" class="lbl-toggle">Challenge Statement 5</label>
@@ -104,8 +92,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 5-->
-    <!-- start of drop down box 6 -->
   <li>
     <input type="checkbox" id="list-item-6" class="toggle">
     <label for="list-item-6" class="lbl-toggle">Challenge Statement 6</label>
@@ -119,8 +105,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 6-->
-    <!-- start of drop down box 7 -->
   <li>
     <input type="checkbox" id="list-item-7" class="toggle">
     <label for="list-item-7" class="lbl-toggle">Challenge Statement 7</label>
@@ -134,9 +118,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 7-->
 
-    <!-- start of drop down box 8 -->
   <li>
     <input type="checkbox" id="list-item-8" class="toggle">
     <label for="list-item-8" class="lbl-toggle">Challenge Statement 8</label>
@@ -150,10 +132,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
       </ul>
     </li>
   
-<!-- end of drop down box 8-->
+
 </ul>
 </div>
 
--->
 
 Visit <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >here</a> to learn more.
+-->
