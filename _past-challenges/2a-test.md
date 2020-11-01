@@ -1,3 +1,4 @@
+<!--
 ---
 layout: leftnav-page-content
 title: Mirai Electronics
@@ -19,3 +20,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse purus arcu,
 </p>
 
 [Learn more](https://www.openinnovationnetwork.sg){:target="_blank"}
+-->
