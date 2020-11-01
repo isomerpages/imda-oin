@@ -4,7 +4,7 @@ title: IPI
 permalink: /network/ipi
 breadcrumb: Network / Intellectual Property Intermediary
 collection_name: network
-second_nav_title: Public Agencies
+second_nav_title: Open Innovation Intermediaries
 ---
 <div class="networklogo">
 <a href="https://www.ipi-singapore.org?utm_source=openinnovationnetwork.sg&utm_medium=referral">
