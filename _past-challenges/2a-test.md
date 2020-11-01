@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Mirai Electronics
 permalink: /test
-second_nav_title: Past Challenge Winners
+second_nav_title: Progress Updates
 collection_name: past-challenges
 ---
 
