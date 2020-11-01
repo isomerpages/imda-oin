@@ -284,6 +284,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
 	h1, h2, h3, h4, h5 {
+		margin: 0.75rem;
 		color: $secondary;
 		strong {
 			color: $secondary;
