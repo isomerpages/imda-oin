@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
-title: EMA x Mirai Electronics:<br>Smart Metering for Multi-Utilities
+title: Mirai Electronics
 permalink: /test
 second_nav_title: Success Stories
-collection_name: ongoing-national-innovation-challenges
+collection_name: past-challenges
 ---
 
 <font color="#a9a9a9"><b>01 November 2020</b>
