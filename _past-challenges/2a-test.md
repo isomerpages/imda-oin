@@ -10,7 +10,7 @@ collection_name: past-challenges
 <h3>Smart Metering for Multi-Utilities</h3>
 <a href="https://www.openinnovationnetwork.sg">
 <img src="/images/progress-update.jpg" alt="1" style="width:700px;height:412px;">
-</a>
+</a><br>
 <font color=" #a9a9a9"><b>Mirai Electronics</b></font>
 
 <p>
