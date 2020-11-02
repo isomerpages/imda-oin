@@ -8,7 +8,7 @@ collection_name: ongoing-national-innovation-challenges
 
 #### **IMDA Open Innovation Challenges**
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
-[![3](/images/oip_banner_nic.png)](https://www.openinnovation.sg/about)
+[![3](/images/oip_banner_nic.png)](https://www.openinnovation.sg/about?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
 <br>
 IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. As part of the first call of National Innovation Challenges, IMDA OIP is hosting 4 challenge statements aimed at enabling key industries, such as construction, maritime, events and tourism, which drives Singapore's economy to emerge stronger from Covid-19.
@@ -27,7 +27,7 @@ The system should make provision for – a seamless check-in module and a real-t
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. SACEOS and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/about?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
           </li>
         </ul>
       </li>
@@ -45,7 +45,7 @@ o	This platform should be able to utilise input based on workforce availability 
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. BCA, Kajima Group and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/about?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
        </ul>
     </li>
@@ -71,7 +71,7 @@ The solution should include the following capabilities:<br>
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. NHB and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.<br><br>
 
-<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/about?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -101,7 +101,7 @@ There are no restrictions on the geographic location of the problem solvers who 
 <h5>DEADLINE</h5>
 All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. PSA and IMDA may extend the deadline of the submission at their discretion. Late submissions will not be considered.
 <br><br>
-<a href="https://www.openinnovation.sg/about" target="_blank" >Apply Here</a>
+<a href="https://www.openinnovation.sg/about?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -110,4 +110,4 @@ All submissions must be made by <b>28 August 2020, 1600 hours (SGT/GMT +8)</b>. 
 </ul>
 </div>
 
-Visit <a href="https://www.openinnovation.sg/" target="_blank" >OIP</a> to learn more.
+Visit <a href="https://www.openinnovation.sg/?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >OIP</a> to learn more.
