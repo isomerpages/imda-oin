@@ -284,11 +284,14 @@ $desktop: 960px + (2 * $gap) !default;
 // Post-content
 .content {
 	h1, h2, h3, h4, h5 {
-		margin-top : 0.75rem;
 		color: $secondary;
 		strong {
 			color: $secondary;
 		}
+	}
+	
+	h3{
+		margin-top :0.75rem;
 	}
 	blockquote {
 		border-left-color: $secondary;
