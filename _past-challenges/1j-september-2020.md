@@ -294,16 +294,6 @@ We envision a solution to capture 360 photos and point cloud data to quantify th
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/jtc-innovation-challenge){:target="_blank"}
 
-
-#### Trade and Connectivity Challenge 2020 Enterprise Track
-
-<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Continental Automotive Singapore Pte Ltd, GeTS Asia Pte Ltd
-, Lumens Auto Pte Ltd, Nursultan Nazarbayev Foundation, Pacific International Lines Pte Ltd, SATS Ltd, Singapore Post Limited, Sumitomo Corporation Asia & Oceania Pte Ltd
-, Tech-Link Storage Engineering Pte Ltd, Teckwah Value Chain Pte Ltd, Tristar Group, YCH Group Pte Ltd</font>
-
-[![1](/images/ongoing-challenges/TCC-Enterprise-track-banner.jpg)](https://tcc-enterprise.innovation-challenge.sg)
-
-
 #### BCA-ESG Joint Challenge Call 
 <font color="#a9a9a9"><b>Challenge Owner(s): </b>Mapletree, Warees, JTC Corporation</font>
 [![1](/images/ongoing-challenges/BCA-ESG-joint-challenge.jpg)](https://www.sleb.sg/News/NewsDetails/1223)
@@ -389,6 +379,14 @@ monument building and achieve an EUI of 79 kWh/sqm/yr or below”</b>
 For further enquiries on this challenge call, please contact us at <a style="text-decoration: none" href = "mailto: noel_chin@bca.gov.sg">noel_chin@bca.gov.sg</a>; <a style="text-decoration: none" href = "mailto: majid_sapar@bca.gov.sg">majid_sapar@bca.gov.sg</a>; <a style="text-decoration: none" href = "mailto: gina_wang@enterprisesg.gov.sg">gina_wang@enterprisesg.gov.sg</a>.
 
 [Learn more](https://www.sleb.sg/News/NewsDetails/1223){:target="_blank"}
+
+#### Trade and Connectivity Challenge 2020 Enterprise Track
+
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Continental Automotive Singapore Pte Ltd, GeTS Asia Pte Ltd
+, Lumens Auto Pte Ltd, Nursultan Nazarbayev Foundation, Pacific International Lines Pte Ltd, SATS Ltd, Singapore Post Limited, Sumitomo Corporation Asia & Oceania Pte Ltd
+, Tech-Link Storage Engineering Pte Ltd, Teckwah Value Chain Pte Ltd, Tristar Group, YCH Group Pte Ltd</font>
+
+[![1](/images/ongoing-challenges/TCC-Enterprise-track-banner.jpg)](https://tcc-enterprise.innovation-challenge.sg)
 
 **Application Open Dates: 22 July 2020 to 29 September 2020**<br>
 
