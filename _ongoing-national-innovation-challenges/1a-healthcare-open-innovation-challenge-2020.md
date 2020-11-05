@@ -7,7 +7,7 @@ collection_name: ongoing-national-innovation-challenges
 second_nav_title: Ongoing National Innovation Challenges
 ---
     
-#### Healthcare Open Innovation Challenge 2020
+#### Healthcare Open Innovation Challenge 2020 Industry Track
 
 <font color="#a9a9a9"><b>Powered by National Innovation Challenges</b></font>
 [![3](/images/healthcare-open-innovation-challenge.jpg)](https://www.healthcarechallenge.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral)
