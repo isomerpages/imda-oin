@@ -32,7 +32,7 @@ If you have an innovative technological solution that improves the processes wit
     <input type="checkbox" id="list-item-1" class="toggle">
     <label for="list-item-1" class="lbl-toggle">Medication Traceability and Compliance</label>
       <ul>
-        <li><b><h4>St Luke’s ElderCare, National Healthcare Group(NHG)</h4>How might we improve medication compliance among senior patients at home and at Senior Care Centres?</b>
+        <li><b><h4>St Luke’s Eldercare, National Healthcare Group(NHG)</h4>How might we improve medication compliance among senior patients at home and at Senior Care Centres?</b>
 <h5>What We Are Looking For</h5>
 Poor adherence to treatment regimens has long been recognised as a substantial roadblock to achieving better outcomes for patients.  As many as half of all patients do not adhere faithfully to their prescription medication regimens.  This affects the ability of clinicians to provide accurate follow-up recommendations.  Clinicians might increase the prescribed dose if they are led to believe that the treatment is ineffective thus far, when in fact the patient is not following the medication regimen.<br><br>
 
