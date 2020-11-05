@@ -1,28 +1,27 @@
-<!--
 ---
 layout: leftnav-page-content
-title: Healthcare Innovation Challenge
-permalink: /healthcare-innovation-challenge/
-breadcrumb: Healthcare Innovation Challenge
+title: Healthcare Open Innovation Challenge 2020 Enterprise Track
+permalink: /healthcare-innovation-challenge-2020-enterprise-track/
+breadcrumb: Healthcare Open Innovation Challenge 2020 Enterprise Track
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
 
-#### Healthcare Innovation Challenge
+#### Healthcare Open Innovation Challenge 2020 Enterprise Track
 
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Health Management International(HMI), National Healthcare Group(NHG), SingHealth, National University Health System(NUHS), St Luke’s ElderCare
+</font>
+[![3](/images/healthcare-open-innovation-challenge.jpg)](https://www.healthcarechallenge.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
-<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Demand Driver 1, Demand Driver 2</font>
-[![3](/images/Environmental-Services-IoT-Challenge.jpg)](https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral)
+**Application Open Dates: 5 November 2020 to 21 December 2020**<br>
 
-**Application Open Dates: 2 October 2020 to 18 December 2020**<br>
+<font color=" #a9a9a9"><b>Enterprise Singapore(ESG), Ministry of Health(MOH), National Health Innovation Centre(NHIC)</b></font>
 
-<font color=" #a9a9a9"><b>Intermediary 1, Intermediary 2</b></font>
+COVID-19 tested healthcare systems around the world and highlighted the need for healthcare to be more resilient in the face of adversity. In the post-covid new normal, efforts to revolutionize healthcare has revealed boundless opportunities for innovations to enable this transformation. <br>
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
-
-Nulla ut nulla lorem. Sed tincidunt dolor a ex commodo pulvinar. Nam placerat in dolor a interdum. Cras dapibus metus eu ornare elementum. Donec consequat lectus dolor. Proin vel est dui. Praesent at iaculis dolor, vel rhoncus arcu. Donec finibus vestibulum euismod. Nullam tempus felis sed erat vehicula vestibulum. Suspendisse at placerat dolor. Sed fringilla purus volutpat faucibus feugiat. Quisque sit amet magna et lorem vulputate tincidunt. Cras ipsum mauris, faucibus hendrerit magna ut, interdum vehicula libero.
-
+Enterprise Singapore, in partnership with five of Singapore’s leading healthcare providers, brings you the Healthcare Open Innovation Challenge. The Challenge leverages Singapore’s leading healthcare system, providing a unique opportunity for enterprises to engage with clinicians and healthcare providers throughout development. <br>
+ 
+If you have an innovative technological solution that improves the processes within healthcare delivery, enhance patient management and engagement, and form a complete seamless care continuum, this is for you. Successful participants stand to receive grant funding and the chance to co-develop, testbed and deploy your solutions with our healthcare providers.
 
 <div id="wrapper">
     <h4> Challenge Statement(s)</h4>
@@ -137,5 +136,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
 </div>
 
 
-Visit <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >here</a> to learn more.
--->
+Visit <a href="https://www.healthcarechallenge.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >here</a> to learn more.
