@@ -35,7 +35,7 @@ If you have an innovative technological solution that improves the processes wit
 Given finite healthcare resources, we aim to harness technology and big data to prioritise care for patients based on clinical need and urgency. We envision a platform powered by predictive analytics, which will empower the medical teams to execute clinical interventions to provide targeted patient care and optimise the healthcare resources.
 Prioritising access to care based on patient risk profiles can assist in optimal allocation of healthcare resources, thereby maximising care outcomes for patients. For example, with platforms that leverage predictive tools and algorithms, patients may be categorised and stratified according to risk, and the appropriate level of care is administered based on the risk categories. This not only ensures that patients receive the best care possible, it also empowers clinicians in clinical decision-making and generates potential time savings when only a subset of patients require intensive follow-up consultations.
 <br><br>
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/patient-analytics?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -51,7 +51,7 @@ We hope to explore a patient-centric approach that is personalised to shape the 
 The vision is for patients to be treated by the right healthcare professional at the most appropriate location in their pharmaceutical care journey. An ideal solution would include predictive capabilities to assess and identify needs, and determine a suite of service options available to each patient immediately after medical consultation.  There is an opportunity to enhance patient pharmaceutical care journey, improve experience and engagement, reduce dwelling time and waiting time of patients by recognising who requires medication reconciliation and counselling, face-to-face dispensing, home delivery, or self-pick up of their medications.
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/pharmacy-service-experience?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -71,7 +71,7 @@ The National Skin Centre is developing an Artificial Intelligence (AI) software 
 The Centre is looking for expertise in the further development and translation of their AI software into a mobile application that could be accessible to more users on their own devices. This allows for pictures of the lesion to be taken by and analysed on a smartphone. Expertise is also being sought for producing and commercialising the smartphone dermoscopy device at scale.
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/skin-cancer-diagnosis?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -88,7 +88,7 @@ However, there are various shortcomings in use of visual identification and IDDS
 The solution should objectively, efficiently and reliably identify the level of food textures or fluid consistencies (according to current IDDSI standards).  It should also have features such as temperature measurement and an analytical ability to assess and inform on the direction of error (size, density, hardness / softness or moisture level, etc.).
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/identifying-food-textures?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -108,7 +108,7 @@ Being a manual process, errors can occur.  For example, the medicine could be de
 The ideal solution eliminates the possibility for human error by removing human touch points in the medication supply process.  To maximise the benefit of an autonomous solution, there needs to be automated drop-off of medications efficiently and securely at designated points in the wards without the need to disrupt nurses performing their patient care duties. 
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/pharmacy-service-experience?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -126,7 +126,7 @@ Currently, there is a two-bin system: that is, the total stock is split into two
 A smart inventory management system to automate ordering, establish an audit trail for picking and returning, and track expiry dates of supplies should result in higher efficiency, reduction in human errors, and potentially cost savings.
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/pharmacy-inpatient-medication?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -147,7 +147,7 @@ Solutions presently available tend to focus on detecting a fall after it occurs.
 This should be complemented by a study over time on the conditions of the seniors and/or the environment. This solution will help ensure the safety and quality of life for all seniors, and the continued independence for ambulant seniors at the centres.
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/predicting-and-preventing-falls?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -166,7 +166,7 @@ Such abscondment incidences are likely to occur when:
 We are looking for a solution that can detect seniors attempting to leave the premises, and prevent any door access to seniors from exiting during that time without our staff knowing. The solution should alert staff in the shortest amount of time for better responsiveness. This could be integrated with identity recognition technology that links with door access or any tracking mechanism (that cannot be removed easily) that is non-invasive to seniors’ bodies.
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/preventing-abscondment?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -190,7 +190,7 @@ The objective of this challenge is to improve the delivery of services or even i
 We are seeking a comprehensive solution that is future-ready to power our hospital operations, to address most, if not all, of the pain points above. Solutions addressing specific pain points are also welcomed, as we look to integrating them into our future-state ecosystem.  
 <br><br>
 
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/patient-engagement-and-experience?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
