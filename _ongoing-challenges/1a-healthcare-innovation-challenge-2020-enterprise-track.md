@@ -79,7 +79,7 @@ The Centre is looking for expertise in the further development and translation o
   
   <li>
     <input type="checkbox" id="list-item-4" class="toggle">
-    <label for="list-item-4" class="lbl-toggle">Identifying food textures</label>
+    <label for="list-item-4" class="lbl-toggle">Identifying Food Textures</label>
       <ul>
         <li><b><h4>National Healthcare Group(NHG)</h4>How might we test the texture of food and / or consistency of fluid served to patients with a more efficient and accurate method or product?</b>
 <h5>What We Are Looking For</h5>
@@ -116,7 +116,7 @@ The ideal solution eliminates the possibility for human error by removing human 
   
   <li>
     <input type="checkbox" id="list-item-6" class="toggle">
-    <label for="list-item-6" class="lbl-toggle">Inventory management</label>
+    <label for="list-item-6" class="lbl-toggle">Inventory Management</label>
       <ul>
         <li><b><h4>National University Health System(NUHS)</h4>How might we improve inventory management within hospital ward clean utility rooms?</b>
 <h5>What We Are Looking For</h5>
@@ -134,7 +134,7 @@ A smart inventory management system to automate ordering, establish an audit tra
   
   <li>
     <input type="checkbox" id="list-item-7" class="toggle">
-    <label for="list-item-7" class="lbl-toggle">Falls</label>
+    <label for="list-item-7" class="lbl-toggle">Prediction and Prevention of Falls</label>
       <ul>
         <li><b><h4>St Luke’s Eldercare</h4>How might we better predict and prevent falls of seniors in Senior Care Centres (SCCs)?</b>
 <h5>What We Are Looking For</h5>
