@@ -1,4 +1,3 @@
-
 ---
 layout: leftnav-page-content
 title: Healthcare Open Innovation Challenge 2020
