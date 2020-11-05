@@ -34,8 +34,7 @@ If you have an innovative technological solution that improves the processes wit
 <h5>What We Are Looking For</h5>
 Given finite healthcare resources, we aim to harness technology and big data to prioritise care for patients based on clinical need and urgency. We envision a platform powered by predictive analytics, which will empower the medical teams to execute clinical interventions to provide targeted patient care and optimise the healthcare resources.
 Prioritising access to care based on patient risk profiles can assist in optimal allocation of healthcare resources, thereby maximising care outcomes for patients. For example, with platforms that leverage predictive tools and algorithms, patients may be categorised and stratified according to risk, and the appropriate level of care is administered based on the risk categories. This not only ensures that patients receive the best care possible, it also empowers clinicians in clinical decision-making and generates potential time savings when only a subset of patients require intensive follow-up consultations.
-
-
+<br><br>
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
@@ -50,7 +49,7 @@ Prioritising access to care based on patient risk profiles can assist in optimal
 Current pharmacy services for Specialist Outpatient Clinics (SOC) patients are largely unplanned and reactive in nature. Patients are triaged on-site at registration counters, with majority receiving medication via face-to-face dispensing. There is little integration in workflow, process and system for patient journey between the SOC and the pharmacies. Thus, patients’ dwelling time in healthcare institutions and their waiting time in the pharmacies remain long. In addition, engaging patients early in their healthcare journey to identify needs and preferences can increase compliance with a plan of care and treatment.
 We hope to explore a patient-centric approach that is personalised to shape the outpatient visit journeys for our patients, one which provides a single platform to support an end-to-end seamless visit experience. This includes but is not limited to a one-stop service of triaging, payment, consent taking, medication reconciliation and supply, counselling or education, and treatment monitoring. Staff may also access the platform for tele-services and documentation of clinical activities via secured devices.
 The vision is for patients to be treated by the right healthcare professional at the most appropriate location in their pharmaceutical care journey. An ideal solution would include predictive capabilities to assess and identify needs, and determine a suite of service options available to each patient immediately after medical consultation.  There is an opportunity to enhance patient pharmaceutical care journey, improve experience and engagement, reduce dwelling time and waiting time of patients by recognising who requires medication reconciliation and counselling, face-to-face dispensing, home delivery, or self-pick up of their medications.
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -70,7 +69,7 @@ Dermatoscopes, a handheld device that can be used in a clinical examination of s
 The National Skin Centre is developing an Artificial Intelligence (AI) software platform that will aid with the diagnosis of melanoma utilising a modified ABCD (Asymmetry, Borders, Colour, Dermoscopic structures) criteria, as well as an attachable smartphone dermoscopy device. As a whole, the solution would allow for pictures of the lesion to be taken via a smartphone, and analysed using the phone application with the AI software.
 
 The Centre is looking for expertise in the further development and translation of their AI software into a mobile application that could be accessible to more users on their own devices. This allows for pictures of the lesion to be taken by and analysed on a smartphone. Expertise is also being sought for producing and commercialising the smartphone dermoscopy device at scale.
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -87,7 +86,7 @@ Patients with dysphagia or swallowing impairment are frequently recommended by s
 At present, we rely on a combination of expertise and experience to visually identify textures or consistencies. There are descriptive guidelines, complemented with test methods in the International Dysphagia Diet Standard Initiative (IDDSI) framework (more information below). The test methods used by trained food service staff and healthcare workers include: syringe flow test, fork drip test, fork pressure test, and spoon tilt test. Checks on food texture and fluid consistency are conducted on a daily basis, especially during or after food preparation, and prior to consumption.
 However, there are various shortcomings in use of visual identification and IDDSI test methods, due to the subjective and varied nature of foods and fluids. Also, the current tests take excessive time and resources.
 The solution should objectively, efficiently and reliably identify the level of food textures or fluid consistencies (according to current IDDSI standards).  It should also have features such as temperature measurement and an analytical ability to assess and inform on the direction of error (size, density, hardness / softness or moisture level, etc.).
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -107,7 +106,7 @@ Despite the implementation of online medication, ordering delivery of medication
 Being a manual process, errors can occur.  For example, the medicine could be delivered to a wrong location, and time will be wasted by the portering, pharmacy and / or nursing staff to track it down.  Also, if the delivery is misplaced, there is potential exposure of patient identifier (data).  In addition, porters often have to wait for or try to locate ward staff to take receipt of the delivery. Furthermore, the medication could be misplaced within the ward, a place with high levels of activity and staff movement.
 
 The ideal solution eliminates the possibility for human error by removing human touch points in the medication supply process.  To maximise the benefit of an autonomous solution, there needs to be automated drop-off of medications efficiently and securely at designated points in the wards without the need to disrupt nurses performing their patient care duties. 
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -125,7 +124,7 @@ Inventory management is a key component in day-to-day hospital inpatient operati
 Currently, there is a two-bin system: that is, the total stock is split into two separate bins. When one of the bins is empty, a RFID card is placed on the second bin to trigger automatic ordering of stock. However, this only addresses the ordering issue and does not offer full inventory management, as the system cannot monitor fully the usage and expiry dates. This leads to the inability to account for fluctuations in stock movements, and manual checks are still required for expiry dates of products.  
 
 A smart inventory management system to automate ordering, establish an audit trail for picking and returning, and track expiry dates of supplies should result in higher efficiency, reduction in human errors, and potentially cost savings.
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -146,7 +145,7 @@ There is also a high element of unpredictability when preventing a senior from f
 ●	An ambulant senior, who is normally moving independently, trips or suddenly loses mobility in an area where staff members have no line of sight or cannot react in a split second to prevent the fall.
 Solutions presently available tend to focus on detecting a fall after it occurs. We are looking for solutions that can provide real-time monitoring to assess the seniors’ health-based indicators to provide predictive fall susceptibility (i.e. determine possibility of a fall of individual seniors), to pre-emptively warn staff or even flag emerging conditions to prompt long-term interventions for improved future mobility.
 This should be complemented by a study over time on the conditions of the seniors and/or the environment. This solution will help ensure the safety and quality of life for all seniors, and the continued independence for ambulant seniors at the centres.
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -165,7 +164,7 @@ Such abscondment incidences are likely to occur when:
 ●	There is high traffic flow and a flurry of activities.  Centre doors are controlled at all times but it is challenging to monitor every individual’s entry and exit.
 ●	There is a high level of movement in the centre. For example, during activities or at the end of the day when seniors are assisted to washrooms or are being picked up to head home.
 We are looking for a solution that can detect seniors attempting to leave the premises, and prevent any door access to seniors from exiting during that time without our staff knowing. The solution should alert staff in the shortest amount of time for better responsiveness. This could be integrated with identity recognition technology that links with door access or any tracking mechanism (that cannot be removed easily) that is non-invasive to seniors’ bodies.
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -189,8 +188,7 @@ After the patient has left the hospital, the recovery journey is often overlooke
 The objective of this challenge is to improve the delivery of services or even identify new services across the entire patient journey. Using Digital Health solutions and Smart Hospital technologies, we can deliver healthcare to more patients, increase stickiness, and empower patients to manage their health better.
 
 We are seeking a comprehensive solution that is future-ready to power our hospital operations, to address most, if not all, of the pain points above. Solutions addressing specific pain points are also welcomed, as we look to integrating them into our future-state ecosystem.  
-
-
+<br><br>
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
