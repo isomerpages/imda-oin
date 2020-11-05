@@ -9,7 +9,7 @@ second_nav_title: Ongoing Challenges
 
 #### Healthcare Open Innovation Challenge 2020 Enterprise Track
 
-<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Health Management International(HMI), National Healthcare Group(NHG), SingHealth, National University Health System(NUHS), St Luke’s ElderCare
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Health Management International(HMI), National Healthcare Group(NHG), SingHealth, National University Health System(NUHS), St Luke’s Eldercare
 </font>
 [![3](/images/healthcare-open-innovation-challenge.jpg)](https://www.healthcarechallenge.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
@@ -28,11 +28,13 @@ If you have an innovative technological solution that improves the processes wit
 <ul>
   <li>
     <input type="checkbox" id="list-item-1" class="toggle">
-    <label for="list-item-1" class="lbl-toggle">Challenge Statement 1</label>
+    <label for="list-item-1" class="lbl-toggle">Patient Analytics</label>
       <ul>
-        <li><b><h4>Demand Driver 1</h4>How might we .........?</b>
+        <li><b><h4>SingHealth</h4>How might we leverage technology and big data to prioritise care for patients based on clinical need and urgency?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+Given finite healthcare resources, we aim to harness technology and big data to prioritise care for patients based on clinical need and urgency. We envision a platform powered by predictive analytics, which will empower the medical teams to execute clinical interventions to provide targeted patient care and optimise the healthcare resources.
+Prioritising access to care based on patient risk profiles can assist in optimal allocation of healthcare resources, thereby maximising care outcomes for patients. For example, with platforms that leverage predictive tools and algorithms, patients may be categorised and stratified according to risk, and the appropriate level of care is administered based on the risk categories. This not only ensures that patients receive the best care possible, it also empowers clinicians in clinical decision-making and generates potential time savings when only a subset of patients require intensive follow-up consultations.
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -41,11 +43,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
   
   <li>
     <input type="checkbox" id="list-item-2" class="toggle">
-    <label for="list-item-2" class="lbl-toggle">Challenge Statement 2</label>
+    <label for="list-item-2" class="lbl-toggle">Pharmacy Service Experience</label>
       <ul>
-        <li><b><h4>Demand Driver 2</h4>How might we .........?</b>
+        <li><b><h4>SingHealth</h4>How might we create a patient-centric, end-to-end service experience for patients requiring pharmaceutical care, and for staff involved in their care journey?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+Current pharmacy services for Specialist Outpatient Clinics (SOC) patients are largely unplanned and reactive in nature. Patients are triaged on-site at registration counters, with majority receiving medication via face-to-face dispensing. There is little integration in workflow, process and system for patient journey between the SOC and the pharmacies. Thus, patients’ dwelling time in healthcare institutions and their waiting time in the pharmacies remain long. In addition, engaging patients early in their healthcare journey to identify needs and preferences can increase compliance with a plan of care and treatment.
+We hope to explore a patient-centric approach that is personalised to shape the outpatient visit journeys for our patients, one which provides a single platform to support an end-to-end seamless visit experience. This includes but is not limited to a one-stop service of triaging, payment, consent taking, medication reconciliation and supply, counselling or education, and treatment monitoring. Staff may also access the platform for tele-services and documentation of clinical activities via secured devices.
+The vision is for patients to be treated by the right healthcare professional at the most appropriate location in their pharmaceutical care journey. An ideal solution would include predictive capabilities to assess and identify needs, and determine a suite of service options available to each patient immediately after medical consultation.  There is an opportunity to enhance patient pharmaceutical care journey, improve experience and engagement, reduce dwelling time and waiting time of patients by recognising who requires medication reconciliation and counselling, face-to-face dispensing, home delivery, or self-pick up of their medications.
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -54,11 +59,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
   
   <li>
     <input type="checkbox" id="list-item-3" class="toggle">
-    <label for="list-item-3" class="lbl-toggle">Challenge Statement 3</label>
+    <label for="list-item-3" class="lbl-toggle">Skin Cancer Diagnosis</label>
       <ul>
-        <li><b><h4>Demand Driver 3</h4>How might we .........?</b>
+        <li><b><h4>National Healthcare Group(NHG)</h4>How might we better enable primary care physicians to instantly access and analyse clinical dermatoscopic images to assist with their diagnosis?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+The incidence of melanoma, a type of skin cancer, has been rapidly increasing over the last 30 years. Early detection and accurate diagnosis are crucial as this allows for prompt treatment, reducing mortalities and morbidities. 
+
+Dermatoscopes, a handheld device that can be used in a clinical examination of suspicious skin lesions, can be bought at around $2,000 (for an advanced model).  However, such devices are often not user-friendly and require an additional adapter to take pictures via a smartphone or a camera. 
+
+The National Skin Centre is developing an Artificial Intelligence (AI) software platform that will aid with the diagnosis of melanoma utilising a modified ABCD (Asymmetry, Borders, Colour, Dermoscopic structures) criteria, as well as an attachable smartphone dermoscopy device. As a whole, the solution would allow for pictures of the lesion to be taken via a smartphone, and analysed using the phone application with the AI software.
+
+The Centre is looking for expertise in the further development and translation of their AI software into a mobile application that could be accessible to more users on their own devices. This allows for pictures of the lesion to be taken by and analysed on a smartphone. Expertise is also being sought for producing and commercialising the smartphone dermoscopy device at scale.
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -67,11 +79,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
   
   <li>
     <input type="checkbox" id="list-item-4" class="toggle">
-    <label for="list-item-4" class="lbl-toggle">Challenge Statement 4</label>
+    <label for="list-item-4" class="lbl-toggle">Identifying food textures</label>
       <ul>
-        <li><b><h4>Demand Driver 4</h4>How might we .........?</b>
+        <li><b><h4>National Healthcare Group(NHG)</h4>How might we test the texture of food and / or consistency of fluid served to patients with a more efficient and accurate method or product?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+Patients with dysphagia or swallowing impairment are frequently recommended by speech therapists to modify their food textures or fluid consistencies. However, it can be challenging to know if modified foods and fluids have been prepared accurately. If not prepared properly, the foods or fluids can increase the risk of aspiration and choking for paediatric and adult patients with dysphagia.
+At present, we rely on a combination of expertise and experience to visually identify textures or consistencies. There are descriptive guidelines, complemented with test methods in the International Dysphagia Diet Standard Initiative (IDDSI) framework (more information below). The test methods used by trained food service staff and healthcare workers include: syringe flow test, fork drip test, fork pressure test, and spoon tilt test. Checks on food texture and fluid consistency are conducted on a daily basis, especially during or after food preparation, and prior to consumption.
+However, there are various shortcomings in use of visual identification and IDDSI test methods, due to the subjective and varied nature of foods and fluids. Also, the current tests take excessive time and resources.
+The solution should objectively, efficiently and reliably identify the level of food textures or fluid consistencies (according to current IDDSI standards).  It should also have features such as temperature measurement and an analytical ability to assess and inform on the direction of error (size, density, hardness / softness or moisture level, etc.).
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -80,11 +96,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
   
   <li>
     <input type="checkbox" id="list-item-5" class="toggle">
-    <label for="list-item-5" class="lbl-toggle">Challenge Statement 5</label>
+    <label for="list-item-5" class="lbl-toggle">Pharmacy - Inpatient Medication Supply</label>
       <ul>
-        <li><b><h4>Demand Driver 5</h4>How might we .........?</b>
+        <li><b><h4>NUHS</h4>How might we improve the operational efficiency of the medicine supply processes within the hospital for inpatients?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+If a particular medicine prescribed for a patient is not available at the ward, the hospital pharmacy will dispatch a porter to deliver the medicine to that ward.  This process is highly dependent on availability of portering staff on duty. 
+
+Despite the implementation of online medication, ordering delivery of medications is still a largely manual process where the porter (or a pharmacy staff member) has to document the medicine being supplied, destination, and time of delivery, and do additional checks at multiple supply points.
+
+Being a manual process, errors can occur.  For example, the medicine could be delivered to a wrong location, and time will be wasted by the portering, pharmacy and / or nursing staff to track it down.  Also, if the delivery is misplaced, there is potential exposure of patient identifier (data).  In addition, porters often have to wait for or try to locate ward staff to take receipt of the delivery. Furthermore, the medication could be misplaced within the ward, a place with high levels of activity and staff movement.
+
+The ideal solution eliminates the possibility for human error by removing human touch points in the medication supply process.  To maximise the benefit of an autonomous solution, there needs to be automated drop-off of medications efficiently and securely at designated points in the wards without the need to disrupt nurses performing their patient care duties. 
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -93,11 +116,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
   
   <li>
     <input type="checkbox" id="list-item-6" class="toggle">
-    <label for="list-item-6" class="lbl-toggle">Challenge Statement 6</label>
+    <label for="list-item-6" class="lbl-toggle">Inventory management</label>
       <ul>
-        <li><b><h4>Demand Driver 6</h4>How might we .........?</b>
+        <li><b><h4>NUHS</h4>How might we improve inventory management within hospital ward clean utility rooms?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+Inventory management is a key component in day-to-day hospital inpatient operations.  There is a myriad of supply categories found in each ward’s clean utility rooms, such as consumables like diapers; linen; specialised consumables required for intravenous (IV) infusions like needles and IV plugs; and blood-taking and pharmacy-related products like medications, infusion bags, and milk feeds.  
+
+Currently, there is a two-bin system: that is, the total stock is split into two separate bins. When one of the bins is empty, a RFID card is placed on the second bin to trigger automatic ordering of stock. However, this only addresses the ordering issue and does not offer full inventory management, as the system cannot monitor fully the usage and expiry dates. This leads to the inability to account for fluctuations in stock movements, and manual checks are still required for expiry dates of products.  
+
+A smart inventory management system to automate ordering, establish an audit trail for picking and returning, and track expiry dates of supplies should result in higher efficiency, reduction in human errors, and potentially cost savings.
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -108,9 +136,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
     <input type="checkbox" id="list-item-7" class="toggle">
     <label for="list-item-7" class="lbl-toggle">Challenge Statement 7</label>
       <ul>
-        <li><b><h4>Demand Driver 7</h4>How might we .........?</b>
+        <li><b><h4>St Luke’s Eldercare</h4>How might we better predict and prevent falls of seniors in Senior Care Centres (SCCs)?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+Falls can happen to all seniors: Seniors who are ambulant or less frail; frail seniors; and seniors living with dementia
+After a fall, seniors may take much longer to recover and regain their mobility, increasing the risk of further falls. This affects their quality of life and life expectancy adversely. This also significantly impacts the lives of their caregivers by increasing dependency levels.
+There is also a high element of unpredictability when preventing a senior from falling despite staff members’ help. Falls are more likely to happen when:
+●	A senior’s physical health has deteriorated without any clear signs for staff members to note;
+●	A senior attempts to stand or walk without a centre staff attending to him/her in time. This could lead to a senior falling because of a lack of strength or tripping over objects in their path;
+●	An ambulant senior, who is normally moving independently, trips or suddenly loses mobility in an area where staff members have no line of sight or cannot react in a split second to prevent the fall.
+Solutions presently available tend to focus on detecting a fall after it occurs. We are looking for solutions that can provide real-time monitoring to assess the seniors’ health-based indicators to provide predictive fall susceptibility (i.e. determine possibility of a fall of individual seniors), to pre-emptively warn staff or even flag emerging conditions to prompt long-term interventions for improved future mobility.
+This should be complemented by a study over time on the conditions of the seniors and/or the environment. This solution will help ensure the safety and quality of life for all seniors, and the continued independence for ambulant seniors at the centres.
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
@@ -120,11 +156,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor 
 
   <li>
     <input type="checkbox" id="list-item-8" class="toggle">
-    <label for="list-item-8" class="lbl-toggle">Challenge Statement 8</label>
+    <label for="list-item-8" class="lbl-toggle">Abscondment</label>
       <ul>
-        <li><b><h4>Demand Driver 8</h4>How might we .........?</b>
+        <li><b><h4>St Luke’s Eldercare</h4>How might we better monitor seniors within Senior Care Centres (SCCs), so that we can prevent seniors from leaving the premises without the knowledge of centre staff?</b>
 <h5>What We Are Looking For</h5>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dolor ac semper ullamcorper. Donec vitae nibh in sem tempus tincidunt. Quisque finibus pharetra ligula ut tincidunt. Ut rutrum orci nisi, cursus imperdiet nulla pulvinar ac. Nullam eros dui, eleifend eu ligula nec, mollis ornare metus. Aliquam vitae justo elit. Vestibulum a condimentum dolor.
+50% of our SCC seniors are diagnosed with dementia. Many of them are prone to wandering and may wish to leave the premises. SCC staff members are accountable for every senior’s safety during operation hours. When seniors leave the SCC without the knowledge of the centre staff, they are likely to get lost for a lengthy period of time; may not have the ability to seek help; and are at risk of danger from traffic, falls, and even dehydration.
+Such abscondment incidences are likely to occur when:
+●	There is high traffic flow and a flurry of activities.  Centre doors are controlled at all times but it is challenging to monitor every individual’s entry and exit.
+●	There is a high level of movement in the centre. For example, during activities or at the end of the day when seniors are assisted to washrooms or are being picked up to head home.
+We are looking for a solution that can detect seniors attempting to leave the premises, and prevent any door access to seniors from exiting during that time without our staff knowing. The solution should alert staff in the shortest amount of time for better responsiveness. This could be integrated with identity recognition technology that links with door access or any tracking mechanism (that cannot be removed easily) that is non-invasive to seniors’ bodies.
+
 
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
