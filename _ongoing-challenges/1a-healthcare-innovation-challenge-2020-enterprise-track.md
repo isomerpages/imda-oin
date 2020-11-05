@@ -98,7 +98,7 @@ The solution should objectively, efficiently and reliably identify the level of 
     <input type="checkbox" id="list-item-5" class="toggle">
     <label for="list-item-5" class="lbl-toggle">Pharmacy - Inpatient Medication Supply</label>
       <ul>
-        <li><b><h4>NUHS</h4>How might we improve the operational efficiency of the medicine supply processes within the hospital for inpatients?</b>
+        <li><b><h4>National University Health System(NUHS)</h4>How might we improve the operational efficiency of the medicine supply processes within the hospital for inpatients?</b>
 <h5>What We Are Looking For</h5>
 If a particular medicine prescribed for a patient is not available at the ward, the hospital pharmacy will dispatch a porter to deliver the medicine to that ward.  This process is highly dependent on availability of portering staff on duty. <br><br>
 
@@ -118,7 +118,7 @@ The ideal solution eliminates the possibility for human error by removing human 
     <input type="checkbox" id="list-item-6" class="toggle">
     <label for="list-item-6" class="lbl-toggle">Inventory management</label>
       <ul>
-        <li><b><h4>NUHS</h4>How might we improve inventory management within hospital ward clean utility rooms?</b>
+        <li><b><h4>National University Health System(NUHS)</h4>How might we improve inventory management within hospital ward clean utility rooms?</b>
 <h5>What We Are Looking For</h5>
 Inventory management is a key component in day-to-day hospital inpatient operations.  There is a myriad of supply categories found in each ward’s clean utility rooms, such as consumables like diapers; linen; specialised consumables required for intravenous (IV) infusions like needles and IV plugs; and blood-taking and pharmacy-related products like medications, infusion bags, and milk feeds.  <br><br>
 
