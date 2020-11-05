@@ -14,7 +14,7 @@ second_nav_title: Ongoing National Innovation Challenges
 
 **Application Open Dates: 5 November 2020 to 21 December 2020**<br>
 
-<font color=" #a9a9a9"><b>Enterprise Singapore(ESG), Ministry of Health(MOH), National Health Innovation Centre(NHIC)</b></font>
+<font color=" #a9a9a9"><b>Enterprise Singapore (ESG), Ministry of Health (MOH), National Health Innovation Centre (NHIC)</b></font>
 
 COVID-19 tested healthcare systems around the world and highlighted the need for healthcare to be more resilient in the face of adversity. In the post-covid new normal, efforts to revolutionize healthcare has revealed boundless opportunities for innovations to enable this transformation.<br><br>
 Enterprise Singapore, in partnership with five of Singapore’s leading healthcare providers, brings you the Healthcare Open Innovation Challenge. The Challenge leverages Singapore’s leading healthcare system, providing a unique opportunity for enterprises to engage with clinicians and healthcare providers throughout development.<br><br>
@@ -27,7 +27,7 @@ If you have an innovative technological solution that improves the processes wit
     <input type="checkbox" id="list-item-1" class="toggle">
     <label for="list-item-1" class="lbl-toggle">Medication Traceability and Compliance</label>
       <ul>
-        <li><b><h4>St Luke’s Eldercare, National Healthcare Group(NHG)</h4>How might we improve medication compliance among senior patients at home and at Senior Care Centres?</b>
+        <li><b><h4>St Luke’s Eldercare, National Healthcare Group (NHG)</h4>How might we improve medication compliance among senior patients at home and at Senior Care Centres?</b>
 <h5>What We Are Looking For</h5>
             
 Poor adherence to treatment regimens has long been recognised as a substantial roadblock to achieving better outcomes for patients. As many as half of all patients do not adhere faithfully to their prescription medication regimens. This affects the ability of clinicians to provide accurate follow-up recommendations. Clinicians might increase the prescribed dose if they are led to believe that the treatment is ineffective thus far, when in fact the patient is not following the medication regimen.<br><br>
@@ -50,7 +50,7 @@ We are looking for a holistic solution that addresses the entire medication comp
     <input type="checkbox" id="list-item-2" class="toggle">
     <label for="list-item-2" class="lbl-toggle">Operating Theatre Resource & Patient Monitoring</label>
       <ul>
-        <li><b><h4>SingHealth, National University Health System(NUHS)</h4>How might we have real-time oversight and overview of resources (manpower, infrastructure, equipment, operating rooms) and patient movement across the perioperative setting?</b>
+        <li><b><h4>SingHealth, National University Health System (NUHS)</h4>How might we have real-time oversight and overview of resources (manpower, infrastructure, equipment, operating rooms) and patient movement across the perioperative setting?</b>
 <h5>What We Are Looking For</h5>
 The Operating Theatre (OT) is a costly resource in an acute hospital. Optimising the utilisation of OT resources may lead to a reduction in wait time to surgery thereby increasing access to care for patients. Currently, scheduling and utilisation of OT resources such as manpower, equipment and infrastructure (including operating rooms) are optimised manually. This challenge is exacerbated as a result of last-minute surgical cancellations due to no-shows or patients falling ill on the day of surgery.<br><br>
  
