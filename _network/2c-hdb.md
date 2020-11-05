@@ -7,7 +7,7 @@ collection_name: network
 second_nav_title: Public Agencies
 ---
 <div class="networklogo">
-<a href="https://www.hdb.gov.sg/cs/infoweb/about-us/research-and-innovation/cool-ideas/cool-ideas-enterprise?utm_source=openinnovationnetwork.sg&utm_medium=referral">
+<a href="https://www.hdb.gov.sg/cs/infoweb/about-us/research-and-innovation/cool-ideas?utm_source=openinnovationnetwork.sg&utm_medium=referral">
 <img src= "/images/partners/HDB-logo.jpg" alt="1">
 </a>
  </div>
@@ -24,4 +24,4 @@ HDB welcomes ideas from aspiring entrepreneurs and enterprises through Cool Idea
  <li>Waste and Water </li>
  <li>Building Technology </li> 
 </ul>
-[Learn more](https://www.hdb.gov.sg/cs/infoweb/about-us/research-and-innovation/cool-ideas/cool-ideas-enterprise?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
+[Learn more](https://www.hdb.gov.sg/cs/infoweb/about-us/research-and-innovation/cool-ideas?utm_source=openinnovationnetwork.sg&utm_medium=referral){:target="_blank"}
