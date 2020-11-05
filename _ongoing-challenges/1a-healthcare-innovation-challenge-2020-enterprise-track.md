@@ -134,7 +134,7 @@ A smart inventory management system to automate ordering, establish an audit tra
   
   <li>
     <input type="checkbox" id="list-item-7" class="toggle">
-    <label for="list-item-7" class="lbl-toggle">Challenge Statement 7</label>
+    <label for="list-item-7" class="lbl-toggle">Falls</label>
       <ul>
         <li><b><h4>St Luke’s Eldercare</h4>How might we better predict and prevent falls of seniors in Senior Care Centres (SCCs)?</b>
 <h5>What We Are Looking For</h5>
