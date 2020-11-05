@@ -31,7 +31,7 @@ If you have an innovative technological solution that improves the processes wit
 <h5>What We Are Looking For</h5>
 We are looking for a holistic solution that addresses the entire medication compliance process and its stakeholders. Unlike many commercially available devices, like smart pillboxes, the solution should factor in consumer (seniors) insights and behaviour, not just the use of technology.The solution could be introduced during an inpatient stay, when the patient and/or caregiver is taught medication self-administration, which could lead to improved adherence after discharge. Ideally, it should enable the traceability of medication and close the loop such that the clinicians are assured that the medication is taken correctly.
 <br><br>
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/medication-traceability-compliance?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -46,7 +46,7 @@ The Operating Theatre (OT) is a costly resource in an acute hospital. Optimising
  
 We envision a platform with real-time oversight and visibility of resources and patient movement.  This platform would enhance our ability to optimise OT utilisation through the use of visualisation tools and predictive capabilities. There are opportunities to leverage AI to better predict the risk of cancellation, so that appropriate decisions and action may be taken. The outcome is to optimise freed-up OT slots.  This may improve access to care for patients who require an urgent procedure, whilst generating significant cost savings for the hospital.
 <br><br>
-<a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/operating-theatre-resource?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
