@@ -109,7 +109,7 @@ Being a manual process, errors can occur.  For example, the medicine could be de
 The ideal solution eliminates the possibility for human error by removing human touch points in the medication supply process.  To maximise the benefit of an autonomous solution, there needs to be automated drop-off of medications efficiently and securely at designated points in the wards without the need to disrupt nurses performing their patient care duties. 
 <br><br>
 
-<a href="https://www.healthcarechallenge.sg/pharmacy-service-experience?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/pharmacy-inpatient-medication?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
@@ -127,7 +127,7 @@ Currently, there is a two-bin system: that is, the total stock is split into two
 A smart inventory management system to automate ordering, establish an audit trail for picking and returning, and track expiry dates of supplies should result in higher efficiency, reduction in human errors, and potentially cost savings.
 <br><br>
 
-<a href="https://www.healthcarechallenge.sg/pharmacy-inpatient-medication?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
+<a href="https://www.healthcarechallenge.sg/pharmacy-service-experience?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
       </ul>
     </li>
