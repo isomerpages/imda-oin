@@ -8,13 +8,13 @@ second_nav_title: Ongoing Challenges
 
 #### Healthcare Open Innovation Challenge 2020 Enterprise Track
 
-<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Health Management International(HMI), National Healthcare Group(NHG), SingHealth, National University Health System(NUHS), St Luke’s Eldercare
+<font color="#a9a9a9"><b>Challenge Owner(s)</b>: Health Management International (HMI), National Healthcare Group (NHG), SingHealth, National University Health System (NUHS), St Luke’s Eldercare
 </font>
 [![3](/images/healthcare-open-innovation-challenge.jpg)](https://www.healthcarechallenge.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
 **Application Open Dates: 5 November 2020 to 21 December 2020**<br>
 
-<font color=" #a9a9a9"><b>Enterprise Singapore(ESG), Ministry of Health(MOH), National Health Innovation Centre(NHIC)</b></font>
+<font color=" #a9a9a9"><b>Enterprise Singapore (ESG), Ministry of Health (MOH), National Health Innovation Centre (NHIC)</b></font>
 
 COVID-19 tested healthcare systems around the world and highlighted the need for healthcare to be more resilient in the face of adversity. In the post-covid new normal, efforts to revolutionize healthcare has revealed boundless opportunities for innovations to enable this transformation. <br>
 
@@ -60,7 +60,7 @@ The vision is for patients to be treated by the right healthcare professional at
     <input type="checkbox" id="list-item-3" class="toggle">
     <label for="list-item-3" class="lbl-toggle">Skin Cancer Diagnosis</label>
       <ul>
-        <li><b><h4>National Healthcare Group(NHG)</h4>How might we better enable primary care physicians to instantly access and analyse clinical dermatoscopic images to assist with their diagnosis?</b>
+        <li><b><h4>National Healthcare Group (NHG)</h4>How might we better enable primary care physicians to instantly access and analyse clinical dermatoscopic images to assist with their diagnosis?</b>
 <h5>What We Are Looking For</h5>
 The incidence of melanoma, a type of skin cancer, has been rapidly increasing over the last 30 years. Early detection and accurate diagnosis are crucial as this allows for prompt treatment, reducing mortalities and morbidities. <br><br>
 
@@ -80,7 +80,7 @@ The Centre is looking for expertise in the further development and translation o
     <input type="checkbox" id="list-item-4" class="toggle">
     <label for="list-item-4" class="lbl-toggle">Identifying Food Textures</label>
       <ul>
-        <li><b><h4>National Healthcare Group(NHG)</h4>How might we test the texture of food and / or consistency of fluid served to patients with a more efficient and accurate method or product?</b>
+        <li><b><h4>National Healthcare Group (NHG)</h4>How might we test the texture of food and / or consistency of fluid served to patients with a more efficient and accurate method or product?</b>
 <h5>What We Are Looking For</h5>
 Patients with dysphagia or swallowing impairment are frequently recommended by speech therapists to modify their food textures or fluid consistencies. However, it can be challenging to know if modified foods and fluids have been prepared accurately. If not prepared properly, the foods or fluids can increase the risk of aspiration and choking for paediatric and adult patients with dysphagia.<br><br>
 At present, we rely on a combination of expertise and experience to visually identify textures or consistencies. There are descriptive guidelines, complemented with test methods in the International Dysphagia Diet Standard Initiative (IDDSI) framework (more information below). The test methods used by trained food service staff and healthcare workers include: syringe flow test, fork drip test, fork pressure test, and spoon tilt test. Checks on food texture and fluid consistency are conducted on a daily basis, especially during or after food preparation, and prior to consumption.<br><br>
@@ -97,7 +97,7 @@ The solution should objectively, efficiently and reliably identify the level of 
     <input type="checkbox" id="list-item-5" class="toggle">
     <label for="list-item-5" class="lbl-toggle">Pharmacy - Inpatient Medication Supply</label>
       <ul>
-        <li><b><h4>National University Health System(NUHS)</h4>How might we improve the operational efficiency of the medicine supply processes within the hospital for inpatients?</b>
+        <li><b><h4>National University Health System (NUHS)</h4>How might we improve the operational efficiency of the medicine supply processes within the hospital for inpatients?</b>
 <h5>What We Are Looking For</h5>
 If a particular medicine prescribed for a patient is not available at the ward, the hospital pharmacy will dispatch a porter to deliver the medicine to that ward.  This process is highly dependent on availability of portering staff on duty. <br><br>
 
@@ -117,7 +117,7 @@ The ideal solution eliminates the possibility for human error by removing human 
     <input type="checkbox" id="list-item-6" class="toggle">
     <label for="list-item-6" class="lbl-toggle">Inventory Management</label>
       <ul>
-        <li><b><h4>National University Health System(NUHS)</h4>How might we improve inventory management within hospital ward clean utility rooms?</b>
+        <li><b><h4>National University Health System (NUHS)</h4>How might we improve inventory management within hospital ward clean utility rooms?</b>
 <h5>What We Are Looking For</h5>
 Inventory management is a key component in day-to-day hospital inpatient operations.  There is a myriad of supply categories found in each ward’s clean utility rooms, such as consumables like diapers; linen; specialised consumables required for intravenous (IV) infusions like needles and IV plugs; and blood-taking and pharmacy-related products like medications, infusion bags, and milk feeds.  <br><br>
 
@@ -175,7 +175,7 @@ We are looking for a solution that can detect seniors attempting to leave the pr
     <input type="checkbox" id="list-item-9" class="toggle">
     <label for="list-item-9" class="lbl-toggle">Patient Engagement & Experience</label>
       <ul>
-        <li><b><h4>Health Management International(HMI)</h4>How might we provide a personalised and seamless experience throughout the patient journey, to increase customer satisfaction and loyalty? </b>
+        <li><b><h4>Health Management International (HMI)</h4>How might we provide a personalised and seamless experience throughout the patient journey, to increase customer satisfaction and loyalty? </b>
 <h5>What We Are Looking For</h5>
 With growing competition and increased use of Digital Health, delivering a seamless online-offline patient experience is key for hospitals to improve customer satisfaction and deliver care to a larger audience – ultimately driving patient loyalty.<br><br>
 
