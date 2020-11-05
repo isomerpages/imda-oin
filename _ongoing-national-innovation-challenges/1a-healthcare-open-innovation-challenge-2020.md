@@ -34,14 +34,7 @@ If you have an innovative technological solution that improves the processes wit
       <ul>
         <li><b><h4>St Luke’s Eldercare, National Healthcare Group(NHG)</h4>How might we improve medication compliance among senior patients at home and at Senior Care Centres?</b>
 <h5>What We Are Looking For</h5>
-Poor adherence to treatment regimens has long been recognised as a substantial roadblock to achieving better outcomes for patients.  As many as half of all patients do not adhere faithfully to their prescription medication regimens.  This affects the ability of clinicians to provide accurate follow-up recommendations.  Clinicians might increase the prescribed dose if they are led to believe that the treatment is ineffective thus far, when in fact the patient is not following the medication regimen.<br><br>
-
-This non-compliance issue is prevalent amongst senior patients due to a myriad of reasons:<br><br>
-
-●	Behavioural factors — The senior skips doses because he/she is avoiding certain medications due to its side effects, or does not understand the effectiveness of medicines at specific timings or after meals<br>
-●	Personal reasons — The senior (or the caregiver) forgets the details of the medication regimen (time or dosage) or misses a dose because of everyday activities.<br><br>
-
-Those seniors attending Senior Care Centres (SCCs), such as the 23 operated by St Luke’s Eldercare, are assisted with their medication compliance by the SCC staff.  Medications are packed and handed to the staff by the senior or his/her caregiver. The seniors are then given their medications at their respective designated times. Therefore, knowledge of the individual medication regimen and the receipt of the right medications and dosage (already packed for each senior) are important.  The SCC staff could potentially verify that the medication has been taken.  
+We are looking for a holistic solution that addresses the entire medication compliance process and its stakeholders. Unlike many commercially available devices, like smart pillboxes, the solution should factor in consumer (seniors) insights and behaviour, not just the use of technology.The solution could be introduced during an inpatient stay, when the patient and/or caregiver is taught medication self-administration, which could lead to improved adherence after discharge. Ideally, it should enable the traceability of medication and close the loop such that the clinicians are assured that the medication is taken correctly.
 <br><br>
 <a href="https://www.openinnovationnetwork.sg?utm_source=openinnovationnetwork.sg&utm_medium=referral" target="_blank" >Apply Here</a>
         </li>
