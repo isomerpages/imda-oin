@@ -17,13 +17,8 @@ second_nav_title: Ongoing National Innovation Challenges
 <font color=" #a9a9a9"><b>Enterprise Singapore(ESG), Ministry of Health(MOH), National Health Innovation Centre(NHIC)</b></font>
 
 COVID-19 tested healthcare systems around the world and highlighted the need for healthcare to be more resilient in the face of adversity. In the post-covid new normal, efforts to revolutionize healthcare has revealed boundless opportunities for innovations to enable this transformation.<br><br>
- 
 Enterprise Singapore, in partnership with five of Singapore’s leading healthcare providers, brings you the Healthcare Open Innovation Challenge. The Challenge leverages Singapore’s leading healthcare system, providing a unique opportunity for enterprises to engage with clinicians and healthcare providers throughout development.<br><br>
- 
 If you have an innovative technological solution that improves the processes within healthcare delivery, enhance patient management and engagement, and form a complete seamless care continuum, this is for you. Successful participants stand to receive grant funding and the chance to co-develop, testbed and deploy your solutions with our healthcare providers.
-
-
-
 <div id="wrapper">
     <h4> Challenge Statement(s)</h4>
 <ul>
