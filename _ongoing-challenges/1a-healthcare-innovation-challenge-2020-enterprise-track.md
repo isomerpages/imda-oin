@@ -2,7 +2,6 @@
 layout: leftnav-page-content
 title: Healthcare Open Innovation Challenge 2020
 permalink: /healthcare-innovation-challenge-2020-enterprise-track/
-breadcrumb: Healthcare Open Innovation Challenge 2020
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
