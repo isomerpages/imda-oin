@@ -15,9 +15,9 @@ second_nav_title: Ongoing Challenges
 
 EMA invites submission of proposals for R&D projects that contribute towards the ambitious goal of “Improving energy efficiency by 50% from 2020 levels by 2030, to enhance competitiveness of Singapore’s businesses”.
 
-In the spirit of co-creating innovative ideas, companies are encouraged to collaborate with the research community and put up joint proposals. Proposals may include, but not be limited to, the following areas: 
-(i) development of energy-efficient technologies; 
-(ii) optimisation of system design; and 
+In the spirit of co-creating innovative ideas, companies are encouraged to collaborate with the research community and put up joint proposals. Proposals may include, but not be limited to, the following areas: <br>
+(i) development of energy-efficient technologies; <br>
+(ii) optimisation of system design; and <br>
 (iii) development of innovative digitalisation initiatives.
 
 Interested parties may propose other focus areas that meet the challenge’s objectives.
