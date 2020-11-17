@@ -7,11 +7,11 @@ collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
 #### Singapore Energy Grand Challenge (Industry and Research Community)
-<font color="#a9a9a9"><b>Challenge Owner(s): </b>Energy Market Authority</font>
+<font color="#a9a9a9"><b>Challenge Owner(s): </b>Energy Market Authority(EMA)</font>
 [![1](/images/ema-singapore-energy-grand-challenge.jpg)](https://ema.gov.sg/industry-segc.aspx?utm_source=openinnovationnetwork.sg&utm_medium=referral)
 
 **Application Open Dates: 8 September 2020 to 1 December 2020**<br>
-<font color=" #a9a9a9"><b>Energy Market Authority</b></font>
+<font color=" #a9a9a9"><b>Energy Market Authority(EMA)</b></font>
 
 EMA invites submission of proposals for R&D projects that contribute towards the ambitious goal of “Improving energy efficiency by 50% from 2020 levels by 2030, to enhance competitiveness of Singapore’s businesses”.
 
